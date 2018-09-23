@@ -1,0 +1,64 @@
+---
+title: Конфиденциальность, безопасность и прозрачность
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- office-365-privacy-security-transparency
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_ServiceDesc
+ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
+description: В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье Центр управления безопасностью (Майкрософт).
+ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24036786"
+---
+# <a name="privacy-security-and-transparency"></a><span data-ttu-id="1d7b5-104">Конфиденциальность, безопасность и прозрачность</span><span class="sxs-lookup"><span data-stu-id="1d7b5-104">Privacy, Security, and Transparency</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="1d7b5-p102">Сведения, приведенные в этой статье, применимы к международным версиям Office 365. Если вы используете облачный экземпляр для определенной страны или региона Office 365, в частности Office 365 для государственных организаций США, Office 365 Germany и службу Office 365, предоставляемую 21Vianet, см. статью о [национальных облачных службах Майкрософт](https://go.microsoft.com/fwlink/?linkid=841582).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p102">The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span></span> 
+  
+<span data-ttu-id="1d7b5-p103">В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье [Центр управления безопасностью (Майкрософт)](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p103">Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).</span></span>
+  
+## <a name="privacy"></a><span data-ttu-id="1d7b5-109">Конфиденциальность</span><span class="sxs-lookup"><span data-stu-id="1d7b5-109">Privacy</span></span>
+
+<span data-ttu-id="1d7b5-110">Чтобы узнать, как Microsoft Office 365: защищает конфиденциальность ваших данных, см. статью [Конфиденциальность](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-110">To learn about how Microsoft Office 365 protects the privacy of your data, see [Privacy](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409).</span></span> 
+  
+<span data-ttu-id="1d7b5-111">Инструкции по настройке параметров конфиденциальности для администраторов Office 365: корпоративный, Office 365 бизнес, Office 365 для образовательных учреждений и Office 365 для государственных учреждений: [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-111">For specific steps Enterprise, Business, Government, and Education admins can take to configure Office 365 privacy settings, see [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202).</span></span>
+  
+<span data-ttu-id="1d7b5-112">Сведения о безопасности и конфиденциальности в других службах Microsoft, в том числе Office 365 профессиональный плюс, см. в статье [На какие веб-службы распространяется действие центра управления безопасностью?](https://go.microsoft.com/fwlink/p/?LinkID=281962)</span><span class="sxs-lookup"><span data-stu-id="1d7b5-112">For information about security and privacy for other Microsoft services, including Office 365 ProPlus, see [To which online services does the Trust Center apply?](https://go.microsoft.com/fwlink/p/?LinkID=281962)</span></span>
+  
+## <a name="security"></a><span data-ttu-id="1d7b5-113">Безопасность</span><span class="sxs-lookup"><span data-stu-id="1d7b5-113">Security</span></span>
+
+<span data-ttu-id="1d7b5-114">Чтобы узнать, как Майкрософт обеспечивает безопасность и надежность служб Office 365:, см. статью [Безопасность](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-114">To learn how Microsoft delivers Office 365 services securely and reliably, see [Security](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).</span></span>
+  
+## <a name="transparency"></a><span data-ttu-id="1d7b5-115">Прозрачность</span><span class="sxs-lookup"><span data-stu-id="1d7b5-115">Transparency</span></span>
+
+<span data-ttu-id="1d7b5-p104">Как пользователь Office 365:, вы можете узнать, где хранятся ваши данные, кто в Майкрософт имеет к ним доступ и какой внутренней обработке они подвергаются. Дополнительные сведения см. в статье [Прозрачность](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p104">As an Office 365 customer, you can find out where your data resides, who at Microsoft can access it, and what we do with that information internally. For more information, see [Transparency](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).</span></span>
+  
+## <a name="office-365-advanced-ediscovery"></a><span data-ttu-id="1d7b5-118">Office 365 Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="1d7b5-118">Office 365 Advanced eDiscovery</span></span>
+
+<span data-ttu-id="1d7b5-p105">Обнаружение электронных данных  это процесс определения и предоставления электронной информации, которая может использоваться в качестве доказательств в судебных разбирательствах. Office 365 Advanced eDiscovery строится на существующем наборе возможностей обнаружения электронных данных в Office 365, позволяющих анализировать крупные, неструктурированные наборы данных и уменьшить размер данных, соответствующих судебному разбирательству. Вы можете использовать функцию поиска в Центре соответствия требованиям Office 365, чтобы выполнить начальный поиск всех источников содержимого в вашей организации и собрать данные, которые могут соответствовать отдельному судебному разбирательству. Затем вы можете проанализировать данные, применив текстовую аналитику, машинное обучение и возможности релевантного и прогнозирующего кодирования, доступных в Advanced eDiscovery. Подробную информацию см. в статье [Office 365 Advanced eDiscovery](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p105">Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases. Office 365 Advanced eDiscovery builds on the existing set of eDiscovery capabilities in Office 365, allowing you to analyze large, unstructured data sets and reduce the amount of data that's relevant to a legal case. You can use the Search feature in the Office 365 Compliance Center to perform an initial search of all the content sources in your organization to identify and collect the data that might be relevant to a specific legal case. You can then analyze that data by applying the text analytics, machine learning, and relevance/predictive coding capabilities of Advanced eDiscovery. For more information, see [Office 365 Advanced eDiscovery](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).</span></span>
+  
+## <a name="customer-lockbox"></a><span data-ttu-id="1d7b5-124">Защищенное хранилище</span><span class="sxs-lookup"><span data-stu-id="1d7b5-124">Customer Lockbox</span></span>
+
+<span data-ttu-id="1d7b5-p106">Как администратор Office 365, вы можете использовать защищенное хранилище пользователя, чтобы управлять степенью доступа ваших данных для сотрудника службы поддержки во время оказания помощи. В случаях, если сотрудник службы поддержки обратится к вашим данным, чтобы устранить неполадки, защищенное хранилище позволит вам одобрить или отклонить его запрос на доступ. При одобрении запроса, сотрудник получит доступ к этим данным. Каждый запрос имеет срок действия, и как только проблема будет решена, запрос будет закрыт, а право доступа  аннулировано.</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p106">As an Office 365 admin, you can use Customer Lockbox to control how a Microsoft support engineer accesses your data during a help session. In cases where the engineer requires access to your data to troubleshoot and fix an issue, Customer Lockbox allows you to approve or reject the access request. If you approve it, the engineer is able to access the data. Each request has an expiration time, and once the issue is resolved, the request is closed and access is revoked.</span></span>
+  
+<span data-ttu-id="1d7b5-p107">Защищенное хранилище включено в план Office 365 корпоративный 5, для любого другого плана Office 365 корпоративный данную подписку можно приобрести отдельно. Подробную информацию см. в статье [Запросы защищенного хранилища Office 365](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p107">Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).</span></span>
+  
+## <a name="advanced-threat-protection"></a><span data-ttu-id="1d7b5-131">Расширенная защита от угроз</span><span class="sxs-lookup"><span data-stu-id="1d7b5-131">Advanced Threat Protection</span></span>
+
+<span data-ttu-id="1d7b5-p108">Расширенная защита от угроз для Exchange Online  это облачная служба фильтрации электронной почты, которая помогает защитить вашу организацию от вредоносных программ и вирусов. Расширенная защита от угроз включает компоненты "Безопасные ссылки" и "Безопасные вложения". Компонент "Безопасные ссылки" обеспечивает упреждающую защиту пользователей от вредоносных гиперссылок в сообщении, проверяя ссылки при каждом переходе по ним. Компонент "Безопасные вложения" защищает от неизвестных вредоносных программ и вирусов, направляя все сообщения и приложения, которые не имеют известных сигнатур вирусов или вредоносных программ, в специальную среду, где служба расширенной защиты от угроз сможет определить их злонамеренность. Подробную информацию о службе расширенной защиты от угроз см. в статье [Описание службы расширенной защиты от угроз для Exchange Online](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-p108">Exchange Online Advanced Threat Protection is a cloud-based email filtering service that helps protect your organization against malware and viruses. ATP includes the Safe Links and Safe Attachments features. Safe Links proactively protects your users from malicious hyperlinks in a message, providing protection every time the link is clicked. Safe Attachments protects against unknown malware and viruses, routing all messages and attachments that don't have a known virus/malware signature to a special environment where ATP can detect malicious intent. For more information about ATP, see [Exchange Online Advanced Threat Protection Service Description](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).</span></span>
+  
+## <a name="feature-availability"></a><span data-ttu-id="1d7b5-137">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="1d7b5-137">Feature availability</span></span>
+
+<span data-ttu-id="1d7b5-138">Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="1d7b5-138">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+  
+
