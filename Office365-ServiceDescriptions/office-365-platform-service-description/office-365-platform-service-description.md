@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 будет доступна в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия между планы Office 365, включая Exchange Online планы в этой статье мы покажем компонентов, которые включены в каждом из них.
-ms.openlocfilehash: afde2b08f7df511b961e607ce2727f74e30697f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036755"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362864"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -105,7 +105,7 @@ Microsoft Office 365: предоставляет мощность облачно
 |Планировщик Microsoft  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Stream  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>8</sup> <br/> |Да,<sup>8</sup> <br/> |Да,<sup>8</sup> <br/> |Да,<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>12</sup> <br/> |
 |Office Delve  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |

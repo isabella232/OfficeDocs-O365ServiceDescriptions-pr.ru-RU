@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее — Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office Online позволяет облегчить для работы и совместного использования файлов Office в любом месте с подключением к Интернету, практически любого устройства. Клиенты Microsoft Office 365 в Word, Excel, OneNote и PowerPoint можно просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036886"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362874"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -123,7 +123,7 @@ Office Online (ранее — Office Web Apps) открывает докумен
 |[Расширенный фильтр времени (срез временной шкалы)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Нет  <br/> |Да  <br/> |
 |[Выравнивание](excel-online.md#alignment) <br/> |Да  <br/> |Да  <br/> |
 |[Применение условного форматирования](excel-online.md#apply-conditional-formatting) <br/> |Нет  <br/> |Да  <br/> |
-|[Применение проверки данных к ячейкам](excel-online.md#apply-data-validation-to-cells) <br/> |Нет  <br/> |Да  <br/> |
+|[Применение проверки данных к ячейкам](excel-online.md#apply-data-validation-to-cells) <br/> |Да  <br/> |Да  <br/> |
 |[Применение интеллектуального или рекомендованного форматирования](excel-online.md#apply-smartrecommended-formatting) <br/> |Нет  <br/> |Да  <br/> |
 |[Запись звуковых заметок](onenote-online.md#audio-notes-recording) <br/> |Нет  <br/> |Да  <br/> |
 |[Автозаполнение](excel-online.md#autocomplete) <br/> |Да  <br/> |Да  <br/> |
