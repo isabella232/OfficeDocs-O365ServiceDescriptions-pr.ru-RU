@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее — Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office Online позволяет облегчить для работы и совместного использования файлов Office в любом месте с подключением к Интернету, практически любого устройства. Клиенты Microsoft Office 365 в Word, Excel, OneNote и PowerPoint можно просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362874"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435827"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -119,24 +119,22 @@ Office Online (ранее — Office Web Apps) открывает докумен
 ||||
 |:-----|:-----|:-----|
 |**Возможности приложений** <br/> |**Excel Online** <br/> |**Классического приложения Excel** <br/> |
+|[Проверка читаемости](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление гиперссылок](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Расширенный фильтр времени (срез временной шкалы)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Нет  <br/> |Да  <br/> |
 |[Выравнивание](excel-online.md#alignment) <br/> |Да  <br/> |Да  <br/> |
-|[Применение условного форматирования](excel-online.md#apply-conditional-formatting) <br/> |Нет  <br/> |Да  <br/> |
-|[Применение проверки данных к ячейкам](excel-online.md#apply-data-validation-to-cells) <br/> |Да  <br/> |Да  <br/> |
+|[Применение условного форматирования](excel-online.md#apply-conditional-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Применение интеллектуального или рекомендованного форматирования](excel-online.md#apply-smartrecommended-formatting) <br/> |Нет  <br/> |Да  <br/> |
 |[Запись звуковых заметок](onenote-online.md#audio-notes-recording) <br/> |Нет  <br/> |Да  <br/> |
 |[Автозаполнение](excel-online.md#autocomplete) <br/> |Да  <br/> |Да  <br/> |
 |[Автосумма](excel-online.md#autosum) <br/> |Да  <br/> |Да  <br/> |
 |[Вычисления](excel-online.md#calculations) <br/> |Да  <br/> |Да  <br/> |
-|[Диаграммы и таблицы, в том числе отчеты сводных диаграмм и сводных таблиц](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Да,<sup>1, 2</sup> <br/> |Да  <br/> |
-|[Адаптирование анимации диаграмм к новым данным](excel-online.md#chart-animations-adapt-to-new-data) <br/> |Нет  <br/> |Да  <br/> |
 |[Создание комментария](excel-online.md#comment-creation) <br/> |Да  <br/> |Да  <br/> |
 |[Копирование и вставка](excel-online.md#copy-and-paste) <br/> |Да  <br/> |Да  <br/> |
-|[Создание подключений к внешним данным](excel-online.md#create-external-data-connections) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |
+|[Создание подключения к внешним данным<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |
 |[Создание таблиц](excel-online.md#create-tables) <br/> |Да  <br/> |Да  <br/> |
 |[Создание расширенных аналитических отчетов (Power View, Power Pivot, срезы)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Нет  <br/> |Да  <br/> |
-|[Проверка данных](excel-online.md#data-validation) <br/> |Да,<sup>4</sup> <br/> |Да  <br/> |
+|[Проверка данных](excel-online.md#data-validation) <br/> |Да <br/> |Да  <br/> |
 |[Перетаскивание ячеек](excel-online.md#drag-and-drop-cells) <br/> |Да  <br/> |Да  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Да  <br/> |Да  <br/> |
 |[Внедрение книги на веб-сайте или странице блога (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Да  <br/> |Нет  <br/> |
@@ -146,17 +144,20 @@ Office Online (ранее — Office Web Apps) открывает докумен
 |[Форматирование шрифта и ячеек](excel-online.md#font-and-cell-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Строка формул](excel-online.md#formula-bar) <br/> |Да  <br/> |Да  <br/> |
 |[Расширенные инструменты формул](excel-online.md#formula-tools--advanced) <br/> |Нет  <br/> |Да  <br/> |
-|[Закрепление областей](excel-online.md#freeze-panes) <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |
+|[Закрепление областей](excel-online.md#freeze-panes) <br/> |Да <br/> |Да  <br/> |
 |[Режим чтения с высокой четкостью](excel-online.md#full-fidelity-reading-view) <br/> |Да  <br/> |Да  <br/> |
 |[Функции](excel-online.md#functions) <br/> |Да  <br/> |Да  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Да  <br/> |Да  <br/> |
 |[Скрытие и показ строк, столбцов и листов](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Да  <br/> |Да  <br/> |
+|[Вставка фигуры и рисунки.](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление диаграмм](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка/удаление строк и столбцов](excel-online.md#insertdelete-rows-and-columns) <br/> |Да  <br/> |Да  <br/> |
 |[Объединение ячеек](excel-online.md#merge-cells) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование чисел](excel-online.md#number-formatting) <br/> |Да  <br/> |Да  <br/> |
-|[Надстройки Office](excel-online.md#office-add-ins) <br/> |Да,<sup>7</sup> <br/> |Да  <br/> |
+|[Надстройки Office](excel-online.md#office-add-ins) <br/> |Да <br/> |Да  <br/> |
 |[Просмотр и редактирование в автономном режиме](excel-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |Да  <br/> |
+|[Сводные диаграммы](excel-online.md#post-to-social-network-and-present-online) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
+|[Сводные таблицы](excel-online.md#post-to-social-network-and-present-online) <br/> |Да  <br/> |Да  <br/> |
 |[Опубликовать в социальной сети и показать через Интернет](excel-online.md#post-to-social-network-and-present-online) <br/> |Нет  <br/> |Да  <br/> |
 |[Просмотр Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр Power View](excel-online.md#power-view-viewing) <br/> |Да  <br/> |Да  <br/> |
@@ -176,14 +177,15 @@ Office Online (ранее — Office Web Apps) открывает докумен
 |[Аудит и соответствие электронных таблиц](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Нет  <br/> |Да  <br/> |
 |[Статистические выражения на панели состояния](excel-online.md#status-bar-aggregates) <br/> |Да  <br/> |Да  <br/> |
 |[Опросы](excel-online.md#surveys) <br/> |Да  <br/> |Нет  <br/> |
-|[Подробнее](excel-online.md#tell-me) <br/> |Да  <br/> |Нет  <br/> |
+|[Подробнее](excel-online.md#tell-me) <br/> |Да  <br/> |Да  <br/> |
 |[Отмена и повтор](excel-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
-|[VBA и сценарии макросов](excel-online.md#vba-and-macro-scripting) <br/> |Да  <br/> |Да  <br/> |
+|[VBA и сценарии макросов](excel-online.md#vba-and-macro-scripting) <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
 |[Просмотр объемных диаграмм](excel-online.md#view-3d-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Средства анализа "что если"](excel-online.md#what-if-analysis-tools) <br/> |Нет  <br/> |Да  <br/> |
 
-> <sup>1</sup> не удается создать сводные диаграммы и сводные таблицы, но они отобразятся в средстве просмотра. 
- <br/><sup>2</sup> в большинстве случаев диаграмм, таблиц, отчеты сводной диаграммы и отчеты сводных таблиц отображаются как если бы в версии. Исключения включают диаграммы, которые входят в состав группы диаграмм, диаграмм, зависящие от внешних ссылок и диаграммы, использующие источников данных, которые не поддерживаются для просмотра в браузере книги. <br/><sup>3</sup> в зависимости от того, как ваша среда настроена, некоторые виды подключений к данным, поддерживаются для книг, отображаемые в Excel Online. Для получения дополнительных сведений см. [обновление данных в книге в окне браузера](https://go.microsoft.com/fwlink/?linkid=847468). <br/><sup>4</sup> книги, использующие проверку данных можно редактировать в Excel Online, но проверка данных не может быть настроено в Excel Online. 
+> <sup>1</sup> нельзя создавать сводные диаграммы, только просмотр.
+ <br/><sup>2</sup> в зависимости от того, как ваша среда настроена, некоторые виды подключений к данным, поддерживаются для книг, отображаемые в Excel Online. Для получения дополнительных сведений см. обновление данных в книге в окне браузера. <br/><sup>3</sup> с помощью VBA в Excel Online нельзя создавать макросы, но можно открывать и редактировать электронные таблицы VBA без удаления (и не повреждая код) VBA, содержащийся в файле.
+ <br/><sup>4</sup> книги, использующие проверку данных можно редактировать в Excel Online, но проверка данных не может быть настроено в Excel Online. 
  <br/><sup>5</sup> в Excel Online, последнее значение известные ссылка отображается в окне браузера; Тем не менее необходимо обновить, с помощью Excel рабочего стола. 
  <br/><sup>6</sup> , можно просмотреть закрепление областей, созданных с помощью классического приложения Excel, но не можете создавать такие области в Excel Online. 
  <br/><sup>7</sup> некоторых, но не для всех надстроек Office доступны. 
