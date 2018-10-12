@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Вы ищете сравнение компонентов подписки Office 365, включая Exchange Online? Если Да, Exchange Online статью описание службы вам нужен. Кроме того, вы узнаете о требованиях к системе, а также требования к объему хранилища и получателя.
-ms.openlocfilehash: cf3d329ffa05998113e8e2c075cbc236b99fb413
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
+ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036907"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498055"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -158,7 +158,7 @@ Microsoft Exchange Online  это размещенное решение для
 |**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Сведения о присутствии из Skype для бизнеса в Outlook Web App и Outlook  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Взаимодействие с SharePoint  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка связи с EWS  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Поддержка связи с EWS  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Поддержка ретрансляции SMTP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Доступ к порталу Microsoft Office 365  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
