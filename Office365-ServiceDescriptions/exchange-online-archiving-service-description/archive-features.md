@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: В следующих разделах функции архивов архивации Microsoft Exchange Online.
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036794"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215354"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Функции архивирования в архивации на базе Exchange Online
 
@@ -37,7 +37,7 @@ ms.locfileid: "24036794"
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Перемещение сообщений для архивации на базе Exchange Online
 
-Пользователи могут перетаскивать сообщения из PST-файлов в архив, чтобы они всегда были под рукой. Они также могут автоматически перемещать письма из основного почтового ящика в архивный с помощью политик архивации, что уменьшает его размер и повышает производительность. Такой сценарий отличается от использования службы Exchange Hosted Archive, которая создает копию каждого сообщения в архиве, но оба позволяют соблюдать требования по хранению. Подробнее о дополнительных методах перемещения сообщений в архив можно узнать из статьи [Архивные почтовые ящики в Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).
+Пользователи могут перетаскивание сообщений из PST-файлов в архив для удобства online. Пользователи могут также переместить элементов электронной почты из основного почтового ящика в архивный почтовый ящик автоматически, с помощью политики архива, чтобы уменьшить размер и повышения производительности основного почтового ящика. Хотя это поведение отличается от Exchange Hosted Archive, которая создаст дополнительного копии всех сообщений в архиве, требования к хранения может быть достигнут в любом случае. 
   
 ### <a name="import-data-to-the-archive"></a>Импорт данных в архив
 

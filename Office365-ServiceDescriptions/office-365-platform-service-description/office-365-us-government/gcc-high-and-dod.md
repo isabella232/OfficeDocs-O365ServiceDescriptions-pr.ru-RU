@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Среды GCC High и DoD соответствуют уникальным и постоянно меняющимся требованиям Министерства обороны США, а также подрядчиков, которые хранят или обрабатывают контролируемую открытую информацию министерства обороны или подпадают под действие правил международной торговли оружием (ITAR). Корпорация Майкрософт предоставляет эти среды по программе корпоративного лицензирования. Перед созданием среды заинтересованные организации проходят проверку на соответствие требованиям. В настоящее время ознакомительные версии недоступны. '
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719073"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215374"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High и DoD
 
@@ -104,6 +104,6 @@ GCC High и DoD соответствуют требованиям следующ
   
 ### <a name="yammer"></a>Yammer
 
-Служба Yammer недоступна в средах GCC High и DoD.
+Yammer Enterprise не доступны в средах GCC высокой и министерства обороны США.
   
 
