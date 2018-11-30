@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Безопасность Office 365 &amp; центре соответствия требованиям призвана помочь вам управлять функции контроля соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции контроля соответствия требованиям SharePoint и Exchange свести вместе обеспечения соответствия требованиям в Office 365.
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036833"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988560"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Центр безопасности и соответствия требованиям Office 365
 
@@ -61,7 +61,7 @@ ms.locfileid: "24036833"
 |[Расширенные возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=846673), такие как использование защищенного хранилища и обозревателя угроз на случай фишинговых кампаний  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Управление данными](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
