@@ -3,7 +3,7 @@ title: Описание службы Office 365 Advanced Threat Protection
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 расширенного угроз защиты анализа — это облачная службу фильтрации электронной почты, которая помогает защитить организацию от неизвестного вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня и включает в себя компоненты по защите вашей организации от вредоносных ссылки в режиме реального времени. Пакет анализа содержит подробную отчетность и возможностей трассировки URL-адрес, которых администраторы могут понять виды атак, что происходит в вашей организации.
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036796"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784871"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Описание службы Office 365 Advanced Threat Protection
 
 Microsoft Office 365 расширенного угроз защиты анализа — это облачная службу фильтрации электронной почты, которая помогает защитить организацию от неизвестного вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня и включает в себя компоненты по защите вашей организации от вредоносных ссылки в режиме реального времени. Пакет анализа содержит подробную отчетность и возможностей трассировки URL-адрес, которых администраторы могут понять виды атак, что происходит в вашей организации.
   
-Ниже приведены основные способы, с помощью которых можно использовать ATP для защиты сообщений.
+Ниже приведены основные способы анализа можно использовать для защиты сообщений.
   
 - В сценарии, предназначенном только для фильтра Office 365 ATP, ATP предоставляет облачную защиту электронной почты для вашей локальной среды Exchange Server 2013, устаревших версий Exchange Server или другого локального решения для почты SMTP.
     
-- Office 365 ATP можно включить для защиты почтовых ящиков Exchange Online, размещенных в облаке. Дополнительные сведения об Exchange Online см. в статье [Описание службы Exchange Online](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx).
+- Office 365 ATP можно включить для защиты почтовых ящиков Exchange Online, размещенных в облаке. Дополнительные сведения об Exchange Online см. в статье [Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
     
 - Для защиты среды обмена сообщениями и управления маршрутизацией почты в гибридном развертывании можно настроить Advanced Threat Protection, если есть локальные и облачные почтовые ящики, а также используется Exchange Online Protection для фильтрации входящих писем.
     
@@ -53,7 +53,7 @@ ATP включен в Office 365 корпоративный E5, Office 365 Educa
     
 - Office 365 бизнес премиум
     
-- Office 365 для предприятий E1
+- Office 365 корпоративный E1
     
 - Office 365 для предприятий E3
     
@@ -69,7 +69,7 @@ ATP включен в Office 365 корпоративный E5, Office 365 Educa
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Новые возможности Office 365 Advanced Threat Protection (ATP)
 
-Сведения о новых функциях в ATP см. в статье [Безопасные ссылки ATP в Office 365](https://go.microsoft.com/fwlink/?linkid=846016).
+Сведения о новых возможностях в ATP [новых функций анализа](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp)см.
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Требования для Office 365 Advanced Threat Protection (ATP)
 
