@@ -8,15 +8,16 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: В приведенных ниже таблицах перечислены изменения, недавно внесенные в описание служб.
-ms.openlocfilehash: 54ac1db0668bc46188991784532c657ce9677ed5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4ed2c1c4f82729cc20be7a85eca4e1adb09662fd
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036728"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728683"
 ---
 # <a name="recent-service-descriptions-changes"></a>Недавние изменения в описании службы
 
@@ -78,7 +79,7 @@ ms.locfileid: "24036728"
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновление сертификатов страницы [соответствия требованиям [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) .  <br/> |
 ||[Центр безопасности и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Обновление политики хранения вручную для Office 365 для предприятия 1 плана.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Несколько обновлений и реструктуризации.  <br/> |
-||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлен доступности голосовой почты и интеграции голосовой почты.  <br/> |
+||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлен доступности голосовой почты и интеграции голосовой почты.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Уточнено доступности группы для планов Exchange Online.  <br/> |
 |Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Обновленные телефонной системой и конференц-связи уровня доступности для клиентов Office 365 бизнеса расширенный.  <br/> |
    
@@ -110,8 +111,8 @@ ms.locfileid: "24036728"
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлено пояснение, что пользователей Office 365 корпоративный F1 Microsoft потока можно просматривать видео, но не удается опубликовать или совместно использовать их.  <br/> |
 ||[Центр безопасности и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Проверка добавлены ликвидации для управления дополнительных данных.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Уточнено доступности Yammer и Office 365 профессиональный плюс.  <br/> |
-||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлены доступности защиту от потери данных.  <br/> |
-||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлен доступности IRM с помощью службы управления правами.  <br/> |
+||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлены доступности защиту от потери данных.  <br/> |
+||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлен доступности IRM с помощью службы управления правами.  <br/> |
 ||[Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md) <br/> |Добавлена страница для нового предложения.  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Удалены ссылки на удаленные BlackBerry Business Cloud Services (BBCS).  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Добавлены доступность ключа клиента для Office 365 корпоративный E5.  <br/> |
