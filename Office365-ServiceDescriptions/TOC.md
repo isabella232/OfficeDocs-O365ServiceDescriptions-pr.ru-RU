@@ -1,14 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728673"
----
-
-  
-
 # [Описание служб Office 365](office-365-service-descriptions-technet-library.md)
 ## [Описание служб Microsoft 365 бизнес](microsoft-365-business-service-description.md)
 ## [Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
