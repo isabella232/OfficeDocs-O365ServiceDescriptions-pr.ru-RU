@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Служба Office 365, предоставляемая 21Vianet, удовлетворяет потребность в надежных, безопасных и масштабируемых облачных службах в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362954"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506693"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -228,7 +228,7 @@ ms.locfileid: "25362954"
 |[Office для Mac в Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Office Mobile для Android] <sup>15</sup> (.. аудио- и office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Outlook для Android  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
@@ -269,6 +269,7 @@ ms.locfileid: "25362954"
 <br/><sup>3</sup> при наличии Office профессиональный плюс 2013 или автономная версия Excel 2013 можно загрузить и использовать [Просмотр Power Map для Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) качестве неподдерживаемой надстройки. 
  <br/><sup>4</sup> Скайп для бизнеса базовой доступен для всех клиентов. Скайп для настольных компьютеров клиента Business является приложений, установленных локально, который предоставляет сведения о присутствии, обмен мгновенными сообщениями и функций конференц-связи для планов Office 365, включая Скайп для бизнеса в Интернет. Office 365 профессиональный плюс и Office 365 для предприятий E3 включать полное приложение Скайп, который включает в себя дополнительные функции, включая расширенные поддержки, архивирование и соответствие требованиям функции телефонии. Скайп для бизнеса в Интернет лицензии необходимо назначить для каждого пользователя. Дополнительные сведения о функции Lync Basic видеть [Скайп для таблицы сравнения клиентов Online бизнеса](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>5</sup> некоторые школ могут быть использованы для образовательных заведений плюс, который включает в себя Office 365 профессиональный плюс и позволяет студентов, преподавателей и персонала для установки последней версии Office на компьютеры до пяти ПК или Mac и других мобильных устройств, включая планшетах под управлением Windows и iPad. Школы оплачиваются Office 365 обучения, а также когда они лицензии Office ее глобальных для преподавателей и персонала по регистрации для решения для образовательных учреждений, открытых решений Education подписки значение или контракт school. Обратите внимание на то, что доступа и Publisher доступны на ПК только. Доступно в виде отдельной загрузки из хранилища Mac приложения OneNote для Mac.<br/><sup>6</sup> Вы можете установить набор Office 2011 для Mac, но вам не удастся активировать его. 
 <br/><sup>7</sup> office 365 ProPlus поддерживается выделенная инфраструктуры виртуальных рабочих столов (VDI). Office 365 ProPlus поддерживает только удаленных служб удаленных рабочих СТОЛОВ приобретены по программе корпоративного лицензирования.<br/><sup>8</sup> многопользовательской активации для Office 365 для предприятий E3 и Office 365 профессиональный плюс, ограниченный к установкам на Windows Server 2008 R2 и более поздней версии с поддержкой служб удаленных рабочих СТОЛОВ роли или установок Windows перейдите. В любом случае пользователи, обращающиеся к этих установок должны быть лицензированным пользователям Office 365 для предприятий E3 или Office 365 ProPlus.<br/><sup>9</sup> доступа в настоящее время недоступен, если вы по каналу текущего или для требуемой версии для канала отложено. Если вы по каналу отложенный Access будут доступны в 2017 июня. Дополнительные сведения см в [Access включены как часть Office 365 для бизнеса и бизнеса расширенный](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/><sup>10</sup> Visio Online — в настоящее время в предварительной версии Office 365 обслуживается 21Vianet. Дополнительные сведения о Visio Online в разделе [Описание Online службы Visio](../visio-online-service-description/visio-online-service-description.md).<br/><sup>11</sup> готовится к выпуску в Office 365 обслуживается 21Vianet. 
+<br/><sup>15</sup> Google службы (воспроизвести хранилища) не доступны в Китае. Существует несколько хранилищ приложения, обслуживаемый производители основных телефон или компании поисковых систем, которые пользователи могут устанавливать мобильных приложений из.
   
 ## <a name="office-online-features"></a>Функции Office Online
 <a name="BM4_OfficeOnline"> </a>
@@ -405,7 +406,7 @@ ms.locfileid: "25362954"
 <br/><sup>2</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить поддерживаемые функции IRM. 
 <br/><sup>3</sup> правила транспорта состоят из гибкие условия, которые позволяют определить условий и исключений и действий, выполняемых на основе по условиям. Доступные условия и действия отличаются в зависимости от Exchange Online и Microsoft Exchange Server 2013. Список доступных условий и действий в разделе соответствующие условия и действия разделы для каждого продукта.<br/><sup>4</sup> Возможность доступна только напрямую через Центр администрирования Exchange (EAC). 
 <br/><sup>5</sup> Exchange Server 2013 использует только модуль защиты от вредоносных программ (Майкрософт). Exchange Online использует несколько подобных модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ.<br/><sup>6</sup> Подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которого требуется функция неактивного почтового ящика. 
-<<br/>SUP > 7</sup> для обнаружения электронных данных, требуется отдельный запрос для локальных и облачных. 
+<<br/>sup>7</sup> для обнаружения электронных данных, требуется отдельный запрос для локальных и облачных. 
 <br/><sup>8</sup> POP поддерживается. IMAP не поддерживается. 
 <br/><sup>9</sup> office 365 Business Essentials и бизнеса расширенный не предоставляют права доступа для использования с локальных серверов. Для соответствия стандартам, клиенту необходимо приобрести или приобрели ранее соответствующих клиентских лицензий или обновления для корпоративного SKU, который предоставляет эти права доступа. ><br/><sup>10</sup> Мастер гибридной конфигурации доступен для локальных развертываний Exchange 2013 с накопительным пакетом 5 и более поздней версии. Однако некоторые гибридные функции ограничены (дополнительные сведения см. в статье о службе Office 365, предоставляемой компанией 21Vianet).<br/><sup>11</sup> В службе Office 365, предоставляемой компанией 21Vianet, сеть LinkedIn доступна, Facebook — нет. > 
 <br/><sup>12</sup> Гибридное развертывание можно настроить с помощью мастера гибридной конфигурации, если у вас Exchange 2013 с накопительным пакетом обновления 5, и вручную, если у вас Exchange 2013 с пакетом обновления 1. Дополнительные сведения см. в статье о службе Office 365, предоставляемой компанией 21Vianet.<br/><sup>13</sup> подключенных учетных записей поддерживаются для POP &amp; учетные записи IMAP, но этот параметр отключен для Outlook.com (Hotmail). 
@@ -595,7 +596,7 @@ ms.locfileid: "25362954"
 |[Поддержка проверки подлинности, основанной на утверждениях](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Мастера настройки <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Откладывание обновления семейства веб-сайтов <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Распределенный кэш <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|Сервер распределенного кэша <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Семейства веб-сайтов заголовка узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -617,7 +618,7 @@ ms.locfileid: "25362954"
 |Раздельное хранение <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Политики соответствия семейств веб-сайтов](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Проверки работоспособности семейства веб-сайтов <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Служба состояний <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|служба состояний; <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Усовершенствованный центр администрирования <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Уведомления о состоянии системы <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Восстановление неприсоединенной базы данных контента <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -1116,8 +1117,8 @@ ms.locfileid: "25362954"
 |[Управление проблемами и рисками (для членов группы)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |[Центр управления безопасностью Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Н/Д  <br/> |Недоступно  <br/> |
 |[Система партнеров PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Надежность обслуживания](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Недоступно  <br/> |Недоступно  <br/> |
-|[Обновления служб](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Недоступно  <br/> |Недоступно  <br/> |
+|[Надежность обслуживания](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Н/Д  <br/> |Недоступно  <br/> |
+|[Обновления служб](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Н/Д  <br/> |Недоступно  <br/> |
 |[Совместная работа членов группы](../project-online-service-description/core-services-functionality.md#team-member-collaboration) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |[Управление временем и задачами (для членов группы)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |**Управление проектами** <br/> |**Project Online базовый для Office 365 под управлением 21Vianet** <br/> |**Project Online профессиональный для Office 365 под управлением 21Vianet** <br/> |**Project Online расширенный для Office 365 под управлением 21Vianet** <br/> |**Project профессиональный 2016 для Office 365 под управлением 21Vianet** <br/> |**Project Server 2016 для Office 365 под управлением 21Vianet** <br/> |
