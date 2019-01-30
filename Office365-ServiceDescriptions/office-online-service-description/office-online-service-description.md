@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее — Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office Online позволяет облегчить для работы и совместного использования файлов Office в любом месте с подключением к Интернету, практически любого устройства. Клиенты Microsoft Office 365 в Word, Excel, OneNote и PowerPoint можно просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435827"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612772"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -32,7 +32,7 @@ Office Online (ранее — Office Web Apps) открывает докумен
 Нужна помощь, чтобы определить, какие наиболее решения Office образом подходит для вашей организации? Следующие таблицы сравнение Office Online возможностей компонента для приложений для настольных систем функций и возможностей Microsoft Office. Используйте таблицу для обнаружения какие функции, доступные в Microsoft Office Online и затем щелкните имя компонента на чтение краткое описание о том, как работает этот компонент. Может оказаться, что некоторые пользователи в вашей организации должны расширенные возможности построения диаграмм классического приложения Excel в то время как другие пользователи необходимо только просматривать и изменять незначительно документов Word и презентаций PowerPoint с Office Online. 
   
 > [!NOTE]
->  Ограниченный выбор компонентов Office было выбрано для представления расширенные возможности рабочего стола набора приложений Office. Таблицы не полный список возможностей Microsoft Office. > Microsoft Office 365 ProPlus — это ежемесячный предложение подписку на классический набор Office последней версии. > Microsoft Office Online Server локальных клиентов получите Office Online редактирования лицензии, если они были приобретены лицензия на комплект Office (например, Office Professional Plus, Office стандартный или Office 365 ProPlus лицензии). 
+>  Ограниченный выбор компонентов Office было выбрано для представления расширенные возможности рабочего стола набора приложений Office. Таблицы не полный список возможностей Microsoft Office. Microsoft Office 365 ProPlus > — это ежемесячный предложение подписку на классический набор Office последней версии. > Microsoft Office Online Server локальных клиентов, которые получают лицензию на узле Office Online редактирование если они приобрели лицензия на комплект Office (например, Office Professional Plus, Office стандартный или Office 365 ProPlus лицензии). 
   
 > [!NOTE]
 > При открытии документа Office как вложения электронной почты Outlook или из библиотеки документов SharePoint, он запускается в Office Online и будет доступен только для чтения. Для редактирования документа в Office Online (режим редактирования) необходима лицензия на набор Office 365, такая как Office 365 корпоративный E1. Для редактирования документа необходима лицензия на классический набор Office, такая как подписная лицензия на Office 365 профессиональный плюс или лицензия на Office 2010 профессиональный плюс. 
@@ -204,6 +204,9 @@ Office Online (ранее — Office Web Apps) открывает докумен
 |[Совместное редактирование](onenote-online.md#co-authoring) <br/> |Да  <br/> |Да  <br/> |
 |[Создание страниц и разделов и управление ими](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Да  <br/> |Да  <br/> |
 |[Загрузка копии встроенных файлов Office](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Да  <br/> |Да,<sup>4</sup> <br/> |
+|[Перетаскивания страниц] <br/> |Да  <br/> |Да <br/> |
+|[Перетаскивание разделах] <br/> |Да  <br/> |Да <br/> |
+|[Перетаскивание групп разделов] <br/> |Нет  <br/> |Да <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Да  <br/> |Да  <br/> |
 |[Редактирование внедренных файлов](onenote-online.md#EmbeddedFileEdit) <br/> |Нет  <br/> |Да  <br/> |
 |[Формулы](onenote-online.md#equations) <br/> |Да  <br/> |Да  <br/> |

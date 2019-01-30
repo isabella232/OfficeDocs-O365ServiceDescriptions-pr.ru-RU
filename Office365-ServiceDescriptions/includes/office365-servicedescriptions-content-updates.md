@@ -43,3 +43,12 @@
 | 1/17/2019 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | изменено |
 | 1/17/2019 | [Описание служб Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | изменено |
 | 1/18/2019 | [Недавние изменения в описании службы](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | изменено |
+
+
+## <a name="week-of-january-21-2019"></a>Недели после 21 января 2019
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 1/24/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | изменено |
+| 1/24/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | изменено |

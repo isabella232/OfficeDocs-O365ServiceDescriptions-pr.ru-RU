@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Используйте OneNote Online (ранее — OneNote Web App) для заметок online в записной книжке OneNote, которые можно добавить в любом месте и совместно с другими пользователями. Все клиенты Office 365 можно просматривать и незначительно изменить файлы Office в приложении Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036792"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612752"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Dropbox  служба размещения файлов с облачным х
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Управление записной книжкой. Файловые операции со страницами между разделами и записными книжками, реорганизация разделов, создание и удаление групп разделов
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Отсутствует в OneNote Online. Расширенные функции управления (например, реорганизация разделов, создание и удаление групп разделов, файловые операции со страницами путем перетаскивания) доступны только в классическом приложении OneNote. 
+С помощью OneNote Online может перетаскивание изменение порядка страниц и разделов.  
+Расширенные функции управления, такие как создание, удаление и повторное Упорядочение групп разделов доступны только в классическом приложении OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Просмотр и редактирование в автономном режиме
 <a name="bkmk_Offlineviewing"> </a>
