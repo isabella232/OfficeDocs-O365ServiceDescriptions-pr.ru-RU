@@ -1,3 +1,6 @@
+
+  
+
 # [Описание служб Office 365](office-365-service-descriptions-technet-library.md)
 ## [Описание служб Microsoft 365 бизнес](microsoft-365-business-service-description.md)
 ## [Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
@@ -8,7 +11,8 @@
 ### [Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High и DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
-### [Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
+#### [Как купить Microsoft 365 для государственных организаций](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
+### [Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 для образования](office-365-platform-service-description/office-365-education.md)
 ### [Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md)
