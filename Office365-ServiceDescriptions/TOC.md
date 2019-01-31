@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728673"
----
 
   
 
@@ -19,7 +11,8 @@ ms.locfileid: "28728673"
 ### [Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High и DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
-### [Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
+#### [Как купить Microsoft 365 для государственных организаций](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
+### [Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 для образования](office-365-platform-service-description/office-365-education.md)
 ### [Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md)
