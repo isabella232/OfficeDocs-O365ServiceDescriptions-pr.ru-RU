@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Безопасность Office 365 &amp; центре соответствия требованиям призвана помочь вам управлять функции контроля соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции контроля соответствия требованиям SharePoint и Exchange свести вместе обеспечения соответствия требованиям в Office 365.
-ms.openlocfilehash: b1d2e28e38cc156dd84a195a698f546b43ef7ccc
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 5f8690afc3d5ebaa7b9f2a1975a4fbf46370effd
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449913"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "27472203"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Центр безопасности и соответствия требованиям Office 365
 
@@ -30,21 +30,21 @@ ms.locfileid: "27449913"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Возможность** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных организаций G1 США.** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 для государственных организаций G3 США.** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 F1 государственных организаций США.** <br/> |
-|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Расширенные возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=846673), такие как использование защищенного хранилища и обозревателя угроз на случай фишинговых кампаний<sup>6</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[содержит eDiscovery (включая удержаний запроса на обнаружение электронных данных)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>4</sup> <br/> |Да,<sup>4</sup> <br/> |Нет  <br/> |
-|Политики хранения или удаления, задаваемого вручную  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Политики хранения или удаления, задаваемого вручную  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
    
 > <sup>1</sup> управления данных позволяет пользователям создание, публикация и вручную применить метки в документы; Импорт данных с помощью диска доставки или в сети. Создание и применение политики хранения и удаления всех рабочих нагрузок, пользователи и группы. Политики хранения, применяются к почтовым ящикам требуется Office 365 для предприятий E3 или E5.<br/><sup>2</sup> дополнительных данных управления позволяет сохранить важные сведения и удалять несущественные сведения, классификации информацию, основанную на удержание или политики удаления. Оно включает в себя intelligent/автоматизирована действий, таких как рекомендуя политик, автоматически меток для применения к данным, применение меток на основе типов конфиденциальных данных или запросы, ликвидации Просмотр и использование фильтров смарт-импорта. Он также включает функции контроля для просмотра сотрудников коммуникаций в целях безопасности и соответствия требованиям.<br/>Ограничение <sup>3</sup> 50 ГБ. 
 <br/><sup>4</sup> не ограничен. 
@@ -55,20 +55,20 @@ ms.locfileid: "27449913"
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Возможность** <br/> |**Exchange Online (план 1)** <br/> |**Exchange Online (план 2)** <br/> |**Базовая подписка на Exchange Online** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Skype для бизнеса Online (план 1)** <br/> |**Skype для бизнеса Online (план 2)** <br/> |
-|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Расширенные возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=846673), такие как использование защищенного хранилища и обозревателя угроз на случай фишинговых кампаний  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
+|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-|[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
-|[содержит eDiscovery (включая удержаний запроса на обнаружение электронных данных)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
+|[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
+|[содержит eDiscovery (включая удержаний запроса на обнаружение электронных данных)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
 |Политики хранения или удаления, задаваемого вручную  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
    
 > <sup>1</sup> управления данных позволяет пользователям создание, публикация и вручную применить метки в документы; Импорт данных с помощью диска доставки или в сети. Создание и применение политики хранения и удаления всех рабочих нагрузок, пользователи и группы. Политики хранения, применяются к почтовым ящикам требуется Office 365 для предприятий E3 или E5.<br/><sup>2</sup> Требует приобретения надстройки Exchange Online Archiving. 
