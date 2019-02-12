@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-december-24-2018"></a>Недели после 24 декабря 2018
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 12/27/2018 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | изменено |
-| 12/27/2018 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | изменено |
-| 12/28/2018 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | изменено |
-
-
 ## <a name="week-of-december-31-2018"></a>Недели после 31 декабря 2018
 
 
@@ -35,7 +25,7 @@
 | 1/9/2019 | [Конфиденциальность, безопасность и прозрачность](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | изменено |
 
 
-## <a name="week-of-january-14-2019"></a>Недели после 14 января 2019
+## <a name="week-of-january-14-2019"></a>Неделя с 14 января 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
@@ -52,3 +42,15 @@
 |------|------------|--------|
 | 1/24/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | изменено |
 | 1/24/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | изменено |
+
+
+## <a name="week-of-january-28-2019"></a>Неделя с 28 января 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 29.01.2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | изменено |
+| 29.01.2019 | [OneNote Online](/Office365/ServiceDescriptions/office-online-service-description/onenote-online) | изменено |
+| 1/30/2019 | [Microsoft 365 государственных как купить](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | добавлен |
+| 1/30/2019 | [Microsoft 365 государственных как купить](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | изменено |
+| 1/31/2019 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | изменено |
