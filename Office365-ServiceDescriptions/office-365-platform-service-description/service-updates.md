@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Сведения о функциях Office 365:, которые были недавно выпущены или будут выпущены в скором времени, см. в статье Схема развития Office 365.
 ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036704"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29966223"
 ---
 # <a name="service-updates"></a>Обновления служб
 
