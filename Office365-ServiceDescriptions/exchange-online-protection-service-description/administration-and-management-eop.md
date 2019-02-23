@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: В этом разделе описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036770"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210162"
 ---
 # <a name="administration-and-managementeop"></a>Администрирование и управление [EOP]
 
@@ -26,10 +26,10 @@ ms.locfileid: "24036770"
   
 Хотите узнать подробнее обо всех функциях EOP? См. раздел [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
   
-## <a name="access-to-the-office-365-admin-center"></a>Доступ к центру администрирования Office 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к центру администрирования Microsoft 365
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Центр администрирования Microsoft Office 365  это веб-портал, с помощью которого каждый администратор служб компании может управлять учетными записями пользователей и параметрами каждой службы Office 365, на которые они подписаны. Из Центра администрирования Office 365 администраторы могут перейти по ссылкам в Центр администрирования Exchange, в котором можно управлять специальными настройками EOP.
+Центр администрирования Microsoft 365 — это веб-портал, с которого администратор службы каждой компании может управлять учетными записями и параметрами пользователей для каждой службы Office 365, на которую они подписаны. В центре администрирования Microsoft 365 администраторы могут перейти по ссылкам в центр администрирования Exchange, где они могут управлять параметрами, характерными для EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Доступ в Центр администрирования Exchange
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>
