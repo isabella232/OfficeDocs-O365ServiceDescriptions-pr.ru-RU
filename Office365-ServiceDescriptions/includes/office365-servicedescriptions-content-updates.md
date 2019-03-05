@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Неделя 21 января 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 1/24/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | изменено |
-| 1/24/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | изменено |
-
-
 ## <a name="week-of-january-28-2019"></a>Неделя с 28 января 2019 г.
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [Управление учетными записями пользователей](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | изменено |
 | 2/22/2019 | [Функции Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | изменено |
 | 2/22/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | изменено |
+
+
+## <a name="week-of-february-25-2019"></a>Неделя с 25 февраля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 2/27/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | изменено |
