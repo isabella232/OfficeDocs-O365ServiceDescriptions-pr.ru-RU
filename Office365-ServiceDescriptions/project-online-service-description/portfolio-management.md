@@ -1,7 +1,7 @@
 ---
 title: Управление портфелем
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: В Project Online доступны следующие функции управления портфелем.
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036784"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466626"
 ---
 # <a name="portfolio-management"></a>Управление портфелем
 

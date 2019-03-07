@@ -1,7 +1,7 @@
 ---
 title: Возможности поддержки в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: В Yammer доступны следующие возможности поддержки.
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036724"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467376"
 ---
 # <a name="support-features-in-yammer"></a>Возможности поддержки в Yammer
 
@@ -30,14 +30,14 @@ ms.locfileid: "24036724"
 ## <a name="fasttrack-center"></a>FastTrack Center
 <a name="bkmk_FastTrackCenter"> </a>
 
-Службы Microsoft она могут помочь вашей организации перемещению в облако Microsoft с указанием справки на каждом этапе по пути. Она позволяет стратегического планирования развертывания, быстро освоить новые службы и встроенного новых пользователей. Для получения дополнительных сведений посетите [Центр эту](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Сведения о создании вашей сети, включая предварительного выпуска, запуска и документацию по поддержке и действий, перейдите к [Предвидения: Определение сценариев](https://fasttrack.microsoft.com/office/envision/identify-scenarios) и нажмите кнопку **Объединить вашей организации**.
+Служба Microsoft FastTrack поможет вашей организации перейти на платформу Microsoft Cloud, предоставляя помощь на каждом этапе. FastTrack позволяет планировать развертывания, быстро запускать новые службы и подключать новых пользователей. Для получения дополнительных сведений посетите [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Для получения сведений о создании сети Yammer, в том числе о предварительном запуске, запуске и поддержке документов и действий, перейдите на страницу представление ["Определение сценариев](https://fasttrack.microsoft.com/office/envision/identify-scenarios) ", а затем выберите пункт "переложить **организацию**".
   
-## <a name="customer-support"></a>Служба поддержки клиентов
+## <a name="customer-support"></a>Customer support (Поддержка клиентов)
 <a name="BKMK_Customersupport"> </a>
 
 Сотрудники технической поддержки отвечают на вопросы клиентов и быстро решают проблемы. Клиенты Yammer могут получить помощь, опубликовав свой вопрос на общедоступном форуме поддержки, за которым круглосуточно следят агенты поддержки. Если вы  клиент Yammer и вам нужна поддержка, см. статью [Общедоступная поддержка для Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
   
-## <a name="administrator-support"></a>Поддержка администраторов
+## <a name="administrator-support"></a>Administrator support
 <a name="BKMK_Administratorsupport"> </a>
 
 Администраторы Yammer Enterprise ответственны за техническую поддержку учетных записей и уполномочены напрямую обращаться к группе поддержки корпорации Майкрософт. Если вы  администратор Yammer Enterprise и вам нужна поддержка, см. статью [Поддержка корпорации Майкрософт](https://go.microsoft.com/fwlink/p/?LinkId=330922).
@@ -56,7 +56,7 @@ ms.locfileid: "24036724"
 ## <a name="technical-support-initial-response-times"></a>Время первоначального отклика службы технической поддержки
 <a name="BKMK_Administratorsupport"> </a>
 
-Время первоначального отклика зависят от типа подписки Yammer и уровни серьезности, описанных выше. Время отклика конечного показаны в следующей таблице.
+Время первоначального отклика зависит от описанных выше степеней серьезности и типа подписки на Yammer. Целевое время отклика показано в следующей таблице.
   
 |**Степень серьезности**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

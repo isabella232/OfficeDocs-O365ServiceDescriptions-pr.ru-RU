@@ -1,7 +1,7 @@
 ---
 title: Функции Skype для бизнеса Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Если вы являетесь администратором, вы можете найти подробные инструкции по настройке функций Skype для бизнеса Online в статье Настройка Skype для бизнеса Online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210262"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467436"
 ---
 # <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online
 
 Если вы являетесь администратором, вы можете найти подробные инструкции по настройке функций Skype для бизнеса Online в статье [Настройка Skype для бизнеса Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
-## <a name="clients-for-skype-for-business-online"></a>Клиенты Skype для бизнеса Online
+## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
 
 > [!IMPORTANT]
@@ -136,7 +136,7 @@ Skype для бизнеса включает возможности звонко
   
 Сведения о доступных Планах звонков см. [здесь](https://products.office.com/en-us/skype-for-business/pstn-calling-plans). Сведения о настройке Плана звонков см. [здесь](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-## <a name="phone-system-in-office-365"></a>Телефонная система в Office 365
+## <a name="phone-system-in-office-365"></a>Телефонная система Office 365
 <a name="BKMK_PhoneSystem"> </a>
 
 Телефонная система в офисе 365 позволяет использовать Skype для бизнеса и существующие телефонные линии компании или Телефонную систему для входящих и исходящих звонков. Пользователи Телефонной системы в Office 365 могут совершать и принимать звонки, переключать их, а также отключать и включать звук практически отовсюду, где есть доступ к Интернету, используя Skype для бизнеса.

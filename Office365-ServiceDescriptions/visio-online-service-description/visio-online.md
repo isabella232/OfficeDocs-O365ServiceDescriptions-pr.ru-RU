@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online позволяет работать с Microsoft Visio в браузере и обрабатывать схемы прямо на веб-сайтах, на которых они размещены. Пользователи Microsoft Office 365 с Office Online могут просматривать схемы, делиться ими и вставлять комментарии, где бы они ни находились.
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036696"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467566"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -70,7 +70,7 @@ API гибридных веб-приложений JavaScript для Visio Onlin
 
 В Visio Online невозможно изменить шрифт, его размер и другие атрибуты внешнего вида (например, полужирный шрифт, курсив, надстрочный или подчеркнутый текст).
   
-## <a name="hyperlinks"></a>Гиперссылки
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
 В Visio Online можно напрямую переходить по гиперссылкам, щелкнув фигуру.
@@ -90,7 +90,7 @@ API гибридных веб-приложений JavaScript для Visio Onlin
 
 Возможность недоступна в Visio Online. Для использования Office Online необходимы подключение к Интернету и веб-браузер. Для просмотра и редактирования схем без подключения к Интернету и локальному серверу Office Web Apps на компьютере должно быть установлено классическое приложение Visio. Если у вас установлено классическое приложение Visio, вы можете использовать все функции Visio для просмотра и редактирования схемы. При сохранении внесенные вами изменения добавляются в схему в Интернете. Вы также можете скачать и сохранить автономную копию схемы. Дополнительные сведения см. в статье [Office Online Server](https://technet.microsoft.com/library/ff431685.aspx).
   
-## <a name="print-to-pdf"></a>Функция "Сохранить в формате PDF"
+## <a name="print-to-pdf"></a>Print to PDF
 <a name="BM_14"> </a>
 
 Функция "Сохранить в формате PDF" недоступна в Visio Online.
@@ -145,9 +145,9 @@ API гибридных веб-приложений JavaScript для Visio Onlin
 
 Так как схема Visio сохраняется в Интернете, вы можете отправить ссылку на нее. После этого другие пользователи смогут просматривать ее в любом браузере. Им не потребуется классическое приложение Visio.
   
-## <a name="zoom"></a>Масштабирование
+## <a name="zoom"></a>Зум
 <a name="BM_25"> </a>
 
-Visio Online включает в себя ползунок, позволяющий увеличивать и выход. Кроме того, можно использовать Pan &amp; функции масштабирования для увеличения области диаграммы.
+Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
   
 

@@ -1,7 +1,7 @@
 ---
 title: Функции профилей в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
-description: В Yammer доступны следующие возможности работы с профилями.
-ms.openlocfilehash: c79b75a8540bf1c141d61d47cc966abc98e54865
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: В Yammer доступны следующие функции профилей.
+ms.openlocfilehash: 08c1a39a7f0e2aab5d16b2290cce7e5563ea4e37
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036691"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467646"
 ---
 # <a name="profile-features-in-yammer"></a>Функции профилей в Yammer
 
-В Yammer доступны следующие возможности работы с профилями.
+В Yammer доступны следующие функции профилей.
   
 ## <a name="user-profiles"></a>Профили пользователей
 <a name="bkmk_UserProfiles"> </a>
@@ -34,7 +34,7 @@ ms.locfileid: "24036691"
 
 Вы сможете найти нужных экспертов во всей компании. Так как навыки можно найти мгновенно, полезная информация всегда будет доступна по запросу.
   
-## <a name="member-directory"></a>Каталог участников
+## <a name="member-directory"></a>Member Directory
 <a name="bkmk_MemberDirectory"> </a>
 
 В каталоге участников вы сможете найти коллег из своей группы и сотрудников во всей компании.

@@ -1,7 +1,7 @@
 ---
 title: Функции администрирования и безопасности в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,20 +13,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Следующие функции администрирования и обеспечения безопасности доступны в Yammer.
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036852"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466746"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Функции администрирования и безопасности в Yammer
 
 Следующие функции администрирования и обеспечения безопасности доступны в Yammer.
   
-Подробные пояснения и процедуры, описанные в разделе [Yammer центра администрирования](https://go.microsoft.com/fwlink/?LinkId=869688).
+Подробные объяснения и процедуры представлены в [центре администрирования Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
   
-## <a name="custom-network-branding"></a>Настраиваемый фирменный стиль сети
+## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
 
 Приведите внешний сети Yammer в соответствие с фирменным стилем вашей компании. Администраторы сети могут загрузить эмблему компании и соответствующие изображения, чтобы получить фирменный дизайн.
@@ -36,17 +36,17 @@ ms.locfileid: "24036852"
 
 Легко управляйте доступом к сети вашей компании. Yammer позволяет синхронизировать каталоги, которые вы уже используете, добавлять или удалять пользователей (по отдельности и массово), приглашать гостей в сеть и назначать администраторов.
   
-## <a name="admin-private-content-mode"></a>Режим администрирования личного контента
+## <a name="admin-private-content-mode"></a>Admin Private Content Mode
 <a name="bkmk_AdminPrivate"> </a>
 
 Проверенный администратор сети Yammer может просматривать личные сообщения и группы в ней.  Администраторы могут просматривать личное содержимое, только временно предоставив себе доступ к личному контенту для изучения проблем.  Дополнительные сведения см. в статье [Мониторинг личного контента в Yammer (проверенные администраторы)](https://go.microsoft.com/fwlink/?LinkId=627479).
   
-## <a name="single-identity"></a>Одно удостоверение
+## <a name="single-identity"></a>Single Identity
 <a name="bkmk_o365_user_mapping"> </a>
 
 Если выбрать Yammer в качестве социальной сети по умолчанию в Office 365: для вашей организации, сотрудники будут сопоставлены с существующими учетными записями Yammer. Это значит, что им не потребуется заново входить в систему при переходе в Yammer в Office 365:. Когда сотрудники переходят к Yammer  из Office 365:, мобильного приложения Yammer или вводя Yammer.com в браузере  они автоматически входят в систему на основе существующих организационных учетных данных.
   
-## <a name="directory-synchronization"></a>Синхронизация каталогов
+## <a name="directory-synchronization"></a>Directory Synchronization
 <a name="bkmk_DirectorySynchronization"> </a>
 
 Стандартизируйте данные профилей пользователей между различными системами. Добавленные и удаленные пользователи, а также данные профилей могут синхронизироваться автоматически из существующего каталога компании.
@@ -77,7 +77,7 @@ ms.locfileid: "24036852"
 ## <a name="company-resources"></a>Ресурсы компании
 <a name="bkmk_CompanyResources"> </a>
 
-Добавление важные файлы и ссылки, чтобы предоставить сотрудникам быстрый доступ к ресурсам компании, как политикам отдела Кадров, преимуществам сведения или праздничных днях.
+Добавьте важные файлы и ссылки, чтобы предоставить сотрудникам быстрый доступ к ресурсам компании, например, политикам управления персоналом, сведениям о преимуществах и календарям праздников.
   
 ## <a name="password-policies"></a>Политики паролей
 <a name="bkmk_PasswordPolicies"> </a>

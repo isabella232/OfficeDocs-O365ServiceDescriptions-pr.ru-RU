@@ -1,7 +1,7 @@
 ---
 title: Функции папки 'Входящие' в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
-description: В Yammer доступны следующие возможности работы со входящими сообщениями.
-ms.openlocfilehash: 22717c3a92790eb9edcab29351cae5552ed52097
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: В Yammer доступны следующие функции папки "Входящие".
+ms.openlocfilehash: c3410934cab503b502db9177c2d4df0c357aab01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036772"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466836"
 ---
-# <a name="inbox-features-in-yammer"></a>Функции папки "Входящие" в Yammer
+# <a name="inbox-features-in-yammer"></a>Функции папки 'Входящие' в Yammer
 
-В Yammer доступны следующие возможности работы со входящими сообщениями.
+В Yammer доступны следующие функции папки "Входящие".
   
-## <a name="inbox"></a>"Входящие"
+## <a name="inbox"></a>Inbox;
 <a name="bkmk_Inbox"> </a>
 
 В папке "Входящие" автоматически собираются упоминания о вас, объявления групп, беседы и личные сообщения, так что вы легко сможете определить приоритеты для этих элементов.
   
-## <a name="inbox-search"></a>Поиск в папке "Входящие"
+## <a name="inbox-search"></a>Inbox Search
 <a name="bkmk_InboxSearch"> </a>
 
 Вы можете искать данные по всей папке "Входящие", чтобы быстро находить беседы, личные сообщения и объявления.

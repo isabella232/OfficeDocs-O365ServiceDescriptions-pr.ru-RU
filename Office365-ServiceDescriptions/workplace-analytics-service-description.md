@@ -1,7 +1,7 @@
 ---
 title: Описание службы Workplace Analytics
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 7/31/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -9,19 +9,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Аналитика рабочей области Microsoft предоставляет полезные сведения о расширенными возможностями, предусматривающей действие в вашей компании обмена данными и совместной работы тренды для принятия более эффективных бизнес-решений.
-ms.openlocfilehash: 81924934640517dc3f6fe396020fb5e26f65facf
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.
+ms.openlocfilehash: 7689a1bcff420b08da80db1d9aa1c9f91d1deed6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036701"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467506"
 ---
 # <a name="workplace-analytics-service-description"></a>Описание службы Workplace Analytics
 
-Аналитика рабочей области Microsoft предоставляет полезные сведения о расширенными возможностями, предусматривающей действие в вашей компании обмена данными и совместной работы тренды для принятия более эффективных бизнес-решений.
+Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.
   
-Служба Microsoft Workplace Analytics анализирует совместную работу групп и определяет поведение, которое способствует или препятствует увеличению прибыли. Затем вы можете использовать эти данные, чтобы:  
+Служба Microsoft Workplace Analytics анализирует совместную работу групп и определяет поведение, которое способствует или препятствует увеличению прибыли. Затем вы можете использовать эти данные, чтобы: 
   
 - повысить эффективность работы организации;
     
@@ -31,8 +31,8 @@ ms.locfileid: "24036701"
     
 - привлечь новых сотрудников и уменьшить текучку кадров.
     
-Для получения дополнительных сведений см [Аналитика на рабочем месте](https://go.microsoft.com/fwlink/?linkid=852492). Щелкните [здесь](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) для начала работы с Analytics рабочем месте. 
+Дополнительные сведения см. на странице [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Щелкните [здесь](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) , чтобы приступить к анализу рабочего места. 
   
 ## <a name="licensing-requirements"></a>требования лицензирования;
 
-Exchange Online план 1 или 2 Планирование является необходимым.
+Exchange Online (план 1) или 2 (план 2) является необходимым условием.

@@ -1,7 +1,7 @@
 ---
 title: Надстройки
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint — это семейство веб-средств и технологий, которые помогут вашей организации хранения, совместного использования и управления цифровыми. Созданные на Microsoft SharePoint Server 2013 в этом размещенной службы идеально подходит для работы над проектами, хранения данных и документы в одном месте и обмен информацией с другими пользователями. Пользователи Office 365 также можно приобрести дополнительные надстройки, связанные с SharePoint Online.
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint — это набор средств и технологий, основанных на веб-доступе, который позволяет вашей организации хранить цифровые данные, предоставлять к ним общий доступ и управлять ими. Встроенная в Microsoft SharePoint Server 2013, эта размещенная служба идеально подходит для работы в проектах, хранения данных и документов в центральном расположении и общего доступа к сведениям. Клиенты Office 365 также могут приобрести дополнительные надстройки, связанные с SharePoint Online.
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036776"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466406"
 ---
 # <a name="add-ons"></a>Надстройки
 
-Microsoft SharePoint — это семейство веб-средств и технологий, которые помогут вашей организации хранения, совместного использования и управления цифровыми. Созданные на Microsoft SharePoint Server 2013 в этом размещенной службы идеально подходит для работы над проектами, хранения данных и документы в одном месте и обмен информацией с другими пользователями. Пользователи Office 365 также можно приобрести дополнительные надстройки, связанные с SharePoint Online.
+Microsoft SharePoint — это набор средств и технологий, основанных на веб-доступе, который позволяет вашей организации хранить цифровые данные, предоставлять к ним общий доступ и управлять ими. Встроенная в Microsoft SharePoint Server 2013, эта размещенная служба идеально подходит для работы в проектах, хранения данных и документов в центральном расположении и общего доступа к сведениям. Клиенты Office 365 также могут приобрести дополнительные надстройки, связанные с SharePoint Online.
   
-## <a name="additional-storage"></a>Дополнительное хранилище
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 Если вам потребуется дополнительное хранилище, то оно доступно по цене за гигабайт (ГБ) в месяц.

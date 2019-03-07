@@ -1,7 +1,7 @@
 ---
 title: Партнеры
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 'Microsoft Office 365: предлагает вам как авторизованному партнеру корпорации Майкрософт возможность увеличения клиентской базы и создания долгосрочных отношений с клиентами. За ежемесячную или ежегодную плату, выплачиваемую вам, ваши клиенты смогут использовать облачные службы, в результате чего им не придется отвечать за резервное копирование данных, серверное оборудование и обновление серверов. Доступность служб зависит от типа услуг, которые вы уполномочены предоставлять.'
-ms.openlocfilehash: de56f3f3f890c0015ae823bd78bc0185d065fe9c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036787"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467626"
 ---
 # <a name="partners"></a>Партнеры
 

@@ -1,7 +1,7 @@
 ---
 title: Центр безопасности и соответствия требованиям Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,77 +10,81 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Безопасность Office 365 &amp; центре соответствия требованиям призвана помочь вам управлять функции контроля соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции контроля соответствия требованиям SharePoint и Exchange свести вместе обеспечения соответствия требованиям в Office 365.
-ms.openlocfilehash: 5f8690afc3d5ebaa7b9f2a1975a4fbf46370effd
-ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
+description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "27472203"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467986"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Центр безопасности и соответствия требованиям Office 365
+# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
-[Безопасности Office 365 &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?LinkID=824876) призвана помочь вам управлять функции контроля соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции контроля соответствия требованиям SharePoint и Exchange свести вместе обеспечения соответствия требованиям в Office 365. 
+[Центр соответствия требованиям безопасности &amp; Office 365](https://go.microsoft.com/fwlink/?LinkID=824876) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
-> В настоящее время многие функции контроля соответствия требованиям, по-прежнему доступны через интерфейсы управления конкретной службы, такие как Центр администрирования Exchange (EAC). Тем не менее, это будет изменено в будущем при добавлении дополнительных функций соответствия зависящего от службы безопасности &amp; центре соответствия требованиям. 
+> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Безопасность &amp; центре соответствия требованиям доступности для бизнеса и корпоративных планов
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Возможность** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных организаций G1 США.** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 для государственных организаций G3 США.** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 F1 государственных организаций США.** <br/> |
-|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 US Government F1** <br/> |
+|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенные возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=846673), такие как использование защищенного хранилища и обозревателя угроз на случай фишинговых кампаний<sup>6</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[содержит eDiscovery (включая удержаний запроса на обнаружение электронных данных)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>4</sup> <br/> |Да,<sup>4</sup> <br/> |Нет  <br/> |
+|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Нет  <br/> |
 |Политики хранения или удаления, задаваемого вручную  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
    
-> <sup>1</sup> управления данных позволяет пользователям создание, публикация и вручную применить метки в документы; Импорт данных с помощью диска доставки или в сети. Создание и применение политики хранения и удаления всех рабочих нагрузок, пользователи и группы. Политики хранения, применяются к почтовым ящикам требуется Office 365 для предприятий E3 или E5.<br/><sup>2</sup> дополнительных данных управления позволяет сохранить важные сведения и удалять несущественные сведения, классификации информацию, основанную на удержание или политики удаления. Оно включает в себя intelligent/автоматизирована действий, таких как рекомендуя политик, автоматически меток для применения к данным, применение меток на основе типов конфиденциальных данных или запросы, ликвидации Просмотр и использование фильтров смарт-импорта. Он также включает функции контроля для просмотра сотрудников коммуникаций в целях безопасности и соответствия требованиям.<br/>Ограничение <sup>3</sup> 50 ГБ. 
-<br/><sup>4</sup> не ограничен. 
-<br/>Расширенные eDiscovery поддерживается <sup>5</sup> в Соединенных Штатах Америки и Западная Европа (Нидерланды). (Данные клиента из Канады и Азиатско-Тихоокеанский регион экспортируется в США. Данные клиента из Европы, Ближнего Востока и Африки экспортируется в Европе западное [Нидерланды].)<br/><sup>6</sup> расширенного защиту от угроз доступна в Office 365 корпоративный E5 и как автономную службу для Office 365 корпоративный E1 и Office 365 для предприятий E3. 
+> <sup>1</sup> управление данными позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети; создавать и применять политики хранения и удаления для рабочих нагрузок, пользователей и групп. Применять политики хранения к почтовым ящикам можно, если есть Office 365 корпоративный E3 или E5.
+<br/><sup>2</sup> Advanced Data управление позволяет хранить важную информацию и удалять несущественные сведения, выполнив классификацию информации на основе политики хранения или удаления или обеих. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.
+<br/><sup>3</sup> 50 ГБ ограничения. 
+<br/><sup>4</sup> без ограничений. 
+<br/><sup>5</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды). <br/><sup>6</sup> Advanced Threat protection доступен в Office 365 корпоративный, а также в качестве автономной службы для Office 365 корпоративный E1 и Office 365 Enterprise E3. 
   
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Безопасность &amp; центре соответствия требованиям доступности для отдельных планах
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Возможность** <br/> |**Exchange Online (план 1)** <br/> |**Exchange Online (план 2)** <br/> |**Базовая подписка на Exchange Online** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Skype для бизнеса Online (план 1)** <br/> |**Skype для бизнеса Online (план 2)** <br/> |
-|[Доступ к безопасности &amp; центре соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенные возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=846673), такие как использование защищенного хранилища и обозревателя угроз на случай фишинговых кампаний  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
-|[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
+|[Управление мобильными устройствами](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Защита от потери данных](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
+|[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да   <br/> |Да   <br/> |Да   <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
-|[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
-|[содержит eDiscovery (включая удержаний запроса на обнаружение электронных данных)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
+|[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
+|[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |НЕТ  <br/> |Нет  <br/> |
+|[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |Политики хранения или удаления, задаваемого вручную  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
    
-> <sup>1</sup> управления данных позволяет пользователям создание, публикация и вручную применить метки в документы; Импорт данных с помощью диска доставки или в сети. Создание и применение политики хранения и удаления всех рабочих нагрузок, пользователи и группы. Политики хранения, применяются к почтовым ящикам требуется Office 365 для предприятий E3 или E5.<br/><sup>2</sup> Требует приобретения надстройки Exchange Online Archiving. 
-<br/>Дополнительные данные управления <sup>3</sup> позволяет сохранить важные сведения и удалять несущественные сведения, классификации информацию, основанную на удержание или политики удаления. Оно включает в себя intelligent/автоматизирована действий, таких как рекомендуя политик, автоматически меток для применения к данным, применение меток на основе типов конфиденциальных данных или запросы, ликвидации Просмотр и использование фильтров смарт-импорта. Он также включает функции контроля для просмотра сотрудников коммуникаций в целях безопасности и соответствия требованиям.<br/><sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика. 
+> <sup>1</sup> управление данными позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети; создавать и применять политики хранения и удаления для рабочих нагрузок, пользователей и групп. Применять политики хранения к почтовым ящикам можно, если есть Office 365 корпоративный E3 или E5. 
+<br/><sup>2</sup> Требует приобретения надстройки Exchange Online Archiving. 
+<br/><sup>3</sup> расширенное управление данными позволяет хранить важную информацию и удалять неважную информацию, выполнив классификацию информации на основе политики хранения или удаления или и того, и других. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.
+<br/><sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика. 
 <br/><sup>5</sup> Advanced eDiscovery требует наличия лицензии на надстройку или Office 365 корпоративный E5. <br/><sup>6</sup> Функция архивации Skype доступна в почтовом ящике пользователя. 
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Безопасность &amp; доступности центра соответствия требованиям в Office 365, используемых с 21Vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-Сведения о безопасности Office 365 &amp; увидеть доступности центра соответствия требованиям в Office 365, которой с 21Vianet, [ ](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+For information about Office 365 Security &amp; Compliance Center availability in Office 365 operated by 21Vianet, see [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Безопасность &amp; доступности центра соответствия требованиям в Office 365 Германии
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Сведения о безопасности Office 365 &amp; увидеть доступности центра соответствия требованиям в Office 365 Германия предприятий E3 [ ](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+For information about Office 365 Security &amp; Compliance Center availability in Office 365 Germany Enterprise E3, see [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
   
 

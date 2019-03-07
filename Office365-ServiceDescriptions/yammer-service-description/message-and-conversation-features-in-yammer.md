@@ -1,7 +1,7 @@
 ---
 title: Возможности по использованию сообщений и бесед в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: В Yammer доступны следующие возможности по использованию сообщений и бесед.
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036722"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468166"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Возможности по использованию сообщений и бесед в Yammer
 
@@ -29,7 +29,7 @@ ms.locfileid: "24036722"
 
 Используйте издателя для общего доступа к обновлению, добавления документа, публикации опроса, выражения благодарности или отправки события.
   
-## <a name="mention"></a>@Упоминание
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 Уведомите других коллег и вовлеките их в беседу, @упомянув их имя.
@@ -39,7 +39,7 @@ ms.locfileid: "24036722"
 
 Просмотрите, кто из пользователей подключен к сети, и сразу же начните личную беседу с одним или несколькими сотрудниками. Список контактов автоматически сортируется таким образом, чтобы в его начале находились люди, с которыми вы взаимодействуете чаще всего.
   
-## <a name="private-messages"></a>Личные сообщения
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 Начните личное обсуждение с одним или несколькими сотрудниками. Вы можете в любое время добавить дополнительных участников.
@@ -49,7 +49,7 @@ ms.locfileid: "24036722"
 
 Предоставляйте беседы для общего доступа в веб-канале другой группы либо посредством личного сообщения, чтобы передать информацию и важные сообщения.
   
-## <a name="office-online-support"></a>Поддержка Office Online
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 Поддержка Office Online в Yammer позволяет просматривать и редактировать документы, отправленные в Yammer, с помощью Office Online непосредственно в Yammer. Это позволяет просматривать документы в отличном качестве с помощью Office Online, позволяет нескольким пользователям одновременно работать с документом, а также показывает соответствующие беседы Yammer непосредственно в вашем браузере.

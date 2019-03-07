@@ -1,7 +1,7 @@
 ---
 title: Возможности совместной работы с документами в Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Следующие возможности совместной работы доступны в Yammer.
-ms.openlocfilehash: 3f38d139e2b792620ab653f160875efe610769bd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036850"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466316"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Возможности совместной работы с документами в Yammer
 
@@ -29,7 +29,7 @@ ms.locfileid: "24036850"
 
 Обменивайтесь документами Microsoft Office, PDF-файлами, изображениями и видеороликами между группами и мгновенно получайте отзывы других пользователей. Отправляйте новые версии, чтобы все могли увидеть последнюю версию, а также старые версии проекта.
   
-## <a name="recent-changes"></a>Последние изменения
+## <a name="recent-changes"></a>Recent Changes
 <a name="bkmk_RecentChanges"> </a>
 
 Вы можете быстро просмотреть все изменения, внесенные в документ каждым сотрудником, в области "Последние изменения". В любое время вы сможете восстановить предыдущую версию документа.
@@ -37,7 +37,7 @@ ms.locfileid: "24036850"
 ## <a name="official-content"></a>Официальный контент
 <a name="bkmk_OfficialContent"> </a>
 
-Пометить файлы как официального и только для чтения. Официальный контент отображается выше в результатах поиска и содержимого каталогов для быстрого доступа.
+ПоМетка файлов как официальных и только для чтения. Официальный контент отображается в результатах поиска первым, при этом видны каталоги для быстрого доступа.
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Функции совместной работы над документами в планах Yammer
 <a name="bkmk_OfficialContent"> </a>

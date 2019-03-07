@@ -1,7 +1,7 @@
 ---
 title: Политика управления сообщениями и соответствие нормативным требованиям[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Предоставляет политики обмена сообщениями Microsoft Exchange Online Protection (EOP) и функции контроля соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036712"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466976"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>Политика управления сообщениями и соответствие нормативным требованиям[ServiceDesc]
 
-Предоставляет политики обмена сообщениями Microsoft Exchange Online Protection (EOP) и функции контроля соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
+Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
   
-Хотите узнать подробнее обо всех функциях EOP? См. раздел [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Ищете сведения обо всех функциях EOP? Ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   
-## <a name="transport-rules"></a>Правила транспорта
+## <a name="transport-rules"></a>правила транспорта.
 <a name="BKMK_transportrules"> </a>
 
 Правила транспорта предоставляют необходимую гибкость в применении конкретных политик к электронной почте в вашей собственной компании. Правила транспорта состоят из гибких условий, позволяющих определять требования и исключения, а также действия, которые нужно выполнить. Дополнительные сведения о правилах транспорта в EOP см. в разделе [Правила транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320399).
@@ -67,7 +67,7 @@ ms.locfileid: "24036712"
 ## <a name="office-365-message-encryption"></a>Шифрование сообщений Office 365
 <a name="BKMK_OME_in_EOP"> </a>
 
-Шифрование сообщений Office 365, частью Azure Information Protection — это сетевая служба, которая позволяет пользователям отправлять зашифрованные сообщения электронной почты всем пользователям электронной почты. Локальных пользователей можно получить доступ к шифрования сообщений Office 365, покупку Azure защита информации и настройка потока почты через Exchange Online с помощью Exchange Online Protection. Для получения дополнительных сведений о шифровании сообщений Office 365 в Exchange Online, содержатся в разделе [Шифрования сообщений Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) в описании службы Exchange Online. 
+Шифрование сообщений Office 365, часть Azure Information Protection — это веб-служба, позволяющая пользователям электронной почты отправлять зашифрованные сообщения электронной почты всем пользователям. Локальные клиенты могут получить доступ к шифрованию сообщений Office 365, приобретая Azure Information Protection и используя Exchange Online Protection для настройки обработки почты через Exchange Online. Дополнительные сведения о шифровании сообщений Office 365 в Exchange Online см. в разделе [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) в описании службы Exchange Online. 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 <a name="BKMK_OME_in_EOP"> </a>
@@ -77,9 +77,9 @@ ms.locfileid: "24036712"
 |Правила транспорта  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
 |Ведение журнала аудита  <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
 |Предотвращение потери данных (DLP)  <br/> |Нет  <br/> |Да  <br/> |Да,<sup>3</sup> <br/> |
-|Шифрование сообщений Office 365  <br/> |Да,<sup>4</sup> <br/> |Да  <br/> |Да,<sup>4</sup> <br/> |
+|Шифрование сообщений Office 365  <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> доступные условия и действия отличаются в зависимости от EOP и Exchange Online. Список доступных условий и действий в службе EOP в разделе [Условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320392) и [Действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320393). Список доступных условий и действий в Exchange Online в разделе [Условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320394) и [Действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> EOP отчетов аудита являются подмножеством Exchange Online аудит отчетов, которые исключают сведения о почтовых ящиках. > <sup>3</sup> подсказок политики защиты от потери данных, недоступны для клиентских лицензий Exchange Enterprise CAL со службами. > <sup>4</sup> поддерживается для локальных пользователей, которые приобрели дополнительный компонент Azure защита информации и использовать Exchange Online Protection для маршрутизации электронной почты через Exchange Online. Для настольных компьютерах, в дополнение к защита информации Azure надстройки Office 365 ProPlus необходимо купить. 
+> <sup>1</sup> доступные критерии и действия ОТЛИЧАЮТСЯ в EOP и Exchange Online. Список доступных условий и действий в EOP представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320392) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320393). Список доступных условий и действий в Exchange Online представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320394) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> отчеты аудита EOP являются подмножеством отчетов об аудите Exchange Online, которые исключают сведения о почтовых ящиках. > <sup>3</sup> подсказки политики DLP недоступны для клиентов Exchange Enterprise CAL со службами. > <sup>4</sup> поддерживается для локальных пользователей, которые приобрели надстройку Azure Information Protection и используют Exchange Online Protection для маршрутизации электронной почты через Exchange Online. В дополнение к надстройке Azure Information Protection, для работы с рабочими станциями необходимо приобрести Office 365 профессиональный плюс. 
   
 

@@ -1,7 +1,7 @@
 ---
 title: Функции контроля соответствия требованиям и безопасности в архивации на базе Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: c54ec8f37c6f881dc934307f7784f79d01c7a878
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036730"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467796"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Функции контроля соответствия требованиям и безопасности в архивации на базе Exchange Online
 
@@ -93,11 +93,11 @@ ms.locfileid: "24036730"
 
 В следующих разделах описаны функции безопасности Microsoft Архивация на базе Exchange Online.
   
-### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Шифрование между локальными серверами и архивацией на базе Exchange Online
+### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Шифрование между локальными серверами и средством архивации на базе Exchange Online
 
 Протокол TLS позволяет шифровать подключения между почтовыми серверами для предотвращения спуфинга и защиты конфиденциальности передаваемых сообщений. Протокол TLS также используется для защиты локального трафика почтовых серверов в Office 365: для Архивация на базе Exchange Online.
   
-### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Шифрование между клиентами и архивацией на базе Exchange Online
+### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Шифрование между клиентами и средством архивации на базе Exchange Online
 
 В клиентских соединениях с Архивация на базе Exchange Online используются следующие методы шифрования для повышения безопасности:
   
@@ -115,11 +115,11 @@ ms.locfileid: "24036730"
 
 Архивация на базе Exchange Online не предоставляет размещенные службы управления правами на доступ к данным (IRM), но администраторы могут использовать локальную службу управления правами Active Directory. Если сервер службы управления правами Active Directory развернут, Outlook может подключаться непосредственно к серверу, позволяя пользователям создавать и читать сообщения, защищенные с помощью IRM. Если настроено взаимодействие между сервером службы управления правами Active Directory и локальной средой Exchange, пользователи смогут создавать и читать сообщения, защищенные с помощью IRM.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Поддержка IRM в Outlook Web App
+#### <a name="support-for-irm-in-outlook-web-app"></a>поддержка IRM в Outlook Web App;
 
 Пользователи могут читать и создавать сообщения, защищенные IRM, в Outlook Web App так же, как в Outlook. Сообщения, защищенные службой IRM, можно просматривать в Outlook Web App с помощью браузеров Internet Explorer, Firefox, Safari и Chrome (подключаемый модуль не требуется). Для сообщений доступен полнотекстовый поиск, представление беседы и панель просмотра. Для этого необходимо настроить взаимодействие между сервером службы управления правами Active Directory и локальной средой Exchange.
   
-#### <a name="irm-search"></a>Поиск в системе управления правами на доступ к данным (IRM)
+#### <a name="irm-search"></a>Поиск IRM
 
 Сообщения, защищенные IRM, индексируются, и по ним можно выполнять поиск, в том числе по заголовкам, теме, основному тексту и вложениям. Пользователи могут выполнять поиск элементов, защищенных IRM, в Outlook и Outlook Web App, а администраторы  с помощью обнаружения электронных данных на месте или командлета **Search-Mailbox**. 
   

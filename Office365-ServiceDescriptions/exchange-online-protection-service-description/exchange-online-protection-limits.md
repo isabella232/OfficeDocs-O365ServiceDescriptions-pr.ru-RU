@@ -1,7 +1,7 @@
 ---
 title: Ограничения Exchange Online Protection
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Текущие ограничения для Exchange Online Protection. Эти ограничения не настраиваются, если не указано иное.
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: В настоящее время существуют следующие ограничения для Exchange Online Protection. Эти ограничения невозможно изменить, если эта возможность не была указана.
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036859"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468146"
 ---
 # <a name="exchange-online-protection-limits"></a>Ограничения Exchange Online Protection
 
-Текущие ограничения для Exchange Online Protection. Эти ограничения не настраиваются, если не указано иное. 
+В настоящее время существуют следующие ограничения для Exchange Online Protection. Эти ограничения невозможно изменить, если эта возможность не была указана. 
   
 > [!TIP]
 > Дополнительные сведения об ограничениях Exchange Online см. в разделе [Ограничения Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Ограничения правил транспорта также применимы в случае пользователей отдельных выпусков EOP. Ограничения на количество получателей и сообщений для Exchange Online неприменимы для клиентов отдельного выпуска EOP. 
@@ -50,7 +50,7 @@ ms.locfileid: "24036859"
 |**Функция**|****Отдельный выпуск EOP****|****Функции EOP в Exchange Online****|****Клиентская лицензия Exchange Enterprise CAL со службами****|
 |:-----|:-----|:-----|:-----|
 |Ограничения домена  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Ограничение на размер сообщений (учитывая вложения)  <br/> |150 МБ  <br/> |150 МБ  <br/> |150 МБ  <br/> |
+|Ограничение на размер сообщений (учитывая вложения)  <br/> |150 МБ  <br/> |150 МБ  <br/> |150 МБ  <br/> |
 |Ограничение числа получателей  <br/> |См. раздел "Максимальное число получателей" выше  <br/> |500 получателей при отправке с размещенного почтового ящика. Другие сценарии см. в разделе "Максимальное число получателей" выше  <br/> |См. раздел "Максимальное число получателей" выше  <br/> |
 |Максимальное количество надежных отправителей  <br/> |1024 записи  <br/> |1024 записи  <br/> ||
 |Максимальное количество заблокированных отправителей  <br/> |1024 записи  <br/> |1024 записи  <br/> ||

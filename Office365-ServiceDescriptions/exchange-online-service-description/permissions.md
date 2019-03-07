@@ -1,7 +1,7 @@
 ---
 title: Разрешения
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013.
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036782"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468136"
 ---
 # <a name="permissions"></a>Разрешения
 

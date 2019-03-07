@@ -1,7 +1,7 @@
 ---
 title: Планирование проекта
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,31 +12,31 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Следующие функции планирования проекта, доступные в Project Online.
-ms.openlocfilehash: 1524f5bb2eb3237ba4c8813e48a673d73721a12a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: В Project Online доступны следующие функции планирования проектов.
+ms.openlocfilehash: 059fff81c541cb378688f25d7d09180a8a9d8419
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036695"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467756"
 ---
 # <a name="project-planning"></a>Планирование проекта
 
-Следующие функции планирования проекта, доступные в Project Online.
+В Project Online доступны следующие функции планирования проектов.
   
 Сведения обо всех функциях Project Online см. в статье [Описание службы Project Online](project-online-service-description.md).
   
-## <a name="baseline-rollup"></a>Свертка базового плана
+## <a name="baseline-rollup"></a>Baseline rollup
 <a name="bkmk_Baselinerollup"> </a>
 
 Данные базового плана можно сводить или суммировать в итоговой строке. Дополнительные сведения см. в статье о [создании и сохранении базового плана](https://go.microsoft.com/fwlink/p/?LinkId=271346).
   
-## <a name="budget-planning"></a>Планирование бюджета
+## <a name="budget-planning"></a>Budget planning
 <a name="bkmk_Budgetplanning"> </a>
 
 Планирование бюджета позволяет сравнивать текущий ход выполнения с базовым планом, заданным при создании проекта. Дополнительные сведения см. в статье об [анализе освоенного объема](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
-## <a name="compare-project-versions"></a>Сравнение версий проекта
+## <a name="compare-project-versions"></a>Compare project versions
 <a name="bkmk_Compareprojectversions"> </a>
 
 Сравнивайте две версии проекта. Создается отчет, в котором отображаются изменения, например добавленные новые задачи.
@@ -46,17 +46,17 @@ ms.locfileid: "24036695"
 
 Обозначайте основные цели проекта вехами. Дополнительные сведения см. в статье о [добавлении вех](https://go.microsoft.com/fwlink/p/?LinkId=271339).
   
-## <a name="filtering"></a>Фильтры
+## <a name="filtering"></a>фильтры;
 <a name="bkmk_Filtering"> </a>
 
 Фильтруйте планы проектов по любому значению в плане. Дополнительные сведения см. в статье о [создании настраиваемого фильтра](https://go.microsoft.com/fwlink/p/?LinkId=271341).
   
-## <a name="formulas-and-graphical-indicators"></a>Формулы и графические индикаторы
+## <a name="formulas-and-graphical-indicators"></a>Formulas and graphical indicators
 <a name="bkmk_Formulasandgraphicalindicators"> </a>
 
 Добавляйте в столбец изображения для обозначения хода выполнения графика. Дополнительные сведения см. в статье о [добавлении индикаторов](https://go.microsoft.com/fwlink/p/?LinkId=271340).
   
-## <a name="group-and-sort-project-data"></a>Группировка и сортировка данных Project
+## <a name="group-and-sort-project-data"></a>Group and sort Project data
 <a name="bkmk_GroupandsortProjectdata"> </a>
 
 Применяйте к плану проекта группировочные строки. Дополнительные сведения см. в статье о [группировке задач и ресурсов](https://go.microsoft.com/fwlink/p/?LinkId=271326).
