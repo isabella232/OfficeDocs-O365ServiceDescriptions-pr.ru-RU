@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: В этом разделе описываются элементы управления и поддержка администрирования, доступные для настройки параметров Exchange Online и поддержания среды Exchange Online в Организации, ее выполнения и текущей. Он включает сведения о средствах самостоятельного администрирования и возможностях, доступных для организаций; административные обязанности корпорации Майкрософт и обязательства производительности; а также обслуживание и обновления для продукта.
-ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467806"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955748"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Установка и администрирование Exchange Online
 
@@ -34,7 +34,7 @@ ms.locfileid: "30467806"
   
 - [Портал Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Центр администрирования Microsoft 365](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Центр администрирования Microsoft 365](#microsoft-365-admin-center)
     
 - [Центр администрирования Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
     
