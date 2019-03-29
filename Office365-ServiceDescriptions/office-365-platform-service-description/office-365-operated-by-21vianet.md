@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468086"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955808"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -234,15 +234,15 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Приложения Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Office для Mac в Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Office для Mac в Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office Mobile для Android] <sup>15</sup> (.. /оффице-аппликатионс-сервице-дескриптион/оффице-аппликатионс.МД # Office-Mobile-for-Android) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|Outlook для Android  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Outlook для Android  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |**Корпоративные возможности** <br/> |**Office профессиональный плюс 2013 под управлением 21Vianet** <br/> |**Office профессиональный плюс 2016 под управлением 21Vianet** <br/> |**Office 365 профессиональный плюс под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet** <br/> |**Подписка на Office 365 бизнес премиум, предоставляемая 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
-|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |Да  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |ДА  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Автоматическое назначение учетных записей пользователей  <br/> |Недоступно  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Многоязыковой пользовательский интерфейс  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Принудительное развертывание клиента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
@@ -438,7 +438,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - [Ограничения адресной книги](../exchange-online-service-description/exchange-online-limits.md#address-book-limits)
     
     
-- [Оповещения о емкости](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
+- [Оповещения о доступном объеме](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
     
 - [Ограничения для папок почтовых ящиков](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
     
@@ -462,7 +462,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - Пределы, применяемые к организации Microsoft Office 365, могут различаться в зависимости от того, сколько времени в Организации зарегистрировано в службе. Когда ограничение в центрах данных Майкрософт изменяется, может потребоваться некоторое время на применение изменения ко всем существующим заказчикам. 
 > - Большую часть этих ограничений нельзя изменить, но вам и вашим пользователям следует знать о них. 
 > - Они применяются как к внутренним, так и к внешним получателям. 
-> - По умолчанию служба Exchange Online Protection (EOP) защищает почтовые ящики Exchange Online. Для пределов, которые применяются к функциям EOP в Exchange Online, ознакомьтесь с разделом [Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - По умолчанию служба Exchange Online Protection (EOP) защищает почтовые ящики Exchange Online. Ограничения, применяемые к функциям EOP в Exchange Online, см. в статье [Ограничения Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
   
 ## <a name="exchange-online-protection-features"></a>Функции Exchange Online Protection
 <a name="BM6_EOP"> </a>
@@ -479,7 +479,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Разрешения для группы ролей администраторов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |
 |[Управление доменами](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |
 |[Соответствующие поддомены](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains) <br/> |Да  <br/> |Да  <br/> |
-|[Пограничная блокировка на основе каталогов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |Нет  <br/> |Да  <br/> |
+|[Пограничная блокировка на основе каталогов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |Нет  <br/> |ДА  <br/> |
 |[Правила транспорта](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |Да<sup>3, 4, 11</sup> <br/> |Да<sup>3, 4, 11</sup> <br/> |
 |[Ведение журнала аудита](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |Да<sup>5</sup> <br/> |Да  <br/> |
 |[Предотвращение потери данных (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |Нет  <br/> |Нет  <br/> |
@@ -496,12 +496,12 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Защищенный обмен сообщениями с доверенным партнером](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление IP-адреса партнера в список надежных отправителей](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Да  <br/> |Да  <br/> |
 |[Условная маршрутизация почты](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Да  <br/> |Да  <br/> |
-|[Маршрутизация гибридной почты](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Нет  <br/> |Да  <br/> |
-|[Отчеты центра администрирования Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Нет<sup>8</sup> <br/> |Да<sup>8, 9</sup> <br/> |
+|[Маршрутизация гибридной почты](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Нет  <br/> |ДА  <br/> |
+|[Отчеты центра администрирования Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Нет<sup>8</sup> <br/> |Да<sup>8, 9</sup> <br/> |
 |[Отчеты о приложениях для скачивания Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Нет  <br/> |Да  <br/> |
-|[Создание отчетов с помощью веб-служб](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Нет  <br/> |Да  <br/> |
+|[Создание отчетов с помощью веб-служб](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Нет  <br/> |ДА  <br/> |
 |[Трассировка сообщений](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |
-|[Доступ к центру администрирования Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Да  <br/> |Да  <br/> |
+|[Доступ к центру администрирования Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Да  <br/> |Да  <br/> |
 |[Доступ в Центр администрирования Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |
    
@@ -536,21 +536,21 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |:-----|:-----|:-----|
 |**Функция** <br/> |**Архивация на базе Exchange Online для Exchange Server<sup>1</sup>**          <br/> |**Архивация на базе Exchange Online для Exchange Online<sup>2</sup>** <br/> |
 |**[Функции архивирования в архивации на базе Exchange Online](../exchange-online-archiving-service-description/archive-features.md)** <br/> |||
-|Архивный почтовый ящик  <br/> |Нет  <br/> |Да  <br/> |
-|Перемещение сообщений с помощью политики архивации  <br/> |Нет  <br/> |Да  <br/> |
-|Импорт данных в архив  <br/> |Нет  <br/> |Да  <br/> |
-|Восстановление удаленных элементов  <br/> |Нет  <br/> |Да  <br/> |
-|Восстановление удаленного почтового ящика  <br/> |Нет  <br/> |Да  <br/> |
-|Резервное копирование почтовых ящиков  <br/> |Нет  <br/> |Да  <br/> |
+|Архивный почтовый ящик  <br/> |Нет  <br/> |ДА  <br/> |
+|Перемещение сообщений с помощью политики архивации  <br/> |Нет  <br/> |ДА  <br/> |
+|Импорт данных в архив  <br/> |Нет  <br/> |ДА  <br/> |
+|Восстановление удаленных элементов  <br/> |Нет  <br/> |ДА  <br/> |
+|Восстановление удаленного почтового ящика  <br/> |Нет  <br/> |ДА  <br/> |
+|Резервное копирование почтовых ящиков  <br/> |Нет  <br/> |ДА  <br/> |
 |**[Клиентские возможности архивации на базе Exchange Online](../exchange-online-archiving-service-description/client-features.md)** <br/> |||
-|Outlook<sup>3</sup> <br/> |Нет  <br/> |Да  <br/> |
-|Outlook Web App  <br/> |Нет  <br/> |Да  <br/> |
+|Outlook<sup>3</sup> <br/> |Нет  <br/> |ДА  <br/> |
+|Outlook Web App  <br/> |Нет  <br/> |ДА  <br/> |
 |**[Функции контроля соответствия требованиям и безопасности в архивации на базе Exchange Online](../exchange-online-archiving-service-description/compliance-and-security-features.md)** <br/> |||
 |Политики хранения  <br/> |Нет  <br/> |Да  <br/> |
-|Хранение на месте и хранение для судебного разбирательства<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |
-|Обнаружение электронных данных на месте  <br/> |Нет  <br/> |Да  <br/> |
-|Шифрование между локальными серверами и средством архивации на базе Exchange Online  <br/> |Нет  <br/> |Да  <br/> |
-|Шифрование между клиентами и средством архивации на базе Exchange Online  <br/> |Нет  <br/> |Да  <br/> |
+|Хранение на месте и хранение для судебного разбирательства<sup>5</sup> <br/> |Нет  <br/> |ДА  <br/> |
+|Обнаружение электронных данных на месте  <br/> |Нет  <br/> |ДА  <br/> |
+|Шифрование между локальными серверами и средством архивации на базе Exchange Online  <br/> |Нет  <br/> |ДА  <br/> |
+|Шифрование между клиентами и средством архивации на базе Exchange Online  <br/> |Нет  <br/> |ДА  <br/> |
 |Шифрование: S/MIME и PGP  <br/> |Да  <br/> |Да  <br/> |
 |IRM на базе Azure Information Protection  <br/> |Нет  <br/> |Нет  <br/> |
 |Управление правами на доступ к данным с помощью AD RMS для Windows Server  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
@@ -689,7 +689,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Каталогов](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
@@ -752,7 +752,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Search vertical: “People” <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Search vertical: “Video” <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Поиски "Этот список"](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности веб-сайтов** <br/> |**Office 365 бизнес базовый под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
+|**Возможности веб-сайтов** <br/> |**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Change the look <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Connections to Microsoft Office Clients <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка различных браузеров](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -782,7 +782,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[страница "Использование сайта";](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Варианты](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Work Management Service <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности для общения** <br/> |**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
+|**Возможности для общения** <br/> |**Office 365 бизнес базовый под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Ask Me About <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Личные блоги](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Communities Reputation, Badging, and Moderation <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Ноно  <br/> |
@@ -1007,7 +1007,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[Аудио- и видеосвязь, а также передача мультимедиа между абонентами Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet** <br/> |**Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet** <br/> |
 |Совместный доступ к рабочему столу  <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
 |Общий доступ к приложениям  <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
-|Передача файлов  <br/> |Нет  <br/> |Да  <br/> |
+|Передача файлов  <br/> |Нет  <br/> |ДА  <br/> |
 |Голосовые вызовы  <br/> |Нет  <br/> |Нет  <br/> |
 |Видео  <br/> |Да  <br/> |Да  <br/> |
 |Оптимизация пути к носителям  <br/> |Нет  <br/> |Нет  <br/> |
@@ -1019,30 +1019,30 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 | Федерация со Skype  <br/> |Нет  <br/> |Нет  <br/> |
 |Федерация AOL и Yahoo!  <br/> |Нет  <br/> |Нет  <br/> |
 |**[Собрания Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet** <br/> |**Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet** <br/> |
-|Динамическая сеть и планирование аудиоконференций  <br/> |Нет  <br/> |Да  <br/> |
-|Динамическая сеть и планирование видеоконференций  <br/> |Нет  <br/> |Да  <br/> |
-|Видео активного выступающего  <br/> |Нет  <br/> |Да  <br/> |
-|Кодирование и декодирование H.264  <br/> |Нет  <br/> |Да  <br/> |
-|Многопользовательский сеанс видеосвязи  <br/> |Нет  <br/> |Да  <br/> |
-|Видео высокой четкости или фотографии всех участников  <br/> |Нет  <br/> |Да  <br/> |
-|Элементы управления для выступающих  <br/> |Нет  <br/> |Да  <br/> |
-|Выбранное представление участника  <br/> |Нет  <br/> |Да  <br/> |
-|Совместный доступ к OneNote  <br/> |Нет  <br/> |Да  <br/> |
-|Динамическая сеть и планирование веб-конференций  <br/> |Нет  <br/> |Да  <br/> |
+|Динамическая сеть и планирование аудиоконференций  <br/> |Нет  <br/> |ДА  <br/> |
+|Динамическая сеть и планирование видеоконференций  <br/> |Нет  <br/> |ДА  <br/> |
+|Видео активного выступающего  <br/> |Нет  <br/> |ДА  <br/> |
+|Кодирование и декодирование H.264  <br/> |Нет  <br/> |ДА  <br/> |
+|Многопользовательский сеанс видеосвязи  <br/> |Нет  <br/> |ДА  <br/> |
+|Видео высокой четкости или фотографии всех участников  <br/> |Нет  <br/> |ДА  <br/> |
+|Элементы управления для выступающих  <br/> |Нет  <br/> |ДА  <br/> |
+|Выбранное представление участника  <br/> |Нет  <br/> |ДА  <br/> |
+|Совместный доступ к OneNote  <br/> |Нет  <br/> |ДА  <br/> |
+|Динамическая сеть и планирование веб-конференций  <br/> |Нет  <br/> |ДА  <br/> |
 |Аудиоконференции с телефонным подключением через сертифицированного поставщика услуг (ACP)  <br/> |Нет  <br/> |Нет  <br/> |
-|Совместный доступ к PowerPoint  <br/> |Нет  <br/> |Да  <br/> |
-|Доска и заметки  <br/> |Нет  <br/> |Да  <br/> |
+|Совместный доступ к PowerPoint  <br/> |Нет  <br/> |ДА  <br/> |
+|Доска и заметки  <br/> |Нет  <br/> |ДА  <br/> |
 |Отправка PowerPoint  <br/> |Нет  <br/> |Да  <br/> |
 |Опрос  <br/> |Нет  <br/> |Да  <br/> |
 |Запись и воспроизведение на стороне клиента  <br/> |Нет  <br/> |Да<sup>1</sup> <br/> |
 |Запись и воспроизведение на стороне сервера  <br/> |Нет  <br/> |Нет  <br/> |
-|Зал собраний  <br/> |Нет  <br/> |Да  <br/> |
-|Гостевой доступ к собраниям Skype для бизнеса с помощью Skype для бизнеса Web App  <br/> |Нет  <br/> |Да  <br/> |
-|Планирование собраний Skype для бизнеса в Outlook  <br/> |Нет  <br/> |Да  <br/> |
-|Планирование собраний Skype для бизнеса в Outlook от чужого имени (делегирование)  <br/> |Нет  <br/> |Да  <br/> |
-|Планирование собраний Skype для бизнеса с помощью веб-планировщика  <br/> |Нет  <br/> |Да  <br/> |
-|Планирование собраний по сети в Outlook Web App  <br/> |Нет  <br/> |Да  <br/> |
-|Делегирование Outlook для планирования собраний  <br/> |Нет  <br/> |Да  <br/> |
+|Зал собраний  <br/> |Нет  <br/> |ДА  <br/> |
+|Гостевой доступ к собраниям Skype для бизнеса с помощью Skype для бизнеса Web App  <br/> |Нет  <br/> |ДА  <br/> |
+|Планирование собраний Skype для бизнеса в Outlook  <br/> |Нет  <br/> |ДА  <br/> |
+|Планирование собраний Skype для бизнеса в Outlook от чужого имени (делегирование)  <br/> |Нет  <br/> |ДА  <br/> |
+|Планирование собраний Skype для бизнеса с помощью веб-планировщика  <br/> |Нет  <br/> |ДА  <br/> |
+|Планирование собраний по сети в Outlook Web App  <br/> |Нет  <br/> |ДА  <br/> |
+|Делегирование Outlook для планирования собраний  <br/> |Нет  <br/> |ДА  <br/> |
 |Создание общедоступных собраний со статическими кодами собрания в Outlook  <br/> |Нет  <br/> |Нет  <br/> |
 |**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet** <br/> |**Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet** <br/> |
 |Мгновенные сообщения и шифрование мультимедиа  <br/> |Да  <br/> |Да  <br/> |

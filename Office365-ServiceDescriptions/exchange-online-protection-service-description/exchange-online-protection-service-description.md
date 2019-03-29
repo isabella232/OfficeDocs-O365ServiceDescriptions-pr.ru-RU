@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. Ознакомьтесь со списком планов, в которые включена служба Exchange Online Protection, а также со сравнением компонентов, доступных в этих планах.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467676"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955768"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -109,11 +109,11 @@ EOP можно использовать с любым агентом перес�
 |[Добавление IP-адреса партнера в список надежных отправителей](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Условная маршрутизация почты](mail-flow-eop.md#conditional-mail-routing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Маршрутизация гибридной почты](mail-flow-eop.md#hybrid-mail-routing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Отчеты центра администрирования Microsoft 365](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да <sup>9, 10</sup> <br/> |
+|[Отчеты центра администрирования Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да <sup>9, 10</sup> <br/> |
 |[Отчеты о приложениях для скачивания Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |
 |[Создание отчетов с помощью веб-служб](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Трассировка сообщений](reporting-and-message-trace.md#message-trace) <br/> |Да<sup>15</sup> <br/> |Да<sup>15</sup> <br/> |Да  <br/> |
-|[Доступ к центру администрирования Microsoft 365](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Доступ к центру администрирования Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Доступ в Центр администрирования Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный доступ к Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
    

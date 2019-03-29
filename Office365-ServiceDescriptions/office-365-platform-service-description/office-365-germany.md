@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: 52f98f816ae0cdb0d919dd485fd0ba4b3767ef22
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468096"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955828"
 ---
 # <a name="office-365-germany"></a>Office 365 в Германии
 
@@ -292,7 +292,7 @@ Office 365 Германия соответствует стандартам Clou
 |Power Query for Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Power View for Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Roaming settings  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Shared computer activation  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Shared computer activation  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Support for blocking cloud-based file storage  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Version upgrades  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Да  <br/> |Да  <br/> |Нет<sup>10</sup> <br/> |
@@ -462,11 +462,11 @@ Office 365 Германия соответствует стандартам Clou
 |[Добавление IP-адреса партнера в список надежных отправителей](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Условная маршрутизация почты](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Маршрутизация гибридной почты](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Отчеты центра администрирования Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да <sup>9, 10</sup> <br/> |
+|[Отчеты центра администрирования Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да <sup>9, 10</sup> <br/> |
 |[Отчеты о приложениях для скачивания Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |
 |[Создание отчетов с помощью веб-служб](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Трассировка сообщений](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Да<sup>15</sup> <br/> |Да<sup>15</sup> <br/> |Да  <br/> |
-|[Доступ к центру администрирования Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Доступ к центру администрирования Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Доступ в Центр администрирования Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
    
@@ -500,15 +500,15 @@ Office 365 Германия соответствует стандартам Clou
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|BCS: Alerts for External Lists <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[BCS: Внешние типы контента (ECT) из области приложений](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[BCS: Внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|BCS: Alerts for External Lists <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[BCS: Внешние типы контента (ECT) из области приложений](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[BCS: Внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |BCS: Profile Pages <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[BCS: Расширенная интеграция клиента](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|BCS: Secure Store Service <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|BCS: Tenant-level external data log <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |   
+|BCS: Secure Store Service <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|BCS: Tenant-level external data log <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |   
 |Browser-based customizations <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Клиентская объектная модель (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Client-side rendering (CSR) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -539,7 +539,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Защита от вредоносных программ](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка проверки подлинности, основанной на утверждениях](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Configuration Wizards <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
+|[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |Deferred Site Collection upgrade <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Distributed Cache <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -609,7 +609,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Каталогов](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
@@ -870,7 +870,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Каталогов](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
