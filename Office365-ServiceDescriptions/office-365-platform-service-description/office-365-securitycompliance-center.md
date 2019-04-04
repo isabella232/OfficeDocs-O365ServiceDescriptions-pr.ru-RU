@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467986"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411868"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -39,8 +39,8 @@ ms.locfileid: "30467986"
 |[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Поиск с обнаружением электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Экспорт обнаружения электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Архивация](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Нет  <br/> |
@@ -56,7 +56,7 @@ ms.locfileid: "30467986"
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Возможность** <br/> |**Exchange Online (план 1)** <br/> |**Exchange Online (план 2)** <br/> |**Базовая подписка на Exchange Online** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Skype для бизнеса Online (план 1)** <br/> |**Skype для бизнеса Online (план 2)** <br/> |
+|**Функция** <br/> |**Exchange Online (план 1)** <br/> |**Exchange Online (план 2)** <br/> |**Базовая подписка на Exchange Online** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Skype для бизнеса Online (план 1)** <br/> |**Skype для бизнеса Online (план 2)** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Возможности управления угрозами](https://go.microsoft.com/fwlink/?linkid=845550), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -66,7 +66,7 @@ ms.locfileid: "30467986"
 |[Управление данными](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Поиск и исследование](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|[Поиск с обнаружением электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Экспорт при обнаружении электронных данных](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
 |[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -81,10 +81,10 @@ ms.locfileid: "30467986"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 operated by 21Vianet, see [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+Центр соответствия требованиям безопасности _Амп_ недоступен в планах для Office 365 под управлением 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 Germany Enterprise E3, see [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+Центр соответствия требованиям безопасности _Амп_ доступен для Office 365 Германии. Сведения о Office 365 для Германии представлены в статье [office 365 Германия](office-365-germany.md).
   
 
