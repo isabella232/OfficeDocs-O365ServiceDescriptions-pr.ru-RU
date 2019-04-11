@@ -3,7 +3,7 @@ title: Описание служб платформы Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/28/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 0ad78d2b5fbdecd7fcec3e9177254f7e0b2a99b2
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955788"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764867"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -93,7 +93,7 @@ Microsoft Office 365: предоставляет мощность облачно
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
-|**[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**[Администрирование Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Нет<sup>2</sup> <br/> |
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
@@ -112,6 +112,7 @@ Microsoft Office 365: предоставляет мощность облачно
 |Группы Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |
 |Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>15</sup> <br/> |Нет  <br/> |
+|Microsoft Kaizala<sup>19</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
 |**[Управление учетными записями пользователей](user-account-management.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Установщик обновлений Office 365: для рабочего стола  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -177,10 +178,10 @@ Microsoft Office 365: предоставляет мощность облачно
 |Сообщество  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Другие ресурсы для самостоятельного разрешения вопросов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Для самостоятельного обучения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[сеть](networking.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
+|**[Сеть](networking.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Протоколы IPv4 и IPv6  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**Доверие** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
-|**[Конфиденциальность, безопасность и прозрачность](privacy-security-and-transparency.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|**[Privacy, Security, and Transparency](privacy-security-and-transparency.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Cloud App Security  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Расширенная защита от угроз  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Защищенное хранилище пользователя  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
@@ -197,15 +198,14 @@ Microsoft Office 365: предоставляет мощность облачно
 |Разрешение на эксплуатацию по FISMA  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Соглашение по обработке данных Майкрософт  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Данные PAN, регулируемые PCI  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**[Непрерывная работа службы](service-health-and-continuity.md)** <br/> ||||||||
+|**[Service Continuity](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> **Office 365 Germany бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Использование BlackBerry Internet Service (BIS)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Партнеры](partners.md)** <br/> ||||||||
 |Создание приглашения ознакомиться с пробной версией и заказа на покупку для пользователя с указанным планом  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Предоставление делегированного администрирования  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Соглашение об условиях обслуживания](service-level-agreement.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Права на использование продуктов](product-use-rights.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-   
+|**[Service Level Agreement](service-level-agreement.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|**[Product Use Rights](product-use-rights.md)** <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> | 
 
 > <sup>1</sup> Office 365 не обеспечивает поддержку операционной системы, которая не поддерживается производителем. 
 <br/><sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Клиентские приложения Office, поставляемые с Microsoft 365 Business, также поддерживают полную функциональность Azure Information Protection (план 1).
@@ -222,4 +222,5 @@ Microsoft Office 365: предоставляет мощность облачно
 <br/><sup>14</sup> в Office 365 Enterprise F1, поток ограничен только потреблением и работает только до 750 на одного пользователя в месяц. 
 <br/><sup>15</sup> доступно только в планах Office 365 для образовательных учреждений, в том числе Office 365 для образования. Она недоступна в Office 365 корпоративный "~". 
 <br/><sup>16</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные клиентов из Европы, Ближнего Востока и Африки экспортированы в Западная Европа [Нидерланды]. GT <br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа. 
+<br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные клиентов из Европы, Ближнего Востока и Африки экспортированы в Западная Европа [Нидерланды]. GT <br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
+<br/><sup>19</sup> начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.   

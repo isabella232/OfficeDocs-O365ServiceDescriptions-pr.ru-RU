@@ -8,8 +8,8 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/4/2019 | [Office 365 GCC High и DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | изменено |
-| 3/4/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | изменено |
+| 3/4/2019 | [Office 365 GCC High и DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | Изменено |
+| 3/4/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | Изменено |
 | 3/4/2019 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | Изменено |
 | 06.03.2019 | [Описание неПосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
 | 06.03.2019 | [Функции архивирования в архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Изменено |
@@ -35,7 +35,7 @@
 | 06.03.2019 | [Политика обмена сообщениями и соответствие требованиям](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | Изменено |
 | 06.03.2019 | [Разрешения](/Office365/ServiceDescriptions/exchange-online-service-description/permissions) | Изменено |
 | 06.03.2019 | [Планирование и развертывание](/Office365/ServiceDescriptions/exchange-online-service-description/planning-and-deployment) | Изменено |
-| 06.03.2019 | [Получатели](/Office365/ServiceDescriptions/exchange-online-service-description/recipients) | Изменено |
+| 06.03.2019 | [Recipients](/Office365/ServiceDescriptions/exchange-online-service-description/recipients) | Изменено |
 | 06.03.2019 | [Функции создания отчетов и средства устранения неполадок](/Office365/ServiceDescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools) | Изменено |
 | 06.03.2019 | [Общий доступ и совместная работа](/Office365/ServiceDescriptions/exchange-online-service-description/sharing-and-collaboration) | Изменено |
 | 06.03.2019 | [Службы голосовых сообщений](/Office365/ServiceDescriptions/exchange-online-service-description/voice-message-services) | Изменено |
@@ -93,7 +93,7 @@
 | 06.03.2019 | [Для разработчиков](/Office365/ServiceDescriptions/sharepoint-online-service-description/developer) | Изменено |
 | 06.03.2019 | [Аналитика](/Office365/ServiceDescriptions/sharepoint-online-service-description/insights) | Изменено |
 | 06.03.2019 | [ИТ-специалистам](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | Изменено |
-| 06.03.2019 | [Сервер поиска](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | Изменено |
+| 06.03.2019 | [Поиск](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | Изменено |
 | 06.03.2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
 | 06.03.2019 | [Описание службы SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Изменено |
 | 06.03.2019 | [Сайты [ServiceDesc]](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | Изменено |
@@ -106,15 +106,15 @@
 | 06.03.2019 | [Описание службы Workplace Analytics](/Office365/ServiceDescriptions/workplace-analytics-service-description) | Изменено |
 | 06.03.2019 | [Функции администрирования и безопасности в Yammer](/Office365/ServiceDescriptions/yammer-service-description/administration-and-security-features-in-yammer) | Изменено |
 | 06.03.2019 | [Возможности обнаружения в Yammer](/Office365/ServiceDescriptions/yammer-service-description/discovery-features-in-yammer) | Изменено |
-| 06.03.2019 | [Возможности совместной работы с документами в Yammer](/Office365/ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer) | изменено |
-| 06.03.2019 | [Возможности по работе с внешними сетями в Yammer](/Office365/ServiceDescriptions/yammer-service-description/external-network-features-in-yammer) | изменено |
-| 06.03.2019 | [Функции работы с группами в Yammer](/Office365/ServiceDescriptions/yammer-service-description/group-features-in-yammer) | изменено |
-| 06.03.2019 | [Функции папки 'Входящие' в Yammer](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | изменено |
-| 06.03.2019 | [Возможности по использованию сообщений и бесед в Yammer](/Office365/ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer) | изменено |
-| 06.03.2019 | [Функции профилей в Yammer](/Office365/ServiceDescriptions/yammer-service-description/profile-features-in-yammer) | изменено |
-| 06.03.2019 | [Возможности поддержки в Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | изменено |
-| 06.03.2019 | [Возможности платформы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | изменено |
-| 06.03.2019 | [Описание службы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | изменено |
+| 06.03.2019 | [Возможности совместной работы с документами в Yammer](/Office365/ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer) | Изменено |
+| 06.03.2019 | [Возможности по работе с внешними сетями в Yammer](/Office365/ServiceDescriptions/yammer-service-description/external-network-features-in-yammer) | Изменено |
+| 06.03.2019 | [Функции работы с группами в Yammer](/Office365/ServiceDescriptions/yammer-service-description/group-features-in-yammer) | Изменено |
+| 06.03.2019 | [Функции папки 'Входящие' в Yammer](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | Изменено |
+| 06.03.2019 | [Возможности по использованию сообщений и бесед в Yammer](/Office365/ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer) | Изменено |
+| 06.03.2019 | [Функции профилей в Yammer](/Office365/ServiceDescriptions/yammer-service-description/profile-features-in-yammer) | Изменено |
+| 06.03.2019 | [Возможности поддержки в Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | Изменено |
+| 06.03.2019 | [Возможности платформы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | Изменено |
+| 06.03.2019 | [Описание службы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | Изменено |
 
 
 ## <a name="week-of-march-11-2019"></a>Неделя с 11 марта 2019 г.
@@ -122,10 +122,10 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/12/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | изменено |
-| 3/14/2019 | [Описание службы Microsoft 365 бизнеса](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | изменено |
+| 3/12/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
+| 3/14/2019 | [Описание службы Microsoft 365 бизнеса](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
 | 3/14/2019 | [Описание службы MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | введен |
-| 3/14/2019 | [Описание служб Office 365 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | изменено |
+| 3/14/2019 | [Описание служб Office 365 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | Изменено |
 | 3/14/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
 
 
@@ -134,8 +134,8 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | изменено |
-| 3/18/2019 | [Права на использование продуктов](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | изменено |
+| 3/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
+| 3/18/2019 | [Права на использование продуктов](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | Изменено |
 
 
 ## <a name="week-of-march-25-2019"></a>Неделя с 25 марта 2019 г.
@@ -143,18 +143,19 @@
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/26/2019 | [Описание неПосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | изменено |
-| 3/28/2019 | [Описание службы Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | изменено |
-| 3/28/2019 | [Установка и администрирование Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | изменено |
-| 3/28/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | изменено |
-| 3/28/2019 | [Office 365 в Германии](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | изменено |
-| 3/28/2019 | [Служба Office 365, которой управляет 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | изменено |
-| 3/28/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | изменено |
+| 3/26/2019 | [Описание неПосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
+| 3/28/2019 | [Описание службы Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | Изменено |
+| 3/28/2019 | [Установка и администрирование Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | Изменено |
+| 3/28/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Изменено |
+| 3/28/2019 | [Office 365 в Германии](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | Изменено |
+| 3/28/2019 | [Служба Office 365, которой управляет 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Изменено |
+| 3/28/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
 
 
-## <a name="week-of-february-25-2019"></a>Неделя с 25 февраля 2019 г.
+## <a name="week-of-april-01-2019"></a>Неделя с 01 апреля 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 2/27/2019 | [Описание службы Microsoft 365 бизнеса](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | изменено |
+| 4/3/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
+| 4/4/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | изменено |
