@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Чтобы узнать о возможностях Office 365, которые только что были выпущены или готовы к выпуску, ознакомьтесь с планом Microsoft 365.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825157"
+ms.locfileid: "31833848"
 ---
 # <a name="service-updates"></a>Обновления служб
 
@@ -32,7 +32,7 @@ ms.locfileid: "31825157"
   
 ## <a name="targeted-release"></a>Выпуск Targeted
 
-Ваша организация или группа пользователей получает пакет обновлений службы примерно за неделю до начала стандартного выпуска. Дополнительные сведения см. в статье [Программы выпусков Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Ваша организация или группа пользователей получает пакет обновлений службы примерно за неделю до начала стандартного выпуска. Дополнительные сведения см. в статье [варианты выпуска Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Уведомления об обновлениях
 

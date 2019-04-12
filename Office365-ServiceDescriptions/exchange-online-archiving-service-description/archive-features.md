@@ -3,7 +3,7 @@ title: Функции архивирования в архивации на ба
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: В следующих разделах описываются функции архивации архивации Microsoft Exchange Online.
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467206"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833850"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Функции архивирования в архивации на базе Exchange Online
 
@@ -37,7 +37,7 @@ ms.locfileid: "30467206"
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Перемещение сообщений для архивации на базе Exchange Online
 
-Пользователи могут перетаскивать сообщения из PST-файлов в архив, чтобы они всегда были под рукой. Они также могут автоматически перемещать письма из основного почтового ящика в архивный с помощью политик архивации, что уменьшает его размер и повышает производительность. Такой сценарий отличается от использования службы Exchange Hosted Archive, которая создает копию каждого сообщения в архиве, но оба позволяют соблюдать требования по хранению. 
+Пользователи могут перетаскивать сообщения из PST-файлов в архив, чтобы они всегда были под рукой. Они также могут автоматически перемещать письма из основного почтового ящика в архивный с помощью политик архивации, что уменьшает его размер и повышает производительность. 
   
 ### <a name="import-data-to-the-archive"></a>Импорт данных в архив
 
