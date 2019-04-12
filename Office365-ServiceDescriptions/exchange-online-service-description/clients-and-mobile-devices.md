@@ -3,7 +3,7 @@ title: Клиенты и мобильные устройства
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467616"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825208"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -40,7 +40,7 @@ Microsoft Outlook — это почтовая программа, включаю
   
 ## <a name="outlook-on-the-web"></a>Outlook в Интернете
 
-Outlook в Интернете  это веб-версия почтового клиента Outlook, используемая вместе с Exchange Online. Она предоставляет пользователям доступ к электронной почте, календарю и контактам через браузер при подключении к Интернету. Сведения о поддерживаемых браузерах см. в статье [Поддерживаемые браузеры для Outlook в Интернете для бизнеса](https://go.microsoft.com/fwlink/p/?LinkId=287032).
+Outlook в Интернете  это веб-версия почтового клиента Outlook, используемая вместе с Exchange Online. Она предоставляет пользователям доступ к электронной почте, календарю и контактам через браузер при подключении к Интернету. Сведения о поддерживаемых браузерах см. в статье [Поддерживаемые браузеры для Outlook в Интернете для бизнеса](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook в Интернете поставляется как две клиентские версии, которые можно использовать с Exchange Online:
   
@@ -63,7 +63,7 @@ Exchange Online работает с приложениями Outlook, досту
 |Устройство  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Доступность приложений Outlook Mobile  <br/> |Да  <br/> [Получение Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получение Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные почтовые приложения, совместимые с Exchange Online  <br/> |Почтовое приложение для приложения Gmail и Samsung  <br/> |Почтовое приложение iOS  <br/> |Почта, календарь, контакты Outlook  <br/> |
-|Дополнительные сведения  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Дополнительная информация  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
 Кроме того, существуют параметры для использования Exchange Online с устройствами, включая Blackberry.
   

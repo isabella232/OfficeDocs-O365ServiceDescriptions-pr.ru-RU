@@ -1,9 +1,9 @@
 ---
-title: Политика управления сообщениями и соответствие нормативным требованиям[ServiceDesc]
+title: Политика обмена сообщениями и соответствие требованиям
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466976"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825187"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>Политика управления сообщениями и соответствие нормативным требованиям[ServiceDesc]
+# <a name="messaging-policy-and-compliance"></a>Политика обмена сообщениями и соответствие требованиям
 
 Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
   
@@ -76,10 +76,13 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 |:-----|:-----|:-----|:-----|
 |Правила транспорта  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
 |Ведение журнала аудита  <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|Предотвращение потери данных (DLP)  <br/> |Нет  <br/> |Да  <br/> |Да,<sup>3</sup> <br/> |
+|Предотвращение потери данных (DLP)  <br/> |Нет  <br/> |ДА  <br/> |Да,<sup>3</sup> <br/> |
 |Шифрование сообщений Office 365  <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> доступные критерии и действия ОТЛИЧАЮТСЯ в EOP и Exchange Online. Список доступных условий и действий в EOP представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320392) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320393). Список доступных условий и действий в Exchange Online представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320394) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> отчеты аудита EOP являются подмножеством отчетов об аудите Exchange Online, которые исключают сведения о почтовых ящиках. > <sup>3</sup> подсказки политики DLP недоступны для клиентов Exchange Enterprise CAL со службами. > <sup>4</sup> поддерживается для локальных пользователей, которые приобрели надстройку Azure Information Protection и используют Exchange Online Protection для маршрутизации электронной почты через Exchange Online. В дополнение к надстройке Azure Information Protection, для работы с рабочими станциями необходимо приобрести Office 365 профессиональный плюс. 
+> <sup>1</sup> доступные критерии и действия ОТЛИЧАЮТСЯ в EOP и Exchange Online. Список доступных условий и действий в EOP представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320392) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320393). Список доступных условий и действий в Exchange Online представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320394) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
+> <sup>2</sup> отчеты аудита EOP являются подмножеством отчетов об аудите Exchange Online, которые исключают сведения о почтовых ящиках. <br/>
+> <sup>3</sup> подсказки политики DLP недоступны для клиентов Exchange Enterprise CAL со службами. <br/>
+> <sup>4</sup> поддерживается для локальных пользователей, которые приобрели надстройку Azure Information Protection и используют Exchange Online Protection для маршрутизации электронной почты через Exchange Online. В дополнение к надстройке Azure Information Protection, для работы с рабочими станциями необходимо приобрести Office 365 профессиональный плюс. <br/>
   
 

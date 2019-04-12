@@ -1,9 +1,9 @@
 ---
-title: Сайты [ServiceDesc]
+title: Сайты
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые позволяют организациям хранить, совместно использовать и управлять цифровыми данными. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности представляют собой полный набор средств, которые могут использоваться в организации для создания любого типа сайта, а также единую инфраструктуру, которая упрощает управление сайтом. Более подробную информацию можно найти в разделе Find Contents о SharePoint Online.
-ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467886"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825177"
 ---
-# <a name="sitesservicedesc"></a>Сайты [ServiceDesc]
+# <a name="sites"></a>Сайты
 
 Microsoft SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые позволяют организациям хранить, совместно использовать и управлять цифровыми данными. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности представляют собой полный набор средств, которые могут использоваться в организации для создания любого типа сайта, а также единую инфраструктуру, которая упрощает управление сайтом. Более подробную информацию можно найти в разделе [Find Contents о SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
   
