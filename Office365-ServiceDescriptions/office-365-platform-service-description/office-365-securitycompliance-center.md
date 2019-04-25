@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
 ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833861"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247215"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 

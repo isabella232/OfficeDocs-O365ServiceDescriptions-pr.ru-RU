@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
 ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955808"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247314"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -689,7 +689,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Каталогов](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
@@ -789,7 +789,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Сообщество](../sharepoint-online-service-description/social.md#community) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Веб-канал компании](../sharepoint-online-service-description/social.md#company-feed) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Document Conversations with Yammer <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Follow <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|Подписаться <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Микроблоги <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Канал новостей <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |One Click Sharing <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |

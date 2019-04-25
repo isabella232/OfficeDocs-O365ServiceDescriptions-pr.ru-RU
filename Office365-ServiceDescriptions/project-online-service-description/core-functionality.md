@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: В Project Online доступны следующие основные функциональные возможности.
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467476"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246905"
 ---
 # <a name="core-functionality"></a>Основная функциональность
 
@@ -96,7 +96,7 @@ ms.locfileid: "30467476"
 
 Если вы не знаете всех сведений, касающихся проекта, вы можете использовать замещающий текст, например "TBD" для ресурсов, дат начала и окончания и т. д. С дополнительными сведениями можно ознакомиться в статье [Нисходящее планирование](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="project-templates"></a>Project templates
+## <a name="project-templates"></a>Шаблоны проектов
 <a name="bkmk_ProjectTemplates"> </a>
 
 Вы можете значительно сэкономить время, создавая проекты на основе других проектов, используя их в качестве шаблона. Ознакомьтесь со статьей [Создание нового проекта из другого проекта или шаблона](https://go.microsoft.com/fwlink/p/?LinkId=271328).

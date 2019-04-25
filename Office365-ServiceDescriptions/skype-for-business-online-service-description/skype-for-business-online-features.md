@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Если вы являетесь администратором, вы можете найти подробные инструкции по настройке функций Skype для бизнеса Online в статье Настройка Skype для бизнеса Online.
 ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467436"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246393"
 ---
 # <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: В Project Online доступны следующие функции взаимодействия SharePoint и Skype для бизнеса.
 ms.openlocfilehash: 26794c9f3564fef01443350b035b04498aacc622
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466916"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246715"
 ---
 # <a name="project-publishing"></a>Публикация проекта
 

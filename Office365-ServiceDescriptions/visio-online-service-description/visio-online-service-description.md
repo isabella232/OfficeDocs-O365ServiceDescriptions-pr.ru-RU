@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: С помощью Visio Online вы можете просматривать и редактировать схемы Visio, а также делиться ими в Интернете. Начните с простой схемы для представления общих идей, например описания плана, предложения или последовательности действий в процессе. Вы можете с легкостью создавать высококлассные схемы распространенных типов с богатыми наборами фигур. Пользователи Visio Online могут просматривать схемы и совместно работать с ними, обмениваясь файлами и вставляя примечания в файлы, отправленные в SharePoint Online или OneDrive для бизнеса Online.
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466506"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246835"
 ---
 # <a name="visio-online-service-description"></a>Описание службы Visio Online
 
@@ -44,16 +44,16 @@ ms.locfileid: "30466506"
 |[Форматирование шрифта](visio-online.md#BM_9) <br/> |Да  <br/> |Да  <br/> |
 |[Гиперссылки](visio-online.md#BM_10)<sup>1</sup> <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
 |[Навигация](visio-online.md#BM_11) <br/> |Да  <br/> |Да  <br/> |
-|[Надстройки Office](visio-online.md#BM_12) <br/> |Нет  <br/> |Да  <br/> |
-|[Просмотр в автономном режиме](visio-online.md#BM_13) <br/> |Нет  <br/> |Да  <br/> |
+|[Надстройки Office](visio-online.md#BM_12) <br/> |Нет  <br/> |ДА  <br/> |
+|[Просмотр в автономном режиме](visio-online.md#BM_13) <br/> |Нет  <br/> |ДА  <br/> |
 |[Функция "Сохранить в формате PDF"](visio-online.md#BM_14) <br/> |Да<sup>4</sup> <br/> |Да  <br/> |
-|[Средства проверки правописания](visio-online.md#BM_15) <br/> |Нет  <br/> |Да  <br/> |
-|[Совместное редактирование в режиме реального времени](visio-online.md#BM_16) <br/> |Нет  <br/> |Да  <br/> |
+|[Средства проверки правописания](visio-online.md#BM_15) <br/> |Нет  <br/> |ДА  <br/> |
+|[Совместное редактирование в режиме реального времени](visio-online.md#BM_16) <br/> |Нет  <br/> |ДА  <br/> |
 |[Функции "Сохранить как" или "Загрузить копию"](visio-online.md#BM_17) <br/> |Да  <br/> |Да  <br/> |
 |[Общий доступ к схеме](visio-online.md#BM_18)<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |Нет  <br/> |Да  <br/> |
+|[SmartArt](visio-online.md#BM_19) <br/> |Нет  <br/> |ДА  <br/> |
 |[Подробнее](visio-online.md#BM_20) <br/> |Нет  <br/> |Да  <br/> |
-|[Отмена и повтор](visio-online.md#BM_21) <br/> |Нет  <br/> |Да  <br/> |
+|[Отмена и повтор](visio-online.md#BM_21) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр и добавление комментариев](visio-online.md#BM_22) <br/> |Да<sup>5</sup> <br/> |Да  <br/> |
 |[Просмотр данных фигур](visio-online.md#BM_23) <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
 |[Просмотр файлов Visio в браузере](visio-online.md#BM_24) <br/> |Да  <br/> |Да  <br/> |

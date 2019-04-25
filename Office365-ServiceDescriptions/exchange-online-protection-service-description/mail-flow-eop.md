@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет это сделать и обеспечивает обработку почты, предназначенную для защиты от вирусов и нежелательной почты, в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте Exchange Online Protection.
 ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467576"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244915"
 ---
 # <a name="mail-floweop"></a>Поток почты[EOP]
 
@@ -43,7 +43,7 @@ ms.locfileid: "30467576"
 
 Вы можете добавить IP-адрес доверенного партнера в список надежных отправителей, чтобы к его письмам не применялись фильтры нежелательной почты. Для этого можно использовать список разрешенных IP-адресов фильтра подключений. Дополнительные сведения см. в статье [Настройка политики фильтров подключений](https://go.microsoft.com/fwlink/p/?LinkID=287108).
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>Условная маршрутизация почты
 <a name="BKMK_conditionalmailrouting"> </a>
 
 Можно настроить соединитель с правилом транспорта для маршрутизации почты к определенному сайту на основании условий. Дополнительные сведения см. в статье [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).

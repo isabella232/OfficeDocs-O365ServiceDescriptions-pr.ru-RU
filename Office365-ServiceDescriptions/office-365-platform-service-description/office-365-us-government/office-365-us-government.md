@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: В ответ на уникальные и развивающиеся требования государственного сектора США Корпорация Майкрософт создала планы Office 365 для государственных организаций США (Ороффице 365 США). В этом разделе кратко описаны функции, характерные для плана Office 365 для государственных организаций США. Рекомендуется прочитать этот дополнительный раздел вместе с описаниями служб Office 365.
 ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825227"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247085"
 ---
 # <a name="office-365-us-government"></a>Office 365 для государственных организаций США
 

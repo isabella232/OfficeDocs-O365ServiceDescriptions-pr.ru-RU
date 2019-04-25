@@ -11,11 +11,11 @@ ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics — компоненты, распространения, конфиденциальность и необходимые компоненты
 ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30642230"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246505"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
 
@@ -38,7 +38,7 @@ MyAnalytics состоит из следующих элементов:
 
 Элементы MyAnalytics доступны на разных уровнях для пользователей разных планов Microsoft Office 365, как описано в следующей таблице:
 
-| План | Доступные элементы |
+| Планирование | Доступные элементы |
 | --- | --- |
 | Microsoft 365 E3</br>Microsoft 365 бизнес</br>Office 365 E3</br>Office 365 E1</br>Бизнес премиум</br>Бизнес базовый | </br></br></br>[Надстройка](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
 | Microsoft 365 E5</br>Office 365 корпоративный E5</br>Office 365 A5</br>Office 365 для некоммерческих организаций E5</br>Надстройка MyAnalytics | </br>[Панель мониторинга](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard), [надстройка](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in), [дайджест электронной почты](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)и [MyAnalytics будильники](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |

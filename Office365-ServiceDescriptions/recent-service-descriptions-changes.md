@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: В приведенных ниже таблицах перечислены изменения, недавно внесенные в описание служб.
 ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467446"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246635"
 ---
 # <a name="recent-service-descriptions-changes"></a>Недавние изменения в описании службы
 
@@ -44,7 +44,7 @@ ms.locfileid: "30467446"
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Разъяснены возможности общего доступа к файлам GCC High и DoD.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен раздел FastTrack в раздел GCC.  <br/> |
    
-## <a name="april-2018"></a>Апрель 2018 г.
+## <a name="april-2018"></a>Апрель 2018 г.
 
 ||||
 |:-----|:-----|:-----|
@@ -128,11 +128,11 @@ ms.locfileid: "30467446"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены дополнительные сведения о управлении.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены данные миграции данных, выполненных таблицей FastTrack.  <br/> |
-||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлено примечание о том, что для федеративного общего доступа требуется использование адресного пространства доступности для поддержки общего доступа к другим клиентам.  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлено примечание о том, что для федеративного общего доступа требуется использование адресного пространства доступности для поддержки общего доступа к другим клиентам.  <br/> |
 |Exchange Online  <br/> |[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Добавлены пределы для устаревшей версии Office 365 Message encryption (OME) и шифрования сообщений Office 365 (OME) с новыми возможностями.  <br/> |
-|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоКонференций в Office 365 Business Premium, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
-||[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что кредиты на связь можно добавить в план подписки на Office 365 Business Premium в качестве надстройки для поддержки голосовой конференции.  <br/> |
-||[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Разъяснены возможности передачи файлов в Office 365 Enterprise F1.  <br/> |
+|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоКонференций в Office 365 Business Premium, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
+||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что кредиты на связь можно добавить в план подписки на Office 365 Business Premium в качестве надстройки для поддержки голосовой конференции.  <br/> |
+||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Разъяснены возможности передачи файлов в Office 365 Enterprise F1.  <br/> |
 |Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Добавлена новая страница описания службы Visio Online и обновлены несколько страниц, чтобы отразить это добавление.  <br/> |
    
 ## <a name="september-2017"></a>Сентябрь 2017 г.
@@ -155,14 +155,14 @@ ms.locfileid: "30467446"
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
-||[Параметры планов Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
+||[Планы Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена таблица, в которой сравниваются функции автономных планов.  <br/> |
 ||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены сведения о компоненте Advanced Threat Protection.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
-||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
-||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Исправлена запись "Поддерживается прямая миграция" в таблице. Теперь сказано, что прямая миграция Exchange поддерживается.  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Добавлены сведения о приложениях Office 2016.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Добавлена эта статья.  <br/> |
 |Skype для бизнеса  <br/> |[Ограничения Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |Исправлены сведения об ограничении на передачу файлов.  <br/> |
@@ -180,7 +180,7 @@ ms.locfileid: "30467446"
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлено описание Microsoft Forms.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены сведения о Office 365 US Government G5.  <br/> |
 ||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Изменены сведения об управлении правами на доступ к данным (IRM) с использованием AD RMS Windows Server.  <br/> |
-||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлена строка "Создание паролей для приложений" в разделе "Управление учетными записями пользователей".  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлена строка "Создание паролей для приложений" в разделе "Управление учетными записями пользователей".  <br/> |
 ||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
 |Office Online  <br/> |[Описание службы Office Online](office-online-service-description/office-online-service-description.md) <br/> |Добавлены сведения о Visio.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Вместо записи "Политики и теги хранения" добавлена запись "Политики и теги хранения для управления записями сообщений (MRM)".  <br/> |

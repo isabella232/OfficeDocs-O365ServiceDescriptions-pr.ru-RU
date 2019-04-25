@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 — это облачная служба, предназначенная для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641444"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246795"
 ---
 # <a name="office-365-service-descriptions"></a>Описание служб Office 365 
 
@@ -47,7 +47,7 @@ Microsoft Office 365 — это облачная служба, предназн�
     
 - [Описание службы Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
+- [Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
     
 - [Описание службы архивации на базе Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     

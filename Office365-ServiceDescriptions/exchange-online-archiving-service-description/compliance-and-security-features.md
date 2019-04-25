@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467796"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245055"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Функции контроля соответствия требованиям и безопасности в архивации на базе Exchange Online
 
@@ -36,7 +36,7 @@ ms.locfileid: "30467796"
   
 Возможности политик хранения, предлагаемые в Архивация на базе Exchange Online, аналогичны предлагаемым в Exchange Server 2010 с пакетом обновления 2 (SP2) и более поздних версий. Администраторы могут управлять политиками хранения из локальной среды Exchange Server 2010 и более поздних версий. Управляемые папки (старый подход к управлению записью сообщений, представленный в Exchange 2007) недоступны в Exchange Online и несовместимы с архивацией на базе Exchange Online. Дополнительные сведения см. в статье [Теги хранения и политики хранения](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
-### <a name="in-place-hold-and-litigation-hold"></a>Хранение на месте и хранение для судебного разбирательства
+### <a name="in-place-hold-and-litigation-hold"></a>Удержание на месте и хранение для судебного разбирательства
 <a name="BKMK_In_placehold"> </a>
 
 При наличии обоснованных предпосылок для судебных исков организациям требуется сохранять электронные данные (включая почту), связанные с делом. Такие предпосылки могут возникать до уточнения подробностей дела, и сохранение часто охватывает широкие области. Организации могут сохранять всю почту, относящуюся к конкретному вопросу, или всю электронную почту отдельных лиц.

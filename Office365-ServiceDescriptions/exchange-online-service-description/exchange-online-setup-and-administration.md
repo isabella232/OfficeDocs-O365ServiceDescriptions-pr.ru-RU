@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: В этом разделе описываются элементы управления и поддержка администрирования, доступные для настройки параметров Exchange Online и поддержания среды Exchange Online в Организации, ее выполнения и текущей. Он включает сведения о средствах самостоятельного администрирования и возможностях, доступных для организаций; административные обязанности корпорации Майкрософт и обязательства производительности; а также обслуживание и обновления для продукта.
 ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955748"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246305"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Установка и администрирование Exchange Online
 

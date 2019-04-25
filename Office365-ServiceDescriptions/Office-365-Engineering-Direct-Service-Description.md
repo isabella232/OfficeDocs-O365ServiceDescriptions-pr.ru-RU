@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Разработка решений для Office 365 — это дополнение к службам поддержки корпоративного уровня для соглашения о поддержке Майкрософт Premier. В описании предлагаемых функций и требований к реализации представлены дополнительные сведения о предлагаемых функциях.
 ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
-ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30867925"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245015"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Описание неПосредственных служб по проектированию Office 365
 

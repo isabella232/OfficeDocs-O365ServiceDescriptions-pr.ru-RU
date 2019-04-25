@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности Insights позволяют организациям использовать информацию в базах данных, отчетах и бизнес-приложениях для решения определенных бизнес-задач.
 ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467316"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246735"
 ---
 # <a name="insights"></a>Аналитика
 

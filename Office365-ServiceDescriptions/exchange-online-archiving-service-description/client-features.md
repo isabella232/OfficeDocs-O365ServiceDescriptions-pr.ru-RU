@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Архивация Microsoft Exchange Online позволяет пользователям подключаться к архивным почтовым ящикам с различных устройств и платформ. Все сетевое подключение к архиву пользователя происходит через Интернет, и подключения к виртуальной частной сети (VPN) не требуются. Организации могут публиковать локальный сервер клиентского доступа, чтобы пользователи могли получать доступ к основному почтовому ящику с помощью мобильного Outlook, не требуя подключения к VPN. Если для доступа к основному почтовому ящику пользователя, расположенному на локальном сервере, требуется VPN-доступ, это требование не изменяется.
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467186"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245065"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Клиентские возможности архивации на базе Exchange Online
 

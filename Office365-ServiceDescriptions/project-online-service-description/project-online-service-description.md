@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: 'Project Online — это гибкое оперативное решение для управления портфелем проектов (PPM) и повседневной работы. Project OnlineOffice 365: позволяет планировать проекты и инвестиции портфеля проектов, определять их приоритеты и управлять ими практически где угодно и с любого устройства. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.'
 ms.openlocfilehash: 6b58178c9aea05173f4d5abbc4b44a85b497d631
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467866"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246915"
 ---
 # <a name="project-online-service-description"></a>Описание службы Project Online
 

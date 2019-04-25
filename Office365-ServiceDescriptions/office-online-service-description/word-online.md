@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (ранее Word Web App) расширяет возможности Microsoft Word в веб-браузере, где вы можете работать с документами непосредственно на веб-сайте, где хранится документ.
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467306"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246955"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -41,7 +41,7 @@ Word Online (ранее Word Web App) расширяет возможности 
 
 Вы можете приобрести надстройку для Word в Магазине Office. Надстройки Office работают в классическом приложении Word и не доступны в Word Online. Узнайте, как [приобрести надстройку для Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
-## <a name="autosave"></a>Автосохранение
+## <a name="autosave"></a>Сохранении
 <a name="bkmk_Save"> </a>
 
 Word Online автоматически сохраняет документ после внесения изменений.
@@ -146,7 +146,7 @@ Word Online открывает документы из OneDrive и SharePoint в
 
 Вставить в документ верхний и нижний колонтитулы можно как в Word Online, так и в классическом приложении Word. Верхние и нижние колонтитулы можно расположить также на всех страницах документа, кроме первой. Чтобы узнать больше об использовании верхних и нижних колонтитулов в Word Online, просмотрите видео [Новые возможности Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Гиперссылки
 <a name="bkmk_Hyperlinks"> </a>
 
 В Word Online можно легко создавать ссылки на закладки в документе и устанавливать экранные подсказки, которые отображаются при наведении курсора на ссылку. Узнайте больше о [гиперссылках в Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).
@@ -358,7 +358,7 @@ Word Online автоматически проверяет правописани
 
 Word Online может подсчитать примерное количество слов в документе. Узнайте больше о [статистике в Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
-## <a name="zoom"></a>Зум
+## <a name="zoom"></a>Масштабирование
 <a name="bkmk_Zoom"> </a>
 
 Масштабирование доступно в режиме просмотра. Для масштабирования в режиме правки в Word Online используйте параметры браузера. Узнайте больше о [статистике в Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271864).

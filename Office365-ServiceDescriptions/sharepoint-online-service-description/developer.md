@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие функции подойдут разработчикам, которые хотят создавать приложения и решения для расширения функциональности SharePoint.
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467716"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246725"
 ---
 # <a name="developer"></a>Для разработчиков
 

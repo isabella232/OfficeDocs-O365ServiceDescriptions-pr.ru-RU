@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: С Microsoft Office 365 можно использовать множество мобильных телефонов, планшетов и других мобильных устройств.
 ms.openlocfilehash: 1c84927b09ebd16161e2cd3f505121a2fb433787
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467046"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247245"
 ---
 # <a name="mobile-devices-sd"></a>Мобильные устройства [SD]
 

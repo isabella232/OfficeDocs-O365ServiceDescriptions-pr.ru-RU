@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764817"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247235"
 ---
 # <a name="office-365-plan-options"></a>Параметры планов Office 365
 
@@ -38,9 +38,9 @@ ms.locfileid: "31764817"
 |**Для предприятий (максимум 300 пользователей)** <br/> |[Office 365 бизнес базовый](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 бизнес](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 бизнес премиум](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |**Корпоративный (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 корпоративный E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 корпоративный E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 корпоративный F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**Для образовательных учреждений (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 для образования E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
-|**Для государственных организаций (неограниченное число пользователей)** <br/> |[Просмотреть все доступные планы для бизнеса](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[Просмотреть все доступные планы для бизнеса](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 в Германии** <br/> |[Просмотреть все доступные планы для бизнеса](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
+|**Для государственных организаций (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
+|**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные бизнес-планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**Office 365 Germany** <br/> |[Просмотреть все доступные планы для бизнеса](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Доступность служб в каждой из версий Office 365
 
@@ -120,16 +120,16 @@ ms.locfileid: "31764817"
   
 |**Служба**|**Планы**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Архивация на базе Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Базовая подписка на Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|OneDrive для бизнеса  <br/> |[OneDrive для бизнеса (план 1)](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive для бизнеса (план 2)](https://onedrive.live.com/about/en-us/business/) <br/> |
-|Skype для бизнеса Online  <br/> |[Skype для бизнеса Online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype для бизнеса Online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
+|Exchange Online  <br/> |[Exchange Online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Базовая подписка на Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|OneDrive для бизнеса  <br/> |[OneDrive для бизнеса (план 1)](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive для бизнеса (план 2)](https://onedrive.live.com/about/en-us/business/) <br/> |
+|Skype для бизнеса Online  <br/> |[Skype для бизнеса online (план 1)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype для бизнеса online (план 2)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Приложения Office  <br/> |[Office 365 профессиональный плюс](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 бизнес](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 бизнес премиум](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
-|Управление портфелями проектов  <br/> |[Project Online;](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
+|Управление портфелями проектов  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
 |Аналитика продуктивности персонала  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
 |Служба бизнес-аналитики  <br/> |[Power BI](https://products.office.com/en-us/business/analytics-and-intelligence/home) <br/> |
-|Веб-приложение для создания диаграмм  <br/> |[Visio профессиональный для Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
+|Веб-приложение для создания диаграмм  <br/> |[Visio Pro для Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
 |Управление правами на доступ к данным  <br/> |[Azure Information Protection](https://go.microsoft.com/fwlink/p/?LinkId=397530) <br/> |
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    

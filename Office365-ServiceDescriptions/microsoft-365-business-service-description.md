@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
 ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764827"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246423"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -59,7 +59,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |
 |Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office 365 administration features](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |
 |[Управление учетными записями пользователей](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
@@ -83,7 +83,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Шифрование статических данных (BitLocker)  <br/> |Да  <br/> |Да  <br/> |
 |IRM на базе Azure Information Protection  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |
 |Шифрование сообщений Office 365  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |
-|Хранение на месте и хранение для судебного разбирательства  <br/> |Нет  <br/> |Да  <br/> |
+|Хранение на месте и хранение для судебного разбирательства  <br/> |Нет  <br/> |ДА  <br/> |
 |Обнаружение электронных данных на месте  <br/> |Да  <br/> |Да  <br/> |
 |Правила транспорта  <br/> |Да  <br/> |Да  <br/> |
 |Защита от потери данных  <br/> |Нет  <br/> |ДА <br/> |
@@ -106,7 +106,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Разрешение на эксплуатацию по FISMA  <br/> |Да  <br/> |Да  <br/> |
 |Соглашение по обработке данных Майкрософт  <br/> |Да  <br/> |Да  <br/> |
 |Данные PAN, регулируемые PCI  <br/> |Нет  <br/> |Нет  <br/> |
-|[Сеть](office-365-platform-service-description/networking.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[сеть](office-365-platform-service-description/networking.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Протоколы IPv4 и IPv6  <br/> |Да  <br/> |Да  <br/> |
 |[Обновления служб](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |
@@ -155,7 +155,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Организационное управление доступом пользователей к Кортане  <br/> |Да  <br/> |
 |Организационное управление советами Windows и рекламой от Майкрософт  <br/> |Да  <br/> |
 |Автоматическое обновление устройств с Windows 10  <br/> |Да  <br/> |
-|**Функции безопасности Windows 10** <br/> |**Microsoft 365 бизнес** <br/> |
+|**Функции безопасности Windows 10** <br/> |**Microsoft 365 бизнес** <br/> |
 |Защита компьютеров от вирусов и других угроз с помощью антиВирусной программы "Защитник Windows"  <br/> |Да  <br/> |
 |Защита компьютеров с помощью веб-угроз в Microsoft Edge  <br/> |Да  <br/> |
 |Использовать правила для ограничения направлений атак на устройства <br/> |Да  <br/> |

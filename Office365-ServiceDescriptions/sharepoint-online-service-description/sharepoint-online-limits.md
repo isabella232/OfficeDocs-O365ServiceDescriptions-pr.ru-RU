@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467876"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246615"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online
 
@@ -27,7 +27,7 @@ ms.locfileid: "30467876"
 |**Функция** <br/> |**Office 365 бизнес Essentials или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3 или в SharePoint Online (план 1) или 2** <br/> | **Office 365 корпоративный F1** <br/> |
 |Хранилище<sup>1, 2</sup> <br/> |1 ТБ на организацию плюс 10 ГБ на каждую приобретенную лицензию  <br/> |1 ТБ на организацию плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup> <br/> |1 ТБ на организацию <sup>3</sup> <br/> |
 |Хранилище семейств веб-сайтов  <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>5</sup> <br/> |
-|Семейства веб-сайтов в Организации  <br/> |500 000<sup>6</sup> <br/> |500 000<sup>6</sup> <br/> |500,000<br/> |
+|Семейства веб-сайтов в Организации  <br/> |500 000<sup>6</sup> <br/> |500 000<sup>6</sup> <br/> |500 000<br/> |
 |Количество пользователей  <br/> |До 300  <br/> |1-500 000<sup>7</sup> <br/> |1-500 000<sup>7</sup> <br/> |
    
 > [!NOTE]

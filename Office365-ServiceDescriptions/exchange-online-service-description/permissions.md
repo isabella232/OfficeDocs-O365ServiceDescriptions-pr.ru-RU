@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013.
 ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468136"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246355"
 ---
 # <a name="permissions"></a>Разрешения
 

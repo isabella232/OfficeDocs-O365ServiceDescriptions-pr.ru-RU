@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
 ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467916"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246605"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -136,7 +136,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Экспорт электронных данных](content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
 |[Внешний общий доступ: внешний доступ](content.md#external-sharing-external-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Возможность настройки для экстрасети  <br/> |Возможность настройки для экстрасети  <br/> |
 |[Внешний общий доступ: гостевые ссылки](content.md#external-sharing-guest-link) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Синхронизация папок](content.md#folder-sync) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
 |Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
 |Типы гибридной таксономии и гибридного контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
@@ -148,23 +148,23 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Office Online (создание и изменение)](content.md#office-online-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Office Online (просмотр)](content.md#office-online-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office профессиональный плюс  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Интеграция Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Да  <br/> |Да  <br/> |
-|[Архивная библиотека](content.md#preservation-hold-library) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Интеграция Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Да  <br/> |Да  <br/> |
+|[Архивная библиотека](content.md#preservation-hold-library) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Аналитика публикации](content.md#publishing-analytics) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Быстрое редактирование](content.md#quick-edit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Управление записями](content.md#records-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Корзина (Центр администрирования SharePoint)](content.md#recycle-bin-sharepoint-admin-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Корзина (семейства веб-сайтов)](content.md#recycle-bin-site-collection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Веб-части поиска](content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Веб-части поиска](content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Общие типы контента](content.md#shared-content-types) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы перевода SharePoint](content.md#sharepoint-translation-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Уникальные идентификаторы документов](content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поиск видео](content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Поиск видео](content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[WCM: оптимизация поисковых систем (SEO)](content.md#wcm-search-engine-optimizations-seo) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Word Automation Services](content.md#word-automation-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Функции аналитики** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Business Intelligence Center](insights.md#business-intelligence-center) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Вычисляемые показатели и элементы](insights.md#calculated-measures-and-members) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Business Intelligence Center](insights.md#business-intelligence-center) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Вычисляемые показатели и элементы](insights.md#calculated-measures-and-members) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Библиотека подключений к данным](insights.md#data-connection-library) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Разъединенные сводные таблицы и диаграммы](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Field list and Field Support](insights.md#field-list-and-field-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
@@ -177,8 +177,8 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Экспресс-тенденции](insights.md#quick-explore) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Службы Visio](insights.md#visio-services)<sup>18</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
+|[Службы Visio](insights.md#visio-services)<sup>18</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Непрерывные обходы контента](search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Прямые ссылки](search.md#deep-links) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -203,7 +203,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |Веб-части поиска  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Поиски "Этот список"](search.md#this-list-searches) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**Возможности веб-сайтов** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|Сайты для общения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|Информационные сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Сообщество](social.md#community) <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Веб-канал компании](social.md#company-feed) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка различных браузеров](sites-servicedesc.md#cross-browser-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

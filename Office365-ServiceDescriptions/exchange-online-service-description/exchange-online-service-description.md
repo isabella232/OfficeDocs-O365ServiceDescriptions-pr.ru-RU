@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Сравниваете функции, которые предусмотрены в подписках на Office 365, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
 ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467956"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246256"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -64,7 +64,7 @@ Microsoft Exchange Online  это размещенное решение для
   
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Возможность** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
+|**Функция** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |**[Планирование и развертывание](planning-and-deployment.md)** <br/> |||||||||
 |Поддерживается гибридное развертывание  <br/> |Да  <br/> |Да  <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>16</sup> <br/> |
 |Поддерживается миграция IMAP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

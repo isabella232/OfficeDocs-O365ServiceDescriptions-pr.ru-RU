@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: 'PowerPoint Online (ранее PowerPoint Web App) расширяет возможности Microsoft PowerPoint в веб-браузере, где вы можете работать с презентациями непосредственно на веб-сайте, где хранится презентация. Клиенты Microsoft Office 365: с Office Online могут просматривать, создавать и редактировать файлы на ходу.'
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467346"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246945"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -122,7 +122,7 @@ PowerPoint Online поддерживает 8 переходов и 37 эффек
 
 Верхние и нижние колонтитулы, включая дату и номера слайдов, невозможно вставлять, редактировать или удалять в PowerPoint Online, но PowerPoint Online отображает их в полном объеме. Узнайте больше о [различиях в использовании презентаций в браузере и в классическом приложении PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Гиперссылки
 <a name="bkmk_Hyperlinks"> </a>
 
 Вставка, редактирование и переход по гиперссылкам. Ссылки для перехода по закладкам работают, но эти ссылки невозможно редактировать в PowerPoint Online.

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: В Yammer доступны следующие возможности работы с группами.
 ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467546"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246455"
 ---
 # <a name="group-features-in-yammer"></a>Функции работы с группами в Yammer
 
@@ -34,7 +34,7 @@ ms.locfileid: "30467546"
 
 Вы можете добавлять группы, связанные с теми группами, в которые вы уже добавлены, а также назначать им приоритеты, чтобы сотрудники могли быстрее находить нужных специалистов, интересующий их контент и беседы.
   
-## <a name="announcements"></a>Announcements
+## <a name="announcements"></a>Объявления
 <a name="bkmk_Announcements"> </a>
 
 Опубликуйте объявление для группы, чтобы мгновенно уведомить участников о важных обновлениях. Администраторы могут закреплять объявления для группы, чтобы упростить их поиск.
