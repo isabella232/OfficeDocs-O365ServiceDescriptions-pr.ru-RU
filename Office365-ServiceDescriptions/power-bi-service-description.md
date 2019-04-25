@@ -14,26 +14,26 @@ ms.custom:
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI — это облачный набор инструментов бизнес-аналитики, который позволяет пользователям подключаться к данным, визуализировать и анализировать их быстрее, эффективнее и осмысленнее. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
 ms.openlocfilehash: 0288fc982e8662d52d9c05e7a71a2976dee8be31
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466456"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246935"
 ---
-# <a name="power-bi-service-description"></a><span data-ttu-id="f257f-104">Описание службы Power BI</span><span class="sxs-lookup"><span data-stu-id="f257f-104">Power BI Service Description</span></span>
+# <a name="power-bi-service-description"></a><span data-ttu-id="f44ef-104">Описание службы Power BI</span><span class="sxs-lookup"><span data-stu-id="f44ef-104">Power BI Service Description</span></span>
 
-<span data-ttu-id="f257f-p102">Power BI — это облачный набор инструментов бизнес-аналитики, который позволяет пользователям подключаться к данным, визуализировать и анализировать их быстрее, эффективнее и осмысленнее. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.</span><span class="sxs-lookup"><span data-stu-id="f257f-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
+<span data-ttu-id="f44ef-p102">Power BI — это облачный набор инструментов бизнес-аналитики, который позволяет пользователям подключаться к данным, визуализировать и анализировать их быстрее, эффективнее и осмысленнее. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.</span><span class="sxs-lookup"><span data-stu-id="f44ef-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
   
-<span data-ttu-id="f257f-p103">Сейчас Power BI входит в состав версии Office 365 корпоративный E5. Дополнительные сведения см. на веб-сайте [Power BI](https://powerbi.microsoft.com/).</span><span class="sxs-lookup"><span data-stu-id="f257f-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
+<span data-ttu-id="f44ef-p103">Сейчас Power BI входит в состав версии Office 365 корпоративный E5. Дополнительные сведения см. на веб-сайте [Power BI](https://powerbi.microsoft.com/).</span><span class="sxs-lookup"><span data-stu-id="f44ef-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
   
-<span data-ttu-id="f257f-109">Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="f257f-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
+<span data-ttu-id="f44ef-109">Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="f44ef-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
   
-## <a name="power-bi-plans"></a><span data-ttu-id="f257f-110">Планы Power BI</span><span class="sxs-lookup"><span data-stu-id="f257f-110">Power BI plans</span></span>
-<span data-ttu-id="f257f-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="f257f-111"></span></span>
+## <a name="power-bi-plans"></a><span data-ttu-id="f44ef-110">Планы Power BI</span><span class="sxs-lookup"><span data-stu-id="f44ef-110">Power BI plans</span></span>
+<span data-ttu-id="f44ef-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="f44ef-111"></span></span>
 
-<span data-ttu-id="f257f-112">Вы можете подписаться на один из доступных [тарифных планов Power BI](https://go.microsoft.com/fwlink/?LinkID=786854), лучше всего подходящий для ваших потребностей.</span><span class="sxs-lookup"><span data-stu-id="f257f-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
+<span data-ttu-id="f44ef-112">Вы можете подписаться на один из доступных [тарифных планов Power BI](https://go.microsoft.com/fwlink/?LinkID=786854), лучше всего подходящий для ваших потребностей.</span><span class="sxs-lookup"><span data-stu-id="f44ef-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="f257f-p104">Power BI и Power BI для Office 365  это разные продукты. Power BI для Office 365  это служба версии 1 и больше не поддерживается.</span><span class="sxs-lookup"><span data-stu-id="f257f-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
+> <span data-ttu-id="f44ef-p104">Power BI и Power BI для Office 365  это разные продукты. Power BI для Office 365  это служба версии 1 и больше не поддерживается.</span><span class="sxs-lookup"><span data-stu-id="f44ef-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
   
 
