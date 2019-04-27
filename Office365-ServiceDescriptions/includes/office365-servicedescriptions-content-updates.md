@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Неделя с 11 марта 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 3/12/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
-| 3/14/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
-| 3/14/2019 | [Описание службы MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | введен |
-| 3/14/2019 | [Описание служб Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | Изменено |
-| 3/14/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-
-
 ## <a name="week-of-march-18-2019"></a>Неделя с 18 марта 2019 г.
 
 
@@ -68,4 +56,15 @@
 | 4/11/2019 | [Сайты](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | Изменено |
 | 4/11/2019 | [Функции архивации в архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Изменено |
 | 4/11/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
-| 4/11/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | изменено |
+| 4/11/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Изменено |
+
+
+## <a name="week-of-april-15-2019"></a>Неделя с 15 апреля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 4/18/2019 | [Клиенты и мобильные устройства](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Изменено |
+| 4/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
+| 4/18/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
+| 4/18/2019 | [Статья](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | изменено |

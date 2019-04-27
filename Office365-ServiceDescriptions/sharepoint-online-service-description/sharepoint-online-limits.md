@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246615"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368372"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online
 
@@ -43,7 +43,7 @@ ms.locfileid: "33246615"
   
 ## <a name="service-limits-for-all-plans"></a>Пределы служб для всех планов
 
-- **Элементы в списках и библиотеках** — список может содержать до 30 000 000 элементов, а библиотека может иметь до 30 000 000 файлов и папок. В представлениях может быть до 12 столбцов подстановки. Дополнительные сведения о других ограничениях для просмотра больших списков приведены [в статье Manage Large Lists and librarys in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Сведения о символах, которые не могут использоваться в именах файлов, приведены в статье неДопустимые [символы в именах файлов и папок](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Элементы в списках и библиотеках** — список может содержать до 30 000 000 элементов, а библиотека может иметь до 30 000 000 файлов и папок. После 100, 00 элементов, добавленных в список, библиотеку или папку, невозможно изменить наследование разрешений для списка, библиотеки или папки. Дополнительные сведения о других ограничениях для просмотра больших списков приведены [в статье Manage Large Lists and librarys in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Сведения о символах, которые не могут использоваться в именах файлов, приведены в статье неДопустимые [символы в именах файлов и папок](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Размер файла и длина пути к файлу** — 15 ГБ. Дополнительные сведения об ограничениях и ограничениях при использовании нового клиента синхронизации OneDrive (OneDrive. exe) приведены в статье неДопустимые [имена файлов и типы файлов в onedrive, onedrive для бизнеса и SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
