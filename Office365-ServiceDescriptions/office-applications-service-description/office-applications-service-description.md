@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 96b453fd96234c3082f6f665c14ace898e3668b4
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368362"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544936"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -52,7 +52,7 @@ Microsoft Office 365 — это служба подписки, предоста�
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>5, 10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Приложения Windows 8](office-applications.md#windows-8-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Приложения Windows 10](office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |

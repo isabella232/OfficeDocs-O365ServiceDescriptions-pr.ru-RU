@@ -3,21 +3,12 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>Неделя с 18 марта 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 3/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 3/18/2019 | [Права на использование продуктов](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | Изменено |
-
-
 ## <a name="week-of-march-25-2019"></a>Неделя с 25 марта 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 3/26/2019 | [Описание неПосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
+| 3/26/2019 | [Описание непосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
 | 3/28/2019 | [Описание службы Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | Изменено |
 | 3/28/2019 | [Установка и администрирование Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | Изменено |
 | 3/28/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Изменено |
@@ -67,4 +58,16 @@
 | 4/18/2019 | [Клиенты и мобильные устройства](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Изменено |
 | 4/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
 | 4/18/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
-| 4/18/2019 | [Статья](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | изменено |
+| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Изменено |
+
+
+## <a name="week-of-april-22-2019"></a>Неделя с 22 апреля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 4/24/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
+| 4/26/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
+| 4/26/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
+| 4/26/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
+| 4/26/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |

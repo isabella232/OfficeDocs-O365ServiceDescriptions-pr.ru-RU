@@ -3,7 +3,7 @@ title: Служба Office 365, которой управляет 21Vianet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247314"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544906"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -98,7 +98,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Группы Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>2</sup> <br/> |
-|Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>15<sup>  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**[Управление учетными записями пользователей](user-account-management.md)** <br/> |**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Облачное удостоверение, федеративное удостоверение или многофакторная проверка подлинности<sup>14</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Установщик обновлений Office 365: для рабочего стола  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -159,7 +159,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[Обновления служб](service-updates.md)** <br/> |**Office 365 бизнес базовый под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Roadmap.office.com для некоторых обновлений служб  <br/> |Да  <br/> |--  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб  <br/> |Да  <br/> |--  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Возможность включить выпуск Targeted  <br/> |Нет  <br/> |--  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Справка и обучение](help-and-training.md)** <br/> |**Office 365 бизнес базовый под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Интерактивная справка  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -200,16 +200,17 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>2</sup> в Office 365 Enterprise F1 под управлением 21Vianet, Office 365 видео ограничен только просмотром (без публикации или общего доступа). 
 <br/><sup>3</sup> если вы используете синхронизацию службы каталогов с локальной службой Active Directory, необходимо удалить учетные записи или изменить пароли с помощью локального каталога Active Directory, а не портала Office 365 или с помощью модуля Azure Active Directory для Windows. Типов. 
 <br/><sup>4</sup> пока недоступно в Office 365 под управлением 21vianet, но скоро. 
-<br/><sup>5</sup> у вас может быть только один общеДоступный веб-сайт с Office 365, если вы не обновили более раннюю версию Office 365. В противном случае у вас есть два общедоступных веб-сайта, но только один из них можно разместить в личном домене. Для получения дополнительных сведений о работе с двумя веб-сайтами для бизнес-подписок, ознакомьтесь со статьей [Работа с двумя ОбщедоступНыми веб-сайтАми Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Если у вас есть другая подписка, Узнайте больше о общедоступных веб-сайтах в справке по общеДоступным [веб-сайтам для Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009). 
+<br/><sup>5</sup> у вас может быть только один общедоступный веб-сайт с Office 365, если вы не обновили более раннюю версию Office 365. В противном случае у вас есть два общедоступных веб-сайта, но только один из них можно разместить в личном домене. Для получения дополнительных сведений о работе с двумя веб-сайтами для бизнес-подписок, ознакомьтесь со статьей [Работа с двумя общедоступными веб-сайтами Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Если у вас есть другая подписка, Узнайте больше о общедоступных веб-сайтах в справке по общедоступным [веб-сайтам для Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009). 
 <br/><sup>6</sup> для уменьшения количества рабочих мест, приобретенных с термином скидка, может быть вызвана оплата за ранние увольнения. Это не относится к подпискам, оплачиваемым помесячно. >
 <br/><sup>7</sup> в Office 365 для образовательных учреждений не поддерживаются изменения лицензий в центре администрирования Microsoft 365:
 <br/><sup>8</sup> Microsoft Sway в настоящее время недоступен для пользователей в определенных географических регионах. Некоторые устаревшие планы Office 365, которые больше не отображаются на рынке до 2015 августа, также могут не иметь доступа к Microsoft Sway. 
 <br/><sup>9</sup> для Office 365 под управлением 21vianet обратитесь к соглашению об уровне [](http://www.21vbluecloud.com/office365/O365-SLA/)обслуживания.
- <sup>10</sup> для Office 365 под управлением 21vianet, ознакомьтесь со [стандартНым соглашением 21Vianet's Online Services для Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
+ <sup>10</sup> для Office 365 под управлением 21vianet, ознакомьтесь со [стандартным соглашением 21Vianet's Online Services для Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
 <br/><sup>11</sup> Китая политика соответствия требованиям в Интернете требует получения номера поставщика Интернет-содержимого (ICP) для общедоступного веб-сайта. Более подробную информацию можно узнать в соответствующем разделе ICP. 
 <br/><sup>12</sup> некоторые материалы TechNet могут не относиться к Office 365 под управлением 21vianet. 
 <br/><sup>13</sup> снижение качества. Если ваша организация зависит от Internet Explorer 8 или Internet Explorer 9, чтобы получить доступ к старым веб-приложениям и службам, вам может потребоваться обновление до Internet Explorer 11 и оценка режима предприятия для Internet Explorer 11. Это обновление обеспечивает лучшую обратную совместимость с устаревшими веб-приложениями. 
 <br/><sup>14</sup> многофакторной проверки подлинности в настоящее время не поддерживаются в Outlook Mobile (iOS и Android). 
+<br/><sup>15</sup> Записная книжка для занятий OneNote доступна через 21vianet, но панель инструментов записной книжки OneNote для занятий недоступна для приложений Windows 10, iPad или OneNote Online.
   
 ## <a name="office-365-application-features"></a>Функции приложений Office 365
 <a name="BM3_OfficeApp"> </a>
@@ -233,7 +234,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Visio Pro<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Приложения Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Office для Mac в Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -505,7 +506,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Доступ в Центр администрирования Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |
    
-> <sup>1</sup> почтовые пользователи определены как "поЧтовые ящики", а вместе с внешними почтовыми контактами можно добавлять, удалять и иным образом управлять непосредственно в центре администрирования Exchange. 
+> <sup>1</sup> почтовые пользователи определены как "почтовые ящики", а вместе с внешними почтовыми контактами можно добавлять, удалять и иным образом управлять непосредственно в центре администрирования Exchange. 
 <br/> <sup>2</sup> Настройка RBAC отсутствует. Только роли администратора. 
 <br/> <sup>3</sup> управляемые домены можно просматривать, а типы доменов можно редактировать в центре администрирования Exchange. Все остальные операции управления доменами должны выполняться в центре администрирования Microsoft 365. 
 <br/> <sup>4</sup> доступные гибкие критерии и действия ОТЛИЧАЮТСЯ в EOP и Exchange Online. Список доступных условий и действий в EOP представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320392) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320393). Список доступных условий и действий в Exchange Online представлен в статье [условия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320394) и [действия правил транспорта](https://go.microsoft.com/fwlink/p/?LinkId=320395). <sup>5</sup> отчеты аудита EOP являются подмножеством отчетов об аудите Exchange Online, которые исключают сведения о почтовых ящиках. 
@@ -689,7 +690,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|[Каталогов](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |

@@ -3,7 +3,7 @@ title: Описание службы Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246965"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544966"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -120,6 +120,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |:-----|:-----|:-----|
 |**Возможности приложений** <br/> |**Excel Online** <br/> |**Классическое приложение Excel** <br/> |
 |[Проверка читаемости](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
+|[Добавление цвета фона на вкладки листа](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление гиперссылок](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Расширенный фильтр времени (срез временной шкалы)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Нет  <br/> |ДА  <br/> |
 |[Выравнивание](excel-online.md#alignment) <br/> |Да  <br/> |Да  <br/> |
@@ -129,6 +130,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Автозаполнение](excel-online.md#autocomplete) <br/> |Да  <br/> |Да  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Да  <br/> |Да  <br/> |
 |[Счет](excel-online.md#calculations) <br/> |Да  <br/> |Да  <br/> |
+|[Ссылки на вызовы в формулах](excel-online.md#call-reference-in-formulas) <br/> |Да  <br/> |Да  <br/> |
 |[Создание комментария](excel-online.md#comment-creation) <br/> |Да  <br/> |Да  <br/> |
 |[Копирование и вставка](excel-online.md#copy-and-paste) <br/> |Да  <br/> |Да  <br/> |
 |[Создание подключений к внешним данным<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |
@@ -136,9 +138,10 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Создание расширенных аналитических отчетов (Power View, Power Pivot, срезы)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Нет  <br/> |ДА  <br/> |
 |[Проверка данных](excel-online.md#data-validation) <br/> |Да <br/> |Да  <br/> |
 |[Перетаскивание ячеек](excel-online.md#drag-and-drop-cells) <br/> |Да  <br/> |Да  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |Да  <br/> |Да  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |Да  <br/> |Да  <br/>|
+|[Дубликат (Copy) воркситс](excel-online.md#duplicate-copy-worksheets) <br/> |Да  <br/> |Да  <br/>|
 |[Внедрение книги на веб-сайте или странице блога (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Да  <br/> |Нет  <br/> |
-|[Внешние ссылки](excel-online.md#external-references-links) <br/> |Нет<sup>5</sup> <br/> |Да  <br/> |
+|[Внешние ссылки](excel-online.md#external-references-links) <br/> |Нет<sup>4</sup> <br/> |Да  <br/> |
 |[Маркер заполнения](excel-online.md#fill-handle) <br/> |Да  <br/> |Да  <br/> |
 |[Найти](excel-online.md#find) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование шрифта и ячеек](excel-online.md#font-and-cell-formatting) <br/> |Да  <br/> |Да  <br/> |
@@ -148,16 +151,20 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Режим чтения с высокой четкостью](excel-online.md#full-fidelity-reading-view) <br/> |Да  <br/> |Да  <br/> |
 |[Функции](excel-online.md#functions) <br/> |Да  <br/> |Да  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Да  <br/> |Да  <br/> |
+|[Группирование данных](excel-online.md#group-data) <br/> |Да  <br/> |Да  <br/> |
 |[Скрытие и показ строк, столбцов и листов](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Да  <br/> |Да  <br/> |
-|[Вставка фигуры или рисунка](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
+|[Идеи](excel-online.md#ideas) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление диаграмм](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка/удаление строк и столбцов](excel-online.md#insertdelete-rows-and-columns) <br/> |Да  <br/> |Да  <br/> |
+|[Вставка рисунков](excel-online.md#insert-pictures) <br/> |Да  <br/> |Да  <br/> |
+|[Вставка фигур](excel-online.md#insert-shapes) <br/> |Да  <br/> |Да  <br/> |
 |[Объединение ячеек](excel-online.md#merge-cells) <br/> |Да  <br/> |Да  <br/> |
+|[Именованный диапазон](excel-online.md#named-ranges) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование чисел](excel-online.md#number-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Office Add-ins](excel-online.md#office-add-ins) <br/> |Да <br/> |Да  <br/> |
 |[Просмотр и редактирование в автономном режиме](excel-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |ДА  <br/> |
-|[Сводные диаграммы](excel-online.md#post-to-social-network-and-present-online) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
-|[Сводные таблицы](excel-online.md#post-to-social-network-and-present-online) <br/> |Да  <br/> |Да  <br/> |
+|[Сводные диаграммы](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
+|[Сводные таблицы](excel-online.md#pivot-tables) <br/> |Да  <br/> |Да  <br/> |
 |[Опубликовать в социальной сети и показать через Интернет](excel-online.md#post-to-social-network-and-present-online) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр Power View](excel-online.md#power-view-viewing) <br/> |Да  <br/> |Да  <br/> |
@@ -165,6 +172,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Совместное редактирование в режиме реального времени](excel-online.md#real-time-co-authoring) <br/> |Да  <br/> |Да  <br/> |
 |[Создание рекомендованных диаграмм и их редактирование с помощью элементов управления форматированием](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Нет  <br/> |ДА  <br/> |
 |[Обновление существующих подключений для передачи данных](excel-online.md#refresh-existing-data-connections) <br/> |Да  <br/> |Да  <br/> |
+|[Удаление повторяющихся значений](excel-online.md#remove-duplicate-values) <br/> |Да  <br/> |Да  <br/> |
 |[Переименование и добавление листов](excel-online.md#rename-and-add-sheets) <br/> |Да  <br/> |Да  <br/> |
 |[Переименование файла в открытой книге](excel-online.md#rename-file-while-workbook-is-open) <br/> |Да  <br/> |Нет  <br/> |
 |[Заменить](excel-online.md#replace) <br/> |Да  <br/> |Да  <br/> |
@@ -177,7 +185,9 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Аудит и соответствие электронных таблиц](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Нет  <br/> |ДА  <br/> |
 |[Статистические выражения на панели состояния](excel-online.md#status-bar-aggregates) <br/> |Да  <br/> |Да  <br/> |
 |[Опросы](excel-online.md#surveys) <br/> |Да  <br/> |Нет  <br/> |
-|[Подробнее](excel-online.md#tell-me) <br/> |Да  <br/> |Да  <br/> |
+|[Подробнее](excel-online.md#tell-me) <br/> |Да  <br/> |Да  <br/>|
+|[Форматирование текста](excel-online.md#text-formatting) <br/> |Да  <br/> |Да  <br/>|
+|[Итоговые данные](excel-online.md#total-data) <br/> |Да  <br/> |Да  <br/>|
 |[Отмена и повтор](excel-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
 |[VBA и сценарии макросов](excel-online.md#vba-and-macro-scripting) <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
 |[Просмотр объемных диаграмм](excel-online.md#view-3d-charts) <br/> |Да  <br/> |Да  <br/> |
@@ -186,10 +196,8 @@ Office Online (ранее Office Web Apps) открывает документы
 > <sup>1</sup> не может создавать сводные диаграммы, только просмотр.
  <br/><sup>2</sup> в зависимости от того, как настроена среда, некоторые виды подключений к данным поддерживаются для книг, отображаемых в Excel Online. Дополнительные сведения см в статье обновление данных в книге в окне браузера. 
  <br/><sup>3</sup> вы не можете создавать макросы в Excel Online, но вы можете открывать и редактировать электронные таблицы с поддержкой VBA, не удаляя (или не нарушая) VBA, содержащиеся в файле.
- <br/><sup>4</sup> книги, использующие проверку данных, можно редактировать в Excel Online, но невозможно настроить проверку данных в Excel Online. 
- <br/><sup>5</sup> в Excel Online в окне браузера отображается последнее известное значение ссылки. Тем не менее, его необходимо обновить с помощью рабочего стола Excel. 
- <br/><sup>6</sup> вы можете просматривать области закрепления, созданные с помощью классического приложения Excel, но не можете создавать области закрепления в Excel Online. 
- <br/><sup>7</sup> некоторые, но не все, надстройки Office доступны. 
+ <br/><sup>4</sup> в Excel Online в окне браузера отображается последнее известное значение ссылки. Тем не менее, его необходимо обновить с помощью классического приложения Excel. 
+ <br/><sup>5</sup> некоторые, но не все, доступны надстройки Office. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
@@ -249,7 +257,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |**Возможности приложений** <br/> |**PowerPoint Online** <br/> |**Классическое приложение PowerPoint** <br/> |
 |[Выравнивание, маркеры, нумерация](powerpoint-online.md#alignment-bullets-numbers) <br/> |Да  <br/> |Да  <br/> |
 |[Применение основных переходов и анимаций](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
-|[Применение форматирования к тексту, фигурам и изображениям](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Нет  <br/> |Да  <br/> |
+|[Применение форматирования к тексту, фигурам и изображениям](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Нет  <br/> |ДА  <br/> |
 |[Применение тем и их вариантов](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |Да  <br/> |Да  <br/> |
 |[Упорядочивание объектов](powerpoint-online.md#arrange-objects) <br/> |Да  <br/> |Да  <br/> |
 |[Широковещательное слайд-шоу](powerpoint-online.md#broadcast-slide-show) <br/> |Нет  <br/> |ДА  <br/> |
