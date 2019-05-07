@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (ранее Excel Web App) расширяет возможности Microsoft Excel в веб-браузере, где вы можете работать с книгами непосредственно на веб-сайте, где хранится книга. С помощью Office Online все пользователи Office 365 могут просматривать файлы Office и вносить в них некоторые изменения.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621829"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641625"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Dropbox  служба размещения файлов с облачным х
 <a name="bkmk_HideUnhide"> </a>
 
 В Excel Online вы можете скрывать и показывать строки, столбцы и листы в книге.
- 
-## <a name="ideas"></a>Идеи
-<a name="Ideas"> </a>
-
-Идеи помогут вам разодумать свои данные с помощью высокоуровневого визуальных сводок, тенденций и шаблонов. Просто щелкните ячейку в диапазоне данных, а затем нажмите кнопку идеи на вкладке Главная. Узнайте больше о [идеях](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Excel Online автоматически сохраняет вашу работу
 ## <a name="feature-availability"></a>Доступность функций
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Office Online](office-online-service-description.md). 
-
+Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Office Online](office-online-service-description.md).

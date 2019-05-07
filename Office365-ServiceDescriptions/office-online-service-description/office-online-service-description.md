@@ -3,7 +3,7 @@ title: Описание службы Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621869"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641635"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -111,7 +111,8 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Масштабирование](word-online.md#zoom) <br/> |Да  <br/> |Да  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> эти данные отображаются в средстве просмотра, но их нельзя создавать и изменять в Office Online. > <sup>2</sup> некоторые, но не все, доступны надстройки Office. 
+> <sup>1</sup> эти данные отображаются в средстве просмотра, но их нельзя создавать и изменять в Office Online. <br/>
+> <sup>2</sup> некоторые, но не все, доступны надстройки Office. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Office Online (ранее Office Web Apps) открывает документы
 |[GoTo](excel-online.md#goto) <br/> |Да  <br/> |Да  <br/> |
 |[Группирование данных](excel-online.md#group-data) <br/> |Да  <br/> |Да  <br/> |
 |[Скрытие и показ строк, столбцов и листов](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Да  <br/> |Да  <br/> |
-|[Идеи](excel-online.md#ideas) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление диаграмм](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка/удаление строк и столбцов](excel-online.md#insertdelete-rows-and-columns) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка рисунков](excel-online.md#insert-pictures) <br/> |Да  <br/> |Да  <br/> |
@@ -193,6 +193,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Просмотр объемных диаграмм](excel-online.md#view-3d-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Средства анализа "что если"](excel-online.md#what-if-analysis-tools) <br/> |Нет  <br/> |ДА  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> не может создавать сводные диаграммы, только просмотр.
  <br/><sup>2</sup> в зависимости от того, как настроена среда, некоторые виды подключений к данным поддерживаются для книг, отображаемых в Excel Online. Дополнительные сведения см в статье обновление данных в книге в окне браузера. 
  <br/><sup>3</sup> вы не можете создавать макросы в Excel Online, но вы можете открывать и редактировать электронные таблицы с поддержкой VBA, не удаляя (или не нарушая) VBA, содержащиеся в файле.
@@ -298,7 +299,8 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Просмотр и добавление комментариев](powerpoint-online.md#view-and-add-comments) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр и редактирование заметок к слайду](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр в режиме WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Да  <br/> |Да  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online поддерживает коллекцию 8 переходов и анимацию 37. Для увеличения выделенного фрагмента или создания настраиваемой анимации используйте классическое приложение PowerPoint. 
  <br/><sup>2</sup> устройство, с которым вы работаете, должно поддерживать рукописный ввод. 
  <br/> <sup>3</sup> некоторые, но не все, доступны надстройки Office. 
@@ -333,7 +335,8 @@ Office Online (ранее Office Web Apps) открывает документы
 |OpenDocument (ODP)  <br/> |Да  <br/> |Да  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Макросы нельзя запускать или изменять. > <sup>2</sup> При наличии макросов пользователям предлагается использовать копию файла без макросов. 
+> <sup>1</sup> Макросы нельзя запускать или изменять.<br/>
+> <sup>2</sup> При наличии макросов пользователям предлагается использовать копию файла без макросов.<br/> 
   
 > [!NOTE]
 > Файлы более новых форматов (например, DOCX, XLSL и PPTX) можно создавать в Office 2016, 2013, 2010 или 2007 либо в Office 2000 и более поздних версиях с пакетом обеспечения совместимости. 
