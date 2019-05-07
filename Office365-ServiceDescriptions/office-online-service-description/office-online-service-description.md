@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544966"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621869"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -130,7 +130,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Автозаполнение](excel-online.md#autocomplete) <br/> |Да  <br/> |Да  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Да  <br/> |Да  <br/> |
 |[Счет](excel-online.md#calculations) <br/> |Да  <br/> |Да  <br/> |
-|[Ссылки на вызовы в формулах](excel-online.md#call-reference-in-formulas) <br/> |Да  <br/> |Да  <br/> |
+|[Ссылки на ячейки в формулах](excel-online.md#cell-references-in-formulas) <br/> |Да  <br/> |Да  <br/> |
 |[Создание комментария](excel-online.md#comment-creation) <br/> |Да  <br/> |Да  <br/> |
 |[Копирование и вставка](excel-online.md#copy-and-paste) <br/> |Да  <br/> |Да  <br/> |
 |[Создание подключений к внешним данным<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |
@@ -159,12 +159,12 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Вставка рисунков](excel-online.md#insert-pictures) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка фигур](excel-online.md#insert-shapes) <br/> |Да  <br/> |Да  <br/> |
 |[Объединение ячеек](excel-online.md#merge-cells) <br/> |Да  <br/> |Да  <br/> |
-|[Именованный диапазон](excel-online.md#named-ranges) <br/> |Да  <br/> |Да  <br/> |
+|[Именованные диапазоны](excel-online.md#named-ranges) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование чисел](excel-online.md#number-formatting) <br/> |Да  <br/> |Да  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |Да <br/> |Да  <br/> |
+|[Надстройки Office](excel-online.md#office-add-ins) <br/> |Да<sup>5</sup>  <br/> |Да  <br/> |
 |[Просмотр и редактирование в автономном режиме](excel-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |ДА  <br/> |
-|[Сводные диаграммы](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
-|[Сводные таблицы](excel-online.md#pivot-tables) <br/> |Да  <br/> |Да  <br/> |
+|[сводных диаграмм;](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Да  <br/> |Да  <br/> |
 |[Опубликовать в социальной сети и показать через Интернет](excel-online.md#post-to-social-network-and-present-online) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр Power View](excel-online.md#power-view-viewing) <br/> |Да  <br/> |Да  <br/> |
@@ -240,7 +240,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Таблицы](onenote-online.md#tables) <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка шаблонов](onenote-online.md#template-support) <br/> |Нет  <br/> |ДА  <br/> |
 |[Отмена и повтор](onenote-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
-|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |ДА  <br/> |
+|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |Да  <br/> |
 |[Просмотр предыдущих версий страницы](onenote-online.md#view-previous-page-versions) <br/> |Да  <br/> |Да  <br/> |
    
 > [!NOTE]
