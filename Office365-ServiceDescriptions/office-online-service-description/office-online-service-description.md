@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641635"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663293"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
@@ -336,7 +336,7 @@ Office Online (ранее Office Web Apps) открывает документы
    
 > [!NOTE]
 > <sup>1</sup> Макросы нельзя запускать или изменять.<br/>
-> <sup>2</sup> При наличии макросов пользователям предлагается использовать копию файла без макросов.<br/> 
+> <sup>2</sup> если существуют макросы, пользователям предлагается сохранить копию файла с удаленными макросами.<br/> 
   
 > [!NOTE]
 > Файлы более новых форматов (например, DOCX, XLSL и PPTX) можно создавать в Office 2016, 2013, 2010 или 2007 либо в Office 2000 и более поздних версиях с пакетом обеспечения совместимости. 
