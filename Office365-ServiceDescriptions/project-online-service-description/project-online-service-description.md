@@ -3,7 +3,7 @@ title: Описание службы Project Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: 'Project Online — это гибкое оперативное решение для управления портфелем проектов (PPM) и повседневной работы. Project OnlineOffice 365: позволяет планировать проекты и инвестиции портфеля проектов, определять их приоритеты и управлять ими практически где угодно и с любого устройства. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.'
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621919"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970073"
 ---
 # <a name="project-online-service-description"></a>Описание службы Project Online
 
@@ -65,7 +65,7 @@ Project Online — это гибкое оперативное решение д�
   
 ## <a name="project-online-plans"></a>Планы Project Online
 
-Доступны следующие планы Project Online. Чтобы узнать больше о Project Online, ознакомьтесь со статьей начало [работы с Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+Доступны следующие планы Project Online. Чтобы узнать больше о Project Online, ознакомьтесь со статьей начало [работы с Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
   
 ||||
 |:-----|:-----|:-----|

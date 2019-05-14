@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-april-01-2019"></a>Неделя с 01 апреля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 4/3/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
-| 4/4/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Изменено |
-
-
 ## <a name="week-of-april-08-2019"></a>Неделя с 8 апреля 2019 г.
 
 
@@ -81,3 +72,15 @@
 | 5/3/2019 | [Управление портфелем](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | Изменено |
 | 5/3/2019 | [Управление проектами](/Office365/ServiceDescriptions/project-online-service-description/project-management) | Изменено |
 | 5/3/2019 | [Описание службы Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | Изменено |
+
+
+## <a name="week-of-may-06-2019"></a>Неделя в 06 мая 2006 г., 2019
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | Изменено |
+| 5/6/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
+| 5/7/2019 | [Описание службы Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Изменено |
+| 5/7/2019 | [Поддержка](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | Изменено |
+| 5/7/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |

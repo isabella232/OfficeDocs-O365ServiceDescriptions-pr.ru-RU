@@ -3,7 +3,7 @@ title: Описание службы Microsoft 365 бизнеса
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
+ms.date: 05/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
+ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246423"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33973357"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -30,7 +30,7 @@ Microsoft 365 Business — это интегрированное решение,
   
 ||||
 |:-----|:-----|:-----|
-|**Планы** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|**Планы** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Да  <br/> |
@@ -59,10 +59,11 @@ Microsoft 365 Business — это интегрированное решение,
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |
 |Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |
-|[Управление учетными записями пользователей](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|Shared computer activation <br/> |Нет <br/> |Да  <br/> |
+|[Управление учетными записями пользователей](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Установщик обновлений Office 365 для настольных систем  <br/> |Да  <br/> |Да  <br/> |
 |Массовая отправка с помощью CSV-файлов  <br/> |Да  <br/> |Да  <br/> |
 |Средство синхронизации Azure AD Connect  <br/> |Да  <br/> |Да<sup>7</sup> <br/> |
@@ -77,7 +78,7 @@ Microsoft 365 Business — это интегрированное решение,
    
 ||||
 |:-----|:-----|:-----|
-|[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Архивация почтовых ящиков на основе Exchange Online  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |
 |Теги и политики хранения для управления записями сообщений  <br/> |Да  <br/> |Да  <br/> |
 |Шифрование статических данных (BitLocker)  <br/> |Да  <br/> |Да  <br/> |
@@ -87,7 +88,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Обнаружение электронных данных на месте  <br/> |Да  <br/> |Да  <br/> |
 |Правила транспорта  <br/> |Да  <br/> |Да  <br/> |
 |Защита от потери данных  <br/> |Нет  <br/> |ДА <br/> |
-|[Конфиденциальность, безопасность и прозрачность](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Конфиденциальность, безопасность и прозрачность](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Встроенная защита от нежелательной почты  <br/> |Да  <br/> |Да  <br/> |
 |Встроенная защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |
 |Расширенная защита от угроз  <br/> |Нет  <br/> |Да <br/> |
@@ -97,7 +98,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |Показатель безопасности<sup>14</sup> <br/> |Да  <br/> |Да  <br/> |
 |Аналитика угроз  <br/> |Нет  <br/> |Нет  <br/> |
-|[Соответствие требованиям [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Соответствие требованиям [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Оценки по стандартам SAS 70 и SSAE16  <br/> |Да  <br/> |Да  <br/> |
 |Сертификация ISO 27001  <br/> |Да  <br/> |Да  <br/> |
 |Типовые статьи ЕС  <br/> |Да  <br/> |Да  <br/> |
@@ -106,19 +107,19 @@ Microsoft 365 Business — это интегрированное решение,
 |Разрешение на эксплуатацию по FISMA  <br/> |Да  <br/> |Да  <br/> |
 |Соглашение по обработке данных Майкрософт  <br/> |Да  <br/> |Да  <br/> |
 |Данные PAN, регулируемые PCI  <br/> |Нет  <br/> |Нет  <br/> |
-|[сеть](office-365-platform-service-description/networking.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[сеть](office-365-platform-service-description/networking.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Протоколы IPv4 и IPv6  <br/> |Да  <br/> |Да  <br/> |
-|[Обновления служб](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Обновления служб](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений  <br/> |Да  <br/> |Да  <br/> |
 |Возможность включить выпуск Targeted  <br/> |Да  <br/> |Да  <br/> |
-|[Партнеры](office-365-platform-service-description/partners.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Партнеры](office-365-platform-service-description/partners.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Предоставление делегированного администрирования  <br/> |Да  <br/> |Да  <br/> |
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Функции управления удостоверениями и доступом** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security/Security** <br/> |
-|МногоФакторная проверка поДлинности Office 365 (MFA)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|**Функции управления удостоверениями и доступом** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security/Security** <br/> |
+|Многофакторная проверка подлинности Office 365 (MFA)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Административные единицы  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Обнаружение облачных приложений  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Динамические группы  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
@@ -132,7 +133,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Connect Health  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Соглашение об уровне обслуживания 99,9 %  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Advanced Threat Analytics  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|**Функции управления устройствами и приложениями** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Функции управления устройствами и приложениями** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Управление мобильными устройствами (MDM)<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Автоматическая регистрация для управления мобильными устройствами (MDM)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Управление мобильными приложениями (MAM) для приложений Office и бизнес-приложений<sup>17</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
@@ -155,8 +156,8 @@ Microsoft 365 Business — это интегрированное решение,
 |Организационное управление доступом пользователей к Кортане  <br/> |Да  <br/> |
 |Организационное управление советами Windows и рекламой от Майкрософт  <br/> |Да  <br/> |
 |Автоматическое обновление устройств с Windows 10  <br/> |Да  <br/> |
-|**Функции безопасности Windows 10** <br/> |**Microsoft 365 бизнес** <br/> |
-|Защита компьютеров от вирусов и других угроз с помощью антиВирусной программы "Защитник Windows"  <br/> |Да  <br/> |
+|**Функции безопасности Windows 10** <br/> |**Microsoft 365 бизнес** <br/> |
+|Защита компьютеров от вирусов и других угроз с помощью антивирусной программы "Защитник Windows"  <br/> |Да  <br/> |
 |Защита компьютеров с помощью веб-угроз в Microsoft Edge  <br/> |Да  <br/> |
 |Использовать правила для ограничения направлений атак на устройства <br/> |Да  <br/> |
 |Защитить папки от угроз, таких как программы-шантажисты <br/> |Да  <br/> |
@@ -172,7 +173,7 @@ Microsoft 365 Business — это интегрированное решение,
 <br/><sup>8</sup> при использовании синхронизации службы каталогов с локальной службой Active Directory необходимо удалить учетные записи или изменить пароли с помощью локального каталога Active Directory, а не портала Office 365 или с помощью модуля Azure Active Directory для Windows PowerShell. 
 <br/><sup>9</sup> только облачные удостоверения. [В разделе Разрешить пользователям сбрасывать собственные пароли в Office 365](https://go.microsoft.com/fwlink/?linkid=852917). 
 <br/><sup>10</sup> , которые были приобретены с термином скидка, могут быть подвергаться предоплатам. Это не относится к подпискам, оплачиваемым помесячно. 
-<br/><sup>11</sup> корпорация Майкрософт 365 Business включает подПиску на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
+<br/><sup>11</sup> корпорация Майкрософт 365 Business включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://go.microsoft.com/fwlink/?linkid=863349). 
 <br/><sup>13</sup> Расширенное обнаружение электронных данных поддерживается в Соединенных Штатах Америки и в регионе Западная Европа (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
 <br/><sup>14</sup> доступно в [https://securescore.office.com](https://securescore.office.com). Требуются разрешения администратора. Дополнительные сведения см. [в статье Введение в Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=863490).
