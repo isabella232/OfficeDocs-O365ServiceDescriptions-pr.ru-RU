@@ -3,7 +3,7 @@ title: Описание службы приложений Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973367"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158917"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -54,9 +54,9 @@ Microsoft Office 365 — это служба подписки, предоста�
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Приложения Windows 10](office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/>|Да,<sup>13</sup>  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup>  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Office Mobile для Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да, <sup>13</sup> <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/>|Да,<sup>13</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
+|[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup>  <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
+|[Office Mobile для Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да, <sup>13</sup> <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
 |Outlook для Android  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |**Корпоративные возможности** <br/> |**Office профессиональный плюс 2013** <br/> |**Office профессиональный плюс 2016** <br/> |**Office профессиональный плюс 2019** <br/> |**Office 365 профессиональный плюс** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |Нет  <br/>| Нет  <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
@@ -106,6 +106,7 @@ Microsoft Office 365 — это служба подписки, предоста�
 <sup>11</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
 <sup>12</sup> InfoPath 2013 по-прежнему поддерживается и входит в установку Office профессиональный плюс 2016, но нет новой версии для Office 2016.<br/> 
 <sup>13</sup> поддержка основных возможностей редактирования.<br/> 
+<sup>14</sup> ограничено устройствами со встроенными растрами, которые измеряют 10,1 дюймов или менее по диагонали.<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Доступность приложений Office в Office для Mac в Office 365
 <a name="bkmk_Officefeaturesolutions"> </a>
 
