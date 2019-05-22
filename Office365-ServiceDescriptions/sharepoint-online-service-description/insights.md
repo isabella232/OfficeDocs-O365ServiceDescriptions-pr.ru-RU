@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности Insights позволяют организациям использовать информацию в базах данных, отчетах и бизнес-приложениях для решения определенных бизнес-задач.
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246735"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342508"
 ---
 # <a name="insights"></a>Аналитика
 
@@ -74,7 +74,7 @@ SharePoint Online это набор средств и технологий, ос
 
 ODC-файлы позволяют управлять подключениями к корпоративным источникам данных, предоставлять к ним доступ и повторно их использовать. ИТ-специалисты могут централизованно настраивать подключения к определенным источникам данных и управлять ими. Кроме того, их можно сделать доступными для любой книги, использующей ODC-файлы. Вы можете хранить наборы ODC-файлов в ферме SharePoint и редактировать книги Excel, чтобы использовать эти файлы.
   
-## <a name="performancepoint-services"></a>PerformancePoint Services
+## <a name="performancepoint-services"></a>PerformancePoint Services
 <a name="bkmk_PerformancePointServices"> </a>
 
 Недоступно для клиентов SharePoint Online. Службы PerformancePoint Services позволяют клиентам SharePoint Server 2013 создавать интерактивные панели мониторинга, показывающие ключевые индикаторы производительности (KPI) и виртуализирующие данные в форме систем показателей, отчетов и фильтров. Дополнительные сведения см. в разделе [Обзор служб PerformancePoint Services](https://go.microsoft.com/fwlink/p/?LinkId=271032).
@@ -132,7 +132,7 @@ Power BI  это облачный набор инструментов бизн
 ## <a name="visio-services"></a>Службы Visio
 <a name="bkmk_VisioServices"> </a>
 
-Службы Visio представляют собой приложение-службу, позволяющую пользователям осуществлять совместный доступ и просмотр файлов Microsoft Visio Drawing (\*.vsdx) и Visio 2010 Web Drawing (\*.vdw). Службы Visio больше не доступны в SharePoint Online. Службы Visio по прежнему будут доступны в SharePoint Server 2010, SharePoint Server 2013 и SharePoint Server 2016. Узнайте больше о [службАх Visio](https://go.microsoft.com/fwlink/p/?LinkID=271043).
+Службы Visio представляют собой приложение-службу, позволяющую пользователям осуществлять совместный доступ и просмотр файлов Microsoft Visio Drawing (\*.vsdx) и Visio 2010 Web Drawing (\*.vdw). Службы Visio больше не доступны в SharePoint Online. Службы Visio по прежнему будут доступны в SharePoint Server 2010, SharePoint Server 2013 и SharePoint Server 2016. Узнайте больше о [службах Visio](https://go.microsoft.com/fwlink/p/?LinkID=271043).
   
 ## <a name="feature-availability"></a>Доступность функций
 <a name="bkmk_VisioServices"> </a>

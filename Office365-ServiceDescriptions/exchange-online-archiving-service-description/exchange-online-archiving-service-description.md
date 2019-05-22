@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 02/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-archiving-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 и более поздние версии) ) или подписаться на определенные планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: e27870470023818c610497e88cae5f313efd2428
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246155"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341998"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 

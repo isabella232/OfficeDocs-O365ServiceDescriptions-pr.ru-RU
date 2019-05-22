@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246235"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342728"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -60,10 +60,10 @@ Exchange Online работает с приложениями Outlook, досту
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Устройство  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Доступность приложений Outlook Mobile  <br/> |Да  <br/> [Получение Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получение Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные почтовые приложения, совместимые с Exchange Online  <br/> |Почтовое приложение для приложения Gmail и Samsung  <br/> |Почтовое приложение iOS  <br/> |Почта, календарь, контакты Outlook  <br/> |
-|Дополнительная информация  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Дополнительные сведения  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
 Кроме того, существуют параметры для использования Exchange Online с устройствами, включая Blackberry.
   
@@ -147,9 +147,9 @@ Exchange Online поддерживает доступ к почтовым ящи
 > [!IMPORTANT]
 > IP-адреса для авторизованных исходных серверов необходимы для SMTP-ретрансляции. При использовании SMTP для отправки электронной почты требуется шифрование и проверка подлинности TLS. 
   
-## <a name="blackberry-devices"></a>Устройства BlackBerry ®
+## <a name="blackberry-devices"></a>Устройства BlackBerry®
 
-Электронная почта Office 365 доступна на устройствах BlackBerry ® с помощью Exchange ActiveSync. Чтобы узнать, какие параметры доступны, ознакомьтесь со следующими статьями:
+Электронная почта Office 365 доступна на устройствах BlackBerry® с помощью Exchange ActiveSync. Чтобы узнать, какие параметры доступны, ознакомьтесь со следующими статьями:
   
 - [Настройка электронной почты на устройстве BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
     
