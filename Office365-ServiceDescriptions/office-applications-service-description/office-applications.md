@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/01/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office — это мощная служба, которая поможет вам лучше разобраться с вашими идеями, выполнять действия и оставаться на связи в дороге. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
-ms.openlocfilehash: f8b3a1a04956a94eb9dccd7b14078fd5b926ec03
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544956"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342998"
 ---
 # <a name="office-applications"></a>Приложения Office
 

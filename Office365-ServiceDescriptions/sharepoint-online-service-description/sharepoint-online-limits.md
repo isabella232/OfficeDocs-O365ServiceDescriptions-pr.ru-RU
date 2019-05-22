@@ -2,19 +2,19 @@
 title: Ограничения SharePoint Online
 ms.author: sharik
 author: skjerland
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
-ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368372"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342538"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online
 
@@ -43,9 +43,9 @@ ms.locfileid: "33368372"
   
 ## <a name="service-limits-for-all-plans"></a>Пределы служб для всех планов
 
-- **Элементы в списках и библиотеках** — список может содержать до 30 000 000 элементов, а библиотека может иметь до 30 000 000 файлов и папок. После 100, 00 элементов, добавленных в список, библиотеку или папку, невозможно изменить наследование разрешений для списка, библиотеки или папки. Дополнительные сведения о других ограничениях для просмотра больших списков приведены [в статье Manage Large Lists and librarys in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Сведения о символах, которые не могут использоваться в именах файлов, приведены в статье неДопустимые [символы в именах файлов и папок](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Элементы в списках и библиотеках** — список может содержать до 30 000 000 элементов, а библиотека может иметь до 30 000 000 файлов и папок. После 100, 00 элементов, добавленных в список, библиотеку или папку, невозможно изменить наследование разрешений для списка, библиотеки или папки. Дополнительные сведения о других ограничениях для просмотра больших списков приведены [в статье Manage Large Lists and librarys in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Сведения о символах, которые не могут использоваться в именах файлов, приведены в статье недопустимые [символы в именах файлов и папок](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- **Размер файла и длина пути к файлу** — 15 ГБ. Дополнительные сведения об ограничениях и ограничениях при использовании нового клиента синхронизации OneDrive (OneDrive. exe) приведены в статье неДопустимые [имена файлов и типы файлов в onedrive, onedrive для бизнеса и SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Размер файла и длина пути к файлу** — 15 ГБ. Дополнительные сведения об ограничениях и ограничениях при использовании нового клиента синхронизации OneDrive (OneDrive. exe) приведены в статье недопустимые [имена файлов и типы файлов в onedrive, onedrive для бизнеса и SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Перемещение и копирование между семействами веб-сайтов** — 100 ГБ для каждой операции. Веб-браузер должен быть открытым.
 

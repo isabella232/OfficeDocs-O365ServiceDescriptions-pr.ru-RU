@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Используйте OneNote Online (ранее OneNote Web App), чтобы делать заметки в Интернете в записной книжке OneNote, которую вы можете добавить из любого места и легко делиться с другими пользователями. С помощью Office Online все пользователи Office 365 могут просматривать файлы Office и вносить в них некоторые изменения.
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247185"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343758"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -172,7 +172,7 @@ Dropbox  служба размещения файлов с облачным х
 
 Отсутствует в OneNote Online. Дополнительные функции поиска, например поиск по тегу, названию, автору и дате и звуковым файлам, доступны только в классическом приложении OneNote.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Общий доступ
 <a name="bkmk_Share"> </a>
 
 Если вы сохранили записную книжку в библиотеке документов SharePoint, эта книжка уже доступна в сети. Это значит, что для того, чтобы совместно ее использовать, достаточно отправить ссылку на нее вместо вложения в электронное письмо. Щелкнув ссылку, пользователи легко смогут прочитать ваши заметки в своем веб-браузере. Узнайте больше об [общем доступе к заметкам OneNote в Интернете](https://go.microsoft.com/fwlink/p/?LinkID=272945).

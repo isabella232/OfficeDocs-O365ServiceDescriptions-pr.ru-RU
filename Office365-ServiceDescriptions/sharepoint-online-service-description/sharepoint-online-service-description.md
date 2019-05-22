@@ -3,7 +3,7 @@ title: Описание службы SharePoint Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,41 +15,41 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246605"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341838"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
-Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: [что такое SharePoint?](https://go.microsoft.com/fwlink/p/?LinkId=290976)
+Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: [что такое SharePoint?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
   
-Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409).
   
 ## <a name="whats-new"></a>Новые возможности
 
-Сведения о новых функциях в SharePoint Online см. в статье [Новые возможности SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=271744).
+Сведения о новых функциях в SharePoint Online см. в статье [Новые возможности SharePoint Online](https://support.office.com/article/what-s-new-in-sharepoint-online-02449ef0-027e-4089-8717-f0ae7ea58029?ocmsassetID=HA104098441&CorrelationId=cf1c6949-7734-4168-b4b8-6be84a833a6e&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="system-requirements"></a>Требования к системе
 
 Системные требования для Office 365, службы с ежемесячной подпиской для коммерческих, образовательных и государственных организаций, см. в статье [Требования к системе для Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 > [!NOTE]
-> Организация может развернуть гибридную среду SharePoint, которая состоит из SharePoint Server 2013 или SharePoint 2016 (обычно развертываются локально) и SharePoint Online. Дополнительные сведения см. в статье [Гибридная конфигурация SharePoint Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=286111) или [Гибридная конфигурация SharePoint Server 2016](https://go.microsoft.com/fwlink/?linkid=847872). 
+> Организация может развернуть гибридную среду SharePoint, которая состоит из SharePoint Server 2013 или SharePoint 2016 (обычно развертываются локально) и SharePoint Online. Дополнительные сведения см. в статье [Гибридная конфигурация SharePoint Server 2013](https://docs.microsoft.com/SharePoint/hybrid/hybrid) или [Гибридная конфигурация SharePoint Server 2016](https://docs.microsoft.com/SharePoint/hybrid/hybrid). 
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Ограничения SharePoint Online
 
 Служба SharePoint Online, управляемая корпорацией Майкрософт, имеет некоторые ограничения, такие как квоты семейства сайтов, ограничения на передачу файлов и ограничения хранилища. Дополнительные сведения см. в статье [Online Limits](sharepoint-online-limits.md).
   
-Дополнительные сведения о поддержке мобильных устройств см. в статье [Работа с сайтами SharePoint Online с помощью мобильных устройств](https://go.microsoft.com/fwlink/p/?LinkID=290974).
+Дополнительные сведения о поддержке мобильных устройств см. в статье [Работа с сайтами SharePoint Online с помощью мобильных устройств](https://support.office.com/article/use-a-mobile-device-to-work-with-sharepoint-online-sites-a99f2acf-381a-442c-b305-3e74c251bcb6?ocmsassetID=HA102891452&CTT=1&CorrelationId=67de4f00-eb38-4568-9c82-06a7139d6903&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="subscription-options"></a>Варианты подписки
 
 Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Подробнее о различных планах, в том числе автономных вариантах планов, а также сведениях о переходе от одного плана к другому см. в разделе [Параметры планов Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Каждый пользователь с доступом к SharePoint Online должен быть внесен в план Office 365, SharePoint Online (план 1) или отдельную службу SharePoint Online (план 2). Однако план задействование не продается как отдельное, а только как часть подписки задействование, например, в SharePoint Online задействование. Так как сотрудники задействование не могут быть администраторами, для управления SharePoint в клиентах задействование требуется по крайней мере один администратор предприятия. Задействование сотрудники не видят меню навигации SharePoint, поэтому задействование рабочих процессов необходимо перейти на сайты SharePoint напрямую по URL-АДРЕСу.
+Каждый пользователь с доступом к SharePoint Online должен быть внесен в план Office 365, SharePoint Online (план 1) или отдельную службу SharePoint Online (план 2). Однако план задействование не продается как отдельное, а только как часть подписки задействование, например, в SharePoint Online задействование. Так как сотрудники задействование не могут быть администраторами, для управления SharePoint в клиентах задействование требуется по крайней мере один администратор предприятия. Задействование сотрудники не видят меню навигации SharePoint, поэтому задействование рабочих процессов необходимо перейти на сайты SharePoint напрямую по URL-адресу.
   
 ## <a name="onedrive-for-business"></a>OneDrive для бизнеса
 
@@ -57,7 +57,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Внешние пользователи SharePoint Online корпоративный
 
-Внешние пользователи наследуют права пользователя SharePoint Online, который пригласил их к совместной работе. Это значит, что если организация приобретает корпоративный план E3 и создает сайт, использующий корпоративные компоненты, то внешнему пользователю предоставляются права на использование или просмотр этих компонентов в семействе веб-сайтов, в которое он приглашен. Хотя внешних пользователей можно приглашать как дополнительных участников проекта для выполнения полного спектра задач на сайте, у них не будет точно таких же возможностей, что и у сотрудников организации с лицензией на платную полную версию. Дополнительные сведения о [действиях, доступных и недоступных внешним пользователям](https://go.microsoft.com/fwlink/p/?LinkId=397616).
+Внешние пользователи наследуют права пользователя SharePoint Online, который пригласил их к совместной работе. Это значит, что если организация приобретает корпоративный план E3 и создает сайт, использующий корпоративные компоненты, то внешнему пользователю предоставляются права на использование или просмотр этих компонентов в семействе веб-сайтов, в которое он приглашен. Хотя внешних пользователей можно приглашать как дополнительных участников проекта для выполнения полного спектра задач на сайте, у них не будет точно таких же возможностей, что и у сотрудников организации с лицензией на платную полную версию. Дополнительные сведения о [действиях, доступных и недоступных внешним пользователям](https://docs.microsoft.com/sharepoint/external-sharing-overview?redirectSourcePath=%252fen-us%252farticle%252fexternal-sharing-overview-c8a462eb-0723-4b0b-8d0a-70feafe4be85).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Доступность возможностей в планах Office 365
 <a name="bkmk_tableo365"> </a>
@@ -69,7 +69,6 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Возможности для разработчиков** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Службы Access](developer.md#access-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |[Каталог приложений (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Развертывание приложений: приложения, размещаемые в облаке](developer.md#app-deployment-cloud-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Развертывание приложений: приложения, размещаемые в SharePoint](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -84,11 +83,10 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Сайт разработчика](developer.md#developer-site) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Приложения на основе форм](developer.md#infopath-forms-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Решения с полным доверием](developer.md#full-trust-solutions) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Служба форм InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да<sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Служба форм InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да,<sup>16</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Объектная модель JavaScript](developer.md#javascript-object-model) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный приемник событий](developer.md#remote-event-receiver) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[REST API](developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Изолированные решения](developer.md#sandboxed-solutions) <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да,<sup>16</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер SharePoint](developer.md#sharepoint-design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -99,7 +97,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Альтернативное сопоставление доступа](it-professional.md#alternate-access-mapping-aam) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Защита от вредоносных программ](it-professional.md#anti-malware-protection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Поддержка проверки подлинности, основанной на утверждениях](it-professional.md#claims-based-authentication-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Ключ клиента для Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |No<sup>20</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|[Ключ клиента для Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>19</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Защита от потери данных](it-professional.md#data-loss-prevention) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Шифрование статических данных](it-professional.md#encryption-at-rest) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |Шифрование при транзите  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
@@ -124,22 +122,22 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Поддержка видео и улучшения библиотеки активов](content.md#asset-library-enhancementsvideo-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Аудит](content.md#auditing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Каталогов](content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Страница категории и страница элемента каталога](content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Каталог](content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Страница категории и страница элемента каталога](content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Организатор контента](content.md#content-organizer) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Публикация на нескольких сайтах](content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Публикация на нескольких сайтах](content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Дизайнер](content.md#design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Перевод документов в Word Online](content.md#document-translation-in-word-online) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Обнаружение электронных данных](content.md#ediscovery-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Хранение электронных данных](content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
+|[Хранение электронных данных](content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |ДА  <br/> |
 |[Экспорт электронных данных](content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
 |[Внешний общий доступ: внешний доступ](content.md#external-sharing-external-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Возможность настройки для экстрасети  <br/> |Возможность настройки для экстрасети  <br/> |
 |[Внешний общий доступ: гостевые ссылки](content.md#external-sharing-guest-link) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Синхронизация папок](content.md#folder-sync) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
-|Типы гибридной таксономии и гибридного контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
+|Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
+|Типы гибридной таксономии и гибридного контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Представления изображений](content.md#image-renditions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[(IRM) Управления Правами На Доступ К Данным](content.md#information-rights-management-irm) <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Служба управляемых метаданных](content.md#managed-metadata-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -165,20 +163,20 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |**Функции аналитики** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Business Intelligence Center](insights.md#business-intelligence-center) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Вычисляемые показатели и элементы](insights.md#calculated-measures-and-members) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|[Библиотека подключений к данным](insights.md#data-connection-library) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Разъединенные сводные таблицы и диаграммы](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Field list and Field Support](insights.md#field-list-and-field-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Улучшения фильтров](insights.md#filter-enhancements) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Поиск фильтров](insights.md#filter-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[PerformancePoint Services](insights.md#performancepoint-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Библиотека подключений к данным](insights.md#data-connection-library) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Разъединенные сводные таблицы и диаграммы](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Field list and Field Support](insights.md#field-list-and-field-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Улучшения фильтров](insights.md#filter-enhancements) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Поиск фильтров](insights.md#filter-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[PerformancePoint Services](insights.md#performancepoint-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Веб-часть Power BI](insights.md#power-bi-web-part) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Power View для Excel в SharePoint](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Power Pivot для Excel в SharePoint](insights.md#power-view-for-excel-in-sharepoint) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Power View для Excel в SharePoint](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Power Pivot для Excel в SharePoint](insights.md#power-view-for-excel-in-sharepoint) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Экспресс-тенденции](insights.md#quick-explore) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Службы Visio](insights.md#visio-services)<sup>18</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
+|[Службы Visio](insights.md#visio-services) <sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Непрерывные обходы контента](search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Прямые ссылки](search.md#deep-links) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -203,16 +201,16 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |Веб-части поиска  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Поиски "Этот список"](search.md#this-list-searches) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**Возможности веб-сайтов** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|Информационные сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|Сайты для общения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Сообщество](social.md#community) <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Веб-канал компании](social.md#company-feed) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка различных браузеров](sites-servicedesc.md#cross-browser-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Настраиваемые управляемые пути](sites-servicedesc.md#custom-managed-paths) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Библиотеки документов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Управление](sites-servicedesc.md#governance) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Центральные сайты  <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет<sup>21</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|Гибридное средство запуска приложений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридный OneDrive для бизнеса и гибридные сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>19</sup> <br/> |Да  <br/> |Да  <br/> |
+|Центральные сайты  <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |Нет  <br/> |Нет  <br/> |
+|Гибридное средство запуска приложений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
+|Гибридный OneDrive для бизнеса и гибридные сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Масштабируемость и управляемость крупных списков](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Мобильная связь](sites-servicedesc.md#mobile-connectivity) <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Многоязычный пользовательский интерфейс](sites-servicedesc.md#multi-lingual-user-interface) <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |
@@ -236,7 +234,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Дополнительное хранилище](add-ons.md#additional-storage) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Приложения, подготовленные в Azure: Службы Access](add-ons.md#azure-provisioned-apps-access-services) <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |[Приложения, подготовленные в Azure: пользовательский код в Azure Lightweight Web Role (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-   
+> [!NOTE]
 > <sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов. 
 <br/><sup>2</sup> задействование сотрудники имеют ограниченные возможности OneDrive для бизнеса. Сотрудники задействование получают 2 ГБ места для хранения и не имеют возможностей для синхронизации настольных компьютеров. Учетные записи задействование не включают личный сайт OneDrive для бизнеса, поэтому они не смогут воспользоваться личной библиотекой OneDrive для бизнеса с 1 ТБ или 5 ТБ в Интернет-хранилище.
 <br/> <sup>3</sup> служба Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
@@ -251,9 +249,8 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 <br/> <sup>12</sup> в блогах нельзя добавлять комментарии. 
 <br/> <sup>13</sup> веб-сайт сообщества Организации доступен, но общедоступная помощь сообщества недоступна. 
 <br/><sup>14</sup> доступ 2010 не поддерживается. 
-<br/> <sup>15</sup> для Office Online пользователи могут получить доступ к Office Online (в живых плитках) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующее продукты **не** включены: Outlook, Word, Excel, PowerPoint и OneNote. 
-<br/> <sup>16</sup> изолированные решения не могут содержать пользовательский код. Они могут содержать только файлы определения (XML) и ресурсы, обрабатываемые сервером при активации. 
-<br/><sup>17</sup> формы InfoPath, содержащие пользовательский код ("песочнице"), можно использовать только в полнофункциональном клиенте InfoPath. 
-<br/><sup>18</sup> Справка по Visio Online (возможность просмотра) доступна бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>19</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. 
-<br/><sup>20</sup> ключ клиента доступен в Office 365 корпоративный "~". Ключ клиента позволяет управлять ключами шифрования в организации, которые Office 365 использует для шифрования неактивных данных, хранящихся в центрах обработки данных Майкрософт. К ним относятся данные из Exchange Online и Skype для бизнеса, хранящиеся в почтовых ящиках, а также файлы, хранящиеся в SharePoint Online и OneDrive для бизнеса. Ключ клиента помогает обеспечивать соответствие требованиям, так как вы можете управлять ключами шифрования, которые Office 365 использует для расшифровки данных. Дополнительные сведения см в разделе [Управление данными в Office 365 с помощью ключа клиента](https://go.microsoft.com/fwlink/?linkid=862702). 
-<br/><sup>21</sup> ожидается в ближайшее время. 
+<br/> <sup>15</sup> для Office Online пользователи могут получить доступ к Office Online (в живых плитках) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
+<sup>16</sup> форм InfoPath, которые содержат пользовательский код (песочница), можно использовать только в полнофункциональном клиенте InfoPath. 
+<br/><sup>17</sup> Поддержка Visio Online (возможность просмотра) доступна бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>18</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. 
+<br/><sup>19</sup> ключ клиента доступен в Office 365 корпоративный "~". Ключ клиента позволяет управлять ключами шифрования в организации, которые Office 365 использует для шифрования неактивных данных, хранящихся в центрах обработки данных Майкрософт. К ним относятся данные из Exchange Online и Skype для бизнеса, хранящиеся в почтовых ящиках, а также файлы, хранящиеся в SharePoint Online и OneDrive для бизнеса. Ключ клиента помогает обеспечивать соответствие требованиям, так как вы можете управлять ключами шифрования, которые Office 365 использует для расшифровки данных. Дополнительные сведения см в разделе [Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
+<br/><sup>20</sup> ожидается в ближайшее время. 

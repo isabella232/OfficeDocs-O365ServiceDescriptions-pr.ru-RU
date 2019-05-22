@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663293"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343788"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 

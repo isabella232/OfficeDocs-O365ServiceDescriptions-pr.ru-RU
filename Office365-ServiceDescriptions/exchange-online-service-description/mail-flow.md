@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье. '
-ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d65ba6b96f9cbeffd42d46f40fd126fb9a659690
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246405"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342778"
 ---
 # <a name="mail-flow"></a>Поток почты
 

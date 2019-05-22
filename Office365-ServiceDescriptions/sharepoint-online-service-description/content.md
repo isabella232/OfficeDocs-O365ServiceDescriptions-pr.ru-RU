@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-content-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности работы с контентом упрощают управление корпоративным информационным содержимым (ECM) для каждого. Это сочетание традиционного управления контентом, социальных возможностей и мощного поиска.
-ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246675"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342558"
 ---
 # <a name="content"></a>Статья
 
@@ -241,7 +241,7 @@ SharePoint Online это набор средств и технологий, ос
 
 Оптимизация общедоступного веб-сайта для поиска очень важна для связи с новыми и возвратами клиентов. SharePoint Online включает встроенные функции SEO, такие как настраиваемые роботы и метатаггинг, поэтому организации могут легко настраивать сайты для улучшения результатов поиска.
   
-## <a name="word-automation-services"></a>Word Automation Services
+## <a name="word-automation-services"></a>Службы автоматизации Word
 <a name="bkmk_WordAutomationServices"> </a>
 
 Недоступно для пользователей SharePoint Online. Службы Word Automation Services позволяют преобразовывать документы Microsoft Word на стороне сервера без участия пользователя. С помощью Word Automation Services задачи, ранее требовавшие запуска Word, могут быть автоматизированы в SharePoint Server 2013.

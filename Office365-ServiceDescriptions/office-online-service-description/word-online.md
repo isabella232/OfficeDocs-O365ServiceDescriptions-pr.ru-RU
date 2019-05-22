@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (ранее Word Web App) расширяет возможности Microsoft Word в веб-браузере, где вы можете работать с документами непосредственно на веб-сайте, где хранится документ.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246955"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343798"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -293,7 +293,7 @@ Word Online автоматически проверяет правописани
 
 Используйте Word Online, чтобы сохранять файлы в формате PDF и преобразовывать их в этот формат для отправки через Интернет или печати. Дополнительное программное обеспечение или надстройки не требуются.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Общий доступ
 <a name="bkmk_Share"> </a>
 
 В Word Online можно одним щелчком отправить пользователям ссылку для просмотра и редактирования документа. Узнайте больше о [различиях при работе с документом через браузер и в приложении Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).

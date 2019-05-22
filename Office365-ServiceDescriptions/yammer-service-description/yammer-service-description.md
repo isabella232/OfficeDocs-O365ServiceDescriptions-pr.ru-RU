@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer — это лучшая в своем классе безопасная и частная корпоративная социальная сеть. Yammer позволяет сотрудникам повысить производительность, позволяя им легко работать вместе, быстрее принимать решения, а также самостоятельно организовать группы для решения любой бизнес-задачи. Это новый способ взаимодействия, который улучшает согласованность и гибкость компании, сокращает время рабочих циклов, повышает удовлетворенность сотрудников и улучшает отношения с клиентами и партнерами.
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246775"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342098"
 ---
 # <a name="yammer-service-description"></a>Описание службы Yammer
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-social-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые позволяют организациям хранить, совместно использовать и управлять цифровыми данными. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие функции социальных сетей позволяют пользователям организовать совместную работу наиболее эффективно. Как это сделать? Благодаря отличным средствам совместной работы, которые могут использоваться любыми пользователями для обмена идеями, поиска людей и навыков, а также бизнес-информации.
-ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246575"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342448"
 ---
 # <a name="social"></a>Social
 

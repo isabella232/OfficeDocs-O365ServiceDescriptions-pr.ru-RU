@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: В приведенных ниже таблицах перечислены изменения, недавно внесенные в описание служб.
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246635"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343598"
 ---
 # <a name="recent-service-descriptions-changes"></a>Недавние изменения в описании службы
 
@@ -44,7 +44,7 @@ ms.locfileid: "33246635"
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Разъяснены возможности общего доступа к файлам GCC High и DoD.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен раздел FastTrack в раздел GCC.  <br/> |
    
-## <a name="april-2018"></a>Апрель 2018 г.
+## <a name="april-2018"></a>Апрель 2018 г.
 
 ||||
 |:-----|:-----|:-----|
@@ -63,7 +63,7 @@ ms.locfileid: "33246635"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновление шифрования данных в REST в центре обработки данных и шифровании сообщений Office 365 (OME).  <br/> |
 ||[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Обновление шифрования данных в REST в центре обработки данных и шифровании сообщений Office 365 (OME).  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Обновление для заКрепления областей поддержка в Excel Online.  <br/> |
+|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Обновление для закрепления областей поддержка в Excel Online.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Несколько обновлений и реструктуризация.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Несколько обновлений.  <br/> |
 |Yammer  <br/> |[Функции администрирования и безопасности в Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Удалены примечания и ключи потока действий.  <br/> |
@@ -130,7 +130,7 @@ ms.locfileid: "33246635"
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены данные миграции данных, выполненных таблицей FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлено примечание о том, что для федеративного общего доступа требуется использование адресного пространства доступности для поддержки общего доступа к другим клиентам.  <br/> |
 |Exchange Online  <br/> |[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Добавлены пределы для устаревшей версии Office 365 Message encryption (OME) и шифрования сообщений Office 365 (OME) с новыми возможностями.  <br/> |
-|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоКонференций в Office 365 Business Premium, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
+|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоконференций в Office 365 Business Premium, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
 ||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что кредиты на связь можно добавить в план подписки на Office 365 Business Premium в качестве надстройки для поддержки голосовой конференции.  <br/> |
 ||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Разъяснены возможности передачи файлов в Office 365 Enterprise F1.  <br/> |
 |Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Добавлена новая страница описания службы Visio Online и обновлены несколько страниц, чтобы отразить это добавление.  <br/> |

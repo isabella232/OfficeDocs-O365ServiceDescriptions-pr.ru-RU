@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-plan-options
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f5a871552d9709e381ea795e196a00461f08f6b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247235"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343298"
 ---
 # <a name="office-365-plan-options"></a>Параметры планов Office 365
 
@@ -67,7 +67,7 @@ ms.locfileid: "33247235"
    
 > <sup>1</sup> Project Online не включен, но его можно приобрести в виде отдельной дополнительной службы или добавить бесплатно в план Office 365 для образовательных учреждений.  
 <br/><sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
-<br/><sup>3</sup> чтобы узнать больше о возМожностях Azure Information Protection в планах Office 365, обратитесь к статье [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 корпоративный 3: Поддержка телефонной системы, аудио-и видеоконференций, а так же возможности плана звонков. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков). 
+<br/><sup>3</sup> чтобы узнать больше о возможностях Azure Information Protection в планах Office 365, обратитесь к статье [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 корпоративный 3: Поддержка телефонной системы, аудио-и видеоконференций, а так же возможности плана звонков. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков). 
 <br/><sup>5</sup> включает хранилище объемом 2 ГБ. Не включает функцию синхронизации с рабочим столом. 
 <br/><sup>6</sup> включает Exchange Online (план 1). 
 <br/><sup>7</sup> включает Exchange Online (план 2). 

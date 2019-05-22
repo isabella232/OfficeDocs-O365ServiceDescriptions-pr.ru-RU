@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Сравниваете функции, которые предусмотрены в подписках на Office 365, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
-ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
+ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33659678"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342768"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -178,7 +178,7 @@ Microsoft Exchange Online  это размещенное решение для
 <sup>6</sup> exchange Server 2013 имеет большинство встроенных функций защиты от нежелательной почты в качестве Exchange Server 2010. Сведения о преимуществах использования функции фильтрации нежелательной почты Exchange на локальных решениях приведены в статье [преимущества функции защиты от нежелательной почты в Exchange Online Protection в Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
 <sup>7</sup> доступно только через прямой доступ к интерфейсу управления центра администрирования Exchange. <br/>
 <sup>8</sup> Exchange Server 2013 использует только модуль защиты от вредоносных программ (Майкрософт). Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ. <br/>
-<sup>9</sup> подПИСКУ на EOA можно приобрести отдельно для каждого почтового ящика, для которого требуется функция неактивного почтового ящика.  <br/>
+<sup>9</sup> подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которого требуется функция неактивного почтового ящика.  <br/>
 <sup>10</sup> SharePoint необходимо развертывать в локальной организации Exchange. <br/>
 <sup>11</sup> SharePoint Online необходимо включить в план подписки на Office 365. <br/>
 <sup>12</sup> POP поддерживается, но IMAP нет. <br/>
@@ -306,7 +306,7 @@ Microsoft Exchange Online  это размещенное решение для
 <sup>3</sup> SharePoint должен быть развернут в локальной организации Exchange. <br/>
 <sup>4</sup> SharePoint Online должен быть включен в план подписки на Office 365. <br/>
 <sup>5</sup> требуется подписка на архивацию на базе Exchange Online (EOA) для каждого локального пользователя почтового ящика с облачным архивом. <br/>
-<sup>6</sup> подПИСКУ на EOA можно приобрести отдельно для каждого почтового ящика, для которого требуется функция неактивного почтового ящика. <br/>
+<sup>6</sup> подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которого требуется функция неактивного почтового ящика. <br/>
 <sup>7</sup> в Exchange Server 2013 используется только модуль защиты от вредоносных программ (Майкрософт). Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ. <br/>
 <sup>8</sup> доступно только через прямой доступ к интерфейсу управления центра администрирования Exchange. <br/>
 <sup>9</sup> IMAP не поддерживается. <br/>
@@ -314,7 +314,7 @@ Microsoft Exchange Online  это размещенное решение для
 <sup>11</sup> Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Шифрование сообщений Office 365 зависит от Azure Information Protection. <br/>
 <sup>12</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. <br/>
 <sup>13</sup> поддерживается для клиентов, использующих Exchange Server 2013 или более поздних версий, которые приобрели Azure Information Protection. Для шифрования сообщений Office 365 необходимо, чтобы локальные клиенты могли маршрутизировать почту через Exchange Online либо с помощью Exchange Online Protection для фильтрации электронной почты, либо путем установки гибридного процесса обработки почты. <br/>
-<sup>14</sup> клиентам, работающим под управлением Exchange Server 2013 или более поздней версии, необходимо скачать и установить последнее накопительное обновление (Cu) или предыдущУЮ версию Cu, чтобы получать доступ к отпечатку документов и подсказкам политики в OWA и OWA для устройств. <br/>
+<sup>14</sup> клиентам, работающим под управлением Exchange Server 2013 или более поздней версии, необходимо скачать и установить последнее накопительное обновление (Cu) или предыдущую версию Cu, чтобы получать доступ к отпечатку документов и подсказкам политики в OWA и OWA для устройств. <br/>
 <sup>15</sup> доступно клиентам, работающим под управлением Exchange Server 2013 или более поздней версии. <br/>
 <sup>16</sup> шифрование диска BitLocker поддерживается для Exchange Server 2013, но администратору необходимо включить эту функцию. <br/>
 <sup>17</sup> Exchange Online (план 1) имеет [ограничения на размер почтового ящика и архива](https://go.microsoft.com/fwlink/?LinkId=330039). Надстройка Архивация на базе Exchange Online для Exchange Online добавляет неограниченный облачный архив и [удержание на месте](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold). <br/>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - mail-flow-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет это сделать и обеспечивает обработку почты, предназначенную для защиты от вирусов и нежелательной почты, в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте Exchange Online Protection.
-ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c55d1d376d617b863a75ff609cbc3f064418746b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244915"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341828"
 ---
 # <a name="mail-floweop"></a>Поток почты[EOP]
 

@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-08-2019"></a>Неделя с 8 апреля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 10.04.2019 г. | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
-| 10.04.2019 г. | [Планы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-plan-options) | Изменено |
-| 10.04.2019 г. | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
-| 10.04.2019 г. | [Функции набора Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-suite-features) | Изменено |
-| 10.04.2019 г. | [Управление учетными записями пользователей](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | Изменено |
-| 4/11/2019 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | Изменено |
-| 4/11/2019 | [Политика обмена сообщениями и соответствие требованиям](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | Изменено |
-| 4/11/2019 | [Клиенты и мобильные устройства](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Изменено |
-| 4/11/2019 | [Соответствие требованиям](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | Изменено |
-| 4/11/2019 | [Microsoft 365 для образования](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | Изменено |
-| 4/11/2019 | [Конфиденциальность, безопасность и прозрачность](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | Изменено |
-| 4/11/2019 | [Обновления служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | Изменено |
-| 4/11/2019 | [ИТ-специалистам](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | Изменено |
-| 4/11/2019 | [Сайты](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | Изменено |
-| 4/11/2019 | [Функции архивации в архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Изменено |
-| 4/11/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
-| 4/11/2019 | [Описание службы Skype для бизнеса Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Изменено |
-
-
 ## <a name="week-of-april-15-2019"></a>Неделя с 15 апреля 2019 г.
 
 
@@ -35,7 +11,7 @@
 | 4/18/2019 | [Клиенты и мобильные устройства](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Изменено |
 | 4/18/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
 | 4/18/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
-| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Изменено |
+| 4/18/2019 | [Контент](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Изменено |
 
 
 ## <a name="week-of-april-22-2019"></a>Неделя с 22 апреля 2019 г.
@@ -84,3 +60,15 @@
 | 5/7/2019 | [Описание службы Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Изменено |
 | 5/7/2019 | [Поддержка](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | Изменено |
 | 5/7/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
+
+
+## <a name="week-of-may-13-2019"></a>Неделя с 13 мая 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 5/13/2019 | [Описание службы Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | Изменено |
+| 5/13/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
+| 5/13/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
+| 5/15/2019 | [Описание службы OneDrive для бизнеса](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | Изменено |
+| 5/17/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |

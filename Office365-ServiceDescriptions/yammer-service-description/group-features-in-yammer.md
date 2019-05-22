@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - group-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: В Yammer доступны следующие возможности работы с группами.
-ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a939ebab44fc8205ee329ab85c94d00853d81b40
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246455"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342238"
 ---
 # <a name="group-features-in-yammer"></a>Функции работы с группами в Yammer
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-voice-message-services
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c49a55f3278465a33e0caf3120edf454d985de0c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246475"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343028"
 ---
 # <a name="voice-message-services"></a>Службы голосовых сообщений
 
@@ -67,11 +67,11 @@ Microsoft Exchange Online предлагает услуги размещенно
 Локальные системы голосовой почты от сторонних провайдеров могут взаимодействовать с Exchange Online, если они способны пересылать голосовые сообщения через SMTP, или если они поддерживают службы Microsoft Exchange Web Services. Если система голосовой почты изначально не поддерживает переадресацию голосовых сообщений через SMTP, сервер электронной почты может быть размещен локально и может получать сообщения из системы голосовой почты, а затем направлять их на облако используя SMTP. Так как многие сторонние системы голосовой почты используют MAPI/CDO для взаимодействия с продвинутой единой системой обмена сообщениями Exchange Server, все возможности этих систем могут быть недоступны при использовании SMTP для совместимости с Exchange Online.
   
 > [!NOTE]
-> Поддержка единой системы обмена СООБЩЕНИЯми Exchange Online единой системы обмена СООБЩЕНИЯми с непосредственными подключениями от пользователей, истечений с помощью прямых подключений, будет завершаться 2018 июля Дополнительную информацию можно узнать в статье прекращение [поддержки пограничных контроллерОв сеансов в единой системе обмена сообщенияМи Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . 
+> Поддержка единой системы обмена сообщениями Exchange Online единой системы обмена сообщениями с непосредственными подключениями от пользователей, истечений с помощью прямых подключений, будет завершаться 2018 июля Дополнительную информацию можно узнать в статье прекращение [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . 
   
 ## <a name="skype-for-business-integration"></a>Интеграция Skype для бизнеса
 
-Организации могут приобрести Skype для бизнеса Online в качестве автономной службы или в составе Microsoft Office 365. Локальная среда Skype для бизнеса 2015 также поддерживается. Дополнительные сведения о Skype для бизнеса Online см. в [описанИи службы Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Организации могут приобрести Skype для бизнеса Online в качестве автономной службы или в составе Microsoft Office 365. Локальная среда Skype для бизнеса 2015 также поддерживается. Дополнительные сведения о Skype для бизнеса Online см. в [описании службы Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Доступность функций
 

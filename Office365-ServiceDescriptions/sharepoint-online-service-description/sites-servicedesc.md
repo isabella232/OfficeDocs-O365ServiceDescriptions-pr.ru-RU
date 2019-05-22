@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-sites-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые позволяют организациям хранить, совместно использовать и управлять цифровыми данными. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности представляют собой полный набор средств, которые могут использоваться в организации для создания любого типа сайта, а также единую инфраструктуру, которая упрощает управление сайтом. Более подробную информацию можно найти в разделе Find Contents о SharePoint Online.
-ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246585"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342488"
 ---
 # <a name="sites"></a>Сайты
 

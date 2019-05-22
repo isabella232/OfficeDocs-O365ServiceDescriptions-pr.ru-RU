@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: 'PowerPoint Online (ранее PowerPoint Web App) расширяет возможности Microsoft PowerPoint в веб-браузере, где вы можете работать с презентациями непосредственно на веб-сайте, где хранится презентация. Клиенты Microsoft Office 365: с Office Online могут просматривать, создавать и редактировать файлы на ходу.'
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246945"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343748"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -207,7 +207,7 @@ PowerPoint Online сохраняет работу после каждого из
 
 В приложении PowerPoint Online невозможно вставить объекты Word Art и диаграммы, но PowerPoint Online отображает их в полном объеме. Редактирование и форматирование текста в режиме редактирования. Чтобы применить текстовый эффект к объекту Word Art, потребуется классическое приложение Microsoft PowerPoint.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Общий доступ
 <a name="bkmk_Share"> </a>
 
 Если презентация сохранена в библиотеке документов SharePoint, она уже находится в сети, и вы можете предоставить к ней общий доступ, просто отправив ссылку на нее вместо вложения в сообщение электронной почты. Пользователи с соответствующими разрешениями могут просматривать ее в веб-браузере или на мобильном устройстве. Узнайте больше об [общем доступе к презентации](https://go.microsoft.com/fwlink/?LinkId=272776).

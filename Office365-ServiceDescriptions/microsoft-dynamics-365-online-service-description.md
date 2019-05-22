@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'С декабря 2016 года функциональность Dynamics CRM входит в состав Dynamics 365 (набора интеллектуальных бизнес-приложений). Dynamics 365 объединяет в себе функции управления отношениями с клиентами (CRM) и планирования ресурсов предприятия (ERP), предоставляя новые приложения для управления бизнес-функциями. '
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246525"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342969"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Описание веб-службы Microsoft Dynamics 365
 
