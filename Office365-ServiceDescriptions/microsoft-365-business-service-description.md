@@ -3,7 +3,7 @@ title: Описание службы Microsoft 365 бизнеса
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342979"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493497"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -119,7 +119,7 @@ Microsoft 365 Business — это интегрированное решение,
 |||||
 |:-----|:-----|:-----|:-----|
 |**Функции управления удостоверениями и доступом** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security/Security** <br/> |
-|Многофакторная проверка подлинности Office 365 (MFA)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Многофакторная проверка подлинности Azure (MFA)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Административные единицы  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Обнаружение облачных приложений  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Динамические группы  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
@@ -133,6 +133,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Connect Health  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Соглашение об уровне обслуживания 99,9 %  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Advanced Threat Analytics  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|условный доступ;  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |**Функции управления устройствами и приложениями** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Управление мобильными устройствами (MDM)<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Автоматическая регистрация для управления мобильными устройствами (MDM)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
@@ -169,14 +170,14 @@ Microsoft 365 Business — это интегрированное решение,
 <br/><sup>4</sup> служба Azure Information Protection (точка административной защиты) включает поддерживаемые функции управления правами на доступ к данным (IRM). AIP (план 1) входит в состав Microsoft 365 бизнес. 
 <br/><sup>5</sup> Microsoft Teams доступен в Microsoft 365 Business, Office 365 для бизнеса Essentials, Office 365 бизнес премиум и Office 365 Enterprise (E1, E3,/с, F1). Она пока не доступна в планах Office 365 для образования. 
 <br/><sup>6</sup> Azure Information Protection (точка административной защиты) включает поддерживаемые функции управления правами на доступ к данным (IRM). AIP (план 1) входит в состав Microsoft 365 бизнес. 
-<br/><sup>7</sup> средство Azure AD Connect для поддержки синхронизации службы каталогов поддерживается в Office 365 Business Premium, который является компонентом Microsoft 365 Business. Однако если компоненты управления Windows включены для Microsoft 365 Business, необходимо присоединиться к Azure AD. Если у вас есть локальная среда Active Directory и вы хотите присоединить подключенные к домену устройства к Azure AD, вы можете выполнить эту задачу, [настроив гибридные подключенные устройства Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
+<br/><sup>7</sup> средство Azure AD Connect для поддержки синхронизации службы каталогов поддерживается в Office 365 Business Premium, который является компонентом Microsoft 365 Business. Однако если компоненты управления Windows включены для Microsoft 365 Business, необходимо присоединиться к Azure AD. Если у вас есть локальная среда Active Directory и вы хотите присоединить подключенные к домену устройства к Azure AD, вы можете выполнить эту задачу, [настроив гибридные подключенные устройства Azure AD](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
 <br/><sup>8</sup> при использовании синхронизации службы каталогов с локальной службой Active Directory необходимо удалить учетные записи или изменить пароли с помощью локального каталога Active Directory, а не портала Office 365 или с помощью модуля Azure Active Directory для Windows PowerShell. 
-<br/><sup>9</sup> только облачные удостоверения. [В разделе Разрешить пользователям сбрасывать собственные пароли в Office 365](https://go.microsoft.com/fwlink/?linkid=852917). 
+<br/><sup>9</sup> только облачные удостоверения. [В разделе Разрешить пользователям сбрасывать собственные пароли в Office 365](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords). 
 <br/><sup>10</sup> , которые были приобретены с термином скидка, могут быть подвергаться предоплатам. Это не относится к подпискам, оплачиваемым помесячно. 
-<br/><sup>11</sup> корпорация Майкрософт 365 Business включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
-<br/><sup>12</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://go.microsoft.com/fwlink/?linkid=863349). 
+<br/><sup>11</sup> корпорация Майкрософт 365 Business включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). 
+<br/><sup>12</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). 
 <br/><sup>13</sup> Расширенное обнаружение электронных данных поддерживается в Соединенных Штатах Америки и в регионе Западная Европа (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
-<br/><sup>14</sup> доступно в [https://securescore.office.com](https://securescore.office.com). Требуются разрешения администратора. Дополнительные сведения см. [в статье Введение в Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=863490).
+<br/><sup>14</sup> доступно в [https://securescore.office.com](https://securescore.office.com). Требуются разрешения администратора. Дополнительные сведения см. [в статье Введение в Office 365 Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 <br/><sup>15</sup> упрощенное управление устройствами Windows 10 встроено в центр администрирования Microsoft 365. Возможности управления Intune, Android, macOS и другое управление устройствами на нескольких платформах, встроенные в центр администрирования управления устройствами и лицензированные для использования с Microsoft 365 Business. Сторонние приложения и настройка таких вещей, как профили Wi-Fi и VPN-сертификаты, можно также управлять в центре администрирования управления устройствами. 
 <br/><sup>16</sup> этот план поставляется с Microsoft Streaming Plan 2, который включает в себя видеопортал, речевое распознавание текста, поиск с глубоким поиском и определением лица.
 <br/><sup>17</sup> упрощенное управление устройствами Windows 10 и политики защиты приложений Intune, встроенные в центр администрирования Microsoft 365.
