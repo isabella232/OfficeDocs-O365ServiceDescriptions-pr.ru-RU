@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>Неделя с 22 апреля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 4/24/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 4/26/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 4/26/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
-| 4/26/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
-| 4/26/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
-
-
 ## <a name="week-of-april-29-2019"></a>Неделя с 29 апреля 2019 г.
 
 
@@ -176,3 +164,12 @@
 | 5/21/2019 | [Возможности поддержки в Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | Изменено |
 | 5/21/2019 | [Возможности платформы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | Изменено |
 | 5/21/2019 | [Описание службы Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | Изменено |
+
+
+## <a name="week-of-may-27-2019"></a>Неделя с 27 мая 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 5/28/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
+| 5/31/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
