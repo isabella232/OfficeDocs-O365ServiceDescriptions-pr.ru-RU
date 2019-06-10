@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742158"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780668"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online 
 
@@ -30,15 +30,13 @@ ms.locfileid: "34742158"
 |Семейства веб-сайтов в Организации  <br/> |1 000 000<sup>6</sup> <br/> |1 000 000<sup>6</sup> <br/> |1 миллион<br/> |
 |Количество пользователей  <br/> |До 300  <br/> |1-500 000<sup>7</sup> <br/> |1-500 000<sup>7</sup> <br/> |
    
-<sup>1</sup> вы можете приобрести неограниченное количество дополнительных хранилищ SharePoint. В разделе изменение дискового [пространства для подписки](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> вы можете приобрести неограниченное количество дополнительных хранилищ SharePoint. В разделе изменение дискового [пространства для подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> рекомендуем регулярно отслеживать корзину и очищать ее. Используемое ею место на диске является частью общего объема хранилища в Организации. 
-<br/> <sup>3</sup> при наличии подписки на Office 365 и автономного плана SharePoint Online добавляются объемы хранилища. 
-<br/> <sup>4</sup> это максимальный размер хранилища для одного семейства веб-сайтов, а не объем хранилища, предоставленный для каждого семейства веб-сайтов. Это значение применяется ко всем типам семейств веб-сайтов, включая сайты групп, подключенных к группам Office 365, и OneDrive. Администраторы SharePoint могут [вручную устанавливать более низкие пределы хранения](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>3</sup> если у вас есть подписка на Office 365 и дополнительная надстройка для хранения файлов Office 365, добавляются объемы хранилища. 
+<br/> <sup>4</sup> это максимальный размер хранилища для одного семейства веб-сайтов, а не объем хранилища, предоставленный для каждого семейства веб-сайтов. Это значение применяется ко всем типам семейств веб-сайтов, включая сайты групп, подключенных к группам Office 365, и OneDrive. Администраторы SharePoint могут [вручную устанавливать более низкие пределы хранения](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
 <br/> <sup>5</sup> задействование сотрудники не могут администрировать семейства веб-сайтов SharePoint. 
 <br/> <sup>6</sup> не включает OneDrive, созданный для каждого лицензированного пользователя. 
 <br/> <sup>7</sup> если у вас больше 500 000 пользователей, свяжитесь с представителем корпорации Майкрософт. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>Пределы служб для всех планов
 
@@ -68,8 +66,8 @@ ms.locfileid: "34742158"
 - **User** -2 000 000 для каждого семейства веб-сайтов.
 
 > [!NOTE]
-> Количество гостей, которые можно пригласить на семейства веб-сайтов SharePoint, не ограничено. Для получения дополнительных сведений о внешнем совместном доступе ознакомьтесь со статьей [Обзор внешнего общего доступа](/sharepoint/external-sharing-overview).
+> Количество гостей, которые можно пригласить на семейства веб-сайтов SharePoint, не ограничено. Для получения дополнительных сведений о внешнем совместном доступе ознакомьтесь со статьей [Обзор внешнего общего доступа](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>См. также
 
-[Пределы поиска для SharePoint Online](/sharepoint/search-limits)
+[Пределы поиска для SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
