@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780708"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931131"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -62,6 +62,9 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 <a name="bkmk_tableo365"> </a>
 
 В приведенной ниже таблице содержатся сведения о доступности возможностей SharePoint в плане Office 365:. 
+
+> [!TIP]
+> Некоторые столбцы в этой таблице могут быть скрыты. Используйте полосу прокрутки в нижней части таблицы, чтобы прокрутить вправо и просмотреть дополнительные столбцы.
   
 ****
 

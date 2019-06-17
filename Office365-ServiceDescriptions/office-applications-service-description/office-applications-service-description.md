@@ -3,7 +3,6 @@ title: Описание службы приложений Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343098"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931141"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -90,7 +89,7 @@ Microsoft Office 365 — это служба подписки, предоста�
 |Активация корпоративных лицензий (KMS и MAK)  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Нет<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
    
 > [!NOTE]
-><sup>+</sup>При установке Office 365 или Office 2019 вы получите по умолчанию OneNote для Windows 10. Дополнительные сведения содержатся в разделе [часто задаваемые вопросы о оеноте в Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>При установке Office 365 или Office 2019 вы получите по умолчанию OneNote для Windows 10. Дополнительные сведения см. [в разделе часто задаваемые вопросы о OneNote в Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>Доступ приложений OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365. <br/>
 ><sup>+++</sup>Поддержка объектов BHO — это технология расширения для Internet Explorer. <br/>
 ><sup>1</sup> функции архивации и обеспечения соответствия требованиям поддерживаются в этой версии Office, но в планах Exchange Online и SharePoint Online они не включены и должны быть приобретены отдельно или использоваться с поддерживаемыми локальными серверными эквивалентами.<br/>

@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-29-2019"></a>Неделя с 29 апреля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 5/1/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 5/1/2019 | [Office 365 для образования](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | Изменено |
-| 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | Изменено |
-| 5/1/2019 | [Служба Office 365, предоставляемая компанией 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Изменено |
-| 5/1/2019 | [Приложения Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | Изменено |
-| 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | Изменено |
-| 5/1/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
-| 5/1/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
-| 5/2/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 5/3/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
-| 5/3/2019 | [Office 365 для образования](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | Изменено |
-| 5/3/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | Изменено |
-| 5/3/2019 | [Политика обмена сообщениями и соответствие требованиям](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | Изменено |
-| 5/3/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
-| 5/3/2019 | [Управление портфелем](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | Изменено |
-| 5/3/2019 | [Управление проектами](/Office365/ServiceDescriptions/project-online-service-description/project-management) | Изменено |
-| 5/3/2019 | [Описание службы Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | Изменено |
-
-
 ## <a name="week-of-may-06-2019"></a>Неделя в 06 мая 2006 г., 2019
 
 
@@ -173,3 +149,22 @@
 |------|------------|--------|
 | 5/28/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
 | 5/31/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
+
+
+## <a name="week-of-june-03-2019"></a>Неделя с 3 июня 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 6/6/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
+| 6/6/2019 | [Служба Office 365, предоставляемая компанией 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Изменено |
+| 6/6/2019 | [Поиск](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | Изменено |
+| 6/6/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
+| 6/7/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
+| 6/7/2019 | [Функции архивации в архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Изменено |
+| 6/7/2019 | [Описание службы архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | Изменено |
+| 6/7/2019 | [Описание службы Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | Изменено |
+| 6/7/2019 | [Описание службы Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Изменено |
+| 6/7/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
+| 6/7/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
+| 6/7/2019 | [Описание службы SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Изменено |
