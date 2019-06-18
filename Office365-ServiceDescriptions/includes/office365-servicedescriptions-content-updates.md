@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Неделя в 06 мая 2006 г., 2019
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | Изменено |
-| 5/6/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
-| 5/7/2019 | [Описание службы Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Изменено |
-| 5/7/2019 | [Поддержка](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | Изменено |
-| 5/7/2019 | [Описание службы Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Изменено |
-
-
 ## <a name="week-of-may-13-2019"></a>Неделя с 13 мая 2019 г.
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
 | 6/7/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
 | 6/7/2019 | [Описание службы SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Изменено |
+
+
+## <a name="week-of-june-10-2019"></a>Неделя с 10 июня 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 6/13/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
+| 6/13/2019 | [Описание службы SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Изменено |

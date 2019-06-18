@@ -3,7 +3,6 @@ title: Описание службы Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343788"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018311"
 ---
 # <a name="office-online-service-description"></a>Описание службы Office Online
 
 Office Online (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Благодаря Office Online работать с файлами Office и предоставлять к ним общий доступ гораздо проще, ведь это можно делать везде, где есть подключение к Интернету, и практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге. 
   
-Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Доступность функций в планах Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Office Online (ранее Office Web Apps) открывает документы
 Нужна помощь, чтобы определить, какое решение Office наилучшим образом подходит вашей организации? В приведенных ниже таблицах сравниваются возможности Office Online, а также широкие возможности для настольных приложений Microsoft Office. Используйте таблицы, чтобы узнать, какие функции доступны в Office Online, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другие — только для просмотра и редактирования документов Word и презентаций PowerPoint с помощью Office Online. 
   
 > [!NOTE]
->  Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблицы не являются исчерпывающим списком функций Microsoft Office. _Гт_ Microsoft Office 365 профессиональный плюс — это ежемесячное предположительное предположительное предоставление набора Office Desktop Suite. _Гт_ локальные клиенты Microsoft Office Online Server получают лицензию на редактирование Office Online, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или Office 365 профессиональный плюс). 
+>  Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблицы не являются исчерпывающим списком функций Microsoft Office. <br/>  Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии. <br/>  Локальные клиенты Microsoft Office Online Server получают лицензию на редактирование Office Online, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или Office 365 профессиональный плюс). 
   
 > [!NOTE]
 > При открытии документа Office как вложения электронной почты Outlook или из библиотеки документов SharePoint, он запускается в Office Online и будет доступен только для чтения. Для редактирования документа в Office Online (режим редактирования) необходима лицензия на набор Office 365, такая как Office 365 корпоративный E1. Для редактирования документа необходима лицензия на классический набор Office, такая как подписная лицензия на Office 365 профессиональный плюс или лицензия на Office 2010 профессиональный плюс. 
@@ -45,7 +44,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |**Возможности приложений** <br/> |**Word Online** <br/> |**Классическое приложение Word** <br/> |
 |[Направляющие выравнивания и динамический макет](word-online.md#alignment-guides-and-live-layout) <br/> |Нет  <br/> |ДА  <br/> |
 |[Применение стилей](word-online.md#apply-styles) <br/> |Да  <br/> |Да  <br/> |
-|[Автосохранение](word-online.md#autosave) <br/> |Нет  <br/> |ДА  <br/> |
+|[Автосохранение](word-online.md#autosave) <br/> |Да  <br/> |Да  <br/> |
 |[Автотекст](word-online.md#autotext) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр и начало работы с профессионально разработанных шаблонов](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Да  <br/> |Да  <br/> |
 |[Маркеры и нумерация](word-online.md#bullets-and-numbering) <br/> |Да  <br/> |Да  <br/> |
@@ -214,9 +213,9 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Совместное редактирование](onenote-online.md#co-authoring) <br/> |Да  <br/> |Да  <br/> |
 |[Создание страниц и разделов и управление ими](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Да  <br/> |Да  <br/> |
 |[Загрузка копии встроенных файлов Office](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
-|[Перетаскивание страниц] <br/> |Да  <br/> |Да <br/> |
-|[Перетаскивание разделов] <br/> |Да  <br/> |Да <br/> |
-|[Группы разделов перетаскивания] <br/> |Нет  <br/> |ДА <br/> |
+|Перетаскивание страниц <br/> |Да  <br/> |Да <br/> |
+|Перетаскивание разделов <br/> |Да  <br/> |Да <br/> |
+|Перетаскивание групп разделов <br/> |Нет  <br/> |ДА <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Да  <br/> |Да  <br/> |
 |[Редактирование внедренных файлов](onenote-online.md#EmbeddedFileEdit) <br/> |Нет  <br/> |ДА  <br/> |
 |[Формулы](onenote-online.md#equations) <br/> |Да  <br/> |Да  <br/> |
@@ -241,7 +240,7 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Таблицы](onenote-online.md#tables) <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка шаблонов](onenote-online.md#template-support) <br/> |Нет  <br/> |ДА  <br/> |
 |[Отмена и повтор](onenote-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
-|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |Да  <br/> |
+|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр предыдущих версий страницы](onenote-online.md#view-previous-page-versions) <br/> |Да  <br/> |Да  <br/> |
    
 > [!NOTE]
@@ -301,10 +300,11 @@ Office Online (ранее Office Web Apps) открывает документы
 |[Просмотр в режиме WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Да  <br/> |Да  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online поддерживает коллекцию 8 переходов и анимацию 37. Для увеличения выделенного фрагмента или создания настраиваемой анимации используйте классическое приложение PowerPoint. 
- <br/><sup>2</sup> устройство, с которым вы работаете, должно поддерживать рукописный ввод. 
- <br/> <sup>3</sup> некоторые, но не все, доступны надстройки Office. 
- <br/><sup>4</sup> нельзя создавать сводные диаграммы и сводные таблицы, но их можно просмотреть в средстве просмотра. 
+><sup>1</sup> PowerPoint Online поддерживает коллекцию 8 переходов и анимацию 37. Для увеличения выделенного фрагмента или создания настраиваемой анимации используйте классическое приложение PowerPoint. 
+ <br/>
+<sup>2</sup> устройство, с которым вы работаете, должно поддерживать рукописный ввод. <br/> 
+<sup>3</sup> некоторые, но не все, доступны надстройки Office. <br/>
+<sup>4</sup> нельзя создавать сводные диаграммы и сводные таблицы, но их можно просмотреть в средстве просмотра. 
   
 ## <a name="supported-file-types-for-office-online"></a>Типы файлов, поддерживаемые в Office Online
 <a name="bkmk_SupportedFileTypes"> </a>
