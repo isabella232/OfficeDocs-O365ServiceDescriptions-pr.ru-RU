@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности работы с контентом упрощают управление корпоративным информационным содержимым (ECM) для каждого. Это сочетание традиционного управления контентом, социальных возможностей и мощного поиска.
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342558"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130962"
 ---
 # <a name="content"></a>Статья
 
@@ -76,10 +76,10 @@ SharePoint Online это набор средств и технологий, ос
 
 Наборы документов позволяют пользователям хранить, обрабатывать, экспортировать, а также добавлять описания для нескольких файлов как для единого целого. Политики, маркировка тегами и шаблоны могут быть применены к любому создаваемому набору документов. Дополнительные сведения см. в статье, посвященной [наборам документов](https://go.microsoft.com/fwlink/?LinkId=270954).
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>Перевод документов в Word для Интернета
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-В режиме чтения Word Online теперь позволяет организациям переводить документы непосредственно в браузере. Переводятся даже примечания.
+В режиме чтения Word для Интернета теперь предоставляет возможность разрешить организациям перевод документов непосредственно в браузере. Переводятся даже примечания.
   
 ## <a name="ediscovery-search"></a>Обнаружение электронных данных
 <a name="bkmk_eDiscovery_Search"> </a>
@@ -141,15 +141,15 @@ SharePoint Online это набор средств и технологий, ос
 
 Политики хранения могут иметь несколько уровней, что позволяет задавать весь жизненный цикл документов в одной политике. Например, каждый год проводится пересмотр контрактов, а удаляются они через семь лет. Дополнительные сведения см. в разделе [Хранение записей и управление ими](https://go.microsoft.com/fwlink/?LinkId=270968).
   
-## <a name="office-online-createedit"></a>Office Online (создание/редактирование)
+## <a name="office-for-the-web-createedit"></a>Office для Интернета (создание и редактирование)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Если вы пользуетесь Office 365, вы можете автоматически создавать и редактировать файлы Office с помощью Office Online из веб-браузера. Сведения о возможностях, доступных в Office Online, см. в статье [Описание службы Office Online](../office-online-service-description/office-online-service-description.md).
+Если вы являетесь клиентом Office 365, вы можете автоматически создавать и редактировать файлы Office с помощью Office для Интернета из Интернет-браузера. Чтобы узнать, какие функции доступны в Office для Интернета, ознакомьтесь с [описанием веб-службы в Office](../office-online-service-description/office-online-service-description.md).
   
-## <a name="office-online-view"></a>Office Online (просмотр)
+## <a name="office-for-the-web-view"></a>Office для Интернета (представление)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-По умолчанию протокол Office Online предлагается бесплатно и только с разрешениями на просмотр. Дополнительные сведения об [использовании Office Online на сайте SharePoint организации](https://go.microsoft.com/fwlink/?LinkId=392609).
+По умолчанию Office для Интернета доступен только для просмотра. Функции, предназначенные только для просмотра, предоставляются бесплатно. Узнайте больше об [использовании Office для Интернета на сайте SharePoint вашей организации](https://go.microsoft.com/fwlink/?LinkId=392609).
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

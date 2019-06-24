@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
-ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 266bac1f2fb4fb7d76ee41a640b2ddde93a11af6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343608"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131113"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
@@ -31,7 +31,7 @@ Microsoft 365 представляет собой полноценную сис�
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Службы** <br/> |**Office 365 для образования A1** <br/> |**Office 365 для образования A3** <br/> |**Office 365 для образования A5** <br/> |**Microsoft 365 для образования A3** <br/> |**Microsoft 365 для образования A5** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 профессиональный плюс  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Да,<sup>3</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |

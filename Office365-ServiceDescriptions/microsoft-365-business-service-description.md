@@ -3,7 +3,6 @@ title: Описание службы Microsoft 365 бизнеса
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742108"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130973"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -36,7 +35,7 @@ Microsoft 365 Business — это интегрированное решение,
 |SharePoint Online  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |
 |Skype для бизнеса Online  <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
-|Office Online  <br/> |Да  <br/> |Да  <br/> |
+|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |
 |Приложения Office  <br/> |Да  <br/> |Да  <br/> |
 |Project Online  <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |
@@ -118,7 +117,7 @@ Microsoft 365 Business — это интегрированное решение,
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Функции управления удостоверениями и доступом** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security/Security** <br/> |
+|**Функции управления удостоверениями и доступом** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Многофакторная проверка подлинности Azure (MFA)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Административные единицы  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Обнаружение облачных приложений  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
@@ -126,14 +125,13 @@ Microsoft 365 Business — это интегрированное решение,
 |Самостоятельный сброс паролей для облачных удостоверений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Самостоятельный сброс паролей путем обратной записи в локальной службе AD  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Двусторонняя синхронизация объектов устройств между локальными каталогами и Azure AD (обратная запись устройств)  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|Условный доступ (в зависимости от группы, расположения, состояния устройства, входа или риска для пользователя)  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|Условный доступ (на основе группы, расположения или состояния устройства)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Фирменная символика (настройка страниц входа и панелей доступа)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Прокси приложения  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Клиентская лицензия для пользователей Microsoft Identity Manager (MIM)  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Connect Health  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Соглашение об уровне обслуживания 99,9 %  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Advanced Threat Analytics  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|условный доступ;  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |**Функции управления устройствами и приложениями** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Управление мобильными устройствами (MDM)<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Автоматическая регистрация для управления мобильными устройствами (MDM)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |

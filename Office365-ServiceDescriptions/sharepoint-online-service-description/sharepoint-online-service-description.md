@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931131"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131013"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -52,7 +52,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
   
 ## <a name="onedrive-for-business"></a>OneDrive для бизнеса
 
-Решение OneDrive для бизнеса (ранее известное как SkyDrive Pro)  личное интернет-хранилище для сотрудников компании. Это расположение, в котором пользователи могут легко и безопасно хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах. Решение OneDrive для бизнеса входит в состав SharePoint Online, а также доступно в качестве автономного плана. Самостоятельный вариант OneDrive для бизнеса включает Office Online. Список компонентов, включенных в OneDrive для бизнеса с Office Online, см. в разделе [Описание службы OneDrive для бизнеса](../onedrive-for-business-service-description.md).
+OneDrive для бизнеса (ранее SkyDrive Pro) — это хранилище персональных данных в Интернете для сотрудников компании. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive для бизнеса включен в SharePoint Online и также может быть приобретен в виде автономного плана. Автономный вариант OneDrive для бизнеса включает Office для Интернета. Чтобы узнать, какие функции включены в OneDrive для бизнеса с Office для Интернета, ознакомьтесь с [описанием службы onedrive для бизнеса](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Внешние пользователи SharePoint Online корпоративный
 
@@ -124,19 +124,19 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Поддержка видео и улучшения библиотеки активов](content.md#asset-library-enhancementsvideo-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Аудит](content.md#auditing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Каталог](content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|[Страница категории и страница элемента каталога](content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Каталог](content.md#catalog) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Страница категории и страница элемента каталога](content.md#category-page-and-catalog-item-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Организатор контента](content.md#content-organizer) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Публикация на нескольких сайтах](content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Публикация на нескольких сайтах](content.md#cross-site-publishing) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Дизайнер](content.md#design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Перевод документов в Word Online](content.md#document-translation-in-word-online) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Перевод документов в Word для Интернета](content.md#document-translation-in-word-for-the-web) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Обнаружение электронных данных](content.md#ediscovery-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Хранение электронных данных](content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |ДА  <br/> |
+|[Хранение электронных данных](content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
 |[Экспорт электронных данных](content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
 |[Внешний общий доступ: внешний доступ](content.md#external-sharing-external-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Возможность настройки для экстрасети  <br/> |Возможность настройки для экстрасети  <br/> |
 |[Внешний общий доступ: гостевые ссылки](content.md#external-sharing-guest-link) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Синхронизация папок](content.md#folder-sync) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
 |Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
 |Типы гибридной таксономии и гибридного контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
@@ -145,8 +145,8 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 |[Служба управляемых метаданных](content.md#managed-metadata-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Навигация на основе метаданных](content.md#metadata-driven-navigation) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Многоступенчатое расположение](content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Online (создание и изменение)](content.md#office-online-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office Online (просмотр)](content.md#office-online-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (создание и редактирование)](content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (представление)](content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office профессиональный плюс  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Интеграция Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Да  <br/> |Да  <br/> |
 |[Архивная библиотека](content.md#preservation-hold-library) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
@@ -250,7 +250,7 @@ Microsoft SharePoint Online в Office 365 дает пользователям в
 <sup>11</sup> Справка доступна только на китайском (упрощенное письмо) и английском языках. <br/> <sup>12</sup> в блогах нельзя добавлять комментарии. <br/> 
 <sup>13</sup> веб-сайт сообщества Организации доступен, но общедоступная помощь сообщества недоступна. <br/>
 <sup>14</sup> доступ 2010 не поддерживается. <br/> 
-<sup>15</sup> для Office Online пользователи могут получить доступ к Office Online (в живых плитках) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
+<sup>15</sup> для Office в Интернете пользователи F1 должны иметь доступ к Office для веб-сайта (живых плиток) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
 <sup>16</sup> форм InfoPath, которые содержат пользовательский код (песочница), можно использовать только в полнофункциональном клиенте InfoPath. <br/>
 <sup>17</sup> Поддержка Visio Online (возможность просмотра) доступна бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. <br/>

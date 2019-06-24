@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Сведения о размере хранилища OneDrive, предоставляемом для каждого плана подписки.
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343808"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131253"
 ---
 # <a name="onedrive-for-business-service-description"></a>Описание службы OneDrive для бизнеса
 
@@ -30,7 +30,7 @@ OneDrive включен в планы Microsoft 365, Office 365 и в планы
 Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/ru-RU/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
-> Автономные планы OneDrive для бизнеса включают Office Online. 
+> Автономные планы OneDrive для бизнеса включают Office в Интернете. 
   
 ## <a name="system-requirements"></a>Требования к системе
 

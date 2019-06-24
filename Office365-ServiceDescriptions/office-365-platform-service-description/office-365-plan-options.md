@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 9e36f9ac8145590e35dbbf543fff0f628eb004ec
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018281"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131263"
 ---
 # <a name="office-365-plan-options"></a>Параметры планов Office 365
 
@@ -56,7 +56,7 @@ ms.locfileid: "35018281"
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup> <br/> |
 |Skype для бизнеса Online <sup>15</sup> <br/> |Да<sup>10</sup> <br/> |Нет  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да,<sup>11</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>14</sup> <br/> |
-|Office Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Приложения Office  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Project Online  <br/> |Нет<sup>1</sup> <br/> |Нет  <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |

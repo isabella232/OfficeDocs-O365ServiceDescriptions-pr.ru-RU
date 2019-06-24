@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: ccc1a0efe2f5a6563d7e5602f5522a3da8fb5595
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343588"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131083"
 ---
 # <a name="office-365-germany"></a>Office 365 в Германии
 
@@ -38,7 +38,7 @@ Office 365 Германия — это отличительный вариант
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Skype для бизнеса Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|Office Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 профессиональный плюс<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Project Online <sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Power BI <sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -329,24 +329,24 @@ Office 365 Германия соответствует стандартам Clou
 <sup>10</sup> многопользовательская активация для Office 365 Германия корпоративный E3 и Office 365 профессиональный плюс ограничены установками в Windows Server 2008 R2 и более поздних версий с включенной ролью RDS или установками Windows to go. В любом случае пользователи, обращающиеся к этим установкам, должны быть лицензированы для пользователей Office 365 Германии Enterprise E3 или Office 365 профессиональный плюс.<br/>
 <sup>11</sup> недоступно для Office 365 Германии, но скоро. 
   
-## <a name="office-online-features"></a>Функции Office Online
+## <a name="office-for-the-web-features"></a>Office для веб-компонентов
 <a name="BM1_Platform"> </a>
 
-В следующей таблице приведены ссылки на сравнение возможностей Office Online, доступных в Office 365, в Германии и полнофункциональных приложениях Microsoft Office для настольных ПК. Используйте сравнения, чтобы узнать, какие функции доступны в Office Online, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции. Вы можете определить, что некоторым пользователям в вашей организации потребуются расширенные возможности классического приложения Excel, в то время как другим может потребоваться только возможность просматривать и слегка редактировать документы Word и презентации PowerPoint в приложениях Office Online. 
+В следующей таблице приведены ссылки на сравнение Office для возможностей веб-функций, доступных в Office 365, в Германии и полнофункциональных приложениях Microsoft Office для настольных ПК. Используйте сравнения, чтобы определить, какие функции доступны в Office для Интернета, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другим — только для просмотра и облегченного редактирования документов Word и презентаций PowerPoint в Office для Интернета. 
   
 > [!NOTE]
 > - Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблица не является исчерпывающим списком функций Microsoft Office. <br/> 
 > - Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии. <br/>
-> -  Microsoft Office Web Apps Server 2013 локальные клиенты получают лицензию на редактирование Office Online, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или лицензия на Office 365 профессиональный плюс). <br/>
+> -  Microsoft Office Web Apps Server 2013 локальные клиенты получают лицензию на веб-редактирование, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или лицензия на Office 365 профессиональный плюс). <br/>
 > -  В связи с природой Office 365 Германии существуют некоторые функции, которые еще не включены. Со временем службы сравняются по функциональности с глобальными службами. 
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Application** <br/> |**Office для Интернета** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
+|Word  <br/> |Word для Интернета  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel для Интернета  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote для Интернета  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint для Интернета  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
 <a name="BM1_Platform"> </a>
@@ -638,7 +638,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер](../sharepoint-online-service-description/content.md#design-manager) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](../sharepoint-online-service-description/content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Перевод документов в Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |[Экспорт электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
@@ -653,8 +653,8 @@ Office 365 Германия соответствует стандартам Clou
 |[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Online (создание и изменение)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-|[Office Online (просмотр)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |PowerPoint Automation Services <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Архивная библиотека](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
@@ -897,7 +897,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер](../sharepoint-online-service-description/content.md#design-manager) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](../sharepoint-online-service-description/content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Перевод документов в Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |
 |[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |
 |[Экспорт электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |
@@ -912,8 +912,8 @@ Office 365 Германия соответствует стандартам Clou
 |[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Online (создание и изменение)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>16</sup> <br/> |
-|[Office Online (просмотр)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>16</sup> <br/> |
+|[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office профессиональный плюс (Osub)  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |PowerPoint Automation Services <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |

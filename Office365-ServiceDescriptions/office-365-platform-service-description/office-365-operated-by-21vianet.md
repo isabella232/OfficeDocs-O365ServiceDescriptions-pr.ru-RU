@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742148"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131323"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -47,7 +47,7 @@ Office 365 под управлением 21Vianet разработана в со
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
 |Skype для бизнеса Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 профессиональный плюс  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Project Online<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Power BI  <br/> |Нет <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Нет <br/> |Нет <br/> |
@@ -210,7 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup> некоторые материалы TechNet могут не относиться к Office 365 под управлением 21vianet.<br/>
 <sup>13</sup> снижение качества. Если ваша организация зависит от Internet Explorer 8 или Internet Explorer 9, чтобы получить доступ к старым веб-приложениям и службам, вам может потребоваться обновление до Internet Explorer 11 и оценка режима предприятия для Internet Explorer 11. Это обновление обеспечивает лучшую обратную совместимость с устаревшими веб-приложениями. <br/>
 <sup>14</sup> многофакторной проверки подлинности в настоящее время не поддерживаются в Outlook Mobile (iOS и Android). <br/>
-<sup>15</sup> Записная книжка для занятий OneNote доступна через 21vianet, но панель инструментов записной книжки OneNote для занятий недоступна для приложений Windows 10, iPad или OneNote Online.
+<sup>15</sup> Записная книжка для занятий OneNote доступна с помощью 21vianet, но панель инструментов записной книжки OneNote для занятий недоступна для приложений Windows 10, iPad или OneNote для Интернета.
   
 ## <a name="office-365-application-features"></a>Функции приложений Office 365
 <a name="BM3_OfficeApp"> </a>
@@ -287,24 +287,24 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup> скоро появятся в Office 365 под управлением 21vianet. 
 <br/><sup>15</sup> службы Google Services (включая магазин игр) недоступны в Китае. Существует несколько магазинов приложений, которые поддерживаются крупными производителями телефонов или компаниями поисковых систем, с которых пользователи могут устанавливать мобильные приложения.
   
-## <a name="office-online-features"></a>Функции Office Online
+## <a name="office-for-the-web-features"></a>Office для веб-компонентов
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
-> Версия Office 365: под управлением 21Vianet доступна только в Китае.<br/>
+> Версия Office 365: под управлением 21Vianet доступна только в Китае. <br/>
   
-В следующей таблице приведены ссылки на сравнительные характеристики возможностей Office Online и классических полнофункциональных приложений Microsoft Office. Посмотрите, какие функции доступны в Office Online, а затем щелкните название функции, чтобы прочитать краткое описание ее работы.
+В приведенной ниже таблице представлены ссылки на сравнение возможностей Office по веб-функциям в многофункциональных приложениях Microsoft Office для настольных ПК. Используйте сравнения, чтобы определить, какие функции доступны в Office для Интернета, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции.
 > [!NOTE]
 >- Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблицы сравнения не являются исчерпывающим списком функций Microsoft Office. 
 >- Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии. 
->- Microsoft Office Web Apps Server 2013 локальные клиенты получают лицензию на редактирование Office Online, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или лицензия на Office 365 профессиональный плюс).<br/>
+>- Microsoft Office Web Apps Server 2013 локальные клиенты получают лицензию на веб-редактирование, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или лицензия на Office 365 профессиональный плюс).<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**Приложение** <br/> |**Служба Office Online, предоставляемая 21Vianet** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
-|Word  <br/> |Служба Word Online, предоставляемая 21Vianet  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Служба Excel Online, предоставляемая 21Vianet  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |Служба OneNote Online, предоставляемая 21Vianet  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |Служба PowerPoint Online, предоставляемая 21Vianet  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Application** <br/> |**Office для веб-сайта под управлением 21Vianet** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
+|Word  <br/> |Word для веб-сайта под управлением 21Vianet  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel для веб-сайта под управлением 21Vianet  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote для веб-сайта под управлением 21Vianet  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint для веб-сайта под управлением 21Vianet  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
 <a name="BM5_ExchangeOnline"> </a>
@@ -657,7 +657,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер](../sharepoint-online-service-description/content.md#design-manager) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](../sharepoint-online-service-description/content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Перевод документов в Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |
 |[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |
 |[Экспорт электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |
@@ -672,8 +672,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office Online (создание и изменение)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |
-|[Office Online (просмотр)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |
+|[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office профессиональный плюс (Osub)  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |PowerPoint Automation Services <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |

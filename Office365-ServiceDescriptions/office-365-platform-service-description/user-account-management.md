@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 72b5327382694d094d1d9a639dca6e023a5e0e9c
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343118"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131233"
 ---
 # <a name="user-account-management"></a>Управление учетными записями пользователей
 
@@ -105,7 +105,7 @@ Office 365: использует проверку подлинности на о
 |Outlook 2010 или Office Outlook 2007 в Windows Vista  <br/> |Вход в каждый сеанс<sup>1</sup> <br/> |Вход в каждый сеанс<sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Вход в каждый сеанс<sup>1</sup> <br/> |Вход в каждый сеанс<sup>2</sup> <br/> |
 |POP, IMAP, Outlook для Mac  <br/> |Вход в каждый сеанс<sup>1</sup> <br/> |Вход в каждый сеанс<sup>2</sup> <br/> |
-|Веб-интерфейсы: Портал Office 365: / Outlook Web App/ SharePoint Online / Office Online  <br/> |Вход в каждый сеанс браузера<sup>4</sup> <br/> |Вход в каждый сеанс<sup>3</sup> <br/> |
+|Веб-интерфейсы: Office 365 portal/Outlook Web App/SharePoint Online/Office для Интернета  <br/> |Вход в каждый сеанс браузера<sup>4</sup> <br/> |Вход в каждый сеанс<sup>3</sup> <br/> |
 |Office 2010 или Office 2007 с помощью SharePoint Online  <br/> |Вход в каждый сеанс SharePoint Online<sup>4</sup> <br/> |Вход в каждый сеанс SharePoint Online<sup>3</sup> <br/> |
 |Skype для бизнеса Online  <br/> |Вход в каждый сеанс<sup>1</sup> <br/> |Без запроса  <br/> |
 |Outlook для Mac  <br/> |Вход в каждый сеанс<sup>1</sup> <br/> |Вход в каждый сеанс<sup>2</sup> <br/> |

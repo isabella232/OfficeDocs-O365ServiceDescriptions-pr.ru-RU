@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: В Yammer доступны следующие возможности по использованию сообщений и бесед.
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342198"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131003"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Возможности по использованию сообщений и бесед в Yammer
 
@@ -49,10 +49,10 @@ ms.locfileid: "34342198"
 
 Предоставляйте беседы для общего доступа в веб-канале другой группы либо посредством личного сообщения, чтобы передать информацию и важные сообщения.
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>Office для поддержки веб-сайта
 <a name="bkmk_ShareConversations"> </a>
 
-Поддержка Office Online в Yammer позволяет просматривать и редактировать документы, отправленные в Yammer, с помощью Office Online непосредственно в Yammer. Это позволяет просматривать документы в отличном качестве с помощью Office Online, позволяет нескольким пользователям одновременно работать с документом, а также показывает соответствующие беседы Yammer непосредственно в вашем браузере.
+В Office для веб-поддержки в Yammer документы, отправленные в Yammer, можно просматривать и редактировать в Office для Интернета непосредственно в Yammer. Благодаря этому документы привлекательное отготовятся к просмотру с помощью Office для Интернета, позволяет совместно редактировать различные пользователи одновременно и отображать важные беседы Yammer в браузере.
   
 ## <a name="events"></a>События
 <a name="bkmk_Events"> </a>
