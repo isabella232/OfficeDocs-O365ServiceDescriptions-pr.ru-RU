@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780668"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233536"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online 
 
@@ -54,7 +54,8 @@ ms.locfileid: "34780668"
 - **Версии** 50 000 основные версии и дополнительные версии 511.
 
 - **Группы SharePoint** — пользователь может принадлежать к группам 5 000, а каждая группа может иметь до 5 000 пользователей. В каждом семействе веб-сайтов может быть до 10 000 групп.
-
+    > [!NOTE]
+    > Ограничения для групп Azure AD, [а также ограничения для служб Azure AD, которые](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) могут повлиять на управление членством в сайтах общедоступных и частных групп. 
 - **Управляемые метаданные** – 200 000 термины в банке терминов, 1 000 глобальные наборы терминов, 1 000 групп.
 
 - **Дочерние сайты** — 2 000 для каждого семейства веб-сайтов.
@@ -64,10 +65,8 @@ ms.locfileid: "34780668"
 - **Уникальные области безопасности для каждого списка или библиотеки** — 5 000. Для больших списков структура может иметь как можно меньше уникальных разрешений.
 
 - **User** -2 000 000 для каждого семейства веб-сайтов.
-
-> [!NOTE]
-> Количество гостей, которые можно пригласить на семейства веб-сайтов SharePoint, не ограничено. Для получения дополнительных сведений о внешнем совместном доступе ознакомьтесь со статьей [Обзор внешнего общего доступа](https://docs.microsoft.com/sharepoint/external-sharing-overview).
-
+    > [!NOTE]
+    > Количество гостей, которые можно пригласить на семейства веб-сайтов SharePoint, не ограничено. Для получения дополнительных сведений о внешнем совместном доступе ознакомьтесь со статьей [Обзор внешнего общего доступа](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 ## <a name="see-also"></a>См. также
 
 [Пределы поиска для SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
