@@ -2,7 +2,6 @@
   
 
 # [Описание служб Office 365](office-365-service-descriptions-technet-library.md)
-## [Описание служб Microsoft 365 бизнес](microsoft-365-business-service-description.md)
 ## [Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Планы Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Требования к системе для Office 365](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,11 +32,11 @@
 ### [Права на использование продуктов](office-365-platform-service-description/product-use-rights.md)
 ## [Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md)
 ### [Приложения Office](office-applications-service-description/office-applications.md)
-## [Описание веб-службы Office](office-online-service-description/office-online-service-description.md)
-### [Word для Интернета](office-online-service-description/word-online.md)
-### [Excel для Интернета](office-online-service-description/excel-online.md)
-### [OneNote для Интернета](office-online-service-description/onenote-online.md)
-### [PowerPoint для Интернета](office-online-service-description/powerpoint-online.md)
+## [Описание служб Office в Интернете](office-online-service-description/office-online-service-description.md)
+### [Веб-приложение Word](office-online-service-description/word-online.md)
+### [Веб-приложение Excel](office-online-service-description/excel-online.md)
+### [Веб-приложение OneNote](office-online-service-description/onenote-online.md)
+### [Веб-приложение PowerPoint](office-online-service-description/powerpoint-online.md)
 ## [Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
 ### [Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md)
 ### [Планирование и развертывание](exchange-online-service-description/planning-and-deployment.md)
@@ -107,5 +106,8 @@
 ### [Возможности платформы Yammer](yammer-service-description/yammer-platform-features.md)
 ### [Функции администрирования и безопасности в Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Возможности поддержки в Yammer](yammer-service-description/support-features-in-yammer.md)
+## Описание служб Microsoft 365
+### [Описание служб Microsoft 365 бизнес](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Руководство по лицензированию служб Microsoft 365 на уровне клиента](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Описание веб-службы Microsoft Dynamics 365](microsoft-dynamics-365-online-service-description.md)
 
