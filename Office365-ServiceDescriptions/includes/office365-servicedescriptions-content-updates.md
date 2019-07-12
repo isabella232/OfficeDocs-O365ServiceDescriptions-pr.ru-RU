@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Неделя с 27 мая 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 5/28/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
-| 5/31/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
-
-
 ## <a name="week-of-june-03-2019"></a>Неделя с 3 июня 2019 г.
 
 
@@ -93,3 +84,11 @@
 | 6/28/2019 | [Домены](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | Изменено |
 | 6/28/2019 | [Организация сети](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | Изменено |
 | 6/28/2019 | [Управление учетными записями пользователей](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | Изменено |
+
+
+## <a name="week-of-july-01-2019"></a>Неделя с 01 июля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 7/1/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
