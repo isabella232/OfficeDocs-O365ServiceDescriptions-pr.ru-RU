@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>Неделя с 3 июня 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 6/6/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
-| 6/6/2019 | [Служба Office 365, предоставляемая компанией 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Изменено |
-| 6/6/2019 | [Поиск](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | Изменено |
-| 6/6/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
-| 6/7/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Изменено |
-| 6/7/2019 | [Функции архивации в архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Изменено |
-| 6/7/2019 | [Описание службы архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | Изменено |
-| 6/7/2019 | [Описание службы Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | Изменено |
-| 6/7/2019 | [Описание службы Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Изменено |
-| 6/7/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
-| 6/7/2019 | [Ограничения SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Изменено |
-| 6/7/2019 | [Описание службы SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Изменено |
-
-
 ## <a name="week-of-june-10-2019"></a>Неделя с 10 июня 2019 г.
 
 
@@ -92,3 +73,13 @@
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
 | 7/1/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
+
+
+## <a name="week-of-july-08-2019"></a>Неделя с 8 июля 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 7/11/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
+| 7/12/2019 | [Описание непосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
+| 7/12/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |

@@ -2,20 +2,19 @@
 title: Описание службы MyAnalytics
 ms.author: sharik
 author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics — компоненты, распространения, конфиденциальность и необходимые компоненты
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246505"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753828"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
 
@@ -29,21 +28,21 @@ MyAnalytics обрабатывает информацию способом за�
 
 MyAnalytics состоит из следующих элементов:
 
-* [MyAnalytics Персональная панель мониторинга](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard): позволяет отразить свои действия, такие как время, в течение которого вы можете сосредоточиться на собраниях и почтовых решениях, а также в вашей сети.
-* [Надстройка Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): в этой статье представлены интерактивные сведения о действиях в Outlook, которые помогут вам продолжить работу над задачами и получить дополнительные сведения.
-* [Дайджест электронной почты](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): предоставляет основные сведения о предыдущей неделе.
-* [MyAnalytics будильники](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): эти краткие уведомления, управляемые данными и AI, отображаются в Outlook во время чтения или составления сообщения или приглашения на собрание.
+* [Панель мониторинга MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): помогает отразить рабочие шаблоны, например, время, в течение которого вы можете сосредоточиться на собраниях и почтовых сообщениях, а также в вашей сети.
+* [Insights надстройка Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): в этой статье представлены действия, которые можно использовать в Outlook, чтобы вы оставались над задачами и сделали больше.
+* [Дайджест электронной почты](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): предоставляет основные сведения о рабочих шаблонах в еженедельной электронной почте.
+* [Встроенные предложения в Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): эти краткие, управляемые данными и AI-предложения отображаются в Outlook во время чтения или составления электронного письма или приглашения на собрание.
 
 ## <a name="myanalytics-distributions"></a>Распределения MyAnalytics
 
 Элементы MyAnalytics доступны на разных уровнях для пользователей разных планов Microsoft Office 365, как описано в следующей таблице:
 
-| Планирование | Доступные элементы |
-| --- | --- |
-| Microsoft 365 E3</br>Microsoft 365 бизнес</br>Office 365 E3</br>Office 365 E1</br>Бизнес премиум</br>Бизнес базовый | </br></br></br>[Надстройка](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| Microsoft 365 E5</br>Office 365 корпоративный E5</br>Office 365 A5</br>Office 365 для некоммерческих организаций E5</br>Надстройка MyAnalytics | </br>[Панель мониторинга](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard), [надстройка](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in), [дайджест электронной почты](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)и [MyAnalytics будильники](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |
+| Планирование | План обслуживания | Доступные элементы |
+| --- | --- | ----- |
+| Microsoft 365 E3</br>Microsoft 365 бизнес</br>Office 365 E3</br>Office 365 E1</br>Бизнес премиум</br>Бизнес базовый |  <br>Аналитика <br>MyAnalytics| </br></br></br>[Надстройка Outlook Insights](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (другие элементы MyAnalytics<br> будут сделаны доступными в будущем.|
+| Microsoft 365 E5</br>Office 365 корпоративный E5</br>Office 365 A5</br>Office 365 для некоммерческих организаций E5</br>Надстройка MyAnalytics | MyAnalytics (полное)<br>и<br>  Аналитические сведения по MyAnalytics | </br>[Панель мониторинга](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2), [надстройка Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in), [дайджест электронной почты](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)и [встроенные предложения](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
 
-Для получения дополнительных сведений ознакомьтесь [со статьЕй доступность компонентов](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+Для получения дополнительных сведений ознакомьтесь [со статьей доступность компонентов](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 
 ## <a name="data-privacy"></a>Конфиденциальность данных
 
@@ -59,6 +58,6 @@ MyAnalytics состоит из следующих элементов:
 
 Дополнительные сведения можно найти в [руководстве по конфиденциальности MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
 
-## <a name="prerequisites"></a>Необходимые компоненты
+## <a name="prerequisites"></a>Необходимые условия
 
 * [Microsoft Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
