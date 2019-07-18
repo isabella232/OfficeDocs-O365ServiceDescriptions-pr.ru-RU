@@ -3,7 +3,6 @@ title: Функции набора Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/08/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Функции, перечисленные в этом разделе, представляют собой набор веб-средств, которые помогают обеспечить безопасность и безопасное взаимодействие на многих устройствах и нескольких службах Office 365. Эти функции помогают налаживать новые связи в вашей организации, объединяя создание цифрового контента, хранилище и управление со средствами социальных сетей для поиска информации и обмена нею между пользователями.
-ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343288"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776910"
 ---
 # <a name="office-365-suite-features"></a>Функции набора Office 365
 

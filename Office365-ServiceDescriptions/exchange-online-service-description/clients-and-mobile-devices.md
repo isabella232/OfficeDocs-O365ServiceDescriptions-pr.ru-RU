@@ -3,7 +3,6 @@ title: Клиенты и мобильные устройства
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d0ed7a4c56c5f58a643d609f29bef284904bee47
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342728"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776690"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -36,7 +35,7 @@ Microsoft Outlook — это почтовая программа, включаю
 Сведения о том, какие клиенты Outlook поддерживаются в Exchange 2016 и Exchange Online, см. в разделе "Поддерживаемые клиенты" статьи [Требования к системе для установки Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook не предоставляется по подписке Exchange Online. Microsoft Office профессиональный плюс (содержащий Microsoft Outlook) включен в некоторые тарифные планы Office 365 и его можно приобрести как отдельную подписку. Если вы используете POP для подключения к учетной записи электронной почты Exchange Online, вы увидите следующие ограничения: _Гт_ без сведений о календаре _Гт_ нет сведений о доступности _Гт_ нет глобального списка адресов _Гт_ не отправлять push-сообщения _Гт_ при подключении через POP, все сообщения будут довнло адед клиенту и не будет синхронизироваться между несколькими компьютерами или устройствами (например, между ноутбуком и телефоном). 
+>  Outlook не предоставляется по подписке Exchange Online. Microsoft Office профессиональный плюс (содержащий Microsoft Outlook) включен в некоторые тарифные планы Office 365 и его можно приобрести как отдельную подписку. Если вы используете POP для подключения к учетной записи электронной почты Exchange Online, вы увидите следующие ограничения: > нет сведений о календаре > нет сведений о занятости > нет глобального списка адресов > без push-уведомления > при подключении через POP все сообщения будут загружены t o клиент и будет отсутствовать синхронизация между несколькими компьютерами или устройствами (например, между ноутбуком и телефоном). 
   
 ## <a name="outlook-on-the-web"></a>Outlook в Интернете
 

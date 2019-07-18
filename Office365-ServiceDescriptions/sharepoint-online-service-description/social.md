@@ -3,7 +3,6 @@ title: Сообщество
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые позволяют организациям хранить, совместно использовать и управлять цифровыми данными. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие функции социальных сетей позволяют пользователям организовать совместную работу наиболее эффективно. Как это сделать? Благодаря отличным средствам совместной работы, которые могут использоваться любыми пользователями для обмена идеями, поиска людей и навыков, а также бизнес-информации.
-ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec35d692a265328d07607ae0d2adf56d42da0b1a
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342448"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777780"
 ---
 # <a name="social"></a>Social
 

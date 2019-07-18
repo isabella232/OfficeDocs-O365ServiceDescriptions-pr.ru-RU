@@ -3,7 +3,6 @@ title: Excel для Интернета
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel для Интернета (прежнее название — Excel Web App) расширяет возможности Microsoft Excel в веб-браузере, где вы можете работать с книгами непосредственно на веб-сайте, где хранится книга. Все пользователи Office 365 могут просматривать и легко редактировать файлы Office с помощью Office для Интернета.
-ms.openlocfilehash: 36e009d1f3f59ae66c330cb9e61aee3f81b3b2cb
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 2f58a2fc3245d2d6d0512f3a7837a98e18112aea
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130923"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777550"
 ---
 # <a name="excel-for-the-web"></a>Excel для Интернета
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
-ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
+ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753848"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777310"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -50,13 +50,13 @@ Office 365 под управлением 21Vianet разработана в со
 |Office 365 профессиональный плюс  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Project Online<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Power BI  <br/> |Нет <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Нет <br/> |Нет <br/> |
-|Visio Online<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Visio для Web<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Yammer корпоративный  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Azure Information Protection  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
    
 <sup>1</sup> включает в себя такие функции, как администрирование Office 365, приложения Office 365 Suite, Управление учетными записями пользователей, домены, работоспособность и непрерывность работы, отчеты, обновления служб, Справка и обучение, работа в сети и т. д. Дополнительные сведения см. в таблице [функции платформы](office-365-operated-by-21vianet.md#platform-features) .
 <br/><sup>2</sup> Project Online не входит в комплект, но его можно приобрести в виде отдельной дополнительной службы или добавить бесплатно в план Office 365 a1. 
-<br/><sup>3</sup> использование Visio Online (возможность просмотра) доступно бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>3</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio. 
   
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -282,7 +282,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>7</sup> Office 365 профессиональный плюс поддерживается для инфраструктуры виртуальных рабочих столов, выделенной пользователем (VDI). Office 365 профессиональный плюс поддерживает только службы удаленных рабочих столов (RDS), приобретенные через программу корпоративного лицензирования. 
 <br/><sup>8</sup> Активация корпоративных приложений для Office 365 Enterprise E3 и Office 365 профессиональный плюс ограничены установками в Windows Server 2008 R2 и более поздних версий с включенной ролью RDS или установками Windows to go. В любом случае пользователи, обращающиеся к этим установкам, должны быть лицензированы для пользователей Office 365 корпоративный E3 или Office 365 профессиональный плюс. 
 <br/><sup>9</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
-<br/><sup>10</sup> Visio Online в настоящее время находится в режиме предварительной версии для Office 365 под управлением 21vianet. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>10</sup> Visio для Веба в настоящее время находится в предварительной версии для Office 365 под управлением 21vianet. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio. 
 <br/><sup>11</sup> скоро появятся в Office 365 под управлением 21vianet. 
 <br/><sup>15</sup> службы Google Services (включая магазин игр) недоступны в Китае. Существует несколько магазинов приложений, которые поддерживаются крупными производителями телефонов или компаниями поисковых систем, с которых пользователи могут устанавливать мобильные приложения.
   
@@ -721,7 +721,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Работа с книгами Excel, содержащими модели данных](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Visio Online](https://docs.microsoft.com/exchange/exchange-hybrid) <sup>14, 15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Visio для Интернета](https://docs.microsoft.com/exchange/exchange-hybrid) <sup>14, 15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>14</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый под управлением 21Vianet** <br/> |**Office 365 бизнес под управлением 21Vianet** <br/> |**Office 365 бизнес премиум под управлением 21Vianet** <br/> |**Подписка на Office 365 A1, предоставляемая 21Vianet** <br/> |**Office 365 для предприятий E1 под управлением 21Vianet** <br/> |**Office 365 для предприятий E3 под управлением 21Vianet** <br/> |**Office 365 корпоративный F1 под управлением 21Vianet** <br/> |
 |Advanced Content Processing <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -824,7 +824,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup> учетные записи киосков имеют ограниченные функциональные возможности OneDrive для бизнеса. Пользователи с базовой подпиской могут применять OneDrive для бизнеса для синхронизации библиотек документов с общедоступным компьютером и иметь автономный доступ к документам. Однако учетные записи базовой подписки не включают личные сайты OneDrive для бизнеса, поэтому пользователям таких учетных записей не доступна личная библиотека OneDrive для бизнеса с интернет-хранилищем объемом 1 ТБ или 5 ТБ.
 <br/><sup>12</sup> . Вы можете просматривать документы в любом браузере мобильного устройства. Чтобы редактировать документы, необходимо установить приложение Office Mobile. В настоящее время приложение Office Mobile доступно для телефонов и планшетов с ОС Windows и Android, а также для iPhone и iPad. 
 <br/><sup>13</sup> Справка доступна только на китайском (упрощенное письмо) и английском языках. 
-<br/><sup>14</sup> доступ к Visio Online (возможность просмотра) доступен бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>14</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio. 
 <br/><sup>15</sup> K1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 K1 не включает права CAL для доступа к серверу; Эти права необходимо приобрести отдельно. 
   
 ## <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online

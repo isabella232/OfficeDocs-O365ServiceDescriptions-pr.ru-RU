@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131013"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777860"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -177,7 +177,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Экспресс-тенденции](insights.md#quick-explore) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
+|[Visio для Интернета](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |[Службы Visio](insights.md#visio-services) <sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Непрерывные обходы контента](search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -252,7 +252,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 <sup>14</sup> доступ 2010 не поддерживается. <br/> 
 <sup>15</sup> для Office в Интернете пользователи F1 должны иметь доступ к Office для веб-сайта (живых плиток) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
 <sup>16</sup> форм InfoPath, которые содержат пользовательский код (песочница), можно использовать только в полнофункциональном клиенте InfoPath. <br/>
-<sup>17</sup> Поддержка Visio Online (возможность просмотра) доступна бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
+<sup>17</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.  <br/>
 <sup>18</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. <br/>
 <sup>19</sup> ключ клиента доступен в Office 365 корпоративный "~". Ключ клиента позволяет управлять ключами шифрования в организации, которые Office 365 использует для шифрования неактивных данных, хранящихся в центрах обработки данных Майкрософт. К ним относятся данные из Exchange Online и Skype для бизнеса, хранящиеся в почтовых ящиках, а также файлы, хранящиеся в SharePoint Online и OneDrive для бизнеса. Ключ клиента помогает обеспечивать соответствие требованиям, так как вы можете управлять ключами шифрования, которые Office 365 использует для расшифровки данных. Дополнительные сведения см в разделе [Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> ожидается в ближайшее время. 

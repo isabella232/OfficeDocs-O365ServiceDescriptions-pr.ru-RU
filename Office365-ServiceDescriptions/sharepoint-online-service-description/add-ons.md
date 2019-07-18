@@ -3,7 +3,6 @@ title: Надстройки
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint — это набор средств и технологий, основанных на веб-доступе, который позволяет вашей организации хранить цифровые данные, предоставлять к ним общий доступ и управлять ими. Встроенная в Microsoft SharePoint Server 2013, эта размещенная служба идеально подходит для работы в проектах, хранения данных и документов в центральном расположении и общего доступа к сведениям. Клиенты Office 365 также могут приобрести дополнительные надстройки, связанные с SharePoint Online.
-ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 153e337bde2f5be6c7d69548e2f4812c0a134bc3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343568"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777590"
 ---
 # <a name="add-ons"></a>Надстройки
 

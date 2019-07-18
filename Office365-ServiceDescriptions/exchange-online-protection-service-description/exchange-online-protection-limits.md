@@ -3,7 +3,6 @@ title: Ограничения Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: В настоящее время существуют следующие ограничения для Exchange Online Protection. Эти ограничения невозможно изменить, если эта возможность не была указана.
-ms.openlocfilehash: 0a391a4b11241ff9c502de334a10425e4edff60a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342028"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776710"
 ---
 # <a name="exchange-online-protection-limits"></a>Ограничения Exchange Online Protection
 

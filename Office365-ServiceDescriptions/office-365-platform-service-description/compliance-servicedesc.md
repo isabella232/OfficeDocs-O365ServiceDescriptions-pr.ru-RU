@@ -3,7 +3,6 @@ title: Соответствие требованиям
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 соответствует отраслевым стандартам и нормативам и предназначено для обеспечения соответствия нормативным требованиям для бизнеса. Для получения дополнительных сведений см.
-ms.openlocfilehash: d7ad8180aa56c6fbe483986f31fce8bc65d64b32
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: fc899afcbf91bd34825f1b741428ae9e08c49856
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343648"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776990"
 ---
 # <a name="compliance"></a>Соответствие требованиям
 

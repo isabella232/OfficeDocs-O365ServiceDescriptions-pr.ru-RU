@@ -3,7 +3,6 @@ title: Office 365 в Германии
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 4a98fa9b16e68233ffb9cc76d62bd07c1eed97e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131083"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777390"
 ---
 # <a name="office-365-germany"></a>Office 365 в Германии
 
@@ -39,10 +38,10 @@ Office 365 Германия — это отличительный вариант
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Skype для бизнеса Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office 365 профессиональный плюс<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Office 365 профессиональный плюс <sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Project Online <sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Power BI <sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Visio Online<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Visio для веб-сайта <sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Yammer корпоративный  <br/> |Недоступно  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |
 |Azure Information Protection  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
    
@@ -50,7 +49,7 @@ Office 365 Германия — это отличительный вариант
 > <sup>1</sup> облачная служба подписки со связанными функциями, в том числе центром администрирования Microsoft 365, где можно настраивать пользователей и домены. <br/>
 <sup>2</sup> вы можете приобрести план Office 365 профессиональный плюс отдельно. Office 365 профессиональный плюс входит в состав Office 365 Германия Enterprise E3 и Office 365 Германия корпоративный E4. [Современная проверка](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) подлинности должна быть включена для Office 365 Германии. <br/>
 <sup>3</sup> Project Online и Power BI не входят в комплект, но их можно приобрести в виде отдельной дополнительной службы или добавить бесплатно в план Office 365 для образовательных учреждений (a1). <br/>
-<sup>4</sup> доступ к Visio Online (возможность просмотра) доступен бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio. 
   
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -700,7 +699,7 @@ Office 365 Германия соответствует стандартам Clou
 |Scorecards & Dashboards <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Visio Online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Visio для Интернета](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Возможности поиска** <br/> |**OneDrive для бизнеса План 1** <br/> |**OneDrive для бизнеса План 2** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |
 |Advanced Content Processing <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
@@ -793,7 +792,7 @@ Office 365 Германия соответствует стандартам Clou
 > <sup>1</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
 <sup>2</sup> Магазины приложений Office и SharePoint  это дополнительные службы, управляемые Майкрософт или ее партнерами из офисов корпорации по всему миру. Приложения, доступные в Магазине, предоставляются различными издателями и регулируются их условиями использования и заявлением о конфиденциальности. При использовании любого из этих приложений ваши данные могут быть переданы в страну издателя, его партнеров или поставщиков услуг, а также храниться и обрабатываться в этих странах. Доступность отдельных приложений и способов оплаты зависит от региона и службы. Внимательно ознакомьтесь с условиями использования и заявлением о конфиденциальности издателя, прежде чем скачивать и использовать такие приложения.<br/>
 <sup>3</sup> Эта функция пока недоступна для Windows Phone.<br/> 
-<sup>4</sup> доступ к Visio Online (возможность просмотра) доступен бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio. 
   
 ## <a name="project-online-features"></a>Функции Project Online
 <a name="BM1_Platform"> </a>
@@ -962,7 +961,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Работа с книгами Excel, содержащими модели данных](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx)<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Visio для Интернета](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Возможности поиска** <br/> |**Office 365 Germany бизнес базовый** <br/> |**Office 365 Germany бизнес** <br/> |**Office 365 Germany бизнес премиум** <br/> |**Office 365 Germany для образования A1** <br/> |**Office 365 Germany корпоративный E1** <br/> |**Office 365 Germany корпоративный E3** <br/> |**Office 365 Germany корпоративный E4** <br/> |**Office 365 Germany корпоративный K1** <br/> |
 |Advanced Content Processing <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -1068,7 +1067,7 @@ Office 365 Германия соответствует стандартам Clou
 <sup>14</sup> Веб-сайт сообщества организации доступен, но сообщество не может предоставлять общедоступную справку.<br/>
 <sup>15</sup> Access 2010 не поддерживается.<br/> <sup>16</sup> Пользователи с базовой подпиской не могут создавать документы Office с помощью живых плиток. Для этого им необходимо открыть сайт SharePoint Online, щелкнуть **Создать** и выбрать тип файла (документ Word, книга Excel, презентация PowerPoint, записная книжка OneNote или опрос Excel) в меню **Создать файл**. <br/>
 <sup>17</sup> формы InfoPath, содержащие пользовательский код ("песочнице"), можно использовать только в полнофункциональном клиенте InfoPath.<br/>
-<sup>18</sup> Справка по Visio Online (возможность просмотра) доступна бесплатно. Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).<br/>
+<sup>18</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.<br/>
 <sup>19</sup> K1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 K1 не включает права CAL для доступа к серверу; Эти права необходимо приобрести отдельно. 
   
 ## <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online
@@ -1213,9 +1212,9 @@ Office 365 Германия соответствует стандартам Clou
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
-## <a name="visio-online-features"></a>Функции Visio Online
+## <a name="visio-for-the-web-features"></a>Visio для веб-компонентов
 <a name="BM3_Skype"> </a>
 
-Visio Online доступен для Office 365 в Германии. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).
+Visio для Интернета доступен для Office 365 Германии. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.
   
 

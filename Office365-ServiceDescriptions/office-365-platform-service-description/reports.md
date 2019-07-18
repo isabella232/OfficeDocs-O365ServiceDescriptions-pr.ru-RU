@@ -3,7 +3,6 @@ title: Отчеты
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Администраторы Microsoft Office 365 могут просматривать отчеты о том, как ваша организация использует службы Office 365. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Кроме того, можно создавать собственные отчеты с помощью веб-служб отчетов Office 365:. Администраторы Exchange Online и Exchange Online Protection (EOP) могут использовать отчеты о защите почты в Office 365, чтобы просматривать сведения о вредоносных программах, нежелательных сообщениях и сработавших правилах.
-ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343168"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777360"
 ---
 # <a name="reports"></a>Отчеты
 

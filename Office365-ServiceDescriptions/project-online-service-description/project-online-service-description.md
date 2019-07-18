@@ -3,7 +3,6 @@ title: Описание службы Project Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: 'Project Online — это гибкое оперативное решение для управления портфелем проектов (PPM) и повседневной работы. Project OnlineOffice 365: позволяет планировать проекты и инвестиции портфеля проектов, определять их приоритеты и управлять ими практически где угодно и с любого устройства. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.'
-ms.openlocfilehash: ec194d758c50b4da0544605c85b0beb0b81ec79e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343728"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777340"
 ---
 # <a name="project-online-service-description"></a>Описание службы Project Online
 

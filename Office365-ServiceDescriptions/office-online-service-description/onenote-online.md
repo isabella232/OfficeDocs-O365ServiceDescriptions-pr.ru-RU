@@ -3,7 +3,6 @@ title: OneNote для Интернета
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Используйте OneNote в Интернете (ранее OneNote Web App), чтобы делать заметки в Интернете в записной книжке OneNote, которую вы можете добавить из любого места и легко делиться с другими пользователями. Все пользователи Office 365 могут просматривать и легко редактировать файлы Office с помощью Office для Интернета.
-ms.openlocfilehash: 71f16c99f6fb2c54d8a308645595554fc486cca6
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: a8ce21fc13ad2692602723b5605758f84c6cdc51
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131273"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776960"
 ---
 # <a name="onenote-for-the-web"></a>OneNote для Интернета
 

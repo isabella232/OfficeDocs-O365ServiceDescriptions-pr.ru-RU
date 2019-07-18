@@ -3,7 +3,6 @@ title: Ограничения Skype для бизнеса online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Предельные значения в Skype для бизнеса Online делятся на следующие категории:'
-ms.openlocfilehash: 2c45009ce112334485b8caacb4f9f221b208c678
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342408"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777810"
 ---
 # <a name="skype-for-business-online-limits"></a>Ограничения Skype для бизнеса online
 
