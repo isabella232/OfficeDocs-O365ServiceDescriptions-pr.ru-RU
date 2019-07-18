@@ -2,7 +2,6 @@
 title: Описание службы Workplace Analytics
 ms.author: sharik
 author: skjerland
-ms.date: 7/31/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,29 +9,29 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.
-ms.openlocfilehash: 7ce619c61b2bf547a4a60e245783f0c8cea82158
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: feab626e55e72584beb0879ae172cb8f7d95ab05
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342358"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35778020"
 ---
-# <a name="workplace-analytics-service-description"></a><span data-ttu-id="bd620-103">Описание службы Workplace Analytics</span><span class="sxs-lookup"><span data-stu-id="bd620-103">Workplace Analytics Service Description</span></span>
+# <a name="workplace-analytics-service-description"></a><span data-ttu-id="20bda-103">Описание службы Workplace Analytics</span><span class="sxs-lookup"><span data-stu-id="20bda-103">Workplace Analytics Service Description</span></span>
 
-<span data-ttu-id="bd620-104">Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.</span><span class="sxs-lookup"><span data-stu-id="bd620-104">Microsoft Workplace Analytics provides rich, actionable insights into your company's communication and collaboration trends to help you make more effective business decisions.</span></span>
+<span data-ttu-id="20bda-104">Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.</span><span class="sxs-lookup"><span data-stu-id="20bda-104">Microsoft Workplace Analytics provides rich, actionable insights into your company's communication and collaboration trends to help you make more effective business decisions.</span></span>
   
-<span data-ttu-id="bd620-p101">Служба Microsoft Workplace Analytics анализирует совместную работу групп и определяет поведение, которое способствует или препятствует увеличению прибыли. Затем вы можете использовать эти данные, чтобы:</span><span class="sxs-lookup"><span data-stu-id="bd620-p101">Microsoft Workplace Analytics analyzes how your teams work together so that you can identify the behaviors that help — and hurt — your bottom line. You can then use that information to:</span></span> 
+<span data-ttu-id="20bda-p101">Служба Microsoft Workplace Analytics анализирует совместную работу групп и определяет поведение, которое способствует или препятствует увеличению прибыли. Затем вы можете использовать эти данные, чтобы:</span><span class="sxs-lookup"><span data-stu-id="20bda-p101">Microsoft Workplace Analytics analyzes how your teams work together so that you can identify the behaviors that help — and hurt — your bottom line. You can then use that information to:</span></span> 
   
-- <span data-ttu-id="bd620-107">повысить эффективность работы организации;</span><span class="sxs-lookup"><span data-stu-id="bd620-107">Improve organizational efficiency</span></span>
+- <span data-ttu-id="20bda-107">повысить эффективность работы организации;</span><span class="sxs-lookup"><span data-stu-id="20bda-107">Improve organizational efficiency</span></span>
     
-- <span data-ttu-id="bd620-108">снизить эмоциональное напряжение сотрудников;</span><span class="sxs-lookup"><span data-stu-id="bd620-108">Reduce job-related stress</span></span>
+- <span data-ttu-id="20bda-108">снизить эмоциональное напряжение сотрудников;</span><span class="sxs-lookup"><span data-stu-id="20bda-108">Reduce job-related stress</span></span>
     
-- <span data-ttu-id="bd620-109">улучшить согласованность работы;</span><span class="sxs-lookup"><span data-stu-id="bd620-109">Reduce organizational chaos</span></span>
+- <span data-ttu-id="20bda-109">улучшить согласованность работы;</span><span class="sxs-lookup"><span data-stu-id="20bda-109">Reduce organizational chaos</span></span>
     
-- <span data-ttu-id="bd620-110">привлечь новых сотрудников и уменьшить текучку кадров.</span><span class="sxs-lookup"><span data-stu-id="bd620-110">Engage and retain employees</span></span>
+- <span data-ttu-id="20bda-110">привлечь новых сотрудников и уменьшить текучку кадров.</span><span class="sxs-lookup"><span data-stu-id="20bda-110">Engage and retain employees</span></span>
     
-<span data-ttu-id="bd620-111">Дополнительные сведения см. на странице [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span><span class="sxs-lookup"><span data-stu-id="bd620-111">For more information, see [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span></span> <span data-ttu-id="bd620-112">Щелкните [здесь](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) , чтобы приступить к анализу рабочего места.</span><span class="sxs-lookup"><span data-stu-id="bd620-112">Click [here](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) to get started with Workplace Analytics.</span></span> 
+<span data-ttu-id="20bda-111">Дополнительные сведения см. на странице [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span><span class="sxs-lookup"><span data-stu-id="20bda-111">For more information, see [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span></span> <span data-ttu-id="20bda-112">Щелкните [здесь](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) , чтобы приступить к анализу рабочего места.</span><span class="sxs-lookup"><span data-stu-id="20bda-112">Click [here](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) to get started with Workplace Analytics.</span></span> 
   
-## <a name="licensing-requirements"></a><span data-ttu-id="bd620-113">требования лицензирования;</span><span class="sxs-lookup"><span data-stu-id="bd620-113">Licensing requirements</span></span>
+## <a name="licensing-requirements"></a><span data-ttu-id="20bda-113">требования лицензирования;</span><span class="sxs-lookup"><span data-stu-id="20bda-113">Licensing requirements</span></span>
 
-<span data-ttu-id="bd620-114">Exchange Online (план 1) или 2 (план 2) является необходимым условием.</span><span class="sxs-lookup"><span data-stu-id="bd620-114">Exchange Online Plan 1 or Plan 2 is a prerequisite.</span></span>
+<span data-ttu-id="20bda-114">Exchange Online (план 1) или 2 (план 2) является необходимым условием.</span><span class="sxs-lookup"><span data-stu-id="20bda-114">Exchange Online Plan 1 or Plan 2 is a prerequisite.</span></span>
