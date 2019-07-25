@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Благодаря каждой подписке Microsoft Office 365 предприятие, предприятие, образование и правительственная подписка служба поддержки Майкрософт предоставляет глобальные технические, предварительные продажи, выставление счетов и поддержку подписки. Поддержка доступна как в Интернете, так и на портале Office 365 по телефону для платных и пробных подписок. Дополнительные сведения см. в статье варианты поддержки Office 365.
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233516"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854907"
 ---
 # <a name="support"></a>Поддержка
 
@@ -185,7 +185,7 @@ ms.locfileid: "35233516"
 Разработчики могут получить дополнительные сведения о создании надстроек Office и SharePoint для Office 365: на веб-сайте [Microsoft Developer Network (MSDN)](https://developer.microsoft.com/office/docs). Поддержка разработчиков доступна в блогах и на форумах сообществ разработчиков, на ресурсах поддержки Premier или партнерской поддержки, а также напрямую через корпорацию Майкрософт. Ссылки на варианты поддержки для разработчиков см. на странице [Ресурсы поддержки](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
-> Команда Office 365 не поддерживает сценарии. Чтобы получить поддержку для сценариев, обратитесь в [службу поддержки Microsoft](https://support.microsoft.com/).
+> Команда Office 365 не поддерживает скрипты (например, такие приемы сценариев, как JavaScript, VBScript и т. д.). Чтобы получить поддержку для сценариев, обратитесь в [службу поддержки Microsoft](https://support.microsoft.com/). Поддержка использования приложений Office описана в [статье варианты поддержки для проблем приложений Microsoft Office для подписчиков Office 365](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
   
 ### <a name="volume-licensing"></a>Корпоративное лицензирование
 
