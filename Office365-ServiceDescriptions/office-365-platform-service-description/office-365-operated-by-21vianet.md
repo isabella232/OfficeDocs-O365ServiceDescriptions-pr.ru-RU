@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777310"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908816"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -255,7 +255,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Средство диагностики электронных таблиц Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Архивация и соблюдение требований в Exchange Online и SharePoint Online  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Поддержка групповой политики  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|Управление правами на доступ к данным (IRM) с использованием Azure Information Protection<sup>11</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|Управление правами на доступ к данным (IRM) с использованием Azure Information Protection<sup>11</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Управление правами на доступ к данным (IRM) с использованием AD RMS Windows Server<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: 10f1688d7630f945e7d648078a24cc1412da41de
-ms.sourcegitcommit: dab03604af87399ad70323ede34dc8abe28c63d8
+ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35394930"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908736"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -36,7 +36,7 @@ Microsoft 365 Business — это интегрированное решение,
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |
 |Skype для бизнеса Online  <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
 |Office для Интернета  <br/> |Да  <br/> |Да  <br/> |
-|Приложения Office  <br/> |Да  <br/> |Да  <br/> |
+|[Приложения Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Да  <br/> |Да  <br/> |
 |Project Online  <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |
 |Yammer корпоративный  <br/> |Да  <br/> |Да  <br/> |
