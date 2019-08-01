@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131243"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051620"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание веб-службы Office
 
@@ -175,7 +175,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Переименование и добавление листов](excel-online.md#rename-and-add-sheets) <br/> |Да  <br/> |Да  <br/> |
 |[Переименование файла в открытой книге](excel-online.md#rename-file-while-workbook-is-open) <br/> |Да  <br/> |Нет  <br/> |
 |[Заменить](excel-online.md#replace) <br/> |Да  <br/> |Да  <br/> |
-|[Управление правами: Управление правами на доступ к данным и защита паролем](excel-online.md#bkmk_RightsManagement) <br/> |Нет  <br/> |ДА  <br/> |
+|[Управление правами: Управление правами на доступ к данным и защита паролем](excel-online.md#rights-management-irm-and-password-security) <br/> |Нет  <br/> |ДА  <br/> |
 |[Сохранение или загрузка копии](excel-online.md#save-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
 |[Предоставление общего доступа](excel-online.md#share) <br/> |Да  <br/> |Да  <br/> |
 |[Защита листа](excel-online.md#sheet-protection) <br/> |Да  <br/> |Да  <br/> |
