@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 76ba8a468a2036818addd3d0ece908a691179ab1
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908816"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058841"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, которой управляет 21Vianet
 
@@ -357,13 +357,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Оповещения о емкости  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Папка "Несрочные"  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Подсказки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |
-|Делегированный доступ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Делегированный доступ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Правила для папки «Входящие»  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Подключенные учетные записи  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |
 |Неактивные почтовые ящики  <br/> |Нет<sup>6</sup> <br/> |--  <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |Нет <sup>6</sup> <br/> |
 |Автономная адресная книга  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Политики адресных книг  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Иерархическая адресная книга  <br/> |Да  <br/> |--  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Иерархическая адресная книга  <br/> |Да  <br/> |--  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Списки адресов и глобальный список адресов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |
 |Группы Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Группы рассылки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
