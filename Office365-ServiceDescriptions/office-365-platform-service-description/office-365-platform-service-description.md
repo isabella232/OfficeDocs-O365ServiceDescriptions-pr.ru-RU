@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051601"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206839"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -100,7 +100,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Microsoft Flow  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft MyAnalytics  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>21</sup>  <br/> |Да  <br/> |Нет  <br/> |
+|Microsoft MyAnalytics  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>21,</sup> <sup>22</sup>  <br/> |Да  <br/> |Нет  <br/> |
 |Планировщик Microsoft  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -225,4 +225,4 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 <br/><sup>19</sup> начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.
 <br/><sup>20</sup> доступно как бесплатная надстройка. Для получения дополнительных сведений обратитесь [к разделу Получение доступа к книгам Майкрософт](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> чтобы получить MyAnalytics (полное) с планом E3, необходимо приобрести надстройку MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments. 
-
+<br/><sup>22</sup> включает Insights по MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.

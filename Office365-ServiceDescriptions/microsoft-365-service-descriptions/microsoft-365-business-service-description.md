@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908736"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206859"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -90,7 +90,7 @@ Microsoft 365 Business — это интегрированное решение,
 |[Конфиденциальность, безопасность и прозрачность](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Встроенная защита от нежелательной почты  <br/> |Да  <br/> |Да  <br/> |
 |Встроенная защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |Нет  <br/> |Да <br/> |
+|Office 365 Advanced Threat Protection  <br/> |Нет  <br/> |Да<sup>19</sup> <br/> |
 |Расширенное управление безопасностью  <br/> |Нет  <br/> |Нет  <br/> |
 |Защищенное хранилище пользователя  <br/> |Нет  <br/> |Нет  <br/> |
 |Ключ клиента для Office 365<sup>12</sup> <br/> |Нет  <br/> |Нет  <br/> |
@@ -180,3 +180,4 @@ Microsoft 365 Business — это интегрированное решение,
 <br/><sup>16</sup> этот план поставляется с Microsoft Streaming Plan 2, который включает в себя видеопортал, речевое распознавание текста, поиск с глубоким поиском и определением лица.
 <br/><sup>17</sup> упрощенное управление устройствами Windows 10 и политики защиты приложений Intune, встроенные в центр администрирования Microsoft 365.
 <br/><sup>18</sup> , начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365. 
+<br><sup>19</sup> корпорация Майкрософт 365 поставляется с планом Office 365 Advanced Threat protection (план 1). Дополнительные сведения можно найти в [статье Microsoft 365 Business Security and соответствие требованиям](https://docs.microsoft.com/microsoft-365/business/security-features).
