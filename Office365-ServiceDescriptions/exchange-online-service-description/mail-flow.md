@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье. '
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776790"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231417"
 ---
 # <a name="mail-flow"></a>Поток почты
 
@@ -29,16 +29,16 @@ ms.locfileid: "35776790"
 
 Microsoft Exchange Online может маршрутизировать почту, исходящую из вашей организации, через локальный сервер или размещенную службу (иногда называется "промежуточным узлом"). Благодаря этому в организации возможна защита от потери данных, специальная постобработка исходящей электронной почты и доставка писем деловым партнерам через частные сети. Exchange Online также поддерживает переопределение адресов, при котором исходящая электронная почта маршрутизируется через локальный шлюз, который изменяет адреса. Эта возможность позволяет скрывать поддомены, отображать электронную почту от организации с несколькими доменами как почту с одного домена или изменять вид ретранслируемого письма от партнера так, будто оно было отправлено из вашей организации. Администраторы настраивают специальную маршрутизацию в Центре администрирования Exchange (EAC).
   
-Дополнительные сведения см. в статье [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).
+Дополнительные сведения см. в статье [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
-> Exchange Online может обеспечивать доставку входящей и исходящей почты для вашей организации. 
+> Exchange Online может обеспечивать доставку входящей и исходящей почты для вашей организации. Если ваш домен получателя размещен в Exchange Online с записями MX DNS, указывающими на Exchange Online Protection, почтовые потоки из клиента для получателя не будут перемещаться по Интернету.
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Защищенный обмен сообщениями с доверенным партнером
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Пользователь Exchange Online может настроить защищенный поток обработки почты, получаемой и отправляемой доверенным партнером, с помощью соединителей Office 365. Office 365 поддерживает протокол TLS. Вы можете создать соединитель, чтобы обеспечить шифрование согласно этому протоколу. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx)  это криптографический протокол, обеспечивающий защищенный обмен данными через Интернет. С помощью соединителей можно настроить принудительное использование протокола TLS для входящих и исходящих сообщений с применением самозаверяющего сертификата или сертификата, проверенного центром сертификации. Кроме того, можно задать другие ограничения в целях безопасности, такие как указание доменных имен или диапазонов IP-адресов, которые использует партнерская организация для отправки почты. 
+Пользователь Exchange Online может настроить защищенный поток обработки почты, получаемой и отправляемой доверенным партнером, с помощью соединителей Office 365. Office 365 поддерживает протокол TLS. Вы можете создать соединитель, чтобы обеспечить шифрование согласно этому протоколу. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)  это криптографический протокол, обеспечивающий защищенный обмен данными через Интернет. С помощью соединителей можно настроить принудительное использование протокола TLS для входящих и исходящих сообщений с применением самозаверяющего сертификата или сертификата, проверенного центром сертификации. Кроме того, можно задать другие ограничения в целях безопасности, такие как указание доменных имен или диапазонов IP-адресов, которые использует партнерская организация для отправки почты. 
   
-Дополнительные сведения см. в статье [Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx).
+Дополнительные сведения см. в статье [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 > [!IMPORTANT]
 > Может потребоваться сертификат, проверенный центром сертификации. 
@@ -47,13 +47,13 @@ Microsoft Exchange Online может маршрутизировать почту
 
 Вы можете направлять почту на определенные сайты с помощью соединителей и правил транспорта. При маршрутизации с использованием условий можно выбрать соединитель на основе специальных условий.
   
-Дополнительные сведения см. в статье [Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
+Дополнительные сведения см. в статье [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Список надежных отправителей входящей почты
 
 Вы можете добавить IP-адрес доверенного партнера в список надежных отправителей, чтобы к его письмам не применялись фильтры нежелательной почты. Для этого можно использовать список разрешенных IP-адресов фильтра подключений.
   
-Дополнительные сведения см. в статье [Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx).
+Дополнительные сведения см. в статье [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Маршрутизация почты в гибридной конфигурации
 
@@ -98,4 +98,3 @@ Microsoft Exchange Online может маршрутизировать почту
 
 Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online](exchange-online-service-description.md).
   
-
