@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7728de2cba553b278e980a26dfe6658800077713
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 8638c3049449f6b718fca8141fedea225da6d5c1
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854917"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258897"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ ms.locfileid: "35854917"
 |[Расширенные возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), такие как обозреватель угроз для фишинговых кампаний<sup>6</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Защищенное хранилище пользователя](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Управление мобильными устройствами](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7</sup><br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7, 9</sup><br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Защита от потери данных для сообщений в беседах и каналах Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/>|
 |[Препятствия для информации](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/>|
 |[Управление данными](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -59,7 +59,8 @@ ms.locfileid: "35854917"
 <sup>6</sup> Advanced Threat protection доступен в Office 365 корпоративный, а также в качестве автономной службы для Office 365 корпоративный E1 и Office 365 Enterprise E3.<br> 
 <sup>7</sup> включает файлы, хранящиеся в репозиториях Microsoft Teams.<br/>
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. <br/>
-   
+<sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.<br/>
+
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
 |||||||||
@@ -71,7 +72,7 @@ ms.locfileid: "35854917"
 |[Расширенные возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), такие как обозреватель угроз для фишинговых кампаний  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Защищенное хранилище пользователя](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Управление мобильными устройствами](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да <sup>7<sup> <br/> |Нет  <br/> |Да  <br/> |
+|[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>9</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да <sup>7<sup> <br/> |Нет  <br/> |Да  <br/> |
 |[Защита от потери данных для сообщений в беседах и каналах Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Препятствия для информации](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Управление данными](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -95,6 +96,7 @@ ms.locfileid: "35854917"
 <sup>6</sup> Архивация Skype находится в почтовом ящике пользователя.<br/> 
 <sup>7</sup> включает файлы, хранящиеся в репозиториях Microsoft Teams.<br/>
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. <br/>
+<sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.<br/>
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
