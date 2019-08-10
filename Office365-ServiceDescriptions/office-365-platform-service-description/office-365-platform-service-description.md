@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: ccc8ba16e540381233609d2abab0497cf24f780e
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: 11873d371098fab28a9b5cd7af8ac7632f2164d3
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258887"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286026"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -226,4 +226,4 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 <br/><sup>20</sup> доступно как бесплатная надстройка. Для получения дополнительных сведений обратитесь [к разделу Получение доступа к книгам Майкрософт](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> чтобы получить MyAnalytics (полное) с планом E3, необходимо приобрести надстройку MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments. 
 <br/><sup>22</sup> включает Insights по MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.
-<br/><sup>23</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или элемент управления.
+<br/><sup>23</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или в версии 1.
