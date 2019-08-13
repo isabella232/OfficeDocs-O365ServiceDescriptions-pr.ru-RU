@@ -3,14 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Неделя с 01 июля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 7/1/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
-
-
 ## <a name="week-of-july-08-2019"></a>Неделя с 8 июля 2019 г.
 
 
@@ -152,3 +144,24 @@
 | 8/1/2019 | [Служба Office 365, предоставляемая компанией 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Изменено |
 | 8/2/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
 | 8/2/2019 | [Описание службы Office 365 Advanced Threat Protection](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Изменено |
+
+
+## <a name="week-of-august-05-2019"></a>Неделя с 5 августа 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 8/5/2019 | [Ограничения Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Изменено |
+| 8/5/2019 | [Описание служб Microsoft 365 бизнес](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) | Изменено |
+| 8/5/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
+| 8/5/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
+| 8/7/2019 | [Описание службы архивации на базе Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | Изменено |
+| 8/7/2019 | [Ограничения Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | Изменено |
+| 8/7/2019 | [Поток обработки почты](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | Изменено |
+| 8/7/2019 | [Политика обмена сообщениями и соответствие требованиям](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | Изменено |
+| 8/7/2019 | [Office 365 для государственных организаций США](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | Изменено |
+| 8/8/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
+| 8/8/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
+| 8/8/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
+| 8/9/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
+| 8/9/2019 | [Описание службы OneDrive для бизнеса](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | Изменено |
