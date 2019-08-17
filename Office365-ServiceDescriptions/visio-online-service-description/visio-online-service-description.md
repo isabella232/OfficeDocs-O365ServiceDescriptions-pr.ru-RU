@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: С помощью Visio для Интернета можно просматривать, редактировать и совместно использовать схемы Visio в Интернете. Начните с простой схемы для представления общих идей, например описания плана, предложения или последовательности действий в процессе. Вы можете с легкостью создавать высококлассные схемы распространенных типов с богатыми наборами фигур. Visio для веб-пользователей может просматривать и совместно работать с диаграммами и вставлять комментарии в файлы, отправленные в SharePoint Online или OneDrive для бизнеса Online.
-ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777730"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450303"
 ---
 # <a name="visio-for-the-web-service-description"></a>Описание веб-службы в Visio
 
@@ -32,31 +32,31 @@ ms.locfileid: "35777730"
 ||||
 |:-----|:-----|:-----|
 |**Возможности приложений** <br/> |**Visio для Интернета** <br/> |**Классическое приложение Visio** <br/> |
-|[Применение форматирования к тексту и фигурам](visio-online.md#BM_1) <br/> |Да  <br/> |Да  <br/> |
-|[Упорядочивание объектов](visio-online.md#BM_2) <br/> |Да  <br/> |Да  <br/> |
-|[Создание гибридных решений](visio-online.md#BM_3) <br/> |Да  <br/> |Да  <br/> |
-|[Создание схем](visio-online.md#BM_4) <br/> |Да  <br/> |Да  <br/> |
-|[Команды "Вырезать", "Копировать" и "Вставить"](visio-online.md#BM_5) <br/> |Да  <br/> |Да  <br/> |
-|[Редактирование схем](visio-online.md#BM_6) <br/> |Да  <br/> |Да  <br/> |
-|[Внедрение схемы в страницу SharePoint, веб-сайта или блога](visio-online.md#BM_7) <br/> |Да  <br/> |Нет  <br/> |
-|[Поиск](visio-online.md#BM_8) <br/> |Да  <br/> |Да  <br/> |
-|[Форматирование шрифта](visio-online.md#BM_9) <br/> |Да  <br/> |Да  <br/> |
-|[Гиперссылки](visio-online.md#BM_10)<sup>1</sup> <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
-|[Навигация](visio-online.md#BM_11) <br/> |Да  <br/> |Да  <br/> |
-|[Надстройки Office](visio-online.md#BM_12) <br/> |Нет  <br/> |ДА  <br/> |
-|[Просмотр в автономном режиме](visio-online.md#BM_13) <br/> |Нет  <br/> |ДА  <br/> |
-|[Функция "Сохранить в формате PDF"](visio-online.md#BM_14) <br/> |Да<sup>4</sup> <br/> |Да  <br/> |
-|[Средства проверки правописания](visio-online.md#BM_15) <br/> |Нет  <br/> |ДА  <br/> |
-|[Совместное редактирование в режиме реального времени](visio-online.md#BM_16) <br/> |Нет  <br/> |ДА  <br/> |
-|[Функции "Сохранить как" или "Загрузить копию"](visio-online.md#BM_17) <br/> |Да  <br/> |Да  <br/> |
-|[Общий доступ к схеме](visio-online.md#BM_18)<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |Нет  <br/> |ДА  <br/> |
-|[Подробнее](visio-online.md#BM_20) <br/> |Нет  <br/> |Да  <br/> |
-|[Отмена и повтор](visio-online.md#BM_21) <br/> |Нет  <br/> |ДА  <br/> |
-|[Просмотр и добавление комментариев](visio-online.md#BM_22) <br/> |Да<sup>5</sup> <br/> |Да  <br/> |
-|[Просмотр данных фигур](visio-online.md#BM_23) <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
-|[Просмотр файлов Visio в браузере](visio-online.md#BM_24) <br/> |Да  <br/> |Да  <br/> |
-|[Масштабирование](visio-online.md#BM_25) <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |
+|[Применение форматирования к тексту и фигурам](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Да  <br/> |Да  <br/> |
+|[Упорядочивание объектов](visio-online.md#arrange-objects) <br/> |Да  <br/> |Да  <br/> |
+|[Создание гибридных решений](visio-online.md#build-mashup-solutions) <br/> |Да  <br/> |Да  <br/> |
+|[Создание схем](visio-online.md#create-diagrams) <br/> |Да  <br/> |Да  <br/> |
+|[Команды "Вырезать", "Копировать" и "Вставить"](visio-online.md#cut-copy-and-paste) <br/> |Да  <br/> |Да  <br/> |
+|[Редактирование схем](visio-online.md#edit-diagrams) <br/> |Да  <br/> |Да  <br/> |
+|[Внедрение схемы в страницу SharePoint, веб-сайта или блога](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Да  <br/> |Нет  <br/> |
+|[Поиск](visio-online.md#find) <br/> |Да  <br/> |Да  <br/> |
+|[Форматирование шрифта](visio-online.md#font-formatting) <br/> |Да  <br/> |Да  <br/> |
+|[Гиперссылки](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
+|[Навигация](visio-online.md#navigation) <br/> |Да  <br/> |Да  <br/> |
+|[Надстройки Office](visio-online.md#office-add-ins) <br/> |Нет  <br/> |ДА  <br/> |
+|[Просмотр в автономном режиме](visio-online.md#offline-viewing) <br/> |Нет  <br/> |ДА  <br/> |
+|[Функция "Сохранить в формате PDF"](visio-online.md#print-to-pdf) <br/> |Да<sup>4</sup> <br/> |Да  <br/> |
+|[Средства проверки правописания](visio-online.md#proofing-tools) <br/> |Нет  <br/> |ДА  <br/> |
+|[Совместное редактирование в режиме реального времени](visio-online.md#real-time-co-authoring) <br/> |Нет  <br/> |ДА  <br/> |
+|[Функции "Сохранить как" или "Загрузить копию"](visio-online.md#save-as-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
+|[Общий доступ к схеме](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |Нет  <br/> |ДА  <br/> |
+|[Подробнее](visio-online.md#tell-me) <br/> |Нет  <br/> |Да  <br/> |
+|[Отмена и повтор](visio-online.md#undo-and-redo) <br/> |Нет  <br/> |ДА  <br/> |
+|[Просмотр и добавление комментариев](visio-online.md#view-and-add-comments) <br/> |Да<sup>5</sup> <br/> |Да  <br/> |
+|[Просмотр данных фигур](visio-online.md#view-shape-data) <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
+|[Просмотр файлов Visio в браузере](visio-online.md#view-visio-files-in-the-browser) <br/> |Да  <br/> |Да  <br/> |
+|[Масштабирование](visio-online.md#zoom) <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |
    
 > <sup>1</sup> следуйте гиперссылкам (их нельзя вставить или изменить). 
 <br/><sup>2</sup> общий доступ через SharePoint или один диск для бизнеса и общий доступ для пользователей, у которых нет SharePoint или OneDrive. 
