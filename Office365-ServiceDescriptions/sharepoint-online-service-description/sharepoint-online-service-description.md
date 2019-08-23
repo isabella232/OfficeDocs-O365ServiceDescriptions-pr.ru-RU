@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777860"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568133"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -90,7 +90,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Удаленный приемник событий](developer.md#remote-event-receiver) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[REST API](developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер SharePoint](developer.md#sharepoint-design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Рабочие процессы SharePoint 2010 (встроенные)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Рабочие процессы SharePoint 2013 и SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -177,7 +177,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Экспресс-тенденции](insights.md#quick-explore) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|[Visio для Интернета](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
+|[Visio для Интернета](../visio-online-service-description/visio-online-service-description.md) <sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |[Службы Visio](insights.md#visio-services) <sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Непрерывные обходы контента](search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-july-08-2019"></a>Неделя с 8 июля 2019 г.
-
-
-| Дата публикации |Название статьи | Изменение |
-|------|------------|--------|
-| 7/11/2019 | [Описание службы приложений Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Изменено |
-| 7/12/2019 | [Описание непосредственных служб по проектированию Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Изменено |
-| 7/12/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
-
-
 ## <a name="week-of-july-15-2019"></a>Неделя с 15 июля 2019 г.
 
 
@@ -165,3 +155,17 @@
 | 8/8/2019 | [Центр безопасности и соответствия требованиям Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Изменено |
 | 8/9/2019 | [Описание служб платформы Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Изменено |
 | 8/9/2019 | [Описание службы OneDrive для бизнеса](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | Изменено |
+
+
+## <a name="week-of-august-12-2019"></a>Неделя с 12 августа 2019 г.
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 8/12/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
+| 8/13/2019 | [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | Изменено |
+| 8/14/2019 | [Описание службы OneDrive для бизнеса](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | Изменено |
+| 8/16/2019 | [Office 365 GCC High и DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | Изменено |
+| 8/16/2019 | [Работоспособность и непрерывная работа служб](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Изменено |
+| 8/16/2019 | [Описание веб-службы в Visio](/Office365/ServiceDescriptions/visio-online-service-description/visio-online-service-description) | Изменено |
+| 8/16/2019 | [Visio для Интернета](/Office365/ServiceDescriptions/visio-online-service-description/visio-online) | Изменено |
