@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656293"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672583"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -65,7 +65,7 @@ ms.locfileid: "36656293"
   
 ## <a name="unlimited-archive-storage-quota"></a>Неограниченная квота на хранение архивов
 
- Функция неограниченной архивации в Office 365 (называемая автоматическим расширением архивации) обеспечивает неограниченный объем памяти в архивных почтовых ящиках в Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включен автоматически расширяющийся архив, то по достижении объема в 100 ГБ автоматически добавляется место. В гибридных развертываниях Exchange автоматическое расширение архивации поддерживается только для облачных архивных почтовых ящиков, когда почтовый ящик локального пользователя находится на сервере Exchange Server 2019, Exchange Server 2016 или Exchange Server 2013 (SP1 или более поздней версии). Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). Подробные сведения о доступности см. в [стратегии развития Office 365](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=).
+ Функция неограниченной архивации в Office 365 (называемая *автоматическим расширением архивации*) предоставляет до 1 ТБ хранилища в архивных почтовых ящиках в Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включено автоматическое расширение архивации, дополнительное дисковое пространство автоматически добавляется при достижении емкости хранилища 100 ГБ. В гибридных развертываниях Exchange автоматическое расширение архивации поддерживается только для облачных архивных почтовых ящиков, когда почтовый ящик локального пользователя находится на сервере Exchange Server 2019, Exchange Server 2016 или Exchange Server 2013 (SP1 или более поздней версии). Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Администраторы не могут настраивать квоту хранилища.<br/>
