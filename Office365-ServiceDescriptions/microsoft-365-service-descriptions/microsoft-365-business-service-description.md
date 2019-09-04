@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206859"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717547"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -133,9 +133,9 @@ Microsoft 365 Business — это интегрированное решение,
 |Соглашение об уровне обслуживания 99,9 %  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Advanced Threat Analytics  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |**Функции управления устройствами и приложениями** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Управление мобильными устройствами (MDM)<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Управление мобильными устройствами Intune (MDM) для ПК, Mac и мобильных устройств<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Автоматическая регистрация для управления мобильными устройствами (MDM)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Управление мобильными приложениями (MAM) для приложений Office и бизнес-приложений<sup>17</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
+|Управление мобильными приложениями Intune (MAM) для приложений Office и бизнес-приложений<sup>17</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Управление обновлениями Windows, защитник, политики брандмауэра<sup>15</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Защита данных  выборочное стирание  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Выбор целевых групп безопасности для политик  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
