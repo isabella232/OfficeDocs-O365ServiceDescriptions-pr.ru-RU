@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: В ответ на уникальные и развивающиеся требования государственного сектора США Корпорация Майкрософт создала планы Office 365 для государственных организаций США (или Office 365 для государственных организаций). В этом разделе представлен обзор функций, характерных для сред Office 365 для государственных учреждений США. Рекомендуется прочитать этот дополнительный раздел вместе с описаниями служб Office 365.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231407"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762397"
 ---
 # <a name="office-365-us-government"></a>Office 365 для государственных организаций США
 
@@ -323,10 +323,10 @@ Office 365: позволяют встраивать сторонние прил�
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |[Skype для бизнеса](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup> <br/> |
 |[Office для Mac в Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
-|[Office Mobile для iPad и iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Нет  <br/> |
-|[Office Mobile для Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Нет  <br/> |
-|[Office Mobile для Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Нет  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |Нет  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Нет  <br/> |
+|[Office Mobile для iPad и iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Да  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Да  <br/> |
+|[Office Mobile для Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Да  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Да  <br/> |
+|[Office Mobile для Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |Да  <br/> |Да<sup></sup> <br/> |Да<sup></sup> <br/> |Да  <br/> |
 |Outlook для iOS и Android<sup>5, 4</sup>  <br/> |Да <br/> |Да <br/> |Да <br/> |Да <br/> |
 |**Корпоративные возможности** <br/> |**Office 365 для государственных организаций G1** <br/> |**Office 365 для государственных организаций G3** <br/> |**Office 365 для государственных учреждений G5** <br/> |**Office 365 для государственных учреждений F1** <br/> |
 |Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
