@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: ce86b6829551ee5d0d82e528cf61dee811d9f1ad
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 2547b3dfa0379ca0b0ba28830e5c3d9cf499131b
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568142"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998541"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -69,7 +69,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
   
 Доступные Жеос: Азиатско Тихоокеанский, Австралия, Канада, Европейский союз, Индия, Япония, Корея, Великобритания, США. 
   
-Чтобы узнать больше об этом, Познакомьтесь с [поддержкой нескольких регионов в Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
+Чтобы узнать больше об этом, [Познакомьтесь с поддержкой нескольких регионов в Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Доступность возможностей в планах Office 365
 
@@ -100,7 +100,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Microsoft Flow  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft MyAnalytics  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>22</sup>  <br/> |Нет<sup>21,</sup> <sup>22</sup>  <br/> |Да  <br/> |Нет  <br/> |
+|Microsoft MyAnalytics<sup>22</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Планировщик Microsoft  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -124,7 +124,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Управление группами безопасности в Office 365:  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Несколько доступных ролей администратора  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Возможность разрешить партнеру администрировать Office 365 вместо вас  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Службы Azure Active Directory<sup>23</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Службы Azure Active Directory<sup>22</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Домены](domains.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Добавление личных доменов второго уровня, например fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Добавление личных доменов третьего уровня, например marketing.fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -221,9 +221,9 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 <br/><sup>14</sup> в Office 365 Enterprise F1, поток ограничен только потреблением и работает только до 750 на одного пользователя в месяц. 
 <br/><sup>15</sup> доступно только в планах Office 365 для образовательных учреждений, в том числе Office 365 для образования. Она недоступна в Office 365 корпоративный "~". 
 <br/><sup>16</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные клиентов из Европы, Ближнего Востока и Африки экспортированы в Западная Европа [Нидерланды]. > <br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
+<br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
+<br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
 <br/><sup>19</sup> начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.
 <br/><sup>20</sup> доступно как бесплатная надстройка. Для получения дополнительных сведений обратитесь [к разделу Получение доступа к книгам Майкрософт](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>21</sup> чтобы получить MyAnalytics (полное) с планом E3, необходимо приобрести надстройку MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments. 
-<br/><sup>22</sup> включает Insights по MyAnalytics. Дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.
-<br/><sup>23</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или в версии 1.
+<br/><sup>21</sup> дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.
+<br/><sup>22</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или в версии 1.<br/>
