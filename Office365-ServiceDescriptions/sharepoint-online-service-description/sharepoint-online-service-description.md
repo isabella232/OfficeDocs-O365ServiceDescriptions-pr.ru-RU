@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 'Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений. Краткий обзор: что такое SharePoint?'
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568133"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131480"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -238,7 +238,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Приложения, подготовленные в Azure: пользовательский код в Azure Lightweight Web Role (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 
 <sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов. <br/>
-<sup>2</sup> задействование сотрудники имеют ограниченные возможности OneDrive для бизнеса. Сотрудники задействование получают 2 ГБ места для хранения и не имеют возможностей для синхронизации настольных компьютеров. Учетные записи задействование не включают личный сайт OneDrive для бизнеса, поэтому они не смогут воспользоваться личной библиотекой OneDrive для бизнеса с 1 ТБ или 5 ТБ в Интернет-хранилище.<br/> 
+<sup>2</sup> задействование сотрудники имеют ограниченные возможности OneDrive для бизнеса. Сотрудники задействование получают 2 ГБ места для хранения.<br/> 
 <sup>3</sup> служба Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
 <sup>4</sup> так как сотрудники задействование не могут быть администраторами, для доступа к центру администрирования клиентам задействование требуется по крайней мере один корпоративный пользователь. <br/>
 <sup>5</sup> пользователям SharePoint Online необходимо скачать и установить свободное приложение ранжирования для настройки модели, чтобы создать и настроить модели ранжирования. <br/> 
