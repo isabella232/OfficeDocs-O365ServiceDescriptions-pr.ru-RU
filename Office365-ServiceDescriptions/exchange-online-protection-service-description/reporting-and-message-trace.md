@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: В Microsoft Exchange Online Protection (EOP) доступно множество различных отчетов, с помощью которых вы сможете определить общее состояние и работоспособность вашей организации. Некоторые отчеты доступны в центре администрирования Microsoft 365, а другие доступны в центре администрирования Exchange.
-ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334120"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442714"
 ---
 # <a name="reporting-and-message-trace"></a>Отчеты и трассировка сообщений
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. . В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье описания служб Office 365.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717547"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442554"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
 
@@ -34,8 +34,8 @@ Microsoft 365 Business — это интегрированное решение,
 |Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса Online  <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
-|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |
+|Skype для бизнеса Online  <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
+|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |
 |[Приложения Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Да  <br/> |Да  <br/> |
 |Project Online  <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |
@@ -58,7 +58,7 @@ Microsoft 365 Business — это интегрированное решение,
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |
 |Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Функции центра администрирования Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>6</sup> <br/> |Да  <br/> |
 |Shared computer activation <br/> |Нет <br/> |Да  <br/> |

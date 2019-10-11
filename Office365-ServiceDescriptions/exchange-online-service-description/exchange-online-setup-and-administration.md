@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: В этом разделе описываются элементы управления и поддержка администрирования, доступные для настройки параметров Exchange Online и поддержания среды Exchange Online в Организации, ее выполнения и текущей. Он включает сведения о средствах самостоятельного администрирования и возможностях, доступных для организаций; административные обязанности корпорации Майкрософт и обязательства производительности; а также обслуживание и обновления для продукта.
-ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776490"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442634"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Установка и администрирование Exchange Online
 
@@ -40,24 +40,20 @@ ms.locfileid: "35776490"
 - [Удаленная оболочка Windows PowerShell для Exchange Online](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
     
 ### <a name="microsoft-office-365-portal"></a>Портал Microsoft Office 365
-<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
 
 Портал Microsoft Office 365, расположенный по адресу [https://portal.office.com](https://portal.office.com), представляет из себя веб-сайт, на котором администраторы и партнеры могут приобретать службы Office 365 и управлять ими, а пользователи могут получать доступ к средствам Office 365 для совместной работы и использовать их.
   
 ### <a name="microsoft-365-admin-center"></a>Центр администрирования Microsoft 365
-<a name="BKMK_Office365admincenterl"> </a>
 
 Центр администрирования Microsoft 365 — это веб-портал, с которого администратор службы каждой компании может управлять учетными записями и параметрами пользователей для каждой службы Office 365, на которую они подписаны. В центре администрирования Microsoft 365 администраторы могут перейти по ссылкам в центр администрирования Exchange, где они могут управлять параметрами Exchange Online. Дополнительные сведения о том, как приступить к работе с помощью центра администрирования Microsoft 365, можно найти в следующем видео: [Введение в Office 365 корпоративный](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Центр администрирования Exchange
-<a name="BKMK_ExchangeAdministrationCenter"> </a>
 
 Exchange Online предоставляет единую консоль управления, которая упрощает работу и оптимизирована для управления локальными, гибридными и веб-развертываниями. В Центре администрирования Exchange администраторы могут управлять специальными параметрами Exchange.
   
 Дополнительные сведения об управлении Exchange Online с помощью Центра администрирования Exchange см. в разделе [Центр администрирования Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Удаленная оболочка Windows PowerShell для Exchange Online
-<a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 С помощью удаленной оболочки Windows PowerShell администраторы могут подключаться к Exchange Online для выполнения задач управления, недоступных или нецелесообразных при использовании Центра администрирования Exchange. Такие задачи включают автоматизацию повторяющихся задач, извлечение данных из пользовательских отчетов, настройку политик и подключение Exchange Online к существующим процессам и инфраструктуре. Дополнительные сведения см. в статье [Подключение к Exchange Online с помощью удаленной оболочки PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online предоставляет разнообразные функции для создания отчетов в центре администрирования Exchange.
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776870"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442644"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Функции создания отчетов и средства устранения неполадок
 
@@ -39,9 +39,9 @@ Microsoft Exchange Online предоставляет разнообразные 
 
 Кроме того, книгу отчетов Excel 2013 можно использовать для просмотра сводных отчетов с возможностями детализации. Тем не менее, рекомендуется использовать расширенные отчеты центра администрирования Microsoft 365. Со временем планируется прекращение поддержки рабочей книги отчетов Excel 2013. Чтобы получить дополнительные сведения и ссылки для загрузки и установки книги, посетите следующую [страницу загрузки](https://go.microsoft.com/fwlink/p/?LinkId=271776). Дополнительные сведения об использовании рабочей книги см. в разделе [Mail Protection Reports Using the Excel Reporting Workbook](https://go.microsoft.com/fwlink/p/?LinkId=285211).     
   
-### <a name="reporting-using-web-services"></a>Создание отчетов с помощью веб-служб
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-Как сводные, так и подробные отчеты о почтовых ящиках, группах и данных сообщений доступны через веб-службы для создания отчетов REST или OData, которые являются программным интерфейсом, позволяющим создавать настраиваемые отчеты. Дополнительные сведения см. в статье [Веб-службы отчетности в Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+Доступ к сводным и подробным отчетам о почтовых ящиках, группах и данных сообщений можно получить с помощью веб-службы отчетов клиента REST/OData, которая представляет собой программный интерфейс, позволяющий создавать настраиваемые отчеты. Дополнительные сведения см. в статье [Office 365 Reporting Web Services](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Функции создания отчетов и средства устранения неполадок в Центре администрирования Exchange
 

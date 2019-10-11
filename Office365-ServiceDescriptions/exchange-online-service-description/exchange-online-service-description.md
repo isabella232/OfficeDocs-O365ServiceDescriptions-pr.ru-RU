@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Сравниваете функции, которые предусмотрены в подписках на Office 365, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776600"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442654"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -35,7 +35,7 @@ ms.locfileid: "35776600"
   
 Microsoft Exchange Online  это размещенное решение для обмена сообщениями с возможностями Microsoft Exchange Server в виде облачной службы. Оно предоставляет пользователям доступ к электронной почте, календарю, контактам и задачам с ПК, мобильных устройств и через Интернет. Оно полностью интегрируется с Active Directory, позволяя администраторам с помощью групповых политик и других средств администрирования управлять функциями Exchange Online в своей среде.
   
-Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы размещены в центрах обработки данных Майкрософт и доступны для пользователей на широком спектре устройств в корпоративной сети или через Интернет.
+Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы размещены в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет.
   
 Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans). Сравнить различные планы Office 365 Germany можно на странице [Планы подписки Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
@@ -171,7 +171,7 @@ Microsoft Exchange Online  это размещенное решение для
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|Да|Да|Да|
 |Создание отчетов об использовании|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 бизнес базовый**|**Office 365 бизнес премиум**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 бизнес базовый**|**Office 365 бизнес премиум**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F1**|
 |Надстройки Outlook и Outlook MAPI|Да<sup>19</sup>|Да|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Нет|
 
 <sup>1</sup> требуется подписка на архивацию на базе Exchange Online для каждого локального пользователя почтовых ящиков, у которого есть облачный архив. <br/>
@@ -196,7 +196,7 @@ Microsoft Exchange Online  это размещенное решение для
 <sup>20</sup> для обнаружения электронных данных необходим отдельный запрос для локальных и облачных сред. <br/>
 <sup>21</sup> таблица указывает, работает ли клиент со связанными планами. Указанные в ней клиенты могут и не входить в эти планы на момент приобретения последних. <br/>
 <sup>22</sup> дополнительные сведения см. [в статье Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> служба единой системы обмена сообщениями Exchange Online для сторонних систем УАТС с прямыми подключениями от пользователя, который управляется с помощью SBCs, будет завершаться 2019 апреля. Более подробную информацию можно узнать в статье, посвященной включению [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online в](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) блоге группы Exchange. <br/>
+<sup>23</sup> служба единой системы обмена сообщениями Exchange Online для сторонних систем УАТС с прямыми подключениями от пользователя, который управляется с помощью SBCs, будет завершаться 2019 апреля. Более подробную информацию можно узнать в статье, посвященной включению [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online в](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) блоге группы Exchange. <br/>
 <sup>24</sup> пользователь F1 не может добавлять делегатов в свой почтовый ящик, но может получить доступ к другому почтовому ящику (включая общие почтовые ящики) и выполнить все действия, делегированные им.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Доступность возможностей в автономных планах Exchange Online
@@ -301,7 +301,7 @@ Microsoft Exchange Online  это размещенное решение для
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|
 |Создание отчетов об использовании|Да|Да|Да|Да|Да|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Веб-части Outlook Web App|Да|Да|Да|Да|Да|
 |Надстройки Outlook и Outlook MAPI|Да|Да|Да<sup>21</sup>|Да<sup>21</sup>|Нет|
 

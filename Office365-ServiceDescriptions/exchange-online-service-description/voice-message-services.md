@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7f01e3e013ea714735af300a8ecf36dd26984757
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776930"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442564"
 ---
 # <a name="voice-message-services"></a>Службы голосовых сообщений
 
@@ -66,7 +66,7 @@ Microsoft Exchange Online предлагает услуги размещенно
 Локальные системы голосовой почты от сторонних провайдеров могут взаимодействовать с Exchange Online, если они способны пересылать голосовые сообщения через SMTP, или если они поддерживают службы Microsoft Exchange Web Services. Если система голосовой почты изначально не поддерживает переадресацию голосовых сообщений через SMTP, сервер электронной почты может быть размещен локально и может получать сообщения из системы голосовой почты, а затем направлять их на облако используя SMTP. Так как многие сторонние системы голосовой почты используют MAPI/CDO для взаимодействия с продвинутой единой системой обмена сообщениями Exchange Server, все возможности этих систем могут быть недоступны при использовании SMTP для совместимости с Exchange Online.
   
 > [!NOTE]
-> Поддержка единой системы обмена сообщениями Exchange Online единой системы обмена сообщениями с непосредственными подключениями от пользователей, истечений с помощью прямых подключений, будет завершаться 2018 июля Дополнительную информацию можно узнать в статье прекращение [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . 
+> Поддержка единой системы обмена сообщениями Exchange Online единой системы обмена сообщениями с непосредственными подключениями от пользователей, истечений с помощью прямых подключений, будет завершаться 2018 июля Дополнительную информацию можно узнать в статье прекращение [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117) . 
   
 ## <a name="skype-for-business-integration"></a>Интеграция Skype для бизнеса
 
