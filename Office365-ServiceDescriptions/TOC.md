@@ -82,7 +82,7 @@
 ## [Описание службы Workplace Analytics](workplace-analytics-service-description.md)
 ## [Описание службы MyAnalytics](mya-service-description.md)
 ## [Описание службы Power BI](power-bi-service-description.md)
-## [Описание службы Project Online](project-online-service-description/project-online-service-description.md)
+## [Описание службы Microsoft Project](project-online-service-description/project-online-service-description.md)
 ### [Базовые функции](project-online-service-description/core-functionality.md)
 ### [Планирование проекта](project-online-service-description/project-planning.md)
 ### [Управление задачами](project-online-service-description/task-management.md)
