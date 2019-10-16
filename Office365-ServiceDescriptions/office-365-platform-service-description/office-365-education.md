@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт следующего поколения, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998491"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523397"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт следующего поколения, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
   
-В этой статье перечислены возможности планов Office 365 для образовательных учреждений (a1, A3 и A5). Чтобы сравнить функции в планах бизнеса и предприятий, ознакомьтесь со статьей [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) или, более детальный список функций, приведено в описании соответствующей службы в [описании службы Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library).
+В этой статье перечислены возможности планов Office 365 для образовательных учреждений (a1, A3 и A5). Чтобы сравнить функции в планах бизнеса и предприятий, ознакомьтесь со статьей [Сравнение планов Office 365 для бизнеса](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) или, более детальный список функций, приведено в описании соответствующей службы в [описании службы Office 365](../office-365-service-descriptions-technet-library.md).
   
 Справочные статьи и другие сведения вы найдете в [центре справки и обучения Office](https://support.office.com/).
   
@@ -31,13 +31,13 @@ ms.locfileid: "36998491"
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Служба** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**Служба** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да<sup>5</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Skype для бизнеса Online  <br/> |Да<sup>7</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |
-|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Приложения Office  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Project Online  <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |Нет<sup>1</sup> <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
@@ -57,7 +57,7 @@ ms.locfileid: "36998491"
   
 ## <a name="service-level-agreement"></a>Соглашение об условиях обслуживания
 
-Сведения о соглашениях об уровне обслуживания приведены в разделе [соглашение об уровне обслуживания](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement). Сведения о последних сроках для Office 365 приведены [в разделе прозрачные операции из office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity).
+Сведения о соглашениях об уровне обслуживания приведены в разделе [соглашение об уровне обслуживания](../office-365-platform-service-description/service-level-agreement.md). Сведения о последних отсроках для Office 365 приведены в статье [последние](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)сведения о времени в мире.
   
 ## <a name="platform-features"></a>Функции платформы 
 
@@ -66,7 +66,7 @@ ms.locfileid: "36998491"
 |||||
 |:-----|:-----|:-----|:-----|
 |**Функция** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Возможности администрирования Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -213,10 +213,10 @@ ms.locfileid: "36998491"
 |[случаи обнаружения электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Экспорт при обнаружении электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Расширенное обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) данных <sup>4</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Архивация](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Расширенное обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)данных<sup>4</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Архивация](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Политики хранения или удаления, задаваемого вручную](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Единый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Унифицированный аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |||||
    
 > [!NOTE]
@@ -243,7 +243,7 @@ ms.locfileid: "36998491"
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
@@ -302,12 +302,12 @@ ms.locfileid: "36998491"
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office для Интернета** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
-|Word  <br/> |Word для Интернета <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel для Интернета <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote для Интернета <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint для Интернета <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio для Интернета  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|**Application** <br/> |**Office в Интернете** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
+|Word  <br/> |Word в Интернете <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel в Интернете <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote в Интернете <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint в Интернете <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio в Интернете  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
 <a name="OfcOnline"> </a>
@@ -337,7 +337,7 @@ ms.locfileid: "36998491"
 |S/MIME  <br/> |Да  <br/> |Да  <br/> |Да  <br/> ||
 |Хранение на месте и хранение для судебного разбирательства  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Обнаружение электронных данных на месте  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
-|Правила транспорта  <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
+|Правила транспорта  <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
 |Защита от потери данных  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Ведение журнала  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Защита от нежелательной почты и вредоносных программ](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -418,7 +418,7 @@ ms.locfileid: "36998491"
 |Удаленный доступ к Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Политики ActiveSync для мобильных устройств  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Создание отчетов об использовании  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Надстройки Outlook и Outlook MAPI  <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -805,7 +805,7 @@ Exchange Online предоставляет три режима уведомле�
 
 OneDrive для бизнеса (ранее SkyDrive Pro) — это место в облаке для хранения персональных данных в Интернете. Используйте его для хранения рабочих файлов на нескольких устройствах с замедлением и безопасностью. Совместное использование файлов с коллегами и редактирование документов Office в режиме реального времени с Office для Интернета. Синхронизируйте файлы с локальным компьютером с помощью приложения синхронизации OneDrive для бизнеса.
   
-OneDrive для бизнеса включен в SharePoint Online и также может быть приобретен в виде автономного плана. Автономный вариант OneDrive для бизнеса включает Office для Интернета. Чтобы узнать больше, посмотрите, [что такое OneDrive для бизнеса?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive для бизнеса включен в SharePoint Online и также может быть приобретен в виде автономного плана. Автономный вариант OneDrive для бизнеса включает Office для Интернета. Чтобы узнать больше, посмотрите, [что такое OneDrive для бизнеса?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Требования к системе
 
@@ -825,9 +825,9 @@ OneDrive для бизнеса (план 1) предоставляет 1 ТБ д
     
 Вы не можете выделить дополнительное хранилище для определенного пользователя OneDrive. Тем не менее объем хранилища, который видит пользователь, можно уменьшить. Если пользователю Office 365 Enterprise F1 требуется больше места для хранения, вам потребуется выполнить обновление до Office 365 корпоративный E1.
   
-Сведения о типах файлов, которые невозможно добавить в OneDrive для бизнеса, можно найти в разделе [типы файлов, которые невозможно добавить в список или библиотеку](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US).
+Сведения о типах файлов, которые невозможно добавить в OneDrive для бизнеса, можно найти в разделе [типы файлов, которые невозможно добавить в список или библиотеку](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-OneDrive для бизнеса включен в SharePoint Online. Сведения о дополнительных ограничениях в SharePoint Online, таких как квоты семейства сайтов, ограничения на передачу файлов и ограничения хранилища, приведены в статье [границы и ограничения программного обеспечения SharePoint Online](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498). 
+OneDrive для бизнеса включен в SharePoint Online. Сведения о дополнительных ограничениях в SharePoint Online, таких как квоты семейства сайтов, ограничения на передачу файлов и ограничения хранилища, приведены в статье [границы и ограничения программного обеспечения SharePoint Online](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>Планы подписки
 
@@ -868,13 +868,13 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |List and Library APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Интерфейсы REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Дизайнер SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |SharePoint Store <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Рабочие процессы SharePoint 2010 (.NET 3.5) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Рабочие процессы SharePoint 2010 (встроенные)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Рабочие процессы SharePoint 2013 и SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
+|[Рабочие процессы SharePoint 2013 и SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
 |Workload API: ECM APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Workload API: Search APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Workload API: Social APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -1105,7 +1105,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Количество пользователей  <br/> |1-500 000<sup>6</sup> <br/> |1-500 000<sup>6</sup> <br/> |1-500 000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> вы можете приобрести неограниченное количество дополнительного хранилища SharePoint Online. В разделе изменение дискового [пространства для подписки](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>2</sup> рекомендуем регулярно отслеживать корзину и очищать ее. Она занимает часть общего дискового пространства организации.<br/> 
+> <sup>1</sup> вы можете приобрести неограниченное количество дополнительного хранилища SharePoint Online. [В разделе Добавление места для хранения подписки](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). <br/> <sup>2</sup> рекомендуем регулярно отслеживать корзину и очищать ее. Она занимает часть общего дискового пространства организации.<br/> 
 <sup>3</sup> при наличии подписки на Office 365 и автономного плана SharePoint Online добавляются объемы хранилища.<br/> 
 <sup>4</sup> администраторы SharePoint Online могут задавать пределы использования хранилища для семейств веб-сайтов и сайтов.<br/> 
 <sup>5</sup> не включает семейства веб-сайтов OneDrive для бизнеса, созданные для каждого лицензированного пользователя.<br/> 
@@ -1220,7 +1220,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Voicemail  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для внутренних звонков с обязательным приобретением надстройки)  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
 |[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для международных звонков с обязательным приобретением надстройки)  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
-|[Кредиты на потребление](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Кредиты на связь](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Голосовые вызовы Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Мгновенные сообщения и шифрование мультимедиа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -1269,7 +1269,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
   
 #### <a name="peer-to-peer-limits"></a>Одноранговые ограничения
 
-- **Ограничение на передачу файлов.** Максимальный размер файла, который можно передать в чате Skype для бизнеса Online. Сведения о типах файлов, которые нельзя передавать, см. в статье об [отправке и получении файлов или вложений в Skype для бизнеса Online](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o) на веб-сайте службы поддержки Майкрософт.
+- **Ограничение на передачу файлов.** Максимальный размер файла, который можно передать в чате Skype для бизнеса Online. Сведения о типах файлов, которые нельзя передавать, см. в статье об [отправке и получении файлов или вложений в Skype для бизнеса Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments) на веб-сайте службы поддержки Майкрософт.
     
 - **Ограничение на количество бесед во вкладках.** Максимальное количество бесед, одновременно открытых пользователем Skype для бизнеса на отдельных вкладках. 
     
@@ -1330,4 +1330,3 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 
 Сведения об ограничениях по минутам в местных и международных планах Skype для бизнеса Online можно найти в статье [Skype для бизнеса Online PSTN Services использование терминов](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
   
-

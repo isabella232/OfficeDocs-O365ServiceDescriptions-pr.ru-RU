@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Смартфоны BlackBerry® могут получать доступ к электронной почте и документам в Office 365:.
-ms.openlocfilehash: 0af0e0f1615c45c468b05d66e274c158dba673e0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776950"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523474"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -34,7 +34,7 @@ ms.locfileid: "35776950"
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>Смартфоны BlackBerry® 7 и более ранних версий с Microsoft Exchange Online
 
-С помощью BlackBerry® Internet Service (BIS) вы можете подключить смартфоны BlackBerry 7 и более ранних версий к Exchange Online. BIS позволяет пользователям BlackBerry получать доступ к учетным записям электронной почты через Интернет по протоколам IMAP и POP.
+С помощью BlackBerry® Internet Service (BIS) вы можете подключить смартфоны BlackBerry 7 и более ранних версий к Exchange Online. BIS позволяет пользователям BlackBerry получать доступ к своим учетным записям электронной почты через Интернет через IMAP или POP.
   
 Служба BIS предоставляется большинством мобильных операторов, поэтому пользователям потребуется настроить синхронизацию электронной почты, календаря и контактов, следуя инструкциям в указанных ниже статьях базы знаний.
   
@@ -53,6 +53,5 @@ ms.locfileid: "35776950"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
   
-

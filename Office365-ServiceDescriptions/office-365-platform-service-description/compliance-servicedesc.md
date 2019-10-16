@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 соответствует отраслевым стандартам и нормативам и предназначено для обеспечения соответствия нормативным требованиям для бизнеса. Для получения дополнительных сведений см.
-ms.openlocfilehash: fc899afcbf91bd34825f1b741428ae9e08c49856
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776990"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523464"
 ---
 # <a name="compliance"></a>Соответствие требованиям
 
@@ -59,7 +59,7 @@ Microsoft Office 365: отвечает нормам промышленного �
     
 - FISMA;
     
-- ГКСП
+- гксп
     
 - HIPAA/HITECH;
     
@@ -111,6 +111,5 @@ Microsoft Office 365: отвечает нормам промышленного �
     
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
   
-

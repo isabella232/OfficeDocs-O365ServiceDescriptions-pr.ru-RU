@@ -9,30 +9,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
-ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777000"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523395"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
 Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них. 
   
-Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Сравнение компонентов Office 365 в планах для бизнеса и предприятий представлено на [этой странице](https://go.microsoft.com/fwlink/?linkid=799177), а более подробный список компонентов вы найдете в статье [Описание службы Office 365](https://go.microsoft.com/fwlink/?linkid=839510). Справочные статьи и другие сведения вы найдете в [центре справки и обучения Office](https://support.office.com/).
+Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Сравнение компонентов Office 365 в планах для бизнеса и предприятий представлено на [этой странице](https://go.microsoft.com/fwlink/?linkid=799177), а более подробный список компонентов вы найдете в статье [Описание службы Office 365](../office-365-service-descriptions-technet-library.md). Справочные статьи и другие сведения вы найдете в [центре справки и обучения Office](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Службы и компоненты
 
-Каждый план Microsoft 365 для образования включает ряд отдельных служб, таких как Exchange Online и SharePoint Online. В приведенной ниже таблице показаны службы, доступные в каждом плане Office 365 и Microsoft 365, чтобы вы могли выбрать решение, наиболее отвечающее вашим требованиям. Более подробное описания служб и компонентов Office 365 см. в описании службы [Office 365 для образования](https://technet.microsoft.com/EN-US/library/mt844095.aspx). 
+Каждый план Microsoft 365 для образования включает ряд отдельных служб, таких как Exchange Online и SharePoint Online. В приведенной ниже таблице показаны службы, доступные в каждом плане Office 365 и Microsoft 365, чтобы вы могли выбрать решение, наиболее отвечающее вашим требованиям. Более подробное описания служб и компонентов Office 365 см. в описании службы [Office 365 для образования](office-365-education.md).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Службы** <br/> |**Office 365 для образования A1** <br/> |**Office 365 для образования A3** <br/> |**Office 365 для образования A5** <br/> |**Microsoft 365 для образования A3** <br/> |**Microsoft 365 для образования A5** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office для Интернета  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 профессиональный плюс  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |Да,<sup>2</sup> <br/> |
+|Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Да,<sup>3</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
 |OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Teams  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
