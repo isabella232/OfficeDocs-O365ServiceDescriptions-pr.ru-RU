@@ -27,7 +27,7 @@ OneDrive — это сетевое облачное хранилище, пред
   
 OneDrive включен в планы Microsoft 365, Office 365 и в планы SharePoint Online. Кроме того, его можно приобрести в виде самостоятельного плана. 
     
-Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/ru-RU/onedrive-for-business/compare-onedrive-for-business-plans). 
+Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Автономные планы OneDrive для бизнеса включают Office в Интернете. 
