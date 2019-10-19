@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672583"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581865"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -42,7 +42,7 @@ ms.locfileid: "36672583"
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии). Дополнительные сведения см. [в разделе Лицензирование "краткое лицензирование" основного набора CAL и комплекта Cal Enterprise CAL](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 корпоративный E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 бизнес <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/> Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 для предприятий E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 бизнес <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/> Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Гибридное развертывание не требуется для облачных организаций, почтовые ящики которых не хранятся на локальном сервере Exchange Server. Однако если у вас есть локальные почтовые ящики, гибридное развертывание необходимо.
@@ -72,24 +72,24 @@ ms.locfileid: "36672583"
 > Автоматическое расширение архивации не поддерживается для почтовых ящиков, находящихся на сервере Exchange Server 2010.
   
 > [!IMPORTANT]
-> Автоматическое расширение архива поддерживается только для тех почтовых ящиков, которые используются для отдельных пользователей или общих почтовых ящиков с частотой роста *, не превышающей&nbsp;1 ГБ в день*. Не разрешается использовать функцию ведения журнала, правила транспорта и правила автоматической пересылки, чтобы копировать сообщения на Архивация на базе Exchange Online для создания архива. Архивный почтовый ящик пользователя предназначен только для этого пользователя. Майкрософт оставляет за собой право отказать в неограниченном архивировании, если архивный почтовый ящик пользователя используется для хранения архивных данных других пользователей. 
+> Автоматическое расширение архива поддерживается только для тех почтовых ящиков, которые используются для отдельных пользователей или общих почтовых ящиков с частотой роста *, не превышающей 1&nbsp;ГБ в день*. Не разрешается использовать функцию ведения журнала, правила транспорта и правила автоматической пересылки, чтобы копировать сообщения на Архивация на базе Exchange Online для создания архива. Архивный почтовый ящик пользователя предназначен только для этого пользователя. Майкрософт оставляет за собой право отказать в неограниченном архивировании, если архивный почтовый ящик пользователя используется для хранения архивных данных других пользователей. 
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
 ||||
 |:-----|:-----|:-----|
 |**Функция** <br/> |**Архивация на базе Exchange Online для Exchange Server<sup>1</sup>**          <br/> |**Архивация на базе Exchange Online для Exchange Online<sup>2</sup>** <br/> |
-|**[Функции архивирования в архивации на базе Exchange Online](archive-features.md)** <br/> |||
+|**[Функции архивации в архивации на базе Exchange Online](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |
 |Перемещение сообщений с помощью политики архивации  <br/> |Да  <br/> |Да  <br/> |
 |Импорт данных в архив  <br/> |Да  <br/> |Да  <br/> |
 |Восстановление удаленных элементов  <br/> |Да  <br/> |Да  <br/> |
 |Восстановление удаленного почтового ящика  <br/> |Да  <br/> |Да  <br/> |
 |Резервное копирование почтовых ящиков  <br/> |Да  <br/> |Да  <br/> |
-|**[Клиентские возможности архивации на базе Exchange Online](client-features.md)** <br/> |||
+|**[Функции клиентов в архивации на базе Exchange Online](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|Outlook Web App  <br/> |Да  <br/> |Да  <br/> |
-|**[Функции контроля соответствия требованиям и безопасности в архивации на базе Exchange Online](compliance-and-security-features.md)** <br/> |||
+|Outlook в Интернете  <br/> |Да  <br/> |Да  <br/> |
+|**[Функции обеспечения соответствия требованиям и безопасности в архивации на базе Exchange Online](compliance-and-security-features.md)** <br/> |||
 |Политики хранения  <br/> |Да  <br/> |Да  <br/> |
 |Хранение на месте и хранение для судебного разбирательства<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |
 |Обнаружение электронных данных на месте  <br/> |Да  <br/> |Да  <br/> |

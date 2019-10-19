@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: c162bb056d8f4c1c2bffb3e14069025f53c20e1e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776860"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582005"
 ---
 # <a name="planning-and-deployment"></a>Планирование и развертывание
 
@@ -34,7 +34,7 @@ ms.locfileid: "35776860"
 
 Развертывание только на основе облака  это развертывание, в котором организация в службе Exchange Online не работает совместно с локальной организацией Exchange. В облаке размещаются почтовые ящики всех пользователей, а управление ведется через Exchange Online и Office 365.
   
-### <a name="hybrid"></a>Гибридное развертывание
+### <a name="hybrid"></a>Гибридная среда
 
 Гибридное развертывание, доступное для Microsoft Exchange 2003, Exchange 2007, Exchange 2010 и Exchange 2013, позволяет обеспечить долгосрочное сосуществование, где некоторые почтовые ящики размещаются локально, а другие почтовые ящики  в Exchange Online. Его можно использовать до переноса всех пользовательских почтовых ящиков в Exchange Online. Гибридное развертывание позволяет организациям расширять многофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange на облако. Функции гибридного развертывания включают защищенный транспорт почты, общие календарные данные о занятости, а также отслеживание сообщений между локальной организацией и Exchange Online.
   
@@ -136,6 +136,6 @@ Exchange Online предоставляет веб-средство для пер
     
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online](exchange-online-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, отдельных вариантах и локальных решениях, ознакомьтесь со статьей [Описание службы Exchange Online](exchange-online-service-description.md).
   
 

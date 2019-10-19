@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: 9302da3783e3cdfb7f228f573efd713b7af74221
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334179"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595297"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -56,7 +56,6 @@ Office 365 Германия — это отличительный вариант
 Требования к системе для Office 365: см. в разделе [Требования к системе для Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) на сайте [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409).
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
-<a name="BKMK_Security"> </a>
 
 Центр соответствия &amp; требованиям безопасности доступен для Office 365 в Германии. Дополнительные сведения и список компонентов можно найти в [центре безопасности &amp; и соответствия требованиям Office 365](office-365-securitycompliance-center.md).
 
@@ -65,7 +64,6 @@ Office 365 Германия — это отличительный вариант
 Office 365 Германия соответствует стандартам Cloud Security and соответствие стандартам Office 365. Office 365 предоставляет исчерпывающий набор сертификатов, которые независимо оцениваются с помощью аудиторов аккредитованная в рамках управления организацией (SOC), Международной организации по стандартизации (ISO) и аудита. К сертификатам относятся ISO 27001/27002, 27017, 27018 и SOC 1 и 2. Дополнительная проверка доверенных компаний, контролирующих доступ к данным Office 365 Germany, будет проведена во время ежегодных проверок ISO и SOC.
 
 ## <a name="platform-features"></a>Функции платформы
-<a name="BM1_Platform"> </a>
 
 В следующей таблице перечислены все функции платформы, доступные в планах Office 365: Germany.
 
@@ -74,7 +72,7 @@ Office 365 Германия соответствует стандартам Clou
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Функция**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|**[Возможности администрирования Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)**|||||||||
+|**[Возможности администрирования Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|Да|
 |Защита содержимого с помощью Azure Information Protection|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет|Нет|Нет<sup>2</sup>|
 |**[Функции набора Office 365](office-365-suite-features.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
@@ -91,7 +89,7 @@ Office 365 Германия соответствует стандартам Clou
 |Группы Office 365|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Office 365 Видео|Нет|Нет|Нет|Да|Да|Да|Да|Нет|
 |**[Управление учетными записями пользователей](user-account-management.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности|Да|Да|Да|Да|Да|Да|Да|Да|
+|Облачное удостоверение, федеративное удостоверение или многофакторная проверка подлинности|Да|Да|Да|Да|Да|Да|Да|Да|
 |Установщик обновлений Office 365: для рабочего стола|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Массовая отправка с помощью CSV-файлов|Да|Да|Да|Да|Да|Да|Да|Да|
 |Средство синхронизации каталогов|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -163,7 +161,7 @@ Office 365 Германия соответствует стандартам Clou
 |Защищенное хранилище пользователя|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Office 365 Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Оценка безопасности|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Соответствие требованиям [ServiceDesc]](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Соответствие требованиям](compliance-servicedesc.md)**<sup>9</sup>|||||||||
 |Оценки по стандартам SAS 70 и SSAE16|Да|Да|Да|Да|Да|Да|Да|Да|
 |Сертификация ISO 27001|Да|Да|Да|Да|Да|Да|Да|Да|
 |Типовые статьи ЕС|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -172,7 +170,7 @@ Office 365 Германия соответствует стандартам Clou
 |Разрешение на эксплуатацию по FISMA|Да|Да|Да|Да|Да|Да|Да|Да|
 |Соглашение по обработке данных Майкрософт|Да|Да|Да|Да|Да|Да|Да|Да|
 |Данные PAN, регулируемые PCI|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Непрерывная работа службы](service-health-and-continuity.md)**|||||||||
+|**[Непрерывность обслуживания](service-health-and-continuity.md)**|||||||||
 |**[BlackBerry](blackberry.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Использование BlackBerry Internet Service (BIS)|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Партнеры](partners.md)**|||||||||
@@ -188,15 +186,14 @@ Office 365 Германия соответствует стандартам Clou
 <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. This does not apply to subscriptions paid on a monthly basis.<br/>
 <sup>6</sup> Office 365 Германия для образовательных учреждений для образовательных учреждений не поддерживают изменения лицензий в центре администрирования Microsoft 365.<br/>
-<sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Client software applications also may enable an end user to access online services that are not German Online Services. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
+<sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Кроме того, клиентские приложения могут лри веб-службы доступа конечных пользователей, которые не являются веб-службами Германии. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
 <sup>8</sup> [Modern authentication](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) must be enabled for use with Office 365 Germany.<br/>
 <sup>9</sup> Office 365 Германии является соответствием стандартам Cloud Security and соответствие стандартам Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
-## <a name="office-application-features"></a>Функции приложений Office
-<a name="BM1_Platform"> </a>
+## <a name="office-application-features"></a>Функции приложений Office  
 
 > [!NOTE]
-> Планы Office 365: Germany включают клиентские приложения, установленные на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013\* и Office 2016. Клиентские приложения используют не только немецкие центры обработки данных и могут предоставлять доступ к веб-службам, отличным от [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/> \* Для работы Office 2013 для Office 365: Germany необходимо [включить современную проверку подлинности](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Планы Office 365: Germany включают клиентские приложения, установленные на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013\* и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить пользователям доступ к веб-службам, которые не являются [веб-службами Германии](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/> \* Для работы Office 2013 для Office 365: Germany необходимо [включить современную проверку подлинности](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
 Воспользуйтесь приведенной ниже таблицей, чтобы сравнить доступность функций в планах Office 365 Germany.
 
@@ -220,7 +217,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |Outlook для Android<sup>11</sup>|Нет|Нет|Нет|Нет<sup>7</sup>|Нет|Нет|Нет|Нет|
-|**Корпоративные возможности**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**Корпоративная стоимость**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Установка на пяти компьютерах (в том числе Mac) для каждого пользователя|Да<sup>8</sup>|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |Автоматическое назначение учетных записей пользователей|Да|Да|Да|Да|Да|Да|Да|Да|
 |Многоязыковой пользовательский интерфейс|Нет|Нет|Да|Нет|Нет|Да|Да|Нет|
@@ -232,11 +229,11 @@ Office 365 Германия соответствует стандартам Clou
 |Виртуализация рабочих столов|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
 |Средство сравнения электронных таблиц Excel|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
 |Средство диагностики электронных таблиц Excel|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
-|Архивация и соблюдение требований в Exchange Online и SharePoint Online|Да|Нет|Да<sup>5</sup>|Нет|Нет|Да|Да|Нет|
+|Архивация и соответствие требованиям в Exchange Online и SharePoint Online|Да|Нет|Да<sup>5</sup>|Нет|Нет|Да|Да|Нет|
 |Поддержка групповой политики|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
 |Управление правами на доступ к данным с помощью Azure Information Protection<sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Управление правами на доступ к данным с помощью Windows Server AD RMS<sup>4</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office|Нет|Нет|Да|Нет|Нет|Да|Да|Нет|
+|Поддержка надстроек, ActiveX и BHO для Office|Нет|Нет|Да|Нет|Нет|Да|Да|Нет|
 |Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365|Да|Нет|Да|Нет|Нет|Да|Да|Нет|
 |Office Lens|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Телеметрия Office|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
@@ -253,7 +250,7 @@ Office 365 Германия соответствует стандартам Clou
 |Активация корпоративных лицензий (KMS и MAK)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения работают не только в Центрах обработки данных в Германии, но могут также предоставлять пользователю доступ к веб-службам, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
+> <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить доступ к интерактивным службам пользователей, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
 <sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
 <sup>4</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. <br/>
@@ -285,7 +282,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Нет|Да|Да|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Нет|Да|Да|
 |Outlook для Android<sup>11</sup>|Нет|Нет|Нет|
-|**Корпоративные возможности**|**Office профессиональный плюс 2013**|**Office профессиональный плюс 2016**|**Office 365 профессиональный плюс**|
+|**Корпоративная стоимость**|**Office профессиональный плюс 2013**|**Office профессиональный плюс 2016**|**Office 365 профессиональный плюс**|
 |Установка на пяти компьютерах (в том числе Mac) для каждого пользователя|Нет|Да|Да<sup>8</sup>|
 |Автоматическое назначение учетных записей пользователей|Недоступно|Да|Да|
 |Многоязыковой пользовательский интерфейс|Да|Да|Да|
@@ -318,7 +315,7 @@ Office 365 Германия соответствует стандартам Clou
 |Volume activation (KMS/MAK)|Да|Да|Нет<sup>10</sup>|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения работают не только в Центрах обработки данных в Германии, но могут также предоставлять пользователю доступ к веб-службам, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
+> <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить доступ к интерактивным службам пользователей, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
 <sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> функции архивации и соответствия поддерживаются в этой версии Office, но в планах Exchange Online и SharePoint Online они не включены и должны быть приобретены отдельно или использоваться с поддерживаемыми локальными эквивалентами серверов.<br/> <sup>4</sup> служба Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/> <sup>5</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
 <sup>6</sup> если у вас есть Office профессиональный плюс 2013 или отдельная версия Excel 2013, вы можете скачать и использовать [Предварительный просмотр Power Map для Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) в качестве неподдерживаемой надстройки.<br/>
@@ -329,9 +326,8 @@ Office 365 Германия соответствует стандартам Clou
 <sup>11</sup> недоступно для Office 365 Германии, но скоро.
 
 ## <a name="office-for-the-web-features"></a>Office для веб-компонентов
-<a name="BM1_Platform"> </a>
 
-В следующей таблице приведены ссылки на сравнение Office для возможностей веб-функций, доступных в Office 365, в Германии и полнофункциональных приложениях Microsoft Office для настольных ПК. Используйте сравнения, чтобы определить, какие функции доступны в Office для Интернета, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другим — только для просмотра и облегченного редактирования документов Word и презентаций PowerPoint в Office для Интернета.
+В следующей таблице приведены ссылки на сравнение Office для возможностей веб-функций, доступных в Office 365, в Германии и полнофункциональных приложениях Microsoft Office для настольных ПК. Используйте сравнения, чтобы определить, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другим — только для просмотра и облегченного редактирования документов Word и презентаций PowerPoint в Office для Интернета.
 
 > [!NOTE]
 > - Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблица не является исчерпывающим списком функций Microsoft Office. <br/>
@@ -341,14 +337,13 @@ Office 365 Германия соответствует стандартам Clou
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
-|Word|Word для Интернета|[Word](../office-online-service-description/office-online-service-description.md#word)|
-|Excel|Excel для Интернета|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
-|OneNote|OneNote для Интернета|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
-|PowerPoint|PowerPoint для Интернета|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
+|**Приложение**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
+|Word|Word в Интернете|[Word](../office-online-service-description/office-online-service-description.md#word)|
+|Excel|Excel в Интернете|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
+|OneNote|OneNote в Интернете|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
+|PowerPoint|PowerPoint в Интернете|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
 
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
-<a name="BM1_Platform"> </a>
 
 В таблице ниже перечислены функции Exchange Online, доступные в планах Office 365: Germany.
 
@@ -356,16 +351,16 @@ Office 365 Германия соответствует стандартам Clou
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Функция**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |**[Планирование и развертывание](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
-|Поддерживаемое гибридное развертывание<sup>1</sup>|Да,<sup>2</sup>|Да|Да,<sup>2</sup>|Да|Да|Да|Да|Да|
+|Поддерживаемое гибридное развертывание<sup>1</sup>|Да<sup>2</sup>|Да|Да<sup>2</sup>|Да|Да|Да|Да|Да|
 |Поддерживается миграция IMAP|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка прямой миграции|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддерживается поэтапная миграция|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Разрешения](../exchange-online-service-description/permissions.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
-|Политики назначения роли|Да|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика обмена сообщениями и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Архивирование почтовых ящиков на основе сервера Exchange Online|Да|Да|Да|Да|Да|Да|Да|Нет|
+|Политики назначения ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
+|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Нет|Нет|Да|Да|Да|Да|Нет|
 |Теги хранения и политики хранения|Да|Да|Да|Да|Да|Да|Да|Да|
 |Шифрование статических данных (BitLocker)|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -380,24 +375,24 @@ Office 365 Германия соответствует стандартам Clou
 |Ведение журнала|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Защита от нежелательной почты и вредоносных программ](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Встроенная защита от нежелательной почты|Да|Да|Да|Да|Да|Да|Да|Да|
-|Настройка политик защиты от нежелательной почты|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
+|Customize anti-spam policies|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Встроенная защита от вредоносных программ|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|
-|Настройка политик защиты от вредоносных программ|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
+|Customize anti-malware policies|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Поток почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Пользовательская маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
-|Безопасный обмен сообщениями с доверенным партнером|Да|Да|Да|Да|Да|Да|Да|Да|
-|Условная маршрутизация почты|Да|Да|Да|Да|Да|Да|Да|Да|
-|Добавление партнера в список безопасных входящих сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
-|Маршрутизация гибридной почты|Да,<sup>2</sup>|--|Да,<sup>2</sup>|Да|Да|Да|Да|Да|
+|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
+|Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
+|Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|Да|
+|Добавление партнера в список входящих безопасных надежных отправителей|Да|Да|Да|Да|Да|Да|Да|Да|
+|Маршрутизация почты в гибридной конфигурации|Да<sup>2</sup>|--|Да<sup>2</sup>|Да|Да|Да|Да|Да|
 |**[Получатели](../exchange-online-service-description/recipients.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Оповещения о емкости|Да|Да|Да|Да|Да|Да|Да|Да|
+|Оповещения о доступном объеме|Да|Да|Да|Да|Да|Да|Да|Да|
 |Несрочные<sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Подсказки|Да|Да|Да|Да|Да|Да|Да|Да|
 |Делегированный доступ|Да|Да|Да|Да|Да|Да|Да|Нет|
-|Правила для папки «Входящие»|Да|Да|Да|Да|Да|Да|Да|Нет|
+|Правила для папки "Входящие"|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Подключенные учетные записи|Да|Да|Да|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
 |Неактивные почтовые ящики|Нет<sup>11</sup>|--|Нет<sup>11</sup>|Да|Нет<sup>11</sup>|Да|Да|Нет<sup>11</sup>|
 |Автономная адресная книга|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -406,17 +401,17 @@ Office 365 Германия соответствует стандартам Clou
 |Списки адресов и глобальный список адресов|Да|Да|Да|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
 |Группы Office 365|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Группы рассылки|Да|Да|Да|Да|Да|Да|Да|Да|
-|Внешние контакты (глобальные)|Да|Да|Да|Да|Да|Да|Да|Да|
+|Внешние контакты (глобальный список)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Универсальная карточка контакта|Да|Да|Да|Да|Да|Да|Да|Да|
 |Связывание контактов с социальными сетями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Почтовые ящики ресурса|Да|Да|Да|Да|Да|Да|Да|Да|
 |Управление конференц-залами|Да|Да|Да|Да|Да|Да|Да|Да|
-|Сведения об отсутствии на работе|Да|Да|Да|Да|Да|Да|Да|Да|
-|Предоставление общего доступа к календарю|Да|Да|Да|Да|Да|Да|Да|Да|
+|Ответы об отсутствии на работе|Да|Да|Да|Да|Да|Да|Да|Да|
+|Общий доступ к календарю|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Функции создания отчетов и средства устранения неполадок](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Отчеты центра администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Да|Да|
 |Отчеты веб-служб|Да|Да|Да|Да|Да|Да|Да|Да|
-|Трассировка сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
+|Message trace|Да|Да|Да|Да|Да|Да|Да|Да|
 |Отчеты аудита|Да|Да|Да|Да|Да|Да|Да|Да <sup>5</sup>|
 |Отчеты единой системы обмена сообщениями|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
 |**[Общий доступ и совместная работа](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
@@ -434,10 +429,10 @@ Office 365 Германия соответствует стандартам Clou
 |Outlook для Mac|Да|Да|Да|Да|Да|Да|Да| Нет|
 |**[Службы голосовых сообщений](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Голосовая почта|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
-|Объединение голосовой почты и стороннего факса|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
+|Интеграция голосовой почты и стороннего ФАКСа|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
 |Взаимодействие со сторонней голосовой почтой|Да|Да|Да|Да|Да|Да|Да|Да|
-|Интеграция Skype для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Высокая доступность и непрерывность бизнес-процессов](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|Интеграция со Skype для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да|
+|**[Высокая доступность и непрерывность бизнеса](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Репликация почтовых ящиков в центрах обработки данных|Да|Да|Да|Да|Да|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -445,7 +440,7 @@ Office 365 Германия соответствует стандартам Clou
 |**[Взаимодействие, связь и совместимость](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Присутствие Skype для бизнеса в OWA<sup>3</sup> и Outlook|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Взаимодействие с SharePoint|Да|Да|Да|Да|Да|Да|Да|Да|
-|Поддержка связи с EWS|Да|Да|Да|Да|Да|Да|Да|Да|
+|Поддержка подключения EWS|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Установка и администрирование Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Доступ к порталу Microsoft Office 365|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -453,8 +448,8 @@ Office 365 Германия соответствует стандартам Clou
 |Доступ к Центру администрирования Exchange|Да|Да|Да|Да|Да|Да|Да|Да|
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|Да|Да|Да|
-|Создание отчетов об использовании|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|Отчеты об использовании|Да|Да|Да|Да|Да|Да|Да|Да|
+|**[Расширение настройки службы, надстроек и ресурсов](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Надстройки Outlook и Outlook MAPI|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Нет|
 
 > [!NOTE]
@@ -474,15 +469,14 @@ Office 365 Германия соответствует стандартам Clou
 <sup>16</sup> некоторые сторонние веб-части и надстройки могут быть недоступны.
 
 ## <a name="exchange-online-protection-features"></a>Функции Exchange Online Protection
-<a name="BM1_Platform"> </a>
 
-В таблице ниже перечислены функции Exchange Online Protection (EOP), доступные в планах Office 365: Germany. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Когда упоминается Exchange Online, обычно имеется в виду семейство служб Office 365: корпоративный.
+В таблице ниже перечислены функции Exchange Online Protection (EOP), доступные в планах Office 365: Germany. Для получения более подробных сведений о функциях EOP выберите ссылки в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Функция**|**Изолированная EOP**|**Функции EOP в Exchange Online**|**Клиентская лицензия Exchange Enterprise CAL со службами**|
 |[Получатели почты](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|Да|
-|[Разрешения для группы ролей администраторов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Да,<sup>2</sup>|Да|Да|
+|[Разрешения для группы ролей администраторов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|Да|
 |[Управление доменами](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Да,<sup>3</sup>|Да|Да,<sup>3</sup>|
 |[Соответствующие поддомены](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|Да|Да|Нет|
 |[Пограничная блокировка на основе каталогов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Да|Да|Да|
@@ -511,7 +505,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Трассировка сообщений](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|Да<sup>15</sup>|Да<sup>15</sup>|Да|
 |[Доступ к центру администрирования Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Да|Да|Да|
 |[Доступ в Центр администрирования Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)|Да|Да|Да|
-|[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|Да,<sup>2</sup>|Да|Да|
+|[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|Да<sup>2</sup>|Да|Да|
 
 > [!NOTE]
 > <sup>1</sup> почтовые пользователи определены как "почтовые ящики", а вместе с внешними почтовыми контактами можно добавлять, удалять и иным образом управлять непосредственно в центре администрирования Exchange.<br/>
@@ -534,9 +528,8 @@ Office 365 Германия соответствует стандартам Clou
 <sup>18</sup> доступно как дополнительный компонент для Office 365 Германия.
 
 ## <a name="exchange-online-advanced-threat-protection-features"></a>Функции Exchange Online Advanced Threat Protection
-<a name="BM1_Platform"> </a>
 
-В следующей таблице перечислены функции Exchange Online Advanced Threat Protection, доступные в планах Office 365: Germany. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Когда упоминается Exchange Online, обычно имеется в виду семейство служб Office 365 корпоративный.
+В следующей таблице перечислены функции Exchange Online Advanced Threat Protection, доступные в планах Office 365: Germany. Для получения более подробных сведений о функциях EOP выберите ссылки в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.
 
 |**Функция**|**Отдельная служба ATP**|**Функции ATP в Exchange Online**|
 |:-----|:-----|:-----|
@@ -544,7 +537,6 @@ Office 365 Германия соответствует стандартам Clou
 |Безопасные вложения|Да|Да|
 
 ## <a name="onedrive-for-business-features"></a>Функции OneDrive для бизнеса
-<a name="BM1_Platform"> </a>
 
 В следующей таблице перечислены функции отдельного плана OneDrive для бизнеса и SharePoint Online, доступные в планах Office 365: Germany.
 
@@ -559,28 +551,28 @@ Office 365 Германия соответствует стандартам Clou
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|
 |[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services)|Да|Да|Да|Да|
-|BCS: Alerts for External Lists|Нет|Нет|Нет|ДА|
-|[BCS: Внешние типы контента (ECT) из области приложений](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|ДА|
+|BCS: оповещения для внешних списков|Нет|Нет|Нет|ДА|
+|[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|ДА|
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|ДА|
-|[BCS: Внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list)|Нет|Нет|Нет|ДА|
+|[BCS: внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list)|Нет|Нет|Нет|ДА|
 |[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Нет|Нет|Нет|ДА|
-|BCS: Profile Pages|Нет|Нет|Нет|Нет|
-|[BCS: Расширенная интеграция клиента](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Нет|Нет|Нет|Нет|
+|BCS: страницы профилей|Нет|Нет|Нет|Нет|
+|[BCS: Расширенная интеграция клиентов](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Нет|Нет|Нет|Нет|
 |BCS: Secure Store Service|Нет|Нет|Нет|ДА|
 |BCS: Tenant-level external data log|Нет|Нет|Нет|ДА|
 |Browser-based customizations|Да|Да|Да|Да|
 |[Клиентская объектная модель (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|Да|Да|Да|Да|
 |Client-side rendering (CSR)|Да|Да|Да|Да|
-|Custom Site Definitions|Нет|Нет|Нет|Нет|
+|настраиваемые определения сайтов;|Нет|Нет|Нет|Нет|
 |[Страница подготовки настраиваемого сайта](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Нет|Нет|Нет|Нет|
 |[Сайт разработчика](../sharepoint-online-service-description/developer.md#developer-site)|Нет|Нет|Да|Да|
 |[Приложения на основе форм](../sharepoint-online-service-description/developer.md#forms-based-applications)|Нет|Нет|Да|Да|
 |[Решения с полным доверием](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Нет|Нет|Нет|Нет|
 |[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Да|
 |[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Да|Да|Да|Да|
-|List and Library APIs|Да|Да|Да|Да|
+|API списков и библиотек|Да|Да|Да|Да|
 |[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Нет|Нет|Да|Да|
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|Да|Да|Да|Да|
+|[Интерфейсы REST API](../sharepoint-online-service-description/developer.md#rest-apis)|Да|Да|Да|Да|
 |[Дизайнер SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Нет|Нет|Да|Да|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Нет|Нет|Да|Да|
 |SharePoint Sharepoint2<sup>2</sup>|Да|Да|Да|Да|
@@ -592,64 +584,64 @@ Office 365 Германия соответствует стандартам Clou
 |Workload API: Social APIs|Нет|Нет|Да|Да|
 |**Функции для ИТ-специалистов**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
 |[Синхронизация Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|Да|Да|Да|Да|
-|[Альтернативное сопоставление доступа](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Нет|Нет|Нет|Нет|
-|Analytics Platform|Нет|Нет|Да|Да|
+|[Альтернативное сопоставление доступа (альтернативное сопоставление доступа)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Нет|Нет|Нет|Нет|
+|Платформа аналитики|Нет|Нет|Да|Да|
 |[Защита от вредоносных программ](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Да|Да|Да|Да|
-|[Поддержка проверки подлинности, основанной на утверждениях](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Нет|Нет|Нет|Нет|
-|Configuration Wizards|Нет|Нет|Нет|Нет|
+|[Поддержка проверки подлинности на основе утверждений](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Нет|Нет|Нет|Нет|
+|Мастера настройки|Нет|Нет|Нет|Нет|
 |[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Нет|Да|Нет|Да|
-|Deferred Site Collection upgrade|Да|Да|Да|Да|
-|Distributed Cache|Нет|Нет|Нет|Нет|
+|Отложенное обновление семейства сайтов|Да|Да|Да|Да|
+|Распределенный кэш|Нет|Нет|Нет|Нет|
 |[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Да|Да|Да|Да|
-|[Семейства веб-сайтов заголовка узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Нет|Нет|Нет|Нет|
-|Improved Permissions Management|Да|Да|Да|Да|
-|Improved Self-Service Site Creation|Нет|Нет|Нет|Нет|
-|Managed Accounts|Нет|Нет|Нет|Нет|
+|[Семейства веб-сайтов с заголовком узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Нет|Нет|Нет|Нет|
+|Улучшенное управление разрешениями|Да|Да|Да|Да|
+|Улучшенное самостоятельное создание сайтов|Нет|Нет|Нет|Нет|
+|Управляемые учетные записи|Нет|Нет|Нет|Нет|
 |Minimal Download Strategy (MDS)|Да|Да|Да|Да|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Да|Да|Да|Да|
 |[Управление исправлениями](../sharepoint-online-service-description/it-professional.md#patch-management)|Нет|Нет|Нет|Нет|
 |[Шаблоны квот](../sharepoint-online-service-description/it-professional.md#quota-templates)|Нет|Нет|Нет|Нет|
-|[Поддержка баз данных, доступных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Нет|Нет|Нет|Нет|
-|[Удаленное хранилище больших двоичных объектов](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Нет|Нет|Нет|Нет|
+|[Поддержка баз данных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Нет|Нет|Нет|Нет|
+|[Удаленное хранилище BLOB-объектов.](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Нет|Нет|Нет|Нет|
 |[Управление запросами](../sharepoint-online-service-description/it-professional.md#request-management)|Нет|Нет|Нет|Нет|
 |Request throttling|Нет|Нет|Нет|Нет|
 |[Регулирование ресурсов](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Нет|Нет|Нет|Нет|
-|[Платформа приложений службы](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Нет|Нет|Да|Да|
+|[Платформа приложения службы](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Нет|Нет|Да|Да|
 |[Анализатор работоспособности SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Нет|Нет|Нет|Нет|
 |[Центр администрирования SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Да|Да|Да|Да|
 |Shredded Storage|Да|Да|Да|Да|
 |[Политики соответствия семейств веб-сайтов](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Да|Да|Да|Да|
-|Site Collection Health Checks|Да|Да|Да|Да|
-|State Service|Нет|Нет|Нет|Нет|
-|Streamlined Central Administration|Нет|Нет|Нет|Нет|
-|System Status Notifications|Нет|Нет|Нет|Нет|
-|Unattached Content Database Recovery|Нет|Нет|Нет|Нет|
+|Проверки работоспособности семейств веб-сайтов|Да|Да|Да|Да|
+|Служба состояний|Нет|Нет|Нет|Нет|
+|Усовершенствованный центр администрирования|Нет|Нет|Нет|Нет|
+|Уведомления о состоянии системы|Нет|Нет|Нет|Нет|
+|Восстановление неприсоединенной базы данных контента|Нет|Нет|Нет|Нет|
 |Upgrade evaluation site collections|Нет|Нет|Да|Да|
-|[Отчеты и ведение журнала об использовании](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Нет|Нет|Нет|Нет|
+|[Отчеты об использовании и ведение журнала](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Нет|Нет|Нет|Нет|
 |[Поддержка Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Да|Да|Да|Да|
 |**Возможности работы с контентом**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
 |[Поддержка стандартов специальных возможностей](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Да|Да|Да|Да|
-|[Поддержка видео и улучшения библиотеки активов](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Да|Да|Да|Да|
+|[Расширения библиотеки активов и поддержка видео](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Да|Да|Да|Да|
 |[Аудит](../sharepoint-online-service-description/content.md#auditing)|Да|Да|Да|Да|
-|[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Да|Да|Да|Да|
+|[Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Да|Да|Да|Да|
 |[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer)|Нет|Нет|Да|Да|
 |[Дизайнер](../sharepoint-online-service-description/content.md#design-manager)|Нет|Нет|Да|Да|
 |[Наборы документов](../sharepoint-online-service-description/content.md#document-sets)|Да|Да|Да|Да|
 |[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Да|Да|Да|Да|
 |[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search)|Да|Да|Да|Да|
-|[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold)|Нет|Да|Нет|Да|
-|[Экспорт электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export)|Нет|Да|Нет|Да|
-|Email enabled lists and libraries|Нет|Нет|Нет|Нет|
+|[удержание eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold)|Нет|Да|Нет|Да|
+|[Экспорт при обнаружении электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export)|Нет|Да|Нет|Да|
+|Списки и библиотеки с поддержкой электронной почты|Нет|Нет|Нет|Нет|
 |[Внешний общий доступ: внешний доступ](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Нет|Нет|Нет|Нет|
-|[Внешний общий доступ: гостевые ссылки](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Нет|Нет|Нет|Нет|
+|[Внешний общий доступ: Гостевая ссылка](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Нет|Нет|Нет|Нет|
 |[Синхронизация папок](../sharepoint-online-service-description/content.md#folder-sync)|Да|Да|Да|Да|
 |Гибридный аудит|Нет|Нет|Нет|Нет|
-|Типы гибридной таксономии и гибридного контента|Да|Да|Да|Да|
+|Гибридная Таксономия и типы контента|Да|Да|Да|Да|
 |[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)<sup>1</sup>|Нет|Нет|Нет|Нет|
 |[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Нет|Нет|Нет|Нет|
 |[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service)|Нет|Нет|Да|Да|
 |[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Нет|Нет|Да|Да|
-|[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Да|Да|Да|Да|
+|[Расстановка с несколькими стадиями](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Да|Да|Да|Да|
 |[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Да|Да|Нет|Нет|
 |[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Да|Да|Да|Да|
 |[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration)|Нет|Нет|Нет|Нет|
@@ -659,8 +651,8 @@ Office 365 Германия соответствует стандартам Clou
 |[Управление записями](../sharepoint-online-service-description/content.md#records-management)|Нет|Нет|Да|Да|
 |[Корзина (Центр администрирования SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|Да|Да|Да|Да|
 |[Корзина (семейства веб-сайтов)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Да|Да|Да|Да|
-|Related Items|Нет|Нет|Да|Да|
-|Rich Media Management|Нет|Нет|Да|Да|
+|Связанные элементы|Нет|Нет|Да|Да|
+|Богатые возможности управления мультимедиа|Нет|Нет|Да|Да|
 |[Общие типы контента](../sharepoint-online-service-description/content.md#shared-content-types)|Да|Да|Да|Да|
 |[Службы перевода SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Нет|Нет|Да|Да|
 |Опросы|Да|Да|Да|Да|
@@ -670,13 +662,13 @@ Office 365 Германия соответствует стандартам Clou
 |[Каталог](../sharepoint-online-service-description/content.md#catalog)|Нет|Нет|Нет|Да|
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Нет|Нет|Нет|Да|
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts)|Нет|Нет|Нет|Да|
-|[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing)|Нет|Нет|Нет|Да|
-|WCM: Designer Tools|Нет|Нет|Да|Да|
+|[Публикация на нескольких- сайтах.](../sharepoint-online-service-description/content.md#cross-site-publishing)|Нет|Нет|Нет|Да|
+|WCM: инструменты конструктора|Нет|Нет|Да|Да|
 |[Аспектная Навигация](../sharepoint-online-service-description/content.md#faceted-navigation)|Нет|Нет|Нет|Нет|
 |[Представления изображений](../sharepoint-online-service-description/content.md#image-renditions)|Нет|Нет|Да|Да|
 |WCM: Managed navigation|Нет|Нет|Да|Да|
-|WCM: Mobile and Device Rendering|Нет|Нет|Да|Да|
-|WCM: Multiple Domains|Нет|Нет|Нет|Нет|
+|WCM: Визуализация на мобильных устройствах и устройствах|Нет|Нет|Да|Да|
+|WCM: несколько доменов|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Нет|Нет|Да|Да|
 |[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Нет|Нет|Да|Да|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|
@@ -686,9 +678,9 @@ Office 365 Германия соответствует стандартам Clou
 |[Библиотека подключений к данным](../sharepoint-online-service-description/insights.md#data-connection-library)|Нет|Нет|Нет|Да|
 |[Разъединенные сводные таблицы и диаграммы](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Нет|Нет|Нет|Да|
 |[Службы Excel](../sharepoint-online-service-description/insights.md#excel-services)|Нет|Нет|Нет|Да|
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Нет|Нет|Нет|Да|
-|[Улучшения фильтров](../sharepoint-online-service-description/insights.md#filter-enhancements)|Нет|Нет|Нет|Да|
-|[Поиск фильтров](../sharepoint-online-service-description/insights.md#filter-search)|Нет|Нет|Нет|Да|
+|[Поддержка списка полей и полей](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Нет|Нет|Нет|Да|
+|[Улучшенные фильтры](../sharepoint-online-service-description/insights.md#filter-enhancements)|Нет|Нет|Нет|Да|
+|[Фильтрация поиска](../sharepoint-online-service-description/insights.md#filter-search)|Нет|Нет|Нет|Да|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Нет|Нет|Нет|Нет|
 |PerformancePoint Services (PPS) Dashboard Migration|Нет|Нет|Нет|Нет|
 |[Power View для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|Нет|Нет|Нет|Да|
@@ -700,12 +692,12 @@ Office 365 Германия соответствует стандартам Clou
 |[Visio для веб-сайта](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup>|Да|Да|Да|Да|
 |[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services)<sup>4</sup>|Нет|Нет|Нет|Нет|
 |**Возможности поиска**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
-|Advanced Content Processing|Нет|Нет|Нет|Нет|
+|Расширенная обработка контента|Нет|Нет|Нет|Нет|
 |[Непрерывные обходы контента](../sharepoint-online-service-description/search.md#continuous-crawls)|Да|Да|Да|Да|
 |Custom entity extraction|Нет|Нет|Нет|Нет|
 |[Прямые ссылки](../sharepoint-online-service-description/search.md#deep-links)|Да|Да|Да|Да|
 |[Релевантность на основе событий](../sharepoint-online-service-description/search.md#event-based-relevancy)|Да|Да|Да|Да|
-|[Поиск специалистов](../sharepoint-online-service-description/search.md#expertise-search)|Да|Да|Да|Да|
+|[Поиск в навыках](../sharepoint-online-service-description/search.md#expertise-search)|Да|Да|Да|Да|
 |Extensible content processing|Нет|Нет|Нет|Нет|
 |[Графические уточнители](../sharepoint-online-service-description/search.md#graphical-refiners)|Да|Да|Да|Да|
 |[Гибридный поиск](../sharepoint-online-service-description/search.md#hybrid-search)|Да|Да|Да|Да|
@@ -718,7 +710,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Предложения запросов](../sharepoint-online-service-description/search.md#query-suggestions)|Нет|Нет|Да|Да|
 |Query throttling|Нет|Нет|Да|Да|
 |[Предварительный просмотр при наведении](../sharepoint-online-service-description/search.md#on-hover-preview)|Да|Да|Да|Да|
-|[Модели ранжирования](../sharepoint-online-service-description/search.md#ranking-models)|Нет|Да|Да,<sup>2</sup>|Да,<sup>2</sup>|
+|[Модели ранжирования](../sharepoint-online-service-description/search.md#ranking-models)|Нет|Да|Да<sup>2</sup>|Да<sup>2</sup>|
 |[Уточнители](../sharepoint-online-service-description/search.md#refiners)|Да|Да|Да|Да|
 |[API запросов RESTful и объектная модель запросов](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|Да|Да|Да|Да|
 |Result sources|Да|Да|Да|Да|
@@ -734,11 +726,11 @@ Office 365 Германия соответствует стандартам Clou
 |[Поддержка различных браузеров](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Да|Да|Да|Да|
 |[Настраиваемые управляемые пути](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Нет|Нет|Нет|Нет|
 |[Управление](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Да|Да|Да|Да|
-|Гибридное средство запуска приложений|Да|Да|Да|Да|
-|Гибридный OneDrive для бизнеса и гибридные сайты|Да|Да|Да|Да|
-|[Масштабируемость и управляемость крупных списков](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|
-|[Мобильная связь](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Да,<sup>3</sup>|Да,<sup>3</sup>|Да|Да|
-|[Многоязычный пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да|Да|Да|Да|
+|Средство запуска гибридных приложений|Да|Да|Да|Да|
+|Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|
+|[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|
+|[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Да,<sup>3</sup>|Да,<sup>3</sup>|Да|Да|
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да|Да|Да|Да|
 |My Tasks|Нет|Нет|Да|Да|
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Нет|Нет|Да|Да|
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|
@@ -747,12 +739,12 @@ Office 365 Германия соответствует стандартам Clou
 |Project Summary web part|Нет|Нет|Да|Да|
 |Project workspace|Нет|Нет|Да|Да|
 |[Списки SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Нет|Нет|Да|Да|
-|SharePoint Ribbon|Нет|Нет|Да|Да|
+|Лента SharePoint|Нет|Нет|Да|Да|
 |[Библиотеки документов](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Нет|Нет|Да|Да|
 |[Список задач](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Нет|Нет|Да|Да|
 |Team Site: Drag & Drop|Нет|Нет|Да|Да|
 |[Записная книжка группы](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Нет|Нет|Да|Да|
-|Team Site: Simplified Access|Нет|Нет|Да|Да|
+|Сайт группы: упрощенный доступ|Нет|Нет|Да|Да|
 |[Макеты сайтов](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Нет|Нет|Да|Да|
 |[Темы сайта (изменение внешнего вида)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Нет|Нет|Да|Да|
 |[страница "Использование сайта";](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Нет|Нет|Да|Да|
@@ -761,17 +753,17 @@ Office 365 Германия соответствует стандартам Clou
 |**Возможности для общения**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
 |Ask Me About|Да|Да|Да|Да|
 |[Личные блоги](../sharepoint-online-service-description/social.md#personal-blogs)|Нет|Нет|Да|Да|
-|Communities Reputation, Badging, and Moderation|Нет|Нет|Да|Да|
+|Репутация сообществ, награды и контроль|Нет|Нет|Да|Да|
 |[Сообщество](../sharepoint-online-service-description/social.md#community)|Нет|Нет|Да|Да|
 |[Веб-канал компании](../sharepoint-online-service-description/social.md#company-feed)|Нет|Нет|Да|Да|
-|Document Conversations with Yammer|Нет|Нет|Нет|Нет|
+|Беседы с документами в Yammer|Нет|Нет|Нет|Нет|
 |Подписаться|Да|Да|Да|Да|
 |Микроблоги|Нет|Нет|Да|Да|
 |Канал новостей|Нет|Нет|Да|Да|
-|One Click Sharing|Да|Да|Да|Да|
-|People, Sites, Document Recommendations|Нет|Нет|Да|Да|
-|Personal Site|Да|Да|Да|Да|
-|Photos and Presence|Да|Да|Да|Да|
+|Общий доступ с одним щелчком|Да|Да|Да|Да|
+|Люди, сайты, рекомендации по документам|Нет|Нет|Да|Да|
+|личный сайт;|Да|Да|Да|Да|
+|Фотографии и сведения о присутствии|Да|Да|Да|Да|
 |Профиль|Да|Да|Да|Да|
 |Оценки|Да|Да|Да|Да|
 |Shared with Me|Да|Да|Да|Да|
@@ -779,12 +771,12 @@ Office 365 Германия соответствует стандартам Clou
 |OneDrive для бизнеса|Да|Да|Да|Да|
 |Tag profiles|Нет|Нет|Да|Да|
 |Tasks integrated with Outlook|Да|Да|Да|Да|
-|Trending Tags|Нет|Нет|Да|Да|
+|Теги тенденции|Нет|Нет|Да|Да|
 |[Вики-сайты](../sharepoint-online-service-description/social.md#wikis)|Нет|Нет|Да|Да|
 |**Надстройки**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
 |[Дополнительное хранилище](../sharepoint-online-service-description/add-ons.md#additional-storage)|Нет|Нет|Нет|Нет|
-|[Приложения, подготовленные в Azure: Службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Да|Да|Да|Да|
-|[Приложения, подготовленные в Azure: пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Да|Да|Да|Да|
+|[Приложения, подготовленные в Azure: службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Да|Да|Да|Да|
+|[Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Да|Да|Да|Да|
 
 > [!NOTE]
 > <sup>1</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
@@ -793,7 +785,6 @@ Office 365 Германия соответствует стандартам Clou
 <sup>4</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.
 
 ## <a name="project-online-features"></a>Функции Project Online
-<a name="BM1_Platform"> </a>
 
 В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
@@ -801,11 +792,10 @@ Office 365 Германия соответствует стандартам Clou
 |:-----|:-----|:-----|
 |**План**|**Описание**|**Целевая аудитория**|
 |Project Online базовый| Веб-интерфейс для участников группы  <br/>  Обновление задач, проблем и рисков  <br/>  Отправка расписаний  <br/>  Общий доступ к документам и совместная работа со сведениями о присутствии в Skype для бизнеса|Участники групп|
-|Project Online профессиональный| Все функции Project Online базовый, а также:  <br/>  Полнофункциональный пользовательский интерфейс в клиенте для настольных ПК  <br/>  Доступ через веб-интерфейс где угодно и когда угодно  <br/>  Планирование и расчет себестоимости проектов  <br/>  Управление ресурсами  <br/>  Публикация проектов в облаке  <br/>  Включает последнюю версию классического приложения Project, которая мгновенно передается на компьютер с Windows.  <br/>  По каждой лицензии на подписку можно параллельно установить до пяти классических приложений Project.|Руководители проектов|
+|Project Online профессиональный| Все функции Project Online базовый, а также:  <br/>  Полнофункциональный пользовательский интерфейс в клиенте для настольных ПК  <br/>  Доступ к любой точке и повсеместному доступу через веб-интерфейс  <br/>  Планирование и расчет себестоимости проектов  <br/>  Управление ресурсами  <br/>  Публикация проектов в облаке  <br/>  Включает последнюю версию классического приложения Project, которая мгновенно передается на компьютер с Windows.  <br/>  По каждой лицензии на подписку можно параллельно установить до пяти классических приложений Project.|Руководители проектов|
 |Project Online расширенный| Все функции Project Online профессиональный, а также:  <br/>  Выбор и оптимизация портфеля  <br/>  Управление запросами  <br/>  Управление корпоративными ресурсами  <br/>  Встроенные отчеты о портфелях|Управляющие портфелями и ресурсами|
 
 ## <a name="sharepoint-online-features"></a>Функции SharePoint Online
-<a name="BM1_Platform"> </a>
 
 Все планы Office 365: включают службу SharePoint Online, но не все из них поддерживают все функции SharePoint. В следующей таблице перечислены функции, доступные в планах Office 365: Germany.
 
@@ -818,28 +808,28 @@ Office 365 Германия соответствует стандартам Clou
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services)|Да|Да|Да|Да|Да|Да|Да|Да|
-|BCS: Alerts for External Lists|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|[BCS: Внешние типы контента (ECT) из области приложений](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|BCS: оповещения для внешних списков|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|[BCS: Внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|[BCS: внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |BCS: Profile Pages|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[BCS: Расширенная интеграция клиента](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[BCS: Расширенная интеграция клиентов](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |BCS: Secure Store Service|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |BCS: Tenant-level external data log|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |Browser-based customizations|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Клиентская объектная модель (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Client-side rendering (CSR)|Да|Да|Да|Да|Да|Да|Да|Да|
-|Custom Site Definitions|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|настраиваемые определения сайтов;|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Страница подготовки настраиваемого сайта](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Сайт разработчика](../sharepoint-online-service-description/developer.md#developer-site)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Приложения на основе форм](../sharepoint-online-service-description/developer.md#forms-based-applications)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Решения с полным доверием](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Да<sup>17</sup>|НЕТ|Да<sup>17</sup>|Да<sup>17</sup>|НЕТ|
+|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Да<sup>17</sup>|НЕТ|Да<sup>17</sup>|Да<sup>17</sup>|Нет|
 |[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Да|Да|Да|Да|Да|Да|Да|Да|
-|List and Library APIs|Да|Да|Да|Да|Да|Да|Да|Да|
+|API списков и библиотек|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Интерфейсы REST API](../sharepoint-online-service-description/developer.md#rest-apis)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Дизайнер SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Магазин SharePoint2|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -851,64 +841,64 @@ Office 365 Германия соответствует стандартам Clou
 |Workload API: Social APIs|Да|Нет|Да|Да|Да|Да|Да|Да|
 |**Функции для ИТ-специалистов**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |[Синхронизация Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Альтернативное сопоставление доступа](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Альтернативное сопоставление доступа (альтернативное сопоставление доступа)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Analytics Platform|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Защита от вредоносных программ](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Поддержка проверки подлинности, основанной на утверждениях](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Configuration Wizards|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Поддержка проверки подлинности на основе утверждений](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Мастера настройки|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Data loss prevention|Да|Да|Да|Да|Да|Да|Да|Да|
-|Deferred Site Collection upgrade|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Отложенное обновление семейства сайтов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Семейства веб-сайтов заголовка узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Improved Permissions Management|Да|Да|Да|Да|Да|Да|Да|Да|
-|Improved Self-Service Site Creation|Нет|Нет|Да|Нет|Нет|Нет|Нет|Нет|
-|Managed Accounts|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Семейства веб-сайтов с заголовком узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Улучшенное управление разрешениями|Да|Да|Да|Да|Да|Да|Да|Да|
+|Улучшенное самостоятельное создание сайтов|Нет|Нет|Да|Нет|Нет|Нет|Нет|Нет|
+|Управляемые учетные записи|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Minimal Download Strategy (MDS)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|Да<sup>8</sup>|
 |[Управление исправлениями](../sharepoint-online-service-description/it-professional.md#patch-management)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Шаблоны квот](../sharepoint-online-service-description/it-professional.md#quota-templates)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Поддержка баз данных, доступных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Удаленное хранилище больших двоичных объектов](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Поддержка баз данных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Удаленное хранилище BLOB-объектов.](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Управление запросами](../sharepoint-online-service-description/it-professional.md#request-management)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Request throttling|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Регулирование ресурсов](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Платформа приложений службы](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Да|Нет|Да|Да|Да|Да|Да|Да|
+|[Платформа приложения службы](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Анализатор работоспособности SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Центр администрирования SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Да|Да|Да|Да|Да|Да|Да|Нет<sup>4</sup>|
 |Shredded Storage|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Политики соответствия семейств веб-сайтов](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Да|Да|Да|Да|Да|Да|Да|Да|
-|Site Collection Health Checks|Да|Да|Да|Да|Да|Да|Да|Да|
-|State Service|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Проверки работоспособности семейств веб-сайтов|Да|Да|Да|Да|Да|Да|Да|Да|
+|Служба состояний|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Streamlined Central Administration|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|System Status Notifications|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Unattached Content Database Recovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Уведомления о состоянии системы|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Восстановление неприсоединенной базы данных контента|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Upgrade evaluation site collections|Да|Нет|Да|Да|Да|Да|Да|Да|
-|[Отчеты и ведение журнала об использовании](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Отчеты об использовании и ведение журнала](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Поддержка Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Да|Да|Да|Да|Да|Да|Да|Да|
 |**Возможности работы с контентом**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |[Поддержка стандартов специальных возможностей](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Поддержка видео и улучшения библиотеки активов](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Расширения библиотеки активов и поддержка видео](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Аудит](../sharepoint-online-service-description/content.md#auditing)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Дизайнер](../sharepoint-online-service-description/content.md#design-manager)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Наборы документов](../sharepoint-online-service-description/content.md#document-sets)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search)|Да,<sup>6</sup>|Да|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|
-|[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
-|[Экспорт электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
-|Email enabled lists and libraries|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[удержание eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
+|[Экспорт при обнаружении электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
+|Списки и библиотеки с поддержкой электронной почты|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Внешний общий доступ: внешний доступ](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|
-|[Внешний общий доступ: гостевые ссылки](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|
+|[Внешний общий доступ: Гостевая ссылка](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|Нет<sup>9</sup>|
 |[Синхронизация папок](../sharepoint-online-service-description/content.md#folder-sync)|Да<sup>, 1, 10</sup>|Да|Да<sup>1, 9</sup>|Да<sup>1, 9</sup>|Да<sup>1</sup>|Да|Да|Да<sup>2, 10</sup>|
 |Гибридный аудит|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Типы гибридной таксономии и гибридного контента|Да|Да|Да|Да|Да|Да|Да|Да<sup>20</sup>|
+|Гибридная Таксономия и типы контента|Да|Да|Да|Да|Да|Да|Да|Да<sup>20</sup>|
 |[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Нет<sup>3</sup>|Нет|Нет<sup>3</sup>|Да|Нет<sup>3</sup>|Да|Да|Нет<sup>3, 4</sup>|
 |[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Расстановка с несколькими стадиями](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Да|Да|Да|Да|Да|Да|Да|Да,<sup>16</sup>|
 |[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Office профессиональный плюс (Osub)|Нет|Да|Нет|Нет|Нет|Да|Да|Нет|
@@ -919,8 +909,8 @@ Office 365 Германия соответствует стандартам Clou
 |[Управление записями](../sharepoint-online-service-description/content.md#records-management)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Корзина (Центр администрирования SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|Да|Да|Да|Да|Да|Да|Да|Нет|
 |[Корзина (семейства веб-сайтов)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Да|Да|Да|Да|Да|Да|Да|Нет|
-|Related Items|Да|Нет|Да|Да|Да|Да|Да|Да|
-|Rich Media Management|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Связанные элементы|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Богатые возможности управления мультимедиа|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Общие типы контента](../sharepoint-online-service-description/content.md#shared-content-types)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Службы перевода SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Опросы|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -930,13 +920,13 @@ Office 365 Германия соответствует стандартам Clou
 |[Каталог](../sharepoint-online-service-description/content.md#catalog)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|[Публикация на нескольких сайтах](../sharepoint-online-service-description/content.md#cross-site-publishing)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|WCM: Designer Tools|Да|Нет|Да|Да|Да|Да|Да|Да|
+|[Публикация на нескольких- сайтах.](../sharepoint-online-service-description/content.md#cross-site-publishing)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|WCM: инструменты конструктора|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Аспектная Навигация](../sharepoint-online-service-description/content.md#faceted-navigation)|Нет|Нет|Нет|Нет|Нет|Да<sup>7</sup>|Да<sup>7</sup>|Нет|
 |[Представления изображений](../sharepoint-online-service-description/content.md#image-renditions)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |WCM: Managed navigation|Да|Нет|Да|Да|Да|Да|Да|Да|
-|WCM: Mobile and Device Rendering|Да|Нет|Да|Да|Да|Да|Да|Да|
-|WCM: Multiple Domains|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|WCM: Визуализация на мобильных устройствах и устройствах|Да|Нет|Да|Да|Да|Да|Да|Да|
+|WCM: несколько доменов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -946,20 +936,20 @@ Office 365 Германия соответствует стандартам Clou
 |[Библиотека подключений к данным](../sharepoint-online-service-description/insights.md#data-connection-library)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Разъединенные сводные таблицы и диаграммы](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |Службы Excel|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|[Улучшения фильтров](../sharepoint-online-service-description/insights.md#filter-enhancements)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|[Поиск фильтров](../sharepoint-online-service-description/insights.md#filter-search)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|[Поддержка списка полей и полей](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|[Улучшенные фильтры](../sharepoint-online-service-description/insights.md#filter-enhancements)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
+|[Фильтрация поиска](../sharepoint-online-service-description/insights.md#filter-search)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |PerformancePoint Services (PPS) Dashboard Migration|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Power BI|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Power View для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Power Pivot для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Экспресс-тенденции](../sharepoint-online-service-description/insights.md#quick-explore)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
-|Scorecards & Dashboards|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Системы показателей & панели мониторинга|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-web-part)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[Работа с книгами Excel, содержащими модели данных](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Visio для Интернета](https://technet.microsoft.com/library/mt827475.aspx)<sup>18</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Visio для Интернета](../visio-online-service-description/visio-online-service-description.md)<sup>18</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Возможности поиска**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Advanced Content Processing|Да|Нет|Да|Да|Да|Да|Да|Да|
@@ -967,7 +957,7 @@ Office 365 Германия соответствует стандартам Clou
 |Custom entity extraction|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Прямые ссылки](../sharepoint-online-service-description/search.md#deep-links)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Релевантность на основе событий](../sharepoint-online-service-description/search.md#event-based-relevancy)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Поиск специалистов](../sharepoint-online-service-description/search.md#expertise-search)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Поиск в навыках](../sharepoint-online-service-description/search.md#expertise-search)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Extensible content processing|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Графические уточнители](../sharepoint-online-service-description/search.md#graphical-refiners)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Гибридный поиск](../sharepoint-online-service-description/search.md#hybrid-search)|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -996,11 +986,11 @@ Office 365 Германия соответствует стандартам Clou
 |[Поддержка различных браузеров](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Настраиваемые управляемые пути](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Управление](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Да|Да|Да|Да|Да|Да|Да|Да|
-|Гибридное средство запуска приложений|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
-|Гибридный OneDrive для бизнеса и гибридные сайты|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
-|[Масштабируемость и управляемость крупных списков](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Мобильная связь](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Нет|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|
-|[Многоязычный пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
+|Средство запуска гибридных приложений|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
+|Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
+|[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Нет|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
 |My Tasks|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -1009,12 +999,12 @@ Office 365 Германия соответствует стандартам Clou
 |Project Summary web part|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Project workspace|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Списки SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|SharePoint Ribbon|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Лента SharePoint|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Библиотеки документов](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Список задач](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|Team Site: Drag & Drop|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Сайт группы: перетаскивание & перетаскивания|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Записная книжка группы](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|Team Site: Simplified Access|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Сайт группы: упрощенный доступ|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Макеты сайтов](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Темы сайта (изменение внешнего вида)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[страница "Использование сайта";](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Да|Нет|Да|Да|Да|Да|Да|Да|
@@ -1023,31 +1013,31 @@ Office 365 Германия соответствует стандартам Clou
 |**Возможности для общения**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Ask Me About|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Личные блоги|Да,<sup>13</sup>|Нет|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
-|Communities Reputation, Badging, and Moderation|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет<sup>14</sup>|
+|Репутация сообществ, награды и контроль|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет<sup>14</sup>|
 |[Сообщество](../sharepoint-online-service-description/social.md#community)|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет|
 |[Веб-канал компании](../sharepoint-online-service-description/social.md#company-feed)|Да|Нет|Да|Да|Да|Да|Да|Нет|
-|Document Conversations with Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Беседы с документами в Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Подписаться|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Микроблоги|Да|Нет|Да|Да|Да|Да|Да|Нет|
 |Канал новостей|Да|Нет|Да|Да|Да|Да|Да|Нет|
-|One Click Sharing|Да|Да|Да|Да|Да|Да|Да|Нет|
-|People, Sites, Document Recommendations|Да|Нет|Да|Да|Да|Да|Да|Да|
-|Personal Site|Да|Да|Да|Да|Да|Да|Да|Нет|
-|Photos and Presence|Да|Да|Да|Да|Да|Да|Да|Да|
+|Общий доступ с одним щелчком|Да|Да|Да|Да|Да|Да|Да|Нет|
+|Люди, сайты, рекомендации по документам|Да|Нет|Да|Да|Да|Да|Да|Да|
+|личный сайт;|Да|Да|Да|Да|Да|Да|Да|Нет|
+|Фотографии и сведения о присутствии|Да|Да|Да|Да|Да|Да|Да|Да|
 |Профиль|Да|Да|Да|Да|Да|Да|Да|Да|
 |Оценки|Да|Да|Да|Да|Да|Да|Да|Да|
 |Shared with Me|Да|Да|Да|Да|Да|Да|Да|Нет|
 |[Веб-канал сайта (классический сайт группы с использованием SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да,<sup>2</sup>|
+|OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да<sup>2</sup>|
 |Tag profiles|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Tasks integrated with Outlook|Да|Да|Да|Да|Да|Да|Да|Нет|
-|Trending Tags|Да|Нет|Да|Да|Да|Да|Да|Да|
+|Теги тенденции|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Вики-сайты](../sharepoint-online-service-description/social.md#wikis)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Надстройки**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |[Дополнительное хранилище](../sharepoint-online-service-description/add-ons.md#additional-storage)|Да|Нет|Да|Да|Да|Да|Да|Да|
-|[Приложения, подготовленные в Azure: Службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|
-|[Приложения, подготовленные в Azure: пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Приложения, подготовленные в Azure: службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|Да<sup>15</sup>|
+|[Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Duet Online|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 
 > [!NOTE]
@@ -1063,13 +1053,12 @@ Office 365 Германия соответствует стандартам Clou
 <sup>12</sup> Справка доступна только на китайском (упрощенное письмо) и английском языках.<br/>
 <sup>13</sup> В блогах нельзя добавлять комментарии.<br/>
 <sup>14</sup> Веб-сайт сообщества организации доступен, но сообщество не может предоставлять общедоступную справку.<br/>
-<sup>15</sup> Access 2010 не поддерживается.<br/> <sup>16</sup> Пользователи с базовой подпиской не могут создавать документы Office с помощью живых плиток. Для этого им необходимо открыть сайт SharePoint Online, щелкнуть **Создать** и выбрать тип файла (документ Word, книга Excel, презентация PowerPoint, записная книжка OneNote или опрос Excel) в меню **Создать файл**. <br/>
+<sup>15</sup> Access 2010 не поддерживается.<br/> <sup>16</sup> Пользователи с базовой подпиской не могут создавать документы Office с помощью живых плиток. Чтобы создать документ, пользователи киосков должны сделать это с сайта SharePoint Online, выбрав пункт **создать** , а затем выбрав тип файла — документ Word, книга Excel, презентация PowerPoint, записная книжка OneNote или опрос Excel — из меню **создать файл** . <br/>
 <sup>17</sup> формы InfoPath, содержащие пользовательский код ("песочнице"), можно использовать только в полнофункциональном клиенте InfoPath.<br/>
 <sup>18</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.<br/>
 <sup>19</sup> K1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 K1 не включает права CAL для доступа к серверу; Эти права необходимо приобрести отдельно.
 
 ## <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online
-<a name="BM3_Skype"> </a>
 
 В следующей таблице перечислены функции Skype для бизнеса Online, доступные в планах Office 365: Germany.
 
@@ -1087,17 +1076,17 @@ Office 365 Германия соответствует стандартам Clou
 |Мобильные клиенты Skype для бизнеса|Да|Да|Да|Да|Да|Да|Нет|
 |Веб-приложение Skype для бизнеса|Да|Да|Да|Да|Да|Да|Нет|
 |**[Обмен мгновенными сообщениями, присутствие и контакты](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Обмен мгновенными сообщениями и передача сведений о присутствии между ПК|Да|Да|Да|Да|Да|Да|Нет|
-|Многопользовательский обмен мгновенными сообщениями и передача сведений о присутствии|Да|Да|Да|Да|Да|Да|Нет|
-|Настройка карточки контакта|Да|Да|Да|Да|Да|Да|Нет|
-|Настройка фотографий|Да|Да|Да|Да|Да|Да|Нет|
-|Моя фотография: функция URL-фотографии|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Обмен мгновенными сообщениями и сведениями о присутствии PC to PC|Да|Да|Да|Да|Да|Да|Нет|
+|Многокомпонентный обмен мгновенными сообщениями и сведения о присутствии|Да|Да|Да|Да|Да|Да|Нет|
+|Конфигурация карточки контакта|Да|Да|Да|Да|Да|Да|Нет|
+|Конфигурация "Моя фотография"|Да|Да|Да|Да|Да|Да|Нет|
+|Мой рисунок: URL-интерфейс Фото|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Настройка списка контактов|Да|Да|Да|Да|Да|Да|Нет|
 |Единое хранилище контактов|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
 |Поиск в адресной книге|Да|Да|Да|Да|Да|Да|Нет|
 |Расширение списка рассылки|Да|Да|Да|Да|Да|Да|Нет|
 |Сохраняемый чат|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Фотографии отправителя или получателя|Да|Да|Да|Да|Да|Да|Нет|
+|Фотографии отправителя и получателя|Да|Да|Да|Да|Да|Да|Нет|
 |**[Аудио- и видеосвязь, а также передача мультимедиа между абонентами Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|\  <br/> **Office 365 Germany корпоративный E3**|\  <br/> **Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Совместный доступ к рабочему столу через демонстрацию экрана с видеоизображением (VbSS)|Да|Да|Да|Да|Да|Да|Нет|
 |Совместный доступ к рабочему столу и приложениям через протокол удаленного рабочего стола (RDP)|Да|Да|Да|Да|Да|Да|Нет|
@@ -1107,35 +1096,35 @@ Office 365 Германия соответствует стандартам Clou
 |**[Федерация и общедоступная служба обмена мгновенными сообщениями](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Office Communications Server 2007 R2 и Lync Server 2010 (мгновенные сообщения, передача сведений о присутствии, аудио- и видеозвонки, конференц-связь)|Да|Нет|Да|Да|Да|Да|Нет|
 |XMPP (например, используется Google Talk) и федерация Sametime|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-| Федерация со Skype|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
+|Федерация со Skype|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
 |Федерация AOL и Yahoo!|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**[Собрания Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Динамическая сеть и планирование аудиоконференций|Да|Да|Да|Да|Да|Да|Нет|
-|Динамическая сеть и планирование видеоконференций|Да|Да|Да|Да|Да|Да|Нет|
-|Видео активного выступающего|Да|Да|Да|Да|Да|Да|Нет|
-|Кодирование и декодирование H.264|Да|Да|Да|Да|Да|Да|Нет|
-|Многопользовательский сеанс видеосвязи|Да|Да|Да|Да|Да|Да|Нет|
-|Видео высокой четкости или фотографии всех участников|Да|Да|Да|Да|Да|Да|Нет|
-|Элементы управления для выступающих|Да|Да|Да|Да|Да|Да|Нет|
-|Выбранное представление участника|Да|Да|Да|Да|Да|Да|Нет|
-|Совместный доступ к OneNote|Да|Да|Да|Да|Да|Да|Нет|
-|Динамическая сеть и планирование веб-конференций|Да|Да|Да|Да|Да|Да|Нет|
-|Телефонное подключение к собраниям Skype для бизнеса через Аудиоконференции (первая сторона)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Присоединение к собранию Skype для бизнеса через сертифицированного поставщика услуг аудиоконференц-связи|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
-|Совместный доступ к PowerPoint|Да|Да|Да|Да|Да|Да|Нет|
+|Прямое и плановое аудио конференц-связь|Да|Да|Да|Да|Да|Да|Нет|
+|Ad hoc и планирование видеоконференций|Да|Да|Да|Да|Да|Да|Нет|
+|Активное видео о динамике|Да|Да|Да|Да|Да|Да|Нет|
+|Кодирование и декодирование H. 264|Да|Да|Да|Да|Да|Да|Нет|
+|Многокомпонентный видеоролик|Да|Да|Да|Да|Да|Да|Нет|
+|Видео высокой четкости или изображения всех участников|Да|Да|Да|Да|Да|Да|Нет|
+|Элементы управления докладчика|Да|Да|Да|Да|Да|Да|Нет|
+|Представление выбранного участника|Да|Да|Да|Да|Да|Да|Нет|
+|Общий доступ к OneNote|Да|Да|Да|Да|Да|Да|Нет|
+|Прямое и плановое веб-Конференц-связь|Да|Да|Да|Да|Да|Да|Нет|
+|Подключение к собранию Skype для бизнеса с помощью аудио-конференций (первая сторона)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Подключение к собранию Skype для бизнеса с помощью сертифицированного поставщика службы аудио-и видеоконференций (ACP)|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
+|Общий доступ к PowerPoint|Да|Да|Да|Да|Да|Да|Нет|
 |Передача файлов|Да|Да|Да|Да|Да|Да|Нет|
 |Доска и заметки|Да|Да|Да|Да|Да|Да|Нет|
 |Отправка PowerPoint|Да|Да|Да|Да|Да|Да|Нет|
 |Опрос|Да|Да|Да|Да|Да|Да|Нет|
 |Запись и воспроизведение на стороне клиента|Да|Да|Да|Да|Да|Да|Нет|
 |Запись и воспроизведение на стороне сервера|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Зал собраний|Да|Да|Да|Да|Да|Да|Нет|
+|Зал собрания|Да|Да|Да|Да|Да|Да|Нет|
 |Трансляция собраний Skype<sup>6</sup>|Нет|Нет|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
-|Гостевой доступ к собраниям Skype с помощью Skype для бизнеса Web App|Да|Да|Да|Да|Да|Да|Нет|
+|Гостевой доступ к собраниям Skype с помощью веб-приложения Skype для бизнеса|Да|Да|Да|Да|Да|Да|Нет|
 |Планирование собраний Skype для бизнеса в Outlook|Да|Да|Да|Да|Да|Да|Нет|
-|Планирование собраний Skype для бизнеса в Outlook от чужого имени (делегирование)|Да|Да|Да|Да|Да|Да|Нет|
+|Планирование собраний Skype для бизнеса в Outlook от имени других пользователей (делегирование)|Да|Да|Да|Да|Да|Да|Нет|
 |Планирование собраний Skype для бизнеса с помощью веб-планировщика|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
-|Планирование собраний по сети в Outlook Web App|Да|Да|Да|Да|Да|Да|Нет|
+|Планирование собраний по сети в Outlook в Интернете|Да|Да|Да|Да|Да|Да|Нет|
 |Делегирование Outlook для планирования собраний|Да|Да|Да|Да|Да|Да|Нет|
 |Создание общедоступных собраний со статическими кодами собрания в Outlook|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Голосовая связь**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
@@ -1178,39 +1167,38 @@ Office 365 Германия соответствует стандартам Clou
 |[Кредитование связи](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Голосовые вызовы Skype для бизнеса|Да|Да|Да|Да|Да|Да|Нет|
 |**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Мгновенные сообщения и шифрование мультимедиа|Да|Да|Да|Да|Да|Да|Нет|
+|Шифрование обмена мгновенными сообщениями и мультимедиа|Да|Да|Да|Да|Да|Да|Нет|
 |Фильтрация мгновенных сообщений и файлов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Управление версиями клиента|Да|Да|Да|Да|Да|Да|Нет|
+|Управление версиями клиентов|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация содержимого мгновенных сообщений|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Да|Да|Нет|
-|Архивация содержимого конференций|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Да|Да|Нет|
-|Архивация данных совместного использования приложений и общего доступа к рабочему столу|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Архивация контента конференции|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Да|Да|Нет|
+|Общий доступ к приложениям и архивация рабочего стола|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Конфигурация архивации на уровне пользователя|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Нет<sup>2</sup>|Да|Да|Нет|
-|Файлы трассировки входа|Да|Да|Да|Да|Да|Да|Нет|
+|Файлы трассировки для входа|Да|Да|Да|Да|Да|Да|Нет|
 |**[Взаимодействие между Exchange и SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Взаимодействие сведений о присутствии с Exchange Server|Да|Да|Да|Да|Да|Да|Нет|
-|Взаимодействие сведений о присутствии с Exchange Online|Да|Да|Да|Да|Да|Да|Нет|
+|Взаимодействие с Exchange Online о присутствии|Да|Да|Да|Да|Да|Да|Нет|
 |Взаимодействие единой системы обмена сообщениями с Exchange Server|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Взаимодействие единой системы обмена сообщениями с Exchange Online|Нет|Нет|Нет|Нет|Нет| Нет|Нет|
-|Взаимодействие с Outlook Web App|Да|Да|Да|Да|Да|Да|Нет|
+|Взаимодействие Outlook в Интернете|Да|Да|Да|Да|Да|Да|Нет|
 |Взаимодействие архивации с Exchange Server|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Взаимодействие архивации с Exchange Online|Да|Да|Да|Да|Да|Да|Нет|
 |Поиск по навыкам с SharePoint Server|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Поиск по навыкам с SharePoint Online|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Поиск по навыкам в SharePoint Online|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**[Администрирование и управление Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Портал Microsoft Office 365|Да|Да|Да|Да|Да|Да|Нет|
-|Центр администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Нет|
+|Центр администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Нет|
 |Центр администрирования Skype для бизнеса Online|Да|Да,<sup>3</sup>|Да|Да|Да|Да|Нет|
 |Windows PowerShell|Да|Да|Да|Да|Да|Да|Нет|
 |Отчеты Skype для бизнеса Online в центре администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Нет|
 
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о основных функциях Lync для [настольных ПК приведены в статье сравнение клиентов для настольных ПК](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 профессиональный плюс и Office 365 корпоративный E3 включают полноценное приложение Skype для бизнеса (Lync), которое включает в себя дополнительные функции, в том числе расширенную поддержку телефонной связи, архивацию и функции обеспечения соответствия требованиям. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о основных функциях Lync для [настольных ПК приведены в статье сравнение клиентов для настольных ПК](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
 <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
 <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. <br/>
-<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
+<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. Однако поддерживается федеративный вызов.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon.
 
 ## <a name="visio-for-the-web-features"></a>Visio для веб-компонентов
-<a name="BM3_Skype"> </a>
 
 Visio для Интернета доступен для Office 365 Германии. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.

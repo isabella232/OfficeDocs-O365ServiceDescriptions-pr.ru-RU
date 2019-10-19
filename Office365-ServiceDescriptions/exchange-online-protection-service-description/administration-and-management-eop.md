@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: В этом разделе описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442484"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581473"
 ---
 # <a name="administration-and-managementeop"></a>Администрирование и управление [EOP]
 
@@ -39,5 +39,5 @@ ms.locfileid: "37442484"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   

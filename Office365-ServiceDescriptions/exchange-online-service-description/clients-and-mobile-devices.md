@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442704"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581925"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -70,7 +70,7 @@ Exchange Online работает с приложениями Outlook, досту
 
 Outlook дает пользователям возможность быстро, интуитивно понятную электронную почту и календарь, которые они ожидают от современного мобильного приложения, в то время как единственное приложение обеспечивает поддержку лучших функций Office 365. Это единственное почтовое приложение, специально предназначенное для поддержки Office 365, предоставляя пользователям возможности взаимодействия с настольным ПК и мобильных устройств. Outlook интегрируется с Intune, Enterprise Mobility и Security, а также с элементами управления Exchange для обеспечения безопасности данных и пользователей.
   
-Outlook позволяет пользователям выполнять следующие действия:
+С помощью Outlook пользователи могут выполнять следующие действия:
   
 - Управлять всеми днями с мобильного устройства.
 
@@ -161,5 +161,5 @@ Exchange Online поддерживает доступ к почтовым ящи
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online](exchange-online-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online](exchange-online-service-description.md).
   

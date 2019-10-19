@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Дополнительные сведения можно найти в центре управления безопасностью Майкрософт.
-ms.openlocfilehash: 746b58eda83545b97e00b77ba67c6e9794420018
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 706ff7bb1f5f3d7b3ae1ba761bcdadc237051e3d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777350"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582105"
 ---
 # <a name="privacy-security-and-transparency"></a>Конфиденциальность, безопасность и прозрачность
 
@@ -42,7 +42,7 @@ ms.locfileid: "35777350"
 
 Как пользователь Office 365:, вы можете узнать, где хранятся ваши данные, кто в Майкрософт имеет к ним доступ и какой внутренней обработке они подвергаются. Дополнительные сведения см. в статье [Прозрачность](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
-## <a name="office-365-advanced-ediscovery"></a>Расширенное обнаружение электронных данных для Office 365
+## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
 Обнаружение электронных данных  это процесс определения и предоставления электронной информации, которая может использоваться в качестве доказательств в судебных разбирательствах. Office 365 Advanced eDiscovery строится на существующем наборе возможностей обнаружения электронных данных в Office 365, позволяющих анализировать крупные, неструктурированные наборы данных и уменьшить размер данных, соответствующих судебному разбирательству. Вы можете использовать функцию поиска в Центре соответствия требованиям Office 365, чтобы выполнить начальный поиск всех источников содержимого в вашей организации и собрать данные, которые могут соответствовать отдельному судебному разбирательству. Затем вы можете проанализировать данные, применив текстовую аналитику, машинное обучение и возможности релевантного и прогнозирующего кодирования, доступных в Advanced eDiscovery. Подробную информацию см. в статье [Office 365 Advanced eDiscovery](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).
   
@@ -54,10 +54,9 @@ ms.locfileid: "35777350"
   
 ## <a name="advanced-threat-protection"></a>Расширенная защита от угроз
 
-Office 365 Advanced Threat Protection помогает защитить организацию от вредоносных программ и вирусов. ATP включает в себя [безопасные ссылки](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [безопасные вложения](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), средства [защиты от фишинга](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)и функции [анализа подделки](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Компонент "Безопасные ссылки" обеспечивает упреждающую защиту пользователей от вредоносных гиперссылок в сообщении, проверяя ссылки при каждом переходе по ним. Компонент "Безопасные вложения" защищает от неизвестных вредоносных программ и вирусов, направляя все сообщения и приложения, которые не имеют известных сигнатур вирусов или вредоносных программ, в специальную среду, где служба расширенной защиты от угроз сможет определить их злонамеренность. Дополнительные сведения о ATP можно найти в статье [Описание службы Advanced Threat Protection в Office 365](../office-365-advanced-threat-protection-service-description.md).
+Office 365 Advanced Threat Protection помогает защитить организацию от вредоносных программ и вирусов. ATP включает в себя [безопасные ссылки](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [безопасные вложения](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), средства [защиты от фишинга](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)и функции [анализа подделки](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Безопасные ссылки защищают пользователей от вредоносных гиперссылок в сообщении, обеспечивая защиту при каждом выборе ссылки. Компонент "Безопасные вложения" защищает от неизвестных вредоносных программ и вирусов, направляя все сообщения и приложения, которые не имеют известных сигнатур вирусов или вредоносных программ, в специальную среду, где служба расширенной защиты от угроз сможет определить их злонамеренность. Дополнительные сведения о ATP можно найти в статье [Описание службы Advanced Threat Protection в Office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
+Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
   
-

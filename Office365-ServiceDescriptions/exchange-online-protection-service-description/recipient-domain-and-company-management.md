@@ -1,5 +1,5 @@
 ---
-title: Управление получателями, доменами и компаниями
+title: Управление получателями, доменами и организациями
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) предлагает несколько средств управления сведениями о получателях, доменах и компаниях. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
-ms.openlocfilehash: 8cab1137f31917aaae5e10fb116601dabd7fb43b
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 84be0148636b4e345f59158af0a767e9cd2396c7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442724"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581845"
 ---
-# <a name="recipient-domain-and-company-management"></a>Управление получателями, доменами и компаниями
+# <a name="recipient-domain-and-company-management"></a>Управление получателями, доменами и организациями
 
 Microsoft Exchange Online Protection (EOP) предлагает несколько средств управления сведениями о получателях, доменах и компаниях. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
   
@@ -49,4 +49,4 @@ Microsoft Exchange Online Protection (EOP) предлагает нескольк
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).

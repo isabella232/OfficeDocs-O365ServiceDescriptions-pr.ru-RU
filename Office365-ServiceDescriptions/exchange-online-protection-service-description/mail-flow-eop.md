@@ -1,5 +1,5 @@
 ---
-title: Поток почты[EOP]
+title: Процесс обработки почты [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет это сделать и обеспечивает обработку почты, предназначенную для защиты от вирусов и нежелательной почты, в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте Exchange Online Protection.
-ms.openlocfilehash: 5a581c8004bcdc001160a2499cd623c6eee772f2
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке.
+ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442734"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581855"
 ---
-# <a name="mail-floweop"></a>Поток почты[EOP]
+# <a name="mail-floweop"></a>Процесс обработки почты [EOP]
 
-Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет это сделать и обеспечивает обработку почты, предназначенную для защиты от вирусов и нежелательной почты, в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection).
+Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Ищете сведения об управлении доменами или пограничной блокировке на базе каталога (DBEB)? См. статью [Управление получателями, доменами и компаниями](recipient-domain-and-company-management.md). Дополнительные сведения о функциях EOP см. в статье [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Ищете сведения об управлении доменом или пограничной блокировке на основе каталогов (DBEB)? Просмотр [получателей, доменов и управления организациями](recipient-domain-and-company-management.md). Чтобы узнать больше о всех возможностях EOP, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Маршрутизация сообщений между Office 365 и почтовыми серверами пользователя
 
@@ -53,4 +53,4 @@ ms.locfileid: "37442734"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).

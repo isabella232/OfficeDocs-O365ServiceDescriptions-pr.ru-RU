@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839870"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595269"
 ---
 ---
 
@@ -117,10 +117,12 @@ Microsoft 365 для государственных учреждений (США
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Как приобрести Microsoft 365 для государственных организаций?
 
 Чтобы приобрести лицензии на Office 365 для государственных организаций, выполните следующие действия:
+
 1. [Заполните и отправляйте форму](https://products.office.com/government/eligibility-validation) , чтобы проверить допустимость Организации.
 2. Работа с группой учетных записей Майкрософт или квалифицированным партнером для размещения заказа. Клиенты могут приобрести Microsoft 365 для государственных организаций США только через выбранные партнеры.
 
 **Лспс GCC и GCC High (+ 500 рабочих мест)**
+
 - кдв
 - Подключение (ранее подключение к компьютеру)
 - Предоставляет
@@ -145,7 +147,7 @@ Microsoft 365 для государственных учреждений (США
 
 **Примечание:** Все поставщики решений Майкрософт для лицензирования (Лспс), описанные в предыдущем списке, могут выполнить инструкцию GCC и GCC High and GCC High by Enterprise Agreement для создания прайс-листа клиента (CPS). Организации, которые не соответствуют требованиям EA, могут покупать лицензии GCC с помощью указанной партнерской программы AOS-G или поставщика CSP.
 
-**Если вы работаете с партнером поставщика служб шифрования, свяжитесь с ними или [Найдите поставщика.](https://www.microsoft.com/solution-providers/home)**
+**Если вы работаете с партнером поставщика служб шифрования, свяжитесь с ними или [Найдите поставщика](https://www.microsoft.com/solution-providers/home).**
 
 ## <a name="what-trials-are-available"></a>Какие доступны пробные версии?
 
