@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Сведения о размере хранилища OneDrive, предоставляемом для каждого плана подписки.
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407723"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582205"
 ---
 # <a name="onedrive-for-business-service-description"></a>Описание службы OneDrive для бизнеса
 
@@ -27,7 +27,7 @@ OneDrive — это сетевое облачное хранилище, пред
   
 OneDrive включен в планы Microsoft 365, Office 365 и в планы SharePoint Online. Кроме того, его можно приобрести в виде самостоятельного плана. 
     
-Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans). 
+Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Автономные планы OneDrive для бизнеса включают Office в Интернете. 
@@ -38,11 +38,11 @@ OneDrive включен в планы Microsoft 365, Office 365 и в планы
   
 ## <a name="about-sync"></a>О синхронизации
 
-Любой пользователь, в план которого включена программа OneDrive, может использовать клиент синхронизации OneDrive, если он не был явным образом отключен ИТ-отделом. Чтобы установить последнюю версию клиента синхронизации, перейдите на [страницу скачивания OneDrive](https://onedrive.live.com/about/download/). Дополнительные сведения о клиенте синхронизации см. в статье [Синхронизация файлов с помощью клиента синхронизации OneDrive в Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49).
+Любой пользователь, в план которого включена программа OneDrive, может использовать клиент синхронизации OneDrive, если он не был явным образом отключен ИТ-отделом. Чтобы установить последнюю версию клиента синхронизации, перейдите на [страницу скачивания OneDrive](https://onedrive.live.com/about/download/). Дополнительные сведения о клиенте синхронизации см. в статье [Синхронизация файлов с помощью клиента синхронизации OneDrive в Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49).
   
 ## <a name="storage-space-per-user"></a>Размер хранилища на пользователя
 
-**2 ГБ**
+**5 ГБ**
 
 - Office 365 корпоративный F1
 
