@@ -9,13 +9,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
+ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523277"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633450"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "37523277"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 США G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
+|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

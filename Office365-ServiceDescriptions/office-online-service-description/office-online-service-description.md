@@ -1,5 +1,5 @@
 ---
-title: Описание веб-службы Office
+title: Описание служб Office в Интернете
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,23 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051620"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633885"
 ---
-# <a name="office-for-the-web-service-description"></a>Описание веб-службы Office
+# <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
 Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге. 
   
 Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Доступность функций в Office для веб-планов
-<a name="bkmk_FeatureavailabilityO365"> </a>
 
-Нужна помощь, чтобы определить, какое решение Office наилучшим образом подходит вашей организации? В приведенных ниже таблицах сравниваются Office для возможностей веб-функций, чтобы обеспечить широкие возможности для настольных приложений Microsoft Office. Используйте таблицы, чтобы узнать, какие функции доступны в Office для Интернета, а затем щелкните название функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другие — только для просмотра и редактирования документов Word и презентаций PowerPoint в Office для Интернета. 
+Нужна помощь, чтобы определить, какое решение Office наилучшим образом подходит вашей организации? В приведенных ниже таблицах сравниваются Office для возможностей веб-функций, чтобы обеспечить широкие возможности для настольных приложений Microsoft Office. Используйте таблицы, чтобы узнать, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другие — только для просмотра и редактирования документов Word и презентаций PowerPoint в Office для Интернета. 
   
 > [!NOTE]
 >  Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблицы не являются исчерпывающим списком функций Microsoft Office. <br/>  Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии. <br/>  Локальные клиенты Microsoft Office Online Server получают лицензию на веб-редактирование, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или Office 365 профессиональный плюс). 
@@ -37,11 +36,10 @@ Office для Интернета (ранее Office Web Apps) открывает
 > При открытии документа Office либо в виде вложения в Outlook, либо из библиотеки документов SharePoint документ будет запущен в Office для Интернета и будет доступен только для чтения. Чтобы изменить документ в Office для Интернета (режим редактирования), вам потребуется лицензия Office 365 Suite, например Office 365 корпоративный E1. Для редактирования документа необходима лицензия на классический набор Office, такая как подписная лицензия на Office 365 профессиональный плюс или лицензия на Office 2010 профессиональный плюс. 
   
 ### <a name="word"></a>Word
-<a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Word для Интернета** <br/> |**Классическое приложение Word** <br/> |
+|**Возможности приложений** <br/> |**Веб-приложение Word** <br/> |**Классическое приложение Word** <br/> |
 |[Направляющие выравнивания и динамический макет](word-online.md#alignment-guides-and-live-layout) <br/> |Нет  <br/> |ДА  <br/> |
 |[Применение стилей](word-online.md#apply-styles) <br/> |Да  <br/> |Да  <br/> |
 |[Автосохранение](word-online.md#autosave) <br/> |Да  <br/> |Да  <br/> |
@@ -51,7 +49,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Заголовки](word-online.md#captions) <br/> |Нет  <br/> |ДА  <br/> |
 |[Ссылки и списки литературы](word-online.md#citations-and-bibliography) <br/> |Нет  <br/> |ДА  <br/> |
 |[Буфер обмена](word-online.md#clipboard) <br/> |Да  <br/> |Да  <br/> |
-|[Совместная работа  расширенные функции](word-online.md#collaboration--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Совместная работа, расширенная](word-online.md#collaboration-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[элементы управления контентом;](word-online.md#content-controls) <br/> |Да  <br/> |Да  <br/> |
 |[Титульные листы](word-online.md#cover-pages) <br/> |Нет<sup>1</sup> <br/> |Да  <br/> |
 |[Создание дополнительных элементов документа](word-online.md#creation-of-advanced-document-elements) <br/> |Нет  <br/> |ДА  <br/> |
@@ -72,20 +70,20 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Средства обучения](word-online.md#learning-tools) <br/> |Нет  <br/> |ДА  <br/> |
 |[Списки](word-online.md#lists) <br/> |Да  <br/> |Да  <br/> |
 |[Слияние почты](word-online.md#mail-merge) <br/> |Нет  <br/> |ДА  <br/> |
-|[Надстройки Office](word-online.md#office-add-ins) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |
+|[Надстройки Office](word-online.md#office-add-ins) <br/> |Да<sup>2</sup> <br/> |Да  <br/> |
 |[Просмотр и редактирование в автономном режиме](word-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |ДА  <br/> |
 |[Разрывы страниц](word-online.md#page-breaks) <br/> |Да  <br/> |Да  <br/> |
 |[Средства разметки страницы](word-online.md#page-layout-tools) <br/> |Да  <br/> |Да  <br/> |
-|[Средства разметки страницы  дополнительные](word-online.md#page-layout-tools--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Средства макета страницы, расширенные](word-online.md#page-layout-tools-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[Номера страниц](word-online.md#page-numbers) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование абзаца](word-online.md#paragraph-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Работа с рисунками](word-online.md#picture-tools) <br/> |Да  <br/> |Да  <br/> |
 |[Форматированные шрифтовые и цветовые схемы](word-online.md#preformatted-font-and-color-schemes) <br/> |Да  <br/> |Да  <br/> |
 |[Онлайн-презентация](word-online.md#preformatted-font-and-color-schemes) <br/> |Нет  <br/> |ДА  <br/> |
 |[Функция "Сохранить в формате PDF"](word-online.md#print-to-pdf) <br/> |Да  <br/> |Да  <br/> |
-|[Печать  расширенные функции](word-online.md#printing--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Печать, дополнительно](word-online.md#printing-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[Средства проверки правописания](word-online.md#proofing-tools) <br/> |Да  <br/> |Да  <br/> |
-|[Средства проверки правописания  расширенные функции](word-online.md#proofing-tools--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Средства проверки правописания, расширенные](word-online.md#proofing-tools-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[Совместное редактирование в режиме реального времени](word-online.md#real-time-co-authoring) <br/> |Да  <br/> |Да  <br/> |
 |[Справочные материалы](word-online.md#reference-tools) <br/> |Нет  <br/> |Да  <br/> |
 |[Отображение текстовых полей и фигур](word-online.md#rendering-of-text-boxesshapes) <br/> |Да  <br/> |Да  <br/> |
@@ -114,11 +112,10 @@ Office для Интернета (ранее Office Web Apps) открывает
 > <sup>2</sup> некоторые, но не все, доступны надстройки Office. <br/>
   
 ### <a name="excel"></a>Excel
-<a name="BKMK_ExcelFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Excel для Интернета** <br/> |**Классическое приложение Excel** <br/> |
+|**Возможности приложений** <br/> |**Веб-приложение Excel** <br/> |**Классическое приложение Excel** <br/> |
 |[Проверка читаемости](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление цвета фона на вкладки листа](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление гиперссылок](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
@@ -139,14 +136,14 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Проверка данных](excel-online.md#data-validation) <br/> |Да <br/> |Да  <br/> |
 |[Перетаскивание ячеек](excel-online.md#drag-and-drop-cells) <br/> |Да  <br/> |Да  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Да  <br/> |Да  <br/>|
-|[Дубликат (Copy) воркситс](excel-online.md#duplicate-copy-worksheets) <br/> |Да  <br/> |Да  <br/>|
-|[Внедрение книги на веб-сайте или странице блога (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Да  <br/> |Нет  <br/> |
+|[Дубликаты (копии) листов](excel-online.md#duplicate-copy-worksheets) <br/> |Да  <br/> |Да  <br/>|
+|[Внедрение книги на веб-страницу или в блог (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Да  <br/> |Нет  <br/> |
 |[Внешние ссылки](excel-online.md#external-references-links) <br/> |Нет<sup>4</sup> <br/> |Да  <br/> |
 |[Маркер заполнения](excel-online.md#fill-handle) <br/> |Да  <br/> |Да  <br/> |
 |[Найти](excel-online.md#find) <br/> |Да  <br/> |Да  <br/> |
 |[Форматирование шрифта и ячеек](excel-online.md#font-and-cell-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Строка формул](excel-online.md#formula-bar) <br/> |Да  <br/> |Да  <br/> |
-|[Расширенные инструменты формул](excel-online.md#formula-tools--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Работа с формулами, дополнительно](excel-online.md#formula-tools-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[Закрепление областей](excel-online.md#freeze-panes) <br/> |Да <br/> |Да  <br/> |
 |[Режим чтения с высокой четкостью](excel-online.md#full-fidelity-reading-view) <br/> |Да  <br/> |Да  <br/> |
 |[Функции](excel-online.md#functions) <br/> |Да  <br/> |Да  <br/> |
@@ -164,19 +161,19 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Просмотр и редактирование в автономном режиме](excel-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |ДА  <br/> |
 |[сводных диаграмм;](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |Да  <br/> |Да  <br/> |
-|[Опубликовать в социальной сети и показать через Интернет](excel-online.md#post-to-social-network-and-present-online) <br/> |Нет  <br/> |ДА  <br/> |
+|[Публикация в социальных сетях и презентация через Интернет](excel-online.md#post-to-social-network-and-present-online) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр Power View](excel-online.md#power-view-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Печать](excel-online.md#print) <br/> |Да  <br/> |Да  <br/> |
 |[Совместное редактирование в режиме реального времени](excel-online.md#real-time-co-authoring) <br/> |Да  <br/> |Да  <br/> |
-|[Создание рекомендованных диаграмм и их редактирование с помощью элементов управления форматированием](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Нет  <br/> |ДА  <br/> |
+|[Создание рекомендованных диаграмм и их редактирование с помощью элементов управления форматированием](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Нет  <br/> |Да  <br/> |
 |[Обновление существующих подключений для передачи данных](excel-online.md#refresh-existing-data-connections) <br/> |Да  <br/> |Да  <br/> |
 |[Удаление повторяющихся значений](excel-online.md#remove-duplicate-values) <br/> |Да  <br/> |Да  <br/> |
 |[Переименование и добавление листов](excel-online.md#rename-and-add-sheets) <br/> |Да  <br/> |Да  <br/> |
 |[Переименование файла в открытой книге](excel-online.md#rename-file-while-workbook-is-open) <br/> |Да  <br/> |Нет  <br/> |
 |[Заменить](excel-online.md#replace) <br/> |Да  <br/> |Да  <br/> |
 |[Управление правами: Управление правами на доступ к данным и защита паролем](excel-online.md#rights-management-irm-and-password-security) <br/> |Нет  <br/> |ДА  <br/> |
-|[Сохранение или загрузка копии](excel-online.md#save-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
+|[Сохранение или Загрузка копии](excel-online.md#save-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
 |[Предоставление общего доступа](excel-online.md#share) <br/> |Да  <br/> |Да  <br/> |
 |[Защита листа](excel-online.md#sheet-protection) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр срезов](excel-online.md#slicer-viewing) <br/> |Да  <br/> |Да  <br/> |
@@ -200,11 +197,10 @@ Office для Интернета (ранее Office Web Apps) открывает
  <br/><sup>5</sup> некоторые, но не все, доступны надстройки Office. 
   
 ### <a name="onenote"></a>OneNote
-<a name="BKMK_OneNoteFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**OneNote для Интернета** <br/> |**Классическое приложение OneNote** <br/> |
+|**Возможности приложений** <br/> |**Веб-приложение OneNote** <br/> |**Классическое приложение OneNote** <br/> |
 |[Расширенные возможности совместной работы. Отображение нового содержимого как непрочитанного; сведения о присутствии](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Нет  <br/> |ДА  <br/> |
 |[Применение тегов](onenote-online.md#apply-tags) <br/> |Да  <br/> |Да  <br/> |
 |[Маркеры и нумерация](onenote-online.md#bullets-and-numbering) <br/> |Да  <br/> |Да  <br/> |
@@ -217,7 +213,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |Перетаскивание разделов <br/> |Да  <br/> |Да <br/> |
 |Перетаскивание групп разделов <br/> |Нет  <br/> |ДА <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Да  <br/> |Да  <br/> |
-|[Редактирование внедренных файлов](onenote-online.md#EmbeddedFileEdit) <br/> |Нет  <br/> |ДА  <br/> |
+|[Редактирование внедренных файлов](onenote-online.md#edit-embedded-files) <br/> |Нет  <br/> |ДА  <br/> |
 |[Формулы](onenote-online.md#equations) <br/> |Да  <br/> |Да  <br/> |
 |[Гиперссылки](onenote-online.md#hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Распознавание текста изображения (OCR)](onenote-online.md#image-optical-character-recognition-ocr) <br/> |Нет  <br/> |ДА  <br/> |
@@ -225,7 +221,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Просмотр рукописных фрагментов](onenote-online.md#ink-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Навигация](onenote-online.md#navigation) <br/> |Да  <br/> |Да  <br/> |
 |[Управление записной книжкой. Файловые операции со страницами между разделами и записными книжками, реорганизация разделов, создание и удаление групп разделов](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
-|[Надстройки Office](onenote-online.md#office-add-ins) <br/> |Да,<sup>2</sup> <br/> |Да  <br/> |
+|[Надстройки Office](onenote-online.md#office-add-ins) <br/> |Да<sup>2</sup> <br/> |Да  <br/> |
 |[Интеграция с Outlook (задачи)](onenote-online.md#outlook-integration-tasks) <br/> |Нет  <br/> |ДА  <br/> |
 |[Форматирование абзаца](onenote-online.md#paragraph-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Изображения](onenote-online.md#pictures) <br/> |Да  <br/> |Да  <br/> |
@@ -238,23 +234,22 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Отображение или скрытие авторов](onenote-online.md#show-or-hide-authors) <br/> |Да  <br/> |Да  <br/> |
 |[Стили](onenote-online.md#styles) <br/> |Да  <br/> |Да  <br/> |
 |[Таблицы](onenote-online.md#tables) <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка шаблонов](onenote-online.md#template-support) <br/> |Нет  <br/> |ДА  <br/> |
+|[Поддержка шаблонов](onenote-online.md#template-support) <br/> |Нет  <br/> |Да  <br/> |
 |[Отмена и повтор](onenote-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
-|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |Да  <br/> |
+|[Воспроизведение видео](onenote-online.md#video-playback) <br/> |Нет  <br/> |ДА  <br/> |
 |[Просмотр предыдущих версий страницы](onenote-online.md#view-previous-page-versions) <br/> |Да  <br/> |Да  <br/> |
-   
+
 > [!NOTE]
 > <sup>1</sup> в OneNote для Интернета можно перемещать разделы в записной книжке, а также копировать и вставлять страницы из одного раздела в другой. 
  <br/> <sup>2</sup> некоторые, но не все, доступны надстройки Office. 
- <br/><sup>3</sup> вы можете выполнять поиск на странице или в разделе, но не во всей записной книжке или в записных книжках (как это можно делать в классической версии). 
+ <br/><sup>3</sup> вы можете выполнять поиск на странице или в разделе, но не во всей записной книжке или в записных книжках (как это можно делать в классической версии).
  <br/><sup>4</sup> в версии для настольных ПК отсутствует параметр "Скачать", но его можно сохранить в другом расположении. 
   
 ### <a name="powerpoint"></a>PowerPoint
-<a name="BKMK_PowerPointFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**PowerPoint для Интернета** <br/> |**Классическое приложение PowerPoint** <br/> |
+|**Возможности приложений** <br/> |**Веб-приложение PowerPoint** <br/> |**Классическое приложение PowerPoint** <br/> |
 |[Выравнивание, маркеры, нумерация](powerpoint-online.md#alignment-bullets-numbers) <br/> |Да  <br/> |Да  <br/> |
 |[Применение основных переходов и анимаций](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
 |[Применение форматирования к тексту, фигурам и изображениям](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Нет  <br/> |ДА  <br/> |
@@ -264,17 +259,17 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Буфер обмена](powerpoint-online.md#clipboard) <br/> |Да  <br/> |Да  <br/> |
 |[Создание слайдов и управление ими](powerpoint-online.md#create-and-manage-slides) <br/> |Да  <br/> |Да  <br/> |
 |[Создание пользовательской анимации](powerpoint-online.md#create-custom-animation) <br/> |Нет<sup>1</sup> <br/> |Да  <br/> |
-|[Расширенные инструменты дизайна](powerpoint-online.md#design-tools--advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|[Средства оформления, расширенные](powerpoint-online.md#design-tools-advanced) <br/> |Нет  <br/> |ДА  <br/> |
 |[Внедрение презентации в веб-страницу или блог](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |Да  <br/> |Нет  <br/> |
 |[Форматирование шрифта](powerpoint-online.md#font-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Режим чтения с высокой четкостью](powerpoint-online.md#full-fidelity-reading-view) <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка полного рукописного ввода](powerpoint-online.md#full-ink-support) <br/> |Нет  <br/> |Да,<sup>2</sup> <br/> |
+|[Поддержка полного рукописного ввода](powerpoint-online.md#full-ink-support) <br/> |Нет  <br/> |Да<sup>2</sup> <br/> |
 |[Полный выбор анимаций и переходов](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |Нет<sup>1</sup> <br/> |Да  <br/> |
 |[Верхние и нижние колонтитулы](powerpoint-online.md#headers-and-footers) <br/> |Нет  <br/> |ДА  <br/> |
 |[Гиперссылки](powerpoint-online.md#hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка видео из Интернета](powerpoint-online.md#insert-online-video) <br/> |Да  <br/> |Да  <br/> |
 |[Интеграция с Excel для вставки диаграмм](powerpoint-online.md#integration-with-excel-for-charts) <br/> |Нет  <br/> |ДА  <br/> |
-|[Навигация  сортировщик слайдов](powerpoint-online.md#navigation-slide-sorter) <br/> |Да  <br/> |Да  <br/> |
+|[Навигация — Сортировщик слайдов](powerpoint-online.md#navigation---slide-sorter) <br/> |Да  <br/> |Да  <br/> |
 |[Надстройки Office](powerpoint-online.md#office-add-ins) <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |
 |[Просмотр и редактирование в автономном режиме](powerpoint-online.md#offline-viewing-and-authoring) <br/> |Нет  <br/> |ДА  <br/> |
 |[Обрезка рисунков](powerpoint-online.md#picture-cropping) <br/> |Да  <br/> |Да  <br/> |
@@ -284,22 +279,22 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Функция "Сохранить в формате PDF"](powerpoint-online.md#print-to-pdf) <br/> |Да  <br/> |Да  <br/> |
 |[Средства проверки правописания](powerpoint-online.md#proofing-tools) <br/> |Да  <br/> |Да  <br/> |
 |[Совместное редактирование в режиме реального времени](powerpoint-online.md#real-time-co-authoring) <br/> |Да  <br/> |Да<sup>4</sup> <br/> |
-|[Средства рецензента — дополнительно](powerpoint-online.md#reviewer-tools---advanced) <br/> |Нет  <br/> |ДА  <br/> |
-|Rights Management: IRM and password security <br/> |Нет  <br/> |ДА  <br/> |
+|[Средства рецензентов, расширенные](powerpoint-online.md#reviewer-tools-advanced) <br/> |Нет  <br/> |ДА  <br/> |
+|Управление правами: Управление правами на доступ к данным и защита паролем <br/> |Нет  <br/> |ДА  <br/> |
 |[Запуск слайд-шоу](powerpoint-online.md#run-slide-show) <br/> |Да  <br/> |Да  <br/> |
-|[Функции "Сохранить как" или "Загрузить копию"](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
+|[Сохранение или Загрузка копии](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
 |[Фигуры](powerpoint-online.md#shapes) <br/> |Да  <br/> |Да  <br/> |
 |[Предоставление общего доступа](powerpoint-online.md#share) <br/> |Да  <br/> |Да  <br/> |
 |[Слайд-шоу](powerpoint-online.md#slide-show) <br/> |Да  <br/> |Да  <br/> |
 |[SmartArt](powerpoint-online.md#smartart) <br/> |Да  <br/> |Да  <br/> |
-|[Создание, редактирование и форматирование таблиц](powerpoint-online.md#table-creationediting-and-formatting) <br/> |Да  <br/> |Да  <br/> |
+|[Создание, редактирование и форматирование таблиц](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Подробнее](powerpoint-online.md#tell-me) <br/> |Да  <br/> |Да  <br/> |
 |[Отмена и повтор](powerpoint-online.md#undo-and-redo) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр и добавление комментариев](powerpoint-online.md#view-and-add-comments) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр и редактирование заметок к слайду](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Да  <br/> |Да  <br/> |
 |[Просмотр в режиме WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Да  <br/> |Да  <br/> |
 
-> [!NOTE]   
+> [!NOTE]
 ><sup>1</sup> PowerPoint для веб-сайта поддерживает коллекцию 8 переходов и анимацию 37. Для увеличения выделенного фрагмента или создания настраиваемой анимации используйте классическое приложение PowerPoint. 
  <br/>
 <sup>2</sup> устройство, с которым вы работаете, должно поддерживать рукописный ввод. <br/> 
@@ -307,7 +302,6 @@ Office для Интернета (ранее Office Web Apps) открывает
 <sup>4</sup> нельзя создавать сводные диаграммы и сводные таблицы, но их можно просмотреть в средстве просмотра. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Поддерживаемые типы файлов для Office в Интернете
-<a name="bkmk_SupportedFileTypes"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -322,7 +316,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |Open XML (XLSX, XLSB)  <br/> |Да  <br/> |Да  <br/> |
 |Двоичный файл (XLS)  <br/> |Да  <br/> |Преобразованный в формат XLSX  <br/> |
 |Шаблон (XLT, XLTX)  <br/> |Нет  <br/> |Нет  <br/> |
-|Макросы (XLSM)  <br/> |Да<sup>1</sup> <br/> |Да,<sup>2</sup> <br/> |
+|Макросы (XLSM)  <br/> |Да<sup>1</sup> <br/> |Да<sup>2</sup> <br/> |
 |OpenDocument (ODS)  <br/> |Да  <br/> |Да  <br/> |
 |**Записные книжки OneNote, созданные в OneNote 2010 или более поздней версии** <br/> |**Режим просмотра** <br/> |**Режим редактирования** <br/> |
 |Open XML (ONE)  <br/> |Да  <br/> |Да  <br/> |

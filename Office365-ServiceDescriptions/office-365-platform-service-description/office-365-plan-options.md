@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582065"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633504"
 ---
 # <a name="office-365-plan-options"></a>Параметры планов Office 365
 
@@ -33,10 +33,10 @@ ms.locfileid: "37582065"
   
 |**Семейство служб Office 365**|**Планы**|
 |:-----|:-----|
-|**Для предприятий (максимум 300 пользователей)** <br/> |[Office 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 бизнес](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 бизнес премиум](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Корпоративный (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F1](https://products.office.com/business/office-365-f1) <br/> |
-|**Для образовательных учреждений (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**Для государственных организаций (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**Бизнес (максимум 300 пользователей)** <br/> |[Office 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 бизнес](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 бизнес премиум](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Предприятие (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F1](https://products.office.com/business/office-365-f1) <br/> |
+|**Образование (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**Правительственные учреждения (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные бизнес-планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[Просмотреть все доступные планы для бизнеса](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -84,6 +84,7 @@ ms.locfileid: "37582065"
 #### <a name="basic-client-limitations"></a>Ограничения базового клиента
 
 Следующие функции доступны в полнофункциональном, но недоступны в базовом клиенте:
+
 - Управление параметрами групповых звонков
 - Управление делегатами    
 - Звонки от имени другого контакта (сценарий "руководитель/делегат")    
@@ -97,7 +98,7 @@ ms.locfileid: "37582065"
 
 При изменении потребностей вашей организации вам может понадобиться изменить план Office 365:. Вы можете перейти с текущей подписки Office 365 на другую подписку Office 365: 
   
-- **В рамках того же семейства служб:** например, вы можете перейти с Office 365 бизнес базовый на Office 365 бизнес премиум или с Office 365 для предприятий E1 на Office 365 для предприятий E3.     
+- **В рамках того же семейства служб:** например, вы можете перейти с Office 365 бизнес базовый на Office 365 бизнес премиум или с Office 365 для предприятий E1 на Office 365 для предприятий E3.
 - **С автономного плана.** Например, вы можете перейти с Exchange Online (план 1) на Office 365 для предприятий E1.     
 - **Переход со сменой семейства служб.** Вы можете перейти, например, с Office 365 бизнес базовый на Office 365 для предприятий E3.     
 Сведения об изменении подписок, в том числе о переходе от пробной к платной подписке, см. в разделе [Переключение на другой план или подписку на Office 365](https://support.office.com/article/HA104031833).
@@ -105,7 +106,6 @@ ms.locfileid: "37582065"
 Одну учетную запись можно сопоставить с такими планами: корпоративным, для бизнеса, а также отдельным (например, Exchange Online (план 1)). Но при этом не изменятся ограничения на количество лицензий для одного плана. Например, у вас может быть до 300 лицензий для Office 365 бизнес базовый и столько же для Office 365 бизнес премиум, но неограниченное количество пользователей Exchange Online (план 1).
   
 ## <a name="standalone-services"></a>Отдельные службы
-<a name="bkmk_standaloneservices"> </a>
 
 Указанные ниже веб-службы доступны в качестве отдельных планов. Их также можно добавлять в планы семейств корпоративных служб и служб для бизнеса (если их там нет). Для получения сведений о ценах или для общения с представителем в Интернете выберите один из планов, перечисленных в следующей таблице.
   
@@ -125,6 +125,5 @@ ms.locfileid: "37582065"
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Доступность функций
-<a name="bkmk_standaloneservices"> </a>
 
 Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).

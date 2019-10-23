@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 936c610438ddb7589352380d6adc33e1fbe4aef1
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582145"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633466"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -92,7 +92,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
-|**[Возможности администрирования Office 365](https://docs.microsoft.com/office/admins-itprofessionals)** <br/> ||||||||
+|**[Возможности администрирования Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Нет<sup>2</sup> <br/> |
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
@@ -188,7 +188,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Оценка безопасности<sup>7</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Аналитика угроз  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|**[Соответствие требованиям](compliance-servicedesc.md)** <br/> ||||||||
+|**[Этим](compliance-servicedesc.md)** <br/> ||||||||
 |Оценки по стандартам SAS 70 и SSAE16  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Сертификация ISO 27001  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Типовые статьи ЕС  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
