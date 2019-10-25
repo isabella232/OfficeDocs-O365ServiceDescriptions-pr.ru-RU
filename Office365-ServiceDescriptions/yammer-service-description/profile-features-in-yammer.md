@@ -12,50 +12,43 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: В Yammer доступны следующие функции профилей.
-ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777940"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726500"
 ---
-# <a name="profile-features-in-yammer"></a><span data-ttu-id="73c0b-103">Функции профилей в Yammer</span><span class="sxs-lookup"><span data-stu-id="73c0b-103">Profile Features in Yammer</span></span>
+# <a name="profile-features-in-yammer"></a><span data-ttu-id="596f4-103">Функции профилей в Yammer</span><span class="sxs-lookup"><span data-stu-id="596f4-103">Profile features in Yammer</span></span>
 
-<span data-ttu-id="73c0b-104">В Yammer доступны следующие функции профилей.</span><span class="sxs-lookup"><span data-stu-id="73c0b-104">The following profile features are available in Yammer.</span></span>
+<span data-ttu-id="596f4-104">В Yammer доступны следующие функции профилей.</span><span class="sxs-lookup"><span data-stu-id="596f4-104">The following profile features are available in Yammer.</span></span>
+ 
+## <a name="expertise"></a><span data-ttu-id="596f4-105">Навыки</span><span class="sxs-lookup"><span data-stu-id="596f4-105">Expertise</span></span>
+
+<span data-ttu-id="596f4-106">Проделайте организацию, чтобы найти нужных экспертов.</span><span class="sxs-lookup"><span data-stu-id="596f4-106">Reach across the organization to find the experts you need.</span></span> <span data-ttu-id="596f4-107">Так как эксперт мгновенно поддерживает поиск, полезная информация может быть найдена по запросу.</span><span class="sxs-lookup"><span data-stu-id="596f4-107">Because expertise is instantly searchable, useful information can be found on demand.</span></span>
+
+## <a name="leaderboards"></a><span data-ttu-id="596f4-108">Списки лидеров</span><span class="sxs-lookup"><span data-stu-id="596f4-108">Leaderboards</span></span>
+
+<span data-ttu-id="596f4-109">Отмечайте сотрудников, которые вносят большой вклад в работу.</span><span class="sxs-lookup"><span data-stu-id="596f4-109">Identify influential coworkers in your network.</span></span> <span data-ttu-id="596f4-110">В списках лидеров отображаются сотрудники с наибольшим числом сообщений, ответов на сообщения и наибольшим числом понравившихся сообщений.</span><span class="sxs-lookup"><span data-stu-id="596f4-110">Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
+
+## <a name="member-directory"></a><span data-ttu-id="596f4-111">Каталог участников</span><span class="sxs-lookup"><span data-stu-id="596f4-111">Member directory</span></span>
+
+<span data-ttu-id="596f4-112">Откройте каталог участников, чтобы найти людей в вашей группе и коллегах в Организации.</span><span class="sxs-lookup"><span data-stu-id="596f4-112">Browse the member directory to find people on your team and coworkers from across the organization.</span></span>
   
-## <a name="user-profiles"></a><span data-ttu-id="73c0b-105">Профили пользователей</span><span class="sxs-lookup"><span data-stu-id="73c0b-105">User Profiles</span></span>
-<span data-ttu-id="73c0b-106"><a name="bkmk_UserProfiles"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-106"></span></span>
+## <a name="org-chart"></a><span data-ttu-id="596f4-113">Организационная диаграмма</span><span class="sxs-lookup"><span data-stu-id="596f4-113">Org chart</span></span>
 
-<span data-ttu-id="73c0b-p101">Отправьте фотографию, заполните контактные данные и список навыков. В профилях содержится вся ваша информация, в том числе беседы и файлы.</span><span class="sxs-lookup"><span data-stu-id="73c0b-p101">Upload a picture, fill in contact details and list your expertise. Profiles aggregate all your information, including conversations and files.</span></span>
+<span data-ttu-id="596f4-114">Добавление руководителей и отчетов для создания организационной диаграммы вместе со своими коллегами.</span><span class="sxs-lookup"><span data-stu-id="596f4-114">Add managers and reports to create a org chart together with your coworkers.</span></span> <span data-ttu-id="596f4-115">Сведения о организационной диаграмме автоматически отображаются в профилях.</span><span class="sxs-lookup"><span data-stu-id="596f4-115">Org chart information automatically appears in profiles.</span></span>
   
-## <a name="expertise"></a><span data-ttu-id="73c0b-109">Навыки</span><span class="sxs-lookup"><span data-stu-id="73c0b-109">Expertise</span></span>
-<span data-ttu-id="73c0b-110"><a name="bkmk_Expertise"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-110"></span></span>
+## <a name="praise"></a><span data-ttu-id="596f4-116">Благодарность</span><span class="sxs-lookup"><span data-stu-id="596f4-116">Praise</span></span>
 
-<span data-ttu-id="73c0b-p102">Вы сможете найти нужных экспертов во всей компании. Так как навыки можно найти мгновенно, полезная информация всегда будет доступна по запросу.</span><span class="sxs-lookup"><span data-stu-id="73c0b-p102">Reach across the company to find the experts you need. Because Expertise is instantly searchable, useful information can be found on demand.</span></span>
+<span data-ttu-id="596f4-117">Выражайте и получайте благодарность за хорошо проделанную работу.</span><span class="sxs-lookup"><span data-stu-id="596f4-117">Give and receive recognition for a job well done.</span></span> <span data-ttu-id="596f4-118">Достижения и эмблемы отображаются в профилях на вкладке **благодарность** .</span><span class="sxs-lookup"><span data-stu-id="596f4-118">Accomplishments and badges appear on profiles in the **Praise** tab.</span></span>
+ 
+## <a name="user-profiles"></a><span data-ttu-id="596f4-119">Профили пользователей</span><span class="sxs-lookup"><span data-stu-id="596f4-119">User profiles</span></span>
+
+<span data-ttu-id="596f4-120">Отправьте фотографию, заполните контактные сведения и перечислите свои знания.</span><span class="sxs-lookup"><span data-stu-id="596f4-120">Upload a picture, fill in contact details, and list your expertise.</span></span> <span data-ttu-id="596f4-121">В профилях содержится вся ваша информация, в том числе беседы и файлы.</span><span class="sxs-lookup"><span data-stu-id="596f4-121">Profiles aggregate all your information, including conversations and files.</span></span>
   
-## <a name="member-directory"></a><span data-ttu-id="73c0b-113">Member Directory</span><span class="sxs-lookup"><span data-stu-id="73c0b-113">Member Directory</span></span>
-<span data-ttu-id="73c0b-114"><a name="bkmk_MemberDirectory"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-114"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="596f4-122">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="596f4-122">Feature availability</span></span>
 
-<span data-ttu-id="73c0b-115">В каталоге участников вы сможете найти коллег из своей группы и сотрудников во всей компании.</span><span class="sxs-lookup"><span data-stu-id="73c0b-115">Browse the Member Directory to find people on your team and coworkers from across the company.</span></span>
-  
-## <a name="org-chart"></a><span data-ttu-id="73c0b-116">Организационная диаграмма</span><span class="sxs-lookup"><span data-stu-id="73c0b-116">Org Chart</span></span>
-<span data-ttu-id="73c0b-117"><a name="bkmk_OrgChart"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-117"></span></span>
-
-<span data-ttu-id="73c0b-p103">Добавляйте руководителей и подчиненных, чтобы создать организационную диаграмму вместе с коллегами. Данные организационной диаграммы автоматически отображаются в профилях.</span><span class="sxs-lookup"><span data-stu-id="73c0b-p103">Add managers and reports to create a company org chart together with your coworkers. Org Chart information automatically appears on profiles.</span></span>
-  
-## <a name="praise"></a><span data-ttu-id="73c0b-120">Благодарность</span><span class="sxs-lookup"><span data-stu-id="73c0b-120">Praise</span></span>
-<span data-ttu-id="73c0b-121"><a name="bkmk_Praise"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-121"></span></span>
-
-<span data-ttu-id="73c0b-p104">Выражайте и получайте благодарность за хорошо проделанную работу. Достижения и значки отображаются на вкладке "Благодарность" профилей.</span><span class="sxs-lookup"><span data-stu-id="73c0b-p104">Give and receive recognition for a job well done. Accomplishments and badges appear on profiles in the Praise tab.</span></span>
-  
-## <a name="leaderboards"></a><span data-ttu-id="73c0b-124">Списки лидеров</span><span class="sxs-lookup"><span data-stu-id="73c0b-124">Leaderboards</span></span>
-<span data-ttu-id="73c0b-125"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-125"></span></span>
-
-<span data-ttu-id="73c0b-p105">Отмечайте сотрудников, которые вносят большой вклад в работу. В списках лидеров отображаются сотрудники с наибольшим числом сообщений, ответов на сообщения и наибольшим числом понравившихся сообщений.</span><span class="sxs-lookup"><span data-stu-id="73c0b-p105">Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
-  
-## <a name="feature-availability"></a><span data-ttu-id="73c0b-128">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="73c0b-128">Feature Availability</span></span>
-<span data-ttu-id="73c0b-129"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="73c0b-129"></span></span>
-
-<span data-ttu-id="73c0b-130">Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="73c0b-130">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="596f4-123">Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="596f4-123">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
 
