@@ -12,35 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: В Yammer доступны следующие возможности работы с группами.
-ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777980"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726352"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="09bfd-103">Функции работы с группами в Yammer</span><span class="sxs-lookup"><span data-stu-id="09bfd-103">Group Features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="d2108-103">Функции работы с группами в Yammer</span><span class="sxs-lookup"><span data-stu-id="d2108-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="09bfd-104">В Yammer доступны следующие возможности работы с группами.</span><span class="sxs-lookup"><span data-stu-id="09bfd-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="d2108-104">В Yammer доступны следующие возможности работы с группами.</span><span class="sxs-lookup"><span data-stu-id="d2108-104">The following group features are available in Yammer.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="09bfd-105">Группы</span><span class="sxs-lookup"><span data-stu-id="09bfd-105">Groups</span></span>
-<span data-ttu-id="09bfd-106"><a name="bkmk_Groups"> </a></span><span class="sxs-lookup"><span data-stu-id="09bfd-106"></span></span>
+## <a name="announcements"></a><span data-ttu-id="d2108-105">Announcements</span><span class="sxs-lookup"><span data-stu-id="d2108-105">Announcements</span></span>
 
-<span data-ttu-id="09bfd-107">Вы можете настроить группу для любого отдела или проекта, например для рассылки новостей внутри отдела или запуска маркетинговой кампании.</span><span class="sxs-lookup"><span data-stu-id="09bfd-107">From departmental communications to your next campaign launch or company event, set up a Group in seconds for any team, project or interest.</span></span>
+<span data-ttu-id="d2108-106">Опубликуйте объявление для группы, чтобы мгновенно уведомить участников о важных обновлениях.</span><span class="sxs-lookup"><span data-stu-id="d2108-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="d2108-107">Администраторы могут закреплять объявления в группе для упрощения обнаружения.</span><span class="sxs-lookup"><span data-stu-id="d2108-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="09bfd-108">Связанные группы</span><span class="sxs-lookup"><span data-stu-id="09bfd-108">Related Groups</span></span>
-<span data-ttu-id="09bfd-109"><a name="bkmk_RelatedGroups"> </a></span><span class="sxs-lookup"><span data-stu-id="09bfd-109"></span></span>
+## <a name="groups"></a><span data-ttu-id="d2108-108">Группы</span><span class="sxs-lookup"><span data-stu-id="d2108-108">Groups</span></span>
 
-<span data-ttu-id="09bfd-110">Вы можете добавлять группы, связанные с теми группами, в которые вы уже добавлены, а также назначать им приоритеты, чтобы сотрудники могли быстрее находить нужных специалистов, интересующий их контент и беседы.</span><span class="sxs-lookup"><span data-stu-id="09bfd-110">You can add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="d2108-109">Из связи между подразделениями и рабочими событиями можно настроить группу в секундах для любой команды, проекта или интересов.</span><span class="sxs-lookup"><span data-stu-id="d2108-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="09bfd-111">Объявления</span><span class="sxs-lookup"><span data-stu-id="09bfd-111">Announcements</span></span>
-<span data-ttu-id="09bfd-112"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="09bfd-112"></span></span>
+## <a name="related-groups"></a><span data-ttu-id="d2108-110">Связанные группы</span><span class="sxs-lookup"><span data-stu-id="d2108-110">Related groups</span></span>
 
-<span data-ttu-id="09bfd-p101">Опубликуйте объявление для группы, чтобы мгновенно уведомить участников о важных обновлениях. Администраторы могут закреплять объявления для группы, чтобы упростить их поиск.</span><span class="sxs-lookup"><span data-stu-id="09bfd-p101">Share an announcement with a group to instantly notify members of important updates. Administrators can pin Announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="d2108-111">Добавьте и назначьте приоритеты группам, связанным с уже включенными, чтобы сотрудники могли находить еще больше релевантных людей, контента и бесед.</span><span class="sxs-lookup"><span data-stu-id="d2108-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="09bfd-115">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="09bfd-115">Feature Availability</span></span>
-<span data-ttu-id="09bfd-116"><a name="bkmk_Announcements"> </a></span><span class="sxs-lookup"><span data-stu-id="09bfd-116"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="d2108-112">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="d2108-112">Feature availability</span></span>
 
-<span data-ttu-id="09bfd-117">Просмотреть функции, доступные в планах Office 365, отдельных и локальных решениях, можно в статье [Описание службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="09bfd-117">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="d2108-113">Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="d2108-113">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
-
