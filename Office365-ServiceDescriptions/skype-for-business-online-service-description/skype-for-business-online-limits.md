@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Предельные значения в Skype для бизнеса Online делятся на следующие категории:'
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Предельные значения в Skype для бизнеса Online делятся на следующие категории.
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777810"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726068"
 ---
 # <a name="skype-for-business-online-limits"></a>Ограничения Skype для бизнеса online
 
@@ -68,7 +68,6 @@ ms.locfileid: "35777810"
 > <sup>1</sup> . Клиент может начать чат, используя до 99 пользователей, либо вручную добавив или отправив мгновенное сообщение из контекстного меню группы или списка рассылки. Дополнительные сведения об обмене мгновенными сообщениями в Skype для бизнеса Online можно найти [в статье Отправка мгновенных сообщений в Skype для бизнеса](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Ограничения собрания
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **Ограничение на передачу файлов** Максимальный размер файлов, которые можно передать на собрании Skype для бизнеса, в том числе раздаточные материалы и презентации PowerPoint. 
     
@@ -112,7 +111,6 @@ ms.locfileid: "35777810"
 |Участники группового звонка  <br/> |25  <br/> |Неприменимо  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Ограничения на хранение собраний
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **Период хранения контента собрания.** Промежуток времени после выхода из собрания последнего человека, в течение которого отправленный контент собрания хранится в Skype для бизнеса перед окончательным удалением. 
     
@@ -131,10 +129,7 @@ ms.locfileid: "35777810"
 |Повторяющееся собрание без даты окончания| Собрание всегда будет доступно при условии, что существуют новые подключения к Конференции или планирование обновлений по крайней мере один раз в год
 |Начать собрание|Собрание будет доступно не менее чем на 8 часов.
 
-
-  
 ## <a name="minute-limits"></a>Ограничение минут
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Для получения сведений об ограничениях по минутам в плане внутренних звонков Office 365 или Office 365 для международных звонков щелкните [здесь](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Сведения об ограничениях по минутам в плане внутренних звонков Office 365 и Office 365 для международных звонков можно найти в разделе [страна и регион для конференц-связи и планов звонков](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
   

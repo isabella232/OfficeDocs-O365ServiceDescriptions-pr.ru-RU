@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633538"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701711"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -573,7 +573,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Да|Да|Да|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|
-|[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services)|Да|Да|Да|Да|Да|Да|Да|
+|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service)|Да|Да|Да|Да|Да|Да|Да|
 |BCS: оповещения для внешних списков|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
@@ -694,7 +694,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |WCM: Визуализация на мобильных устройствах и устройствах|Да|Нет|Да|Да|Да|Да|Да|
 |WCM: несколько доменов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Да|Нет|Да|Да|Да|Да|Да|
-|[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Да|Нет|Да|Да|Да|Да|Да|
+|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Да|Нет|Да|Да|Да|Да|Да|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Функции аналитики**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -756,7 +756,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|Да|Да|Да|
 |[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Нет|Да,<sup>13</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
 |My Tasks|Да|Нет|Да|Да|Да|Да|Да|
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Да|Нет|Да|Да|Да|Да|Да|
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|Да|Да|Да|

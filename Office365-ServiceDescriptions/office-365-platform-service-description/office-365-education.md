@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office Desktop с облачными версиями служб&mdash;взаимодействия и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для веб-сайт и Microsoft Skype для бизнеса&mdash;Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595277"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701401"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -829,7 +829,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |BCS: оповещения для внешних списков <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -951,7 +951,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |WCM: Визуализация на мобильных устройствах и устройствах <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |WCM: несколько доменов <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |WCM: Recommendations <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Функции аналитики** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
@@ -1011,7 +1011,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Гибридная среда OneDrive для бизнеса и сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
 |My Tasks <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

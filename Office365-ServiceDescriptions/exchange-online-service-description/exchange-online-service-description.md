@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Сравниваете функции, которые предусмотрены в подписках на Office 365, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581945"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701368"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -245,7 +245,7 @@ Microsoft Exchange Online  это размещенное решение для
 |Папка "Несрочные"|Нет|Нет|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|
 |Делегированный доступ|Да|Да|Да\|, да|Нет|
-|Правила для папки "Входящие"|Да|Да|Да|Да|Нет|
+|Правила для папки "Входящие"|Да|Да|Да|Да|Да|
 |Подключенные учетные записи|Да|Да|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|
 |Неактивные почтовые ящики|Нет|Нет|Нет <sup>6</sup>|Да|Нет <sup>6</sup>|
 |Автономная адресная книга|Да|Да|Да|Да|Да|

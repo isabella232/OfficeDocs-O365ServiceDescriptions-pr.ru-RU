@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595297"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701691"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -550,7 +550,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|
-|[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services)|Да|Да|Да|Да|
+|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service)|Да|Да|Да|Да|
 |BCS: оповещения для внешних списков|Нет|Нет|Нет|ДА|
 |[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|ДА|
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|ДА|
@@ -670,7 +670,7 @@ Office 365 Германия соответствует стандартам Clou
 |WCM: Визуализация на мобильных устройствах и устройствах|Нет|Нет|Да|Да|
 |WCM: несколько доменов|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Нет|Нет|Да|Да|
-|[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Нет|Нет|Да|Да|
+|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Нет|Нет|Да|Да|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|
 |**Функции аналитики**|**OneDrive для бизнеса План 1**|**OneDrive для бизнеса План 2**|**SharePoint Online (план 1)**|**SharePoint Online (план 2)**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Нет|Нет|Нет|Да|
@@ -730,7 +730,7 @@ Office 365 Германия соответствует стандартам Clou
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|
 |[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|
 |[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Да,<sup>3</sup>|Да,<sup>3</sup>|Да|Да|
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да|Да|Да|Да|
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Да|Да|Да|Да|
 |My Tasks|Нет|Нет|Да|Да|
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Нет|Нет|Да|Да|
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|
@@ -807,7 +807,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Службы управления приложениями](../sharepoint-online-service-description/developer.md#app-management-services)|Да|Да|Да|Да|Да|Да|Да|Да|
+|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service)|Да|Да|Да|Да|Да|Да|Да|Да|
 |BCS: оповещения для внешних списков|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
 |[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|Да|Нет|Да|Да|Нет|
@@ -928,7 +928,7 @@ Office 365 Германия соответствует стандартам Clou
 |WCM: Визуализация на мобильных устройствах и устройствах|Да|Нет|Да|Да|Да|Да|Да|Да|
 |WCM: несколько доменов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Да|Нет|Да|Да|Да|Да|Да|Да|
-|[WCM: оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Да|Нет|Да|Да|Да|Да|Да|Да|
+|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Функции аналитики**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Нет|Нет|Нет|Нет|Нет|Да|Да|Нет|
@@ -990,7 +990,7 @@ Office 365 Германия соответствует стандартам Clou
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
 |[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Нет|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|Да,<sup>11</sup>|
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
+|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
 |My Tasks|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|Да|Да|Да|Да|
