@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633466"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734127"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "37633466"
   
 Microsoft Office 365 обеспечивает мощь облачных возможностей для предприятий всех размеров, позволяя экономить время, деньги и освобождать ценные ресурсы. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт следующего поколения, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
   
-Сравнение функций в планах приведено в статье [Сравнение планов Office 365 для бизнеса](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) или, более подробный список функций, приведено в описании соответствующего описания службы в [описании службы Office 365 ](../office-365-service-descriptions-technet-library.md).
+Сравнение функций в планах приведено в статье [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) или, более подробный список функций, приведено в описании соответствующего описания службы в [описании службы Office 365 ](../office-365-service-descriptions-technet-library.md).
   
 - Если вас интересуют планы Office 365 для образования, начните со страницы [Office 365 для образования](office-365-education.md). 
     
@@ -45,7 +45,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
   
 ## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 для некоммерческих организаций: планы и цены
 
-Планы Office 365: для некоммерческих организаций включают те же функции, что и соответствующие бизнес-планы (например, Office 365: для некоммерческих организаций E5 включает те же функции, как Office 365: корпоративный E5). Единственное отличие между эквивалентными планами  цена. Дополнительные сведения о планах Office 365: для некоммерческих организаций см. в статье [Office 365 для некоммерческих организаций: планы и цены](http://go.microsoft.com/fwlink/?LinkID=627221) и ответах на [часто задаваемые вопросы](http://go.microsoft.com/fwlink/?LinkID=786641).
+Планы Office 365: для некоммерческих организаций включают те же функции, что и соответствующие бизнес-планы (например, Office 365: для некоммерческих организаций E5 включает те же функции, как Office 365: корпоративный E5). Единственное отличие между эквивалентными планами  цена. Дополнительные сведения о планах Office 365: для некоммерческих организаций см. в статье [Office 365 для некоммерческих организаций: планы и цены](https://go.microsoft.com/fwlink/?LinkID=627221) и ответах на [часто задаваемые вопросы](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -81,13 +81,13 @@ Microsoft Office 365 обеспечивает мощь облачных возм
     
 - Для образования: [Office 365 для образования: планы и цены](https://go.microsoft.com/fwlink/?LinkID=827897)
     
-- Для государственных организаций США: [Планы Office 365 для государственных организаций США](http://go.microsoft.com/fwlink/?LinkID=827898)
+- Для государственных организаций США: [Планы Office 365 для государственных организаций США](https://go.microsoft.com/fwlink/?LinkID=827898)
     
 - Для некоммерческих организаций: [Office 365 для некоммерческих организаций: планы и цены](https://go.microsoft.com/fwlink/?LinkID=733237).
     
 - Office 365 Germany: [Планы Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
-Некоторые планы Office 365 для бизнеса предусматривают возможность приобретения определенных надстроек для подписки. С помощью надстроек можно расширить возможности подписки. Дополнительные сведения см. в разделе "Надстройки, доступные для разных выпусков Office 365 для бизнеса" в статье [Покупка и изменение надстроек для Office 365 для бизнеса](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Некоторые планы Office 365 для бизнеса предусматривают возможность приобретения определенных надстроек для подписки. С помощью надстроек можно расширить возможности подписки. Дополнительные сведения см. в разделе "Надстройки, доступные для разных выпусков Office 365 для бизнеса" в статье [Покупка и изменение надстроек для Office 365 для бизнеса](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -209,7 +209,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 > <sup>1</sup> Office 365 не обеспечивает поддержку операционной системы, которая не поддерживается производителем. 
 <br/><sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Клиентские приложения Office, поставляемые с Microsoft 365 Business, также поддерживают полную функциональность Azure Information Protection (план 1).
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> для уменьшения количества рабочих мест, приобретенных с термином скидка, может быть вызвана оплата за ранние увольнения. Это не относится к подпискам, оплачиваемым помесячно. 
 <br/><sup>7</sup> доступно в [https://securescore.office.com](https://securescore.office.com). Требуются разрешения администратора. Дополнительные сведения см. [в статье Введение в Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 
 <br/><sup>8</sup> Microsoft Sway в настоящее время недоступен для пользователей в определенных географических регионах. Некоторые устаревшие планы Office 365, которые больше не отображаются на рынке до 2015 августа, также могут не иметь доступа к Microsoft Sway. 
@@ -220,7 +220,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 <br/><sup>13</sup> в Office 365 Enterprise F1, PowerApps ограничен только потреблением (без публикации или общего доступа). 
 <br/><sup>14</sup> в Office 365 Enterprise F1, поток ограничен только потреблением и работает только до 750 на одного пользователя в месяц. 
 <br/><sup>15</sup> доступно только в планах Office 365 для образовательных учреждений, в том числе Office 365 для образования. Она недоступна в Office 365 корпоративный "~". 
-<br/><sup>16</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>16</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
 <br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
 <br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
 <br/><sup>19</sup> начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.

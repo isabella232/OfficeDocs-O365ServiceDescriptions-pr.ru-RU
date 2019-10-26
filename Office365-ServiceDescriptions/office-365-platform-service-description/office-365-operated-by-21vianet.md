@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701711"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734147"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -200,8 +200,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>6</sup> для уменьшения количества рабочих мест, приобретенных с термином скидка, может быть вызвана оплата за ранние увольнения. Это не относится к подпискам, оплачиваемым помесячно.<br/>
 <sup>7</sup> в Office 365 для образовательных заведений не поддерживается изменение лицензий в центре администрирования Microsoft 365.<br/>
 <sup>8</sup> Microsoft Sway в настоящее время недоступен для пользователей в определенных географических регионах. Некоторые устаревшие планы Office 365, которые больше не отображаются на рынке до 2015 августа, также могут не иметь доступа к Microsoft Sway. <br/>
-<sup>9</sup> для Office 365 под управлением 21vianet обратитесь [к соглашению](http://www.21vbluecloud.com/office365/O365-SLA/)об уровне обслуживания.<br/>
-<sup>10</sup> для Office 365 под управлением 21vianet, ознакомьтесь со [стандартным соглашением 21Vianet's Online Services для Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
+<sup>9</sup> для Office 365 под управлением 21vianet обратитесь [к соглашению](https://www.21vbluecloud.com/office365/O365-SLA/)об уровне обслуживания.<br/>
+<sup>10</sup> для Office 365 под управлением 21vianet, ознакомьтесь со [стандартным соглашением 21Vianet's Online Services для Office 365](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
 <br/>
 <sup>11</sup> Китая политика соответствия требованиям в Интернете требует получения номера поставщика Интернет-содержимого (ICP) для общедоступного веб-сайта. Более подробную информацию можно узнать в соответствующем разделе ICP. <br/>
 <sup>12</sup> часть контента не может быть применена к Office 365 под управлением 21vianet.<br/>

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online обеспечивает расширенную поддержку хранения и восстановления для инфраструктуры электронной почты организации. Сюда входят репликация почтовых ящиков в центрах обработки данных и возможность восстановления удаленных почтовых ящиков и элементов.
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581975"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734247"
 ---
 # <a name="high-availability-and-business-continuity"></a>Высокая доступность и непрерывность бизнеса
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online обеспечивает расширенную под
 
 Почтовые ящики Exchange Online постоянно реплицируются с созданием нескольких копий базы данных в географически распределенных центрах обработки данных Майкрософт, чтобы обеспечить возможность восстановления данных в случае локального сбоя инфраструктуры обмена сообщениями. В случае крупномасштабных сбоев инициируются процедуры по управлению непрерывностью обслуживания.
   
-Дополнительные сведения о том, как корпорация Майкрософт защищает ваши данные, см. на странице [Центр управления безопасностью Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Если у вас есть план Office 365:, которым управляет 21Vianet, см. страницу [Центр 21Vianet для управления безопасностью](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Дополнительные сведения о том, как корпорация Майкрософт защищает ваши данные, см. на странице [Центр управления безопасностью Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Если у вас есть план Office 365:, которым управляет 21Vianet, см. страницу [Центр 21Vianet для управления безопасностью](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Восстановление удаленного почтового ящика
 

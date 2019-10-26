@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для служб уровня клиента Microsoft 365, которые помогают избежать возможного отказа служб из-за нелицензированного доступа.
-ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582035"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734197"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Рекомендации по лицензированию служб на уровне клиента Microsoft 365
 
@@ -123,7 +123,7 @@ Office 365 Cloud App Security (ОКАС) является подмножеств
 
 Лицензированные пользователи Office 365/A5/A5/G5 могут выиграть от ОКАС.
 
-Дополнительные сведения можно найти в [таблице лицензирования Microsoft Cloud App Security](http://www.aka.ms/mcaslicensing).
+Дополнительные сведения можно найти в [таблице лицензирования Microsoft Cloud App Security](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
@@ -153,7 +153,7 @@ Microsoft Cloud App Security (МКАС) — это решение брокера
 
 Чтобы воспользоваться преимуществами [автоматической маркировки](https://docs.microsoft.com/cloud-app-security/data-protection-policies), пользователям необходимо лицензироваться с Azure Information Protection P2, которая включена в Enterprise Mobility + Security/A5/A5/G5, Microsoft 365 в ~/A5/G5 и соответствие требованиям корпорации Майкрософт 365 о том, что требуется.
 
-Дополнительные сведения можно найти в [таблице лицензирования Microsoft Cloud App Security](http://www.aka.ms/mcaslicensing).
+Дополнительные сведения можно найти в [таблице лицензирования Microsoft Cloud App Security](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 

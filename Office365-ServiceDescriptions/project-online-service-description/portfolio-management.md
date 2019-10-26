@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: В Project Online доступны следующие функции управления портфелем.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633746"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733880"
 ---
 # <a name="portfolio-management"></a>Управление портфелем
 
@@ -25,11 +25,11 @@ ms.locfileid: "37633746"
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Анализ проектов и оптимизация портфеля
 
-Проанализируйте свои проекты, чтобы определить, какой из них предоставит вам лучший доход от инвестиций в бюджет и ресурсы. Этот процесс называется анализом портфеля. Для получения дополнительных сведений см раздел [Использование диаграммы анализа портфеля](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
+Проанализируйте свои проекты, чтобы определить, какой из них предоставит вам лучший доход от инвестиций в бюджет и ресурсы. Этот процесс называется анализом портфеля. Для получения дополнительных сведений см раздел [Использование диаграммы анализа портфеля](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
   
 ## <a name="create-and-edit-projects"></a>Создание и изменение проектов
 
-Возможность создания проектов различными способами. Дополнительные сведения см. в статье [Создание проекта в Project Web App](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
+Возможность создания проектов различными способами. Дополнительные сведения см. в статье [Создание проекта в Project Web App](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
   
 ## <a name="enterprise-resource-management"></a>Управление корпоративными ресурсами
 

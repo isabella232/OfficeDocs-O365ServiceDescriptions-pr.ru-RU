@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.
-ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+description: Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы в Организации, что помогает принимать более эффективные бизнес-решения.
+ms.openlocfilehash: f048b57a1a41137941fe80edbdcc3f683fd23718
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998532"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733620"
 ---
 # <a name="workplace-analytics-service-description"></a>Описание службы Workplace Analytics
 
-Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы вашей компании для принятия более эффективных бизнес-решений.
+Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы в Организации, что помогает принимать более эффективные бизнес-решения.
 
 ## <a name="transform-unprecedented-insights-into-action"></a>Преобразование невлияющих сведений в действие
 

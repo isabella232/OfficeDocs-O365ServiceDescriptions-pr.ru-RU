@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, основанная на Microsoft SharePoint Server 2013, идеально подходит для работы с проектами, хранения данных и документов в централизованном расположении и обмена информацией с другими. Следующие возможности работы с контентом упрощают управление корпоративным информационным содержимым (ECM) для каждого. Это сочетание традиционного управления контентом, социальных возможностей и мощного поиска.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726266"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733960"
 ---
 # <a name="content"></a>Контент
 
@@ -172,7 +172,7 @@ SharePoint Online это набор средств и технологий, ос
     
 Изменения сайта, сделанные с помощью SharePoint Designer, не хранятся в корзине. 
   
-Дополнительные сведения см. в статье [Управление корзиной семейства веб-сайтов SharePoint Online](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Дополнительные сведения см. в статье [Управление корзиной семейства веб-сайтов SharePoint Online](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Веб-части поиска
 

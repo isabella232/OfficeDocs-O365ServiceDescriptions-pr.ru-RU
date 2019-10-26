@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582005"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733870"
 ---
 # <a name="planning-and-deployment"></a>Планирование и развертывание
 
@@ -38,7 +38,7 @@ ms.locfileid: "37582005"
 
 Гибридное развертывание, доступное для Microsoft Exchange 2003, Exchange 2007, Exchange 2010 и Exchange 2013, позволяет обеспечить долгосрочное сосуществование, где некоторые почтовые ящики размещаются локально, а другие почтовые ящики  в Exchange Online. Его можно использовать до переноса всех пользовательских почтовых ящиков в Exchange Online. Гибридное развертывание позволяет организациям расширять многофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange на облако. Функции гибридного развертывания включают защищенный транспорт почты, общие календарные данные о занятости, а также отслеживание сообщений между локальной организацией и Exchange Online.
   
-Дополнительные сведения о гибридных развертываниях см. в статье [Гибридные развертывания Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Если у вас есть план Office 365:, которым управляет 21Vianet, см. статью [Настройка компонентов гибридного развертывания Exchange для плана Office 365, которым управляет 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+Дополнительные сведения о гибридных развертываниях см. в статье [Гибридные развертывания Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Если у вас есть план Office 365:, которым управляет 21Vianet, см. статью [Настройка компонентов гибридного развертывания Exchange для плана Office 365, которым управляет 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
 > Локальные организации Exchange 2003 должны установить по крайней мере один сервер почтовых ящиков или клиентского доступа Exchange 2010 для настройки гибридного развертывания с Exchange Online. Локальные организации Exchange 2007 должны установить по крайней мере один сервер почтовых ящиков или клиентского доступа Exchange 2010 или Exchange 2013 для настройки гибридного развертывания с Exchange Online. Локальные организации Exchange 2010 и Exchange 2013 поддерживают гибридное развертывание с Exchange Online изначально. Дополнительные сведения о совместимости сервера Exchange Server при гибридном развертывании см. в разделе [Необходимые условия для гибридного развертывания](https://go.microsoft.com/fwlink/p/?LinkId=243541)> Локальную организацию Exchange необходимо настроить для гибридного развертывания. Мы настоятельно рекомендуем администраторам использовать помощник по развертыванию Exchange Server и мастер гибридной конфигурации. Чтобы узнать больше, откройте [Помощник по развертыванию Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)

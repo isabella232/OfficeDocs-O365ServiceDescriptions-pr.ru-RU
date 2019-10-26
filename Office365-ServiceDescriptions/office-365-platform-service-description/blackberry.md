@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Смартфоны BlackBerry® могут получать доступ к электронной почте и документам в Office 365:.
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523474"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734167"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ ms.locfileid: "37523474"
   
 Служба BIS предоставляется большинством мобильных операторов, поэтому пользователям потребуется настроить синхронизацию электронной почты, календаря и контактов, следуя инструкциям в указанных ниже статьях базы знаний.
   
-- [KB31310. Службы BlackBerry Internet Service и Microsoft Office 365](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310. Службы BlackBerry Internet Service и Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561. Как настроить синхронизацию календаря на смартфоне BlackBerry при беспроводном подключении](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561. Как настроить синхронизацию календаря на смартфоне BlackBerry при беспроводном подключении](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430. Как включить или отключить синхронизацию контактов с помощью BlackBerry Internet Service при беспроводном подключении](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430. Как включить или отключить синхронизацию контактов с помощью BlackBerry Internet Service при беспроводном подключении](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > Пользователи, которые получают доступ к своим учетным записям с использованием протоколов IMAP или POP, могут синхронизировать свою электронную почту только с помощью беспроводного соединения. Чтобы узнать, как пользователи BIS могут синхронизировать контакты и календарь между смартфоном BlackBerry и своей учетной записью при проводном подключении, обратитесь в службу поддержки BlackBerry. 

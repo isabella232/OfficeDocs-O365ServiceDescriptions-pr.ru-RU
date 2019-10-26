@@ -14,15 +14,15 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
 description: Требования к системе для Office 365, основанные на месячной подписке для бизнес-, образовательных и правительственных организаций, приведены в статье требования к системе для Office на сайте office.com products.
-ms.openlocfilehash: ec88fce805e8bb76924eadc54ceb1c6827def0c6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 28f300fa3874b356105d33d00163b39c83c86cd1
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777290"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734107"
 ---
 # <a name="office-365-system-requirements"></a>Требования к системе для Office 365
 
-Требования к системе для Office 365, основанные на месячной подписке для бизнес-, образовательных и правительственных организаций, приведены в статье [требования к системе для Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) на сайте [Office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) Products. 
+Требования к системе для Office 365, основанные на месячной подписке для бизнес-, образовательных и правительственных организаций, приведены в статье [требования к системе для Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) на сайте [Office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) Products. 
   
 
