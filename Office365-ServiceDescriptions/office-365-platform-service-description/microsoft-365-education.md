@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
-ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595257"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890405"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
@@ -106,7 +106,7 @@ Microsoft 365 представляет собой полноценную сис�
 > <sup>8</sup> включает Intune. <br/>
 > <sup>9</sup> Servers и Cal включены для Exchange, SharePoint и Skype для бизнеса. <br/>
 > <sup>10</sup> ECAL или Core CAL, в зависимости от приобретенной версии A3 (при наличии A5 права ECAL включены). <br/>
-> <sup>11</sup> дополнительные сведения о Azure Active Directory можно узнать в статье [что такое Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>11</sup> дополнительные сведения о Azure Active Directory можно узнать в статье [что такое Active Directory?](https://docs.microsoft.com/azure/active-directory/active-directory-whatis). <br/>
 > <sup>12</sup> Office профессиональный плюс требуется для применения защиты и отправки защищенных сообщений с рабочего стола Outlook. 
   
 
