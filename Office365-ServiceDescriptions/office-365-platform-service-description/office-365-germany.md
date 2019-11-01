@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734267"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911812"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -143,7 +143,7 @@ Office 365 Германия соответствует стандартам Clou
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления служб](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Обновления службы](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
 |Roadmap.office.com для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|Да|
@@ -337,7 +337,7 @@ Office 365 Германия соответствует стандартам Clou
 
 ||||
 |:-----|:-----|:-----|
-|**Приложение**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
+|**Application**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
 |Word|Word в Интернете|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel в Интернете|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote в Интернете|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -381,7 +381,7 @@ Office 365 Германия соответствует стандартам Clou
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -765,7 +765,7 @@ Office 365 Германия соответствует стандартам Clou
 |личный сайт;|Да|Да|Да|Да|
 |Фотографии и сведения о присутствии|Да|Да|Да|Да|
 |Профиль|Да|Да|Да|Да|
-|Оценки|Да|Да|Да|Да|
+|Ratings|Да|Да|Да|Да|
 |Shared with Me|Да|Да|Да|Да|
 |[Веб-канал сайта (классический сайт группы с использованием SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Нет|Нет|Да|Да|
 |OneDrive для бизнеса|Да|Да|Да|Да|
@@ -786,7 +786,7 @@ Office 365 Германия соответствует стандартам Clou
 
 ## <a name="project-online-features"></a>Функции Project Online
 
-В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -1025,7 +1025,7 @@ Office 365 Германия соответствует стандартам Clou
 |личный сайт;|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Фотографии и сведения о присутствии|Да|Да|Да|Да|Да|Да|Да|Да|
 |Профиль|Да|Да|Да|Да|Да|Да|Да|Да|
-|Оценки|Да|Да|Да|Да|Да|Да|Да|Да|
+|Ratings|Да|Да|Да|Да|Да|Да|Да|Да|
 |Shared with Me|Да|Да|Да|Да|Да|Да|Да|Нет|
 |[Веб-канал сайта (классический сайт группы с использованием SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да<sup>2</sup>|

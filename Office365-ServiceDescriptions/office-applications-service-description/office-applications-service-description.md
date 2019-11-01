@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765630"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911822"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -124,5 +124,5 @@ Microsoft Office 365 — это служба подписки, предоста�
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Нет  <br/> |Нет  <br/> |
    
 > <sup>1</sup> для Office 2016 для Mac требуется Mac OS X 10,10 или более поздней версии. Для клиентов, подключающихся к Exchange через Outlook для Mac, требуется подключение к Microsoft Exchange Server 2010 с пакетом обновления 2 (SP2) или более поздней версии. Чтобы узнать больше, ознакомьтесь со статьей [требования к системе для Office](https://products.office.com/en-US/office-system-requirements).<br/>
-<sup>2</sup> доступно как отдельное скачивание из Store App Store. Дополнительные сведения см. в разделе [OneNote для Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
+<sup>2</sup> доступно как отдельное скачивание из Store App Store. Дополнительные сведения см. в разделе [OneNote для Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> Office для Mac 2011 можно установить, но не активировать.

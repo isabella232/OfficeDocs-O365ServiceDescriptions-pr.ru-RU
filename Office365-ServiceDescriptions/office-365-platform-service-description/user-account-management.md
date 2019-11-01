@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
-ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
+ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890058"
+ms.locfileid: "37911800"
 ---
 # <a name="user-account-management"></a>Управление учетными записями пользователей
 
@@ -184,7 +184,7 @@ Office 365: использует проверку подлинности на о
   
 ## <a name="azure-active-directory-services"></a>Службы Azure Active Directory
 
-Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Дополнительные сведения о функциях AD в Office 365 см. в статье [Фирменная символика страницы входа и самостоятельный сброс пароля пользователя облака](https://blogs.office.com/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Узнайте больше о [выпусках Free, Basic и Premium службы Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Дополнительные сведения о функциях AD в Office 365 см. в статье [Фирменная символика страницы входа и самостоятельный сброс пароля пользователя облака](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Узнайте больше о [выпусках Free, Basic и Premium службы Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Доступность функций
 
