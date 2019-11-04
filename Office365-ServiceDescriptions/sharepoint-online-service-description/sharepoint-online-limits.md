@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint Online для корпоративных и автономных планов Office 365.
-ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5a75e3b8f51feb6b6dc7318355b09e3e3cc4909f
+ms.sourcegitcommit: fcfec093e77bafd9940d94c8c3439b2fa3e007f8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726188"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37932013"
 ---
 # <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online
 
@@ -27,7 +27,7 @@ ms.locfileid: "37726188"
 |**Функция** <br/> |**Office 365 бизнес Essentials или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3 или в SharePoint Online (план 1) или 2** <br/> | **Office 365 корпоративный F1** <br/> |
 |Общее хранилище для организации<sup>1, 2</sup> <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию  <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Максимальное хранилище для семейства веб-сайтов<sup>4</sup><br/> |25 ТБ <br/> |25 ТБ <br/> |25 ТБ<sup>5</sup> <br/> |
-|Семейства веб-сайтов в Организации  <br/> |1 000 000<sup>6</sup> <br/> |1 000 000<sup>6</sup> <br/> |1 миллион<br/> |
+|Семейства веб-сайтов в Организации  <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<br/> |
 |Количество пользователей  <br/> |До 300  <br/> |1-500 000<sup>7</sup> <br/> |1-500 000<sup>7</sup> <br/> |
    
 <sup>1</sup> [Узнайте, как найти общее и доступное хранилище для Организации](/sharepoint/manage-site-collection-storage-limits). Вы можете приобрести неограниченное количество дополнительных хранилищ SharePoint. В разделе изменение дискового [пространства для подписки](/office365/admin/subscriptions-and-billing/add-storage-space). 
