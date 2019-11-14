@@ -112,5 +112,8 @@
 
 ### [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
 ### [Руководство по лицензированию служб Microsoft 365 на уровне клиента](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+#### [Планирование соответствия требованиям Microsoft 365 — развертывания DoD](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
+#### [Планирование соответствия требованиям Microsoft 365 — GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
+#### [Планирование соответствия требованиям Microsoft 365 — GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Описание веб-службы Microsoft Dynamics 365](microsoft-dynamics-365-online-service-description.md)
 
