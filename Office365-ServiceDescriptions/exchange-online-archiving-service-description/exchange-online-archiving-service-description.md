@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581865"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319477"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -42,7 +42,7 @@ ms.locfileid: "37581865"
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии). Дополнительные сведения см. [в разделе Лицензирование "краткое лицензирование" основного набора CAL и комплекта Cal Enterprise CAL](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 бизнес <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/> Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Гибридное развертывание не требуется для облачных организаций, почтовые ящики которых не хранятся на локальном сервере Exchange Server. Однако если у вас есть локальные почтовые ящики, гибридное развертывание необходимо.
