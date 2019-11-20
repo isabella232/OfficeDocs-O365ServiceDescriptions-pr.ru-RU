@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 — это облачная служба, предназначенная для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890455"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38726087"
 ---
 # <a name="office-365-service-descriptions"></a>Описание служб Office 365 
 
@@ -56,6 +56,8 @@ Microsoft Office 365 — это облачная служба, предназн�
     
 - [Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
+- [Описание службы информационного сообщения электронной почты](briefing-service-description.md)
+
 - [Описание службы Workplace Analytics](workplace-analytics-service-description.md)
 
 - [Описание службы MyAnalytics](mya-service-description.md)

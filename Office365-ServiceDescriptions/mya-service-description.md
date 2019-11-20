@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Функции MyAnalytics, распространение, конфиденциальность и необходимые условия
-ms.openlocfilehash: e557c1043579bf38fa3504686551e76609d211b9
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: ceb62bdbfe71ba9a9871194d6135ad8021723a2f
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998481"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724707"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
 
@@ -49,6 +49,6 @@ MyAnalytics состоит из следующих элементов:
 
 [Узнайте больше о том, как MyAnalytics может помочь вам эффективнее работать](https://products.office.com/business/myanalytics-personal-analytics).
 
-## <a name="prerequisites"></a>Необходимые условия
+## <a name="prerequisites"></a>Необходимые компоненты
 
 * [Microsoft Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
