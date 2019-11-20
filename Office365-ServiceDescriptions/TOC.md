@@ -79,6 +79,7 @@
 ## [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Функции Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Ограничения Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [Описание службы информационных писем](briefing-service-description.md)
 ## [Описание службы Workplace Analytics](workplace-analytics-service-description.md)
 ## [Описание службы MyAnalytics](mya-service-description.md)
 ## [Описание службы Power BI](power-bi-service-description.md)
