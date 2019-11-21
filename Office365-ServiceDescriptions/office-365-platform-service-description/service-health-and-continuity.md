@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Microsoft Office 365 могут просматривать состояние служб и узнавать, когда обслуживание запланировано. Сведения о работоспособности службы доступны в любое время, войдя в Office 365.
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911803"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752718"
 ---
 # <a name="service-health-and-continuity"></a>Работоспособность и непрерывная работа служб
 
@@ -49,7 +49,7 @@ ms.locfileid: "37911803"
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Втором квартале** <br/> |**Вопрос** <br/> |**Й** <br/> |
-| 99,97% <br/> | 99,97% <br/> |  <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ ms.locfileid: "37911803"
 
 ### <a name="office-365-admin-app"></a>Приложение администрирования Office 365
 
-Приложение admin для администраторов клиентов Office 365 предоставляет возможность подключаться к службе Office 365 вашей организации в дороге. Администраторы клиентов Office 365 смогут просматривать сведения о работоспособности служб и обновления состояния обслуживания с мобильных устройств. Для получения дополнительных сведений посетите раздел [вопросы и ответы по административному приложению](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+Приложение admin для администраторов клиентов Office 365 предоставляет возможность подключаться к службе Office 365 вашей организации в дороге. Администраторы клиентов Office 365 смогут просматривать сведения о работоспособности служб и обновления состояния обслуживания с мобильных устройств. Дополнительные сведения см. в статье [Вопросы и ответы о приложении администрирования](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Пакет управления Office 365 для Microsoft System Center 2012 R2
 
