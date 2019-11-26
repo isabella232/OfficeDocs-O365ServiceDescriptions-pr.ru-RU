@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Сведения о размере хранилища OneDrive, предоставляемом для каждого плана подписки.
-ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734006"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263483"
 ---
 # <a name="onedrive-for-business-service-description"></a>Описание службы OneDrive для бизнеса
 
@@ -42,7 +42,7 @@ OneDrive включен в планы Microsoft 365, Office 365 и в планы
   
 ## <a name="storage-space-per-user"></a>Размер хранилища на пользователя
 
-**5 ГБ**
+**2 ГБ**
 
 - Office 365 корпоративный F1
 
