@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке.
-ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581855"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260944"
 ---
 # <a name="mail-floweop"></a>Процесс обработки почты [EOP]
 

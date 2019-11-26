@@ -1,5 +1,5 @@
 ---
-title: Описание службы Microsoft 365 бизнеса
+title: Описание Microsoft 365 Business Service
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: 05f1aada1626d55c76aac73c9c49d3585e385dea
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765620"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262852"
 ---
-# <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнеса
+# <a name="microsoft-365-business-service-description"></a>Описание Microsoft 365 Business Service
 
 Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенной безопасностью и управлением устройствами для защиты бизнеса от сложных угроз. В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье [описания служб office 365](../office-365-service-descriptions-technet-library.md).
   
@@ -60,7 +60,7 @@ Microsoft 365 бизнес фактически включает все функ
 |Office 365 Advanced Threat protection (план 1) <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |
 |Оценка безопасности<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Advanced Threat Protection (план 2) <br/> |Нет  <br/> |Нет <br/> |
-|[Управление идентификацией и доступом](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 бизнес включает функции выбора Azure AD Premium P1 (ААДП P1). Не включает в себя полностью AADP1. <sup>8</sup> <br/>|**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Управление удостоверениями и доступом](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 бизнес включает функции выбора Azure AD Premium P1 (ААДП P1). Не включает в себя полностью AADP1. <sup>8</sup> <br/>|**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Многофакторная идентификация Azure (MFA)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Административные единицы  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |Обнаружение облачных приложений  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
@@ -114,6 +114,6 @@ Microsoft 365 бизнес фактически включает все функ
 <sup>5</sup> упрощенное управление устройствами Windows 10 встроено в центр администрирования Microsoft 365. Возможности управления Intune, Android, macOS и другое управление устройствами на нескольких платформах, встроенные в центр администрирования управления устройствами и лицензированные для использования с Microsoft 365 Business. Сторонние приложения и настройка таких вещей, как профили Wi-Fi и VPN-сертификаты, можно также управлять в центре администрирования управления устройствами. <br/>
 <sup>6</sup> этот план поставляется с Microsoft Streaming Plan 2, который включает в себя видеопортал, речевое распознавание текста, поиск с глубоким поиском и определением лица.<br/>
 <sup>7</sup> Microsoft 365 поставляется с планом Office 365 Advanced Threat protection (план 1). Дополнительные сведения можно найти в [статье Microsoft 365 Business Security and соответствие требованиям](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
-<sup>8</sup> Microsoft 365 бизнес включает выбор функций Azure AD Premium P1, таких как самостоятельный сброс паролей с использованием обратной записи AD, многофакторной проверки подлинности Azure (MFA) и условный доступ. Он не включает в себя полностью Azure AD Premium P1.</br>
+<sup>8</sup> Microsoft 365 бизнес включает следующие функции Azure AD Premium P1: самостоятельный сброс паролей с обратной записью в AD, многофакторной проверкой подлинности Azure (MFA) и условный доступ. Он не включает в себя полностью Azure AD Premium P1.</br>
 <sup>9</sup> Microsoft 365 Business подписчики лицензированы для использования полных возможностей Intune для iOS, Android, MacOS и другого управления устройствами на разных платформах. Функции, недоступные в центре администрирования в Microsoft 365 Business, такие как Управление приложениями сторонних производителей и настройка профилей Wi-Fi, VPN-сертификаты и т. д., можно управлять в полной консоли Intune.</br>
-<sup>10</sup> если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 бизнес предоставляет обновление до Windows 10 Pro. В Microsoft 365 Business вы не только получаете [функции безопасности защитника Майкрософт, включенные в Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), также получаете доступ к расширенным функциям, таким как защита сети на основе веб-угроз и правил предотвращения проникновения на уровне узла для устранения проблем программой. При настройке Microsoft 365 Business клиент вы выбираете пункт Защита приложений и параметры конфигурации устройств. Эти параметры определяют, какие политики автоматически применяются к устройствам при их присоединении к Azure Active Directory.
+<sup>10</sup> если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 бизнес предоставляет обновление до Windows 10 Pro. С помощью Microsoft 365 бизнес вы не только получаете [функции безопасности защитника Майкрософт, включенные в Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), также получаете доступ к расширенным функциям, таким как защита сети на основе веб-угроз и правил предотвращения вторжения для узлов, чтобы уменьшить время атаки. При настройке Microsoft 365 Business клиент вы выбираете пункт Защита приложений и параметры конфигурации устройств. Эти параметры определяют, какие политики автоматически применяются к устройствам при их присоединении к Azure Active Directory.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Она помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя отраслевые Услуги по повышению производительности для цифровых работ, из Германии-центров данных с данными размещению в Германии и ограниченных мерах доступа к данным и управления с помощью уникальной модели доверенного лица для данных, управляемой в соответствии с законодательством немецкого языка.
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724697"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263060"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -32,7 +32,7 @@ Office 365 Германия — это отличительный вариант
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Служба**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
-|Платформа Office 365 <sup>1</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+|Office 365 Platform <sup>1</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |Exchange Online|Да|Нет|Да|Да|Да|Да|Да|Да|
 |SharePoint Online|Да|Нет|Да|Да|Да|Да|Да|Да|
 |OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|Нет|
@@ -42,7 +42,7 @@ Office 365 Германия — это отличительный вариант
 |Project Online <sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Power BI <sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Visio для веб-сайта <sup>4</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
-|Yammer корпоративный|Недоступно|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|
+|Yammer корпоративный|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|Н/Д|
 |Azure Information Protection|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 
 > [!NOTE]
@@ -116,7 +116,7 @@ Office 365 Германия соответствует стандартам Clou
 |Использование другого поставщика для электронной почты и обмена мгновенными сообщениями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Проверка владения доменом, требуемая для пользовательских доменов|Да|Да|Да|Да|Да|Да|Да|Да|
 |Доступность автоматического приобретения и проверки доменов, приобретенных через Go Daddy|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Работоспособность и непрерывная работа служб](service-health-and-continuity.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Работоспособность и непрерывность службы](service-health-and-continuity.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Информация о состоянии службы доступна на странице **Работоспособность службы** или **Состояние службы**|Да|Да|Да|Да|Да|Да|Да|Да|
 |Состояние отдельных оповещений, доступных на панели мониторинга центра администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Да|Да|
 |RSS-канал **Работоспособность службы**|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -144,7 +144,7 @@ Office 365 Германия соответствует стандартам Clou
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления службы](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Обновления служб](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
 |Roadmap.office.com для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|Да|
@@ -826,7 +826,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Сайт разработчика](../sharepoint-online-service-description/developer.md#developer-site)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Приложения на основе форм](../sharepoint-online-service-description/developer.md#forms-based-applications)|Да|Нет|Да|Да|Да|Да|Да|Да|
 |[Решения с полным доверием](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Да<sup>17</sup>|НЕТ|Да<sup>17</sup>|Да<sup>17</sup>|Нет|
+|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Да<sup>17</sup>|НЕТ|Да<sup>17</sup>|Да<sup>17</sup>|НЕТ|
 |[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Да|Да|Да|Да|Да|Да|Да|Да|
 |API списков и библиотек|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Да|Нет|Да|Да|Да|Да|Да|Да|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724767"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263070"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -41,7 +41,7 @@ Office 365 под управлением 21Vianet разработана в со
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Служба**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|Платформа Office 365<sup>1</sup>|Да|Да|Да|Да|Да|Да|Да|
+|Office 365 Platform<sup>1</sup>|Да|Да|Да|Да|Да|Да|Да|
 |Exchange Online|Да|Нет|Да|Да|Да|Да|Да|
 |SharePoint Online|Да|Нет|Да|Да|Да|Да|Да|
 |OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|
@@ -124,7 +124,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Размещение нескольких общедоступных веб-сайтов SharePoint Online с именами личных доменов<sup>5</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Проверка владения доменом, требуемая для пользовательских доменов|Да|Да|Да|Да|Да|Да|Да|
 |Доступность автоматического приобретения и проверки доменов, приобретенных через Go Daddy|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Работоспособность и непрерывная работа служб](service-health-and-continuity.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
+|**[Работоспособность и непрерывность службы](service-health-and-continuity.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Информация о состоянии службы доступна на странице **Работоспособность службы** или **Состояние службы**|Да|Да|Да|Да|Да|Да|Да|
 |Состояние отдельных оповещений, доступных на панели мониторинга центра администрирования Microsoft 365|Да|Да|Да|Да|Да|Да|Да|
 |RSS-канал **Работоспособность службы**|Да|Да|Да|Да|Да|Да|Да|
@@ -153,7 +153,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
+|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -460,7 +460,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - Пределы, применяемые к организации Microsoft Office 365, могут различаться в зависимости от того, сколько времени в Организации зарегистрировано в службе. Когда ограничение в центрах данных Майкрософт изменяется, может потребоваться некоторое время на применение изменения ко всем существующим заказчикам.
 > - Большую часть этих ограничений нельзя изменить, но вам и вашим пользователям следует знать о них.
 > - Они применяются как к внутренним, так и к внешним получателям.
-> - По умолчанию служба Exchange Online Protection (EOP) защищает почтовые ящики Exchange Online. Ограничения, применяемые к функциям EOP в Exchange Online, см. в статье [Ограничения Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - По умолчанию служба Exchange Online Protection (EOP) защищает почтовые ящики Exchange Online. Для пределов, которые применяются к функциям EOP в Exchange Online, ознакомьтесь с разделом [Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Функции Exchange Online Protection
 
@@ -1136,10 +1136,10 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Администрирование, развертывание и расширяемость](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Нет<sup>2</sup>|Да|Да|Нет|Да|
 |[Начало работы](../project-online-service-description/core-services-functionality.md#getting-started)|Да|Да|Да|Нет|Да|
 |[Управление проблемами и рисками (для членов группы)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Да|Да|Да|Нет|Да|
-|[Центр управления безопасностью Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Нет|Нет|Нет|Н/Д|Н/д|
+|[Центр управления безопасностью Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Нет|Нет|Нет|Н/Д|Н/Д|
 |[Система партнеров PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Да|Да|Да|Нет|Да|
-|[Надежность обслуживания](../project-online-service-description/core-services-functionality.md#service-reliability)|Да|Да|Да|Н/Д|Н/д|
-|[Обновления служб](../project-online-service-description/core-services-functionality.md#service-updates)|Да|Да|Да|Н/Д|Недоступно|
+|[Надежность обслуживания](../project-online-service-description/core-services-functionality.md#service-reliability)|Да|Да|Да|Н/Д|Н/Д|
+|[Обновления служб](../project-online-service-description/core-services-functionality.md#service-updates)|Да|Да|Да|Н/Д|Н/Д|
 |[Совместная работа членов группы](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Да|Да|Да|Нет|Да|
 |[Управление временем и задачами (для членов группы)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Да|Да|Да|Нет|Да|
 |**Управление проектами**|**Project Online базовый для Office 365 под управлением 21Vianet**|**Project Online профессиональный для Office 365 под управлением 21Vianet**|**Project Online расширенный для Office 365 под управлением 21Vianet**|**Project профессиональный 2016 для Office 365 под управлением 21Vianet**|**Project Server 2016 для Office 365 под управлением 21Vianet**|

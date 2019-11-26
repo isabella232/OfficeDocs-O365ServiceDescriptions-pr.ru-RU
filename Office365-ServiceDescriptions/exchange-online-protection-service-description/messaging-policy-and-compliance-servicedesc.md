@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581875"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262652"
 ---
 # <a name="messaging-policy-and-compliance"></a>Политика обмена сообщениями и соответствие требованиям
 
@@ -62,7 +62,7 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 
 ## <a name="office-365-message-encryption"></a>Шифрование сообщений Office 365
 
-Шифрование сообщений Office 365, часть Azure Information Protection — это веб-служба, позволяющая пользователям электронной почты отправлять зашифрованные сообщения электронной почты всем пользователям. Локальные клиенты могут получить доступ к шифрованию сообщений Office 365, приобретая Azure Information Protection и используя Exchange Online Protection для настройки обработки почты через Exchange Online. Дополнительные сведения о шифровании сообщений Office 365 в Exchange Online см. в разделе [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) в описании службы Exchange Online.
+Шифрование сообщений Office 365, часть Azure Information Protection — это веб-служба, позволяющая пользователям электронной почты отправлять зашифрованные сообщения электронной почты всем пользователям. Локальные клиенты могут получить доступ к шифрованию сообщений Office 365, приобретая Azure Information Protection и используя Exchange Online Protection для настройки обработки почты через Exchange Online. Дополнительные сведения о шифровании сообщений Office 365 в Exchange Online содержатся в статье Служба [шифрования сообщений office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) в описании службы Exchange Online.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 

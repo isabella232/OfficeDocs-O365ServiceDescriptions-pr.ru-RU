@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье. '
-ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581455"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262592"
 ---
 # <a name="mail-flow"></a>Поток обработки почты
 

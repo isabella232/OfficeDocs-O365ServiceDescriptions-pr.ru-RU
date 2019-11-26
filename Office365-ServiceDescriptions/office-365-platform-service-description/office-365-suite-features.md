@@ -1,5 +1,5 @@
 ---
-title: Функции набора Office 365
+title: Office 365 suite features
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Функции, перечисленные в этом разделе, представляют собой набор веб-средств, которые помогают обеспечить безопасность и безопасное взаимодействие на многих устройствах и нескольких службах Office 365. Эти функции помогают налаживать новые связи в вашей организации, объединяя создание цифрового контента, хранилище и управление со средствами социальных сетей для поиска информации и обмена нею между пользователями.
-ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724737"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263130"
 ---
-# <a name="office-365-suite-features"></a>Функции набора Office 365
+# <a name="office-365-suite-features"></a>Office 365 suite features
 
 Функции, перечисленные в этом разделе, представляют собой набор веб-средств, которые помогают обеспечить безопасность и безопасное взаимодействие на многих устройствах и нескольких службах Office 365. Эти функции помогают налаживать новые связи в вашей организации, объединяя создание цифрового контента, хранилище и управление со средствами социальных сетей для поиска информации и обмена нею между пользователями.
   
@@ -101,6 +101,6 @@ Microsoft Kaizala — это простое и безопасное прилож
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).
   
 

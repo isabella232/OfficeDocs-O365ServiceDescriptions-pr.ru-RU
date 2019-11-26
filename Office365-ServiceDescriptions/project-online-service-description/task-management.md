@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: В Project Online доступны следующие функции управления задачами.
-ms.openlocfilehash: c457dbbc77afa6539b01fb457ed42d554c575533
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633568"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263383"
 ---
 # <a name="task-management"></a>Управление задачами
 
 В Project Online доступны следующие функции управления задачами.
   
-Сведения обо всех функциях Project Online см. в статье [Описание службы Project Online](project-online-service-description.md).
+Сведения обо всех функциях Project Online см. Ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 

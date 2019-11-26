@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Администраторы Microsoft Office 365 могут просматривать отчеты о том, как ваша организация использует службы Office 365. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Кроме того, можно создавать собственные отчеты с помощью веб-служб отчетов Office 365:. Администраторы Exchange Online и Exchange Online Protection (EOP) могут использовать отчеты о защите почты в Office 365, чтобы просматривать сведения о вредоносных программах, нежелательных сообщениях и сработавших правилах.
-ms.openlocfilehash: 05219812609c4dbaa51756ed24d1bad2e9fc4c28
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 49617d38b1f169bb33b833eebd336c2fbb511f6e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734066"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262490"
 ---
 # <a name="reports"></a>Отчеты
 
@@ -27,6 +27,6 @@ ms.locfileid: "37734066"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).
   
 

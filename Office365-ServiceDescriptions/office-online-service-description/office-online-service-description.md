@@ -1,5 +1,5 @@
 ---
-title: Описание служб Office в Интернете
+title: Описание веб-службы Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633885"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263523"
 ---
-# <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
+# <a name="office-for-the-web-service-description"></a>Описание веб-службы Office
 
 Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге. 
   

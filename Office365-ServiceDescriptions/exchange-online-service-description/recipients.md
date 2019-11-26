@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: В этой статье описаны компоненты Microsoft Exchange Online, связанные с получателями. Сюда относятся электронная почта, контакты, группы рассылки, а также календарь и возможности планирования.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911722"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262732"
 ---
 # <a name="recipients"></a>Получатели
 
@@ -34,7 +34,7 @@ ms.locfileid: "37911722"
 
 Объем хранилища почтовых ящиков, доступный пользователю, а также размер почтового ящика по умолчанию определяются типом почтового ящика и лицензией подписки пользователя. Администраторы могут уменьшить максимальный размер почтовых ящиков отдельного пользователя или глобально. Exchange Online отображает оповещения, когда в почтовом ящике пользователя мало места или он заполнен.
   
-Подробнее см. в разделах "Ограничения объемов хранилища почтовых ящиков" и "Оповещения о емкости" статьи [Ограничения Exchange Online](exchange-online-limits.md).
+Для получения дополнительных сведений см раздел "пределы хранилища почтовых ящиков" и "оповещения о емкости" в разделе " [Exchange Online Limits](exchange-online-limits.md)".
   
 ### <a name="mailtips"></a>Подсказки
 

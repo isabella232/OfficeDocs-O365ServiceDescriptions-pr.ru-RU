@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734076"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262500"
 ---
 # <a name="product-use-rights"></a>Права на использование продуктов
 
@@ -24,7 +24,7 @@ ms.locfileid: "37734076"
 
 Если вы согласны с условиями соглашения Microsoft Online Subscription, вы можете использовать веб-службы и связанные с ними программы, что в явной форме указано в [условиях использования служб Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Права на использование плана Office 365, которым управляет 21Vianet
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Права на использование Office 365 под управлением 21Vianet
 
 См. статьи [Стандартное соглашение об использовании веб-служб](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) и [Условия использования](https://www.21vbluecloud.com/office365/O365-TOU/).
   
@@ -34,6 +34,6 @@ ms.locfileid: "37734076"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).
   
 

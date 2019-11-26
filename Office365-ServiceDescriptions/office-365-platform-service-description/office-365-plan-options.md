@@ -1,5 +1,5 @@
 ---
-title: Параметры планов Office 365
+title: Варианты плана Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633504"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263050"
 ---
-# <a name="office-365-plan-options"></a>Параметры планов Office 365
+# <a name="office-365-plan-options"></a>Варианты плана Office 365
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
   
@@ -126,4 +126,4 @@ ms.locfileid: "37633504"
    
 ## <a name="feature-availability"></a>Доступность функций
 
-Сведения о доступности функций в планах Office 365 см. в статье [Описание служб платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).

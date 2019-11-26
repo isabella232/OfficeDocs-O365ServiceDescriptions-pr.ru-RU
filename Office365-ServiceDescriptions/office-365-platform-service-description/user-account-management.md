@@ -1,5 +1,5 @@
 ---
-title: Управление учетными записями пользователей
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911800"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262120"
 ---
-# <a name="user-account-management"></a>Управление учетными записями пользователей
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности. 
   
 > [!NOTE]
-> В этой статье не описаны функции обеспечения безопасности, разрешающие или запрещающие доступ к отдельным ресурсам Office 365: (например, управление доступом на основе ролей в Microsoft Exchange Online или настройка безопасности в Microsoft SharePoint Online). Подробные сведения об этих функциях см. в статьях [Описание службы Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) и [Описание службы SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> В этом разделе не содержатся сведения о функциях безопасности, которые разрешают или запрещают доступ к отдельным ресурсам Office 365 (например, управление доступом на основе ролей в Microsoft Exchange Online или настройку безопасности в Microsoft SharePoint Online). Для получения дополнительных сведений об этих функциях обратитесь к [описанию службы Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) и [описанию SharePoint Online Service](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
 Сведения об инструментах, которые помогут выполнять административные задачи, см. в статье [Средства для управления учетными записями Office 365](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Сведения о выполнении каждодневных задач управления см. в статье [Частые задачи управления в Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
   
@@ -127,7 +127,7 @@ Office 365: использует проверку подлинности на о
     
 - Если синхронизация каталогов используется, то необходимо удалять пользователей из локальных Active Directory, а не из Office 365:.
     
-При удалении учетной записи она становится неактивной. В течение приблизительно 30 дней после его удаления можно восстановить учетную запись. Дополнительные сведения об удалении и восстановлении учетных записей можно найти в статье [Delete Users in office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) and [RESTORE Users in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) или, если вы используете Office 365 под управлением 21vianet в Китае, можно ознакомиться в статье [Создание или изменение учетных записей пользователей в Office 365 под управлением 21Vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
+При удалении учетной записи она становится неактивной. В течение приблизительно 30 дней после его удаления можно восстановить учетную запись. Дополнительные сведения об удалении и восстановлении учетных записей можно найти в статье [Delete Users in office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) and [RESTORE Users in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) или, если вы используете Office 365 под управлением 21vianet в Китае, можно ознакомиться в статье [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Управление паролями
 

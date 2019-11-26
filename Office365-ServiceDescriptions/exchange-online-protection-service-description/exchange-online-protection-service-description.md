@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. В этот список входят планы, обеспечивающие защиту Exchange Online, а также сравнение функций в этих планах.
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700231"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260924"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -75,7 +75,7 @@ EOP можно использовать с любым агентом перед�
 
 ## <a name="limits"></a>Ограничения
 
-Сведения об ограничениях EOP см. в статье [Ограничения Exchange Online Protection](exchange-online-protection-limits.md).
+Сведения об ограничении в EOP можно найти в статье [Exchange Online Protection Limits](exchange-online-protection-limits.md).
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Доступность функций в планах Exchange Online Protection (EOP)
 

@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319477"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260524"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
 Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
   
-Являясь частью Microsoft Office 365:, эта веб-служба Архивация на базе Exchange Online предназначена помочь организациям повысить безопасность и надежность работы, а также производительность труда. Дополнительные сведения об Office 365:, включая функции, общие для всех веб-служб Office 365:, см. в разделе [Описание служб платформы Office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
+Как служба Microsoft Office 365 Online, Архивация на базе Exchange Online разработана для удовлетворения потребностей в обеспечении надежной безопасности, надежности и производительности пользователей. Дополнительные сведения о Office 365, в том числе о функциях, общих для всех веб-служб Office 365, приведены в статье [Описание службы платформы office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
   
 Сведения о приобретении службы архивации на базе Exchange Online см. в статье [Архивация на базе Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email).
   
 Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 > [!TIP]
-> Вы можете экспортировать, сохранять и печатать страницы описаний служб Office 365. Узнайте, как [экспортировать несколько страниц](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Вы можете экспортировать, сохранять и печатать страницы в описаниях служб Office 365. Узнайте, как [экспортировать несколько страниц](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="exchange-online-archiving-plans"></a>Планы архивации на базе Exchange Online
 
@@ -42,16 +42,16 @@ ms.locfileid: "38319477"
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии). Дополнительные сведения см. [в разделе Лицензирование "краткое лицензирование" основного набора CAL и комплекта Cal Enterprise CAL](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Гибридное развертывание не требуется для облачных организаций, почтовые ящики которых не хранятся на локальном сервере Exchange Server. Однако если у вас есть локальные почтовые ящики, гибридное развертывание необходимо.
 <br/>
 <sup>2</sup> В планах Exchange Online (план 1) и Office 365 бизнес есть [ограничение на размер почтовых ящиков и архивов](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). Надстройка Архивация на базе Exchange Online для Exchange Online позволяет применять неограниченный облачный архив и [Хранение на месте и судебное удержание](compliance-and-security-features.md#in-place-hold-and-litigation-hold).
   
-Хотите узнать обо всех планах Office 365:? Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Подробнее о различных планах, в том числе автономных вариантах планов, а также сведениях о переходе от одного плана к другому см. в разделе [Параметры планов Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Ищете сведения обо всех планах Office 365? Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements
 
 Чтобы использовать архивацию на базе Exchange Online для Exchange Server, почтовые ящики пользователей должны находиться на сервере Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange Server 2010 (SP2 или более поздней версии).
   

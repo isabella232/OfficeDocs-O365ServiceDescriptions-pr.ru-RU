@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: В Project Online доступны следующие функции управления проектами.
-ms.openlocfilehash: 6693e6046ed02df6820c6f9e817702452314ad07
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 48fe2dd921cdda7d85dbbe138577a4a880e72488
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631577"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263433"
 ---
 # <a name="project-management"></a>Управление проектами
 
 В Project Online доступны следующие функции управления проектами.
   
-Сведения обо всех функциях Project Online см. в статье [Описание службы Project Online](project-online-service-description.md).
+Сведения обо всех функциях Project Online см. Ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
   
 ## <a name="issues-and-risk-management"></a>Управление проблемами и рисками
 

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: В приведенных ниже таблицах перечислены изменения, недавно внесенные в описание служб.
-ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777530"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263373"
 ---
 # <a name="recent-service-descriptions-changes"></a>Недавние изменения в описании службы
 
@@ -52,7 +52,7 @@ ms.locfileid: "35777530"
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлена служба Microsoft 365 Business.  <br/> |
 ||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено значение параметра ограничения архивации на "Да" для Office 365 Business Essentials и Office 365 бизнес премиум.  <br/> |
 ||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено "Расширенное управление безопасностью" на "безопасность облачных приложений Office 365".  <br/> |
-|Office для Интернета  <br/> |[Excel для Интернета](office-online-service-description/excel-online.md) <br/> |Первая заметка в разделе "книги", размер которых превышает 30 мегабайт (МБ), не может быть просмотрена в Excel для Интернета в Microsoft SharePoint Online. " Ранее в заметке было сказано 10 МБ.  <br/> |
+|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Первая заметка в разделе "книги", размер которых превышает 30 мегабайт (МБ), не может быть просмотрена в Excel для Интернета в Microsoft SharePoint Online. " Ранее в заметке было сказано 10 МБ.  <br/> |
 |OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Описание основных обновлений для службы OneDrive для бизнеса.  <br/> |
    
 ## <a name="march-2018"></a>Март 2018 г.
@@ -62,7 +62,7 @@ ms.locfileid: "35777530"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновление шифрования данных в REST в центре обработки данных и шифровании сообщений Office 365 (OME).  <br/> |
 ||[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Обновление шифрования данных в REST в центре обработки данных и шифровании сообщений Office 365 (OME).  <br/> |
-|Office для Интернета  <br/> |[Excel для Интернета](office-online-service-description/excel-online.md) <br/> |Обновление для закрепления областей поддержка в Excel для Интернета.  <br/> |
+|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Обновление для закрепления областей поддержка в Excel для Интернета.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Несколько обновлений и реструктуризация.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Несколько обновлений.  <br/> |
 |Yammer  <br/> |[Функции администрирования и безопасности в Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Удалены примечания и ключи потока действий.  <br/> |
@@ -161,7 +161,7 @@ ms.locfileid: "35777530"
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Исправлена запись "Поддерживается прямая миграция" в таблице. Теперь сказано, что прямая миграция Exchange поддерживается.  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Добавлены сведения о приложениях Office 2016.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Добавлена эта статья.  <br/> |
 |Skype для бизнеса  <br/> |[Ограничения Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |Исправлены сведения об ограничении на передачу файлов.  <br/> |
@@ -179,9 +179,9 @@ ms.locfileid: "35777530"
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлено описание Microsoft Forms.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены сведения о Office 365 US Government G5.  <br/> |
 ||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Изменены сведения об управлении правами на доступ к данным (IRM) с использованием AD RMS Windows Server.  <br/> |
-||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлена строка "Создание паролей для приложений" в разделе "Управление учетными записями пользователей".  <br/> |
+||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлена строка "создание паролей приложений" в разделе "Управление учетными записями пользователей".  <br/> |
 ||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
-|Office для Интернета  <br/> |[Описание веб-службы Office](office-online-service-description/office-online-service-description.md) <br/> |Добавлены сведения о Visio.  <br/> |
+|Office в Интернете  <br/> |[Описание служб Office в Интернете](office-online-service-description/office-online-service-description.md) <br/> |Добавлены сведения о Visio.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Вместо записи "Политики и теги хранения" добавлена запись "Политики и теги хранения для управления записями сообщений (MRM)".  <br/> |
 ||[Службы голосовых сообщений](exchange-online-service-description/voice-message-services.md) <br/> |Добавлена заметка о том, что поддержка единой системы обмена сообщениями через SBC для Exchange Online прекращается.  <br/> |
 | Workplace Analytics  <br/> |[Описание службы Workplace Analytics](workplace-analytics-service-description.md) <br/> |Добавлено новое описание службы  <br/> |

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Сравниваете функции, которые предусмотрены в подписках на Office 365, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701368"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262772"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -37,10 +37,10 @@ Microsoft Exchange Online  это размещенное решение для
   
 Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы размещены в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет.
   
-Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans). Сравнить различные планы Office 365 Germany можно на странице [Планы подписки Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
+Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans). Чтобы сравнить планы для Office 365 Германия, ознакомьтесь с [планами подписки на office 365 Германия](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Вы можете экспортировать, сохранять и печатать страницы описаний служб Office 365. Узнайте, как [экспортировать несколько страниц](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Вы можете экспортировать, сохранять и печатать страницы в описаниях служб Office 365. Узнайте, как [экспортировать несколько страниц](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="whats-new-in-exchange-online"></a>Новые возможности Exchange Online
 
@@ -48,7 +48,7 @@ Microsoft Exchange Online  это размещенное решение для
   
 ## <a name="office-365-plans-for-exchange-online"></a>Планы Office 365, включающие Exchange Online
 
-Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Подробнее о различных планах, в том числе автономных вариантах планов, а также сведениях о переходе от одного плана к другому см. в разделе [Параметры планов Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
 Каждому пользователю, имеющему доступ к службе Exchange Online, должен быть назначен план подписки. Для каждой подписки пользователя предусмотрен отдельный почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центре обработки данных Майкрософт на компьютере, на котором запущена служба Exchange Server.
   
@@ -60,7 +60,7 @@ Microsoft Exchange Online  это размещенное решение для
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Пределы хранилища и получателей для Exchange Online
 
-Сведения об ограничениях пространства для хранения и получателей, доступных в планах подписки Exchange Online, см. в разделе [Ограничения Exchange Online](exchange-online-limits.md).
+Сведения о лимитах хранилища и получателей, доступных в планах подписки на Exchange Online, можно найти в статье [Exchange Online Limits](exchange-online-limits.md).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Доступность возможностей в планах Office 365
 
@@ -212,7 +212,7 @@ Microsoft Exchange Online  это размещенное решение для
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика обмена сообщениями и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Политика сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да<sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -284,7 +284,7 @@ Microsoft Exchange Online  это размещенное решение для
 |Голосовая почта|Да|Да|Нет|Да|Нет|
 |Взаимодействие с голосовой почтой стороннего производителя|Да|Да|Да|Да|Да|
 |Интеграция со Skype для бизнеса|Да|Да|Да|Да|Да|
-|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Высокая доступность и непрерывность бизнеса](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Репликация почтовых ящиков в центрах обработки данных|Нет|Нет|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|

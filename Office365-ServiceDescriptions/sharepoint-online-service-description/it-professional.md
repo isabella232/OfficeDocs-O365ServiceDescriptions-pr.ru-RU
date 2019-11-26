@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online это набор средств и технологий, основанных на веб-технологиях, которые помогают организациям хранить, совместно использовать цифровые данные и управлять ими. Эта размещенная служба, созданная на основе Microsoft SharePoint Server 2013, идеально подходит для работы над проектами, хранения данных и документов в одном месте и обмена информацией. Следующие функции SharePoint помогают ИТ-специалистам в защите и управлении средой SharePoint в их организации.
-ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c8a6f6075ed6b184be7d7deefde74d2bde13d750
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726222"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263333"
 ---
 # <a name="it-professional"></a>ИТ-специалистам
 

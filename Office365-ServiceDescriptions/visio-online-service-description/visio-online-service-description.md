@@ -1,5 +1,5 @@
 ---
-title: Описание службы веб-приложения Visio
+title: Описание веб-службы в Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: С помощью Visio для Интернета можно просматривать, редактировать и совместно использовать схемы Visio в Интернете.
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700241"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263232"
 ---
-# <a name="visio-for-the-web-service-description"></a>Описание службы веб-приложения Visio
+# <a name="visio-for-the-web-service-description"></a>Описание веб-службы в Visio
 
 С помощью Visio для Интернета можно просматривать, редактировать и совместно использовать схемы Visio в Интернете. Начните с простой схемы для представления общих идей, например описания плана, предложения или последовательности действий в процессе. Простой и простой способ создать схемы первого класса с часто используемыми типами схем и расширенными наборами фигур. Visio для веб-пользователей может просматривать и совместно работать с диаграммами и вставлять комментарии в файлы, отправленные в SharePoint Online или OneDrive для бизнеса Online.
   
