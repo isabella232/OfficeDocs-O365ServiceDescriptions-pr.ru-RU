@@ -1,5 +1,5 @@
 ---
-title: Описание службы платформы Office 365
+title: Описание служб платформы Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 519d5260cd2a5155d365047bf69b241d0bd26d4d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263080"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810798"
 ---
-# <a name="office-365-platform-service-description"></a>Описание службы платформы Office 365
+# <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
   
@@ -61,7 +61,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
   
 ## <a name="data-storage-location"></a>Место хранения данных
 
-Узнайте, где [хранятся ваши данные](https://go.microsoft.com/fwlink/?linkid=401277). 
+Узнайте, где [хранятся ваши данные](https://products.office.com/where-is-your-data-located). 
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Возможности поддержки нескольких регионов в Office 365
 
@@ -139,7 +139,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Использование другого поставщика для электронной почты и обмена мгновенными сообщениями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Проверка владения доменом, требуемая для пользовательских доменов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Доступность автоматического приобретения и проверки доменов, приобретенных через Go Daddy  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Работоспособность и непрерывность службы](service-health-and-continuity.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
+|**[Работоспособность и непрерывная работа служб](service-health-and-continuity.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Информация о состоянии службы доступна на странице **Работоспособность службы** или **Состояние службы**  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Состояние отдельных оповещений, доступных на панели мониторинга центра администрирования Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |RSS-канал **Работоспособность службы**  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

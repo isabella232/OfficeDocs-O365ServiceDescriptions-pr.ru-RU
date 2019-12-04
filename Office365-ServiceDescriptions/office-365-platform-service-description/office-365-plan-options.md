@@ -1,5 +1,5 @@
 ---
-title: Варианты плана Office 365
+title: Планы Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263050"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810818"
 ---
-# <a name="office-365-plan-options"></a>Варианты плана Office 365
+# <a name="office-365-plan-options"></a>Планы Office 365
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
   
@@ -67,7 +67,7 @@ ms.locfileid: "39263050"
 <sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> чтобы узнать больше о возможностях Azure Information Protection в планах Office 365, обратитесь к статье [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 корпоративный 3: Поддержка телефонной системы, аудио-и видеоконференций, а так же возможности плана звонков. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков).<br/>
-<sup>5</sup> включает хранилище объемом 2 ГБ. Не включает функцию синхронизации с рабочим столом. <br/>
+<sup>5</sup> включает хранилище объемом 2 ГБ. <br/>
 <sup>6</sup> включает Exchange Online (план 1). <br/>
 <sup>7</sup> включает Exchange Online (план 2). <br/>
 <sup>8</sup> включает Exchange Online (план 1) и дополнительные функции. <br/>
