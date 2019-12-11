@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online в Office 365 дает пользователям возможность делиться и совместно работать, чтобы информировать и привлекать других пользователей в компании, а также для преобразования бизнес-процессов и для работы с общими знаниями. Кроме того, SharePoint предоставляет возможности для организации защиты и управления данными, а также для создания настраиваемых решений.
-ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c6719ec7efc2caea5a7190d55ae9da0c535f72a5
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263313"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969965"
 ---
 # <a name="sharepoint-online-service-description"></a>Описание службы SharePoint Online
 
@@ -84,7 +84,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Сайт разработчика](developer.md#developer-site) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Приложения на основе форм](developer.md#infopath-forms-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Решения с полным доверием](developer.md#full-trust-solutions) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Служба форм InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да,<sup>16</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Служба форм InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да<sup>15</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Объектная модель JavaScript](developer.md#javascript-object-model) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Удаленный приемник событий](developer.md#remote-event-receiver) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Интерфейсы REST API](developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -92,19 +92,19 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Рабочие процессы SharePoint 2010 (встроенные)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Рабочие процессы SharePoint 2013 и SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Рабочие процессы SharePoint 2013 и SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**Функции для ИТ-специалистов** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Синхронизация Active Directory](it-professional.md#active-directory-synchronization) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Альтернативное сопоставление доступа](it-professional.md#alternate-access-mapping-aam) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Защита от вредоносных программ](it-professional.md#anti-malware-protection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Поддержка проверки подлинности на основе утверждений](it-professional.md#claims-based-authentication-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Ключ клиента для Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>19</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|[Ключ клиента для Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет<sup>18</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Защита от потери данных](it-professional.md#data-loss-prevention) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Шифрование статических данных](it-professional.md#encryption-at-rest) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |Шифрование при транзите  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |[Семейства веб-сайтов с заголовком узла](it-professional.md#host-header-site-collections) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Управление мобильными устройствами для Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да  <br/> |Да  <br/> |
+|[OAuth](it-professional.md#oauth) <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Управление исправлениями](it-professional.md#patch-management) <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Да  <br/> |Да  <br/> |
 |[Шаблоны квот](it-professional.md#quota-templates) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка баз данных только для чтения](it-professional.md#read-only-database-support) <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Да  <br/> |Да  <br/> |
@@ -113,7 +113,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Регулирование ресурсов](it-professional.md#resource-throttling) <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Да  <br/> |Да  <br/> |
 |[Платформа приложения службы](it-professional.md#service-application-platform) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Анализатор работоспособности SharePoint](it-professional.md#sharepoint-health-analyzer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Центр администрирования SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет<sup>4</sup> <br/> |Н/Д  <br/> |Н/Д  <br/> |
+|[Центр администрирования SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет<sup>3</sup> <br/> |Н/Д  <br/> |Н/Д  <br/> |
 |Центр администрирования центра администрирования SharePoint  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Н/Д  <br/> |Да  <br/> |Да  <br/> |
 |[Политики соответствия семейств веб-сайтов](it-professional.md#site-collection-compliance-policies) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Отчеты об использовании и ведение журнала](it-professional.md#usage-reporting-and-logging) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -130,21 +130,20 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Дизайнер](content.md#design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Наборы документов](content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Перевод документов в Word для Интернета](content.md#document-translation-in-word-for-the-web) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](content.md#ediscovery-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |
-|[удержание eDiscovery](content.md#ediscovery-hold) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да  <br/> |
-|[Экспорт при обнаружении электронных данных](content.md#ediscovery-export) <br/> |Нет<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Нет<sup>6</sup> <br/> |Нет  <br/> |ДА  <br/> |
-|[Внешний общий доступ: внешний доступ](content.md#external-sharing-external-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Возможность настройки для экстрасети  <br/> |Возможность настройки для экстрасети  <br/> |
-|[Внешний общий доступ: Гостевая ссылка](content.md#external-sharing-guest-link) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
-|[Синхронизация папок](content.md#folder-sync) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридная Таксономия и типы контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Обнаружение электронных данных](content.md#ediscovery-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |
+|[удержание eDiscovery](content.md#ediscovery-hold) <br/> |Нет<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |
+|[Экспорт при обнаружении электронных данных](content.md#ediscovery-export) <br/> |Нет<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Нет<sup>5</sup> <br/> |Нет  <br/> |ДА  <br/> |
+|[Внешний общий доступ: внешний доступ](content.md#external-sharing-external-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Возможность настройки для экстрасети  <br/> |Возможность настройки для экстрасети  <br/> |
+|[Внешний общий доступ: Гостевая ссылка](content.md#external-sharing-guest-link) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Нет  <br/> |Нет  <br/> |
+|[Аспектная Навигация](content.md#faceted-navigation) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|[Синхронизация папок](content.md#folder-sync) <br/> |Да <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |Да  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |
+|Гибридная Таксономия и типы контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Представления изображений](content.md#image-renditions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[(IRM) Управления Правами На Доступ К Данным](content.md#information-rights-management-irm) <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Нет<sup>3</sup> <br/> |Да  <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
+|[(IRM) Управления Правами На Доступ К Данным](content.md#information-rights-management-irm) <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Служба управляемых метаданных](content.md#managed-metadata-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Навигация на основе метаданных](content.md#metadata-driven-navigation) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Расстановка с несколькими стадиями](content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office для Интернета (создание и редактирование)](content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>15</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Office для Интернета (создание и редактирование)](content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Office для Интернета (представление)](content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office профессиональный плюс  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Интеграция Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Включена  <br/> |Да  <br/> |Да  <br/> |
@@ -158,7 +157,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Общие типы контента](content.md#shared-content-types) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Службы перевода SharePoint](content.md#sharepoint-translation-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Уникальные идентификаторы документов](content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поиск видео](content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Поиск видео](content.md#video-search) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[WCM: Оптимизация поисковых систем (SEO)](content.md#wcm-search-engine-optimization-seo) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Word Automation Services](content.md#word-automation-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Функции аналитики** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
@@ -176,8 +175,8 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Экспресс-тенденции](insights.md#quick-explore) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |[Интегрированный режим служб SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Срез временной шкалы](insights.md#timeline-slicer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Visio для Web](../visio-online-service-description/visio-online-service-description.md)<sup>17</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
-|[Службы Visio](insights.md#visio-services)<sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|[Visio для Интернета](../visio-online-service-description/visio-online-service-description.md)<sup>16</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
+|[Службы Visio](insights.md#visio-services)<sup>16</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |**Возможности поиска** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Непрерывные обходы контента](search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Прямые ссылки](search.md#deep-links) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -195,7 +194,7 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Исправление орфографии запросов](search.md#query-spelling-correction) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Предложения запросов](search.md#query-suggestions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Предварительный просмотр при наведении](search.md#on-hover-preview) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Модели ранжирования](search.md#ranking-models) <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Модели ранжирования](search.md#ranking-models) <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Уточнители](search.md#refiners) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[API запросов RESTful и объектная модель запросов](search.md#restful-query-apiquery-om) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Сортировка результатов поиска](search.md#search-results-sorting) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -203,21 +202,21 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |[Поиски "Этот список"](search.md#this-list-searches) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**Возможности веб-сайтов** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |Сайты для общения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-|[Сообщество](social.md#community) <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
+|[Сообщество](social.md#community) <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Веб-канал компании](social.md#company-feed) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка всех веб-браузеров](sites-servicedesc.md#cross-browser-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Настраиваемые управляемые пути](sites-servicedesc.md#custom-managed-paths) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Библиотеки документов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Управление](sites-servicedesc.md#governance) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Центральные сайты  <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |No<sup>20</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|Гибридное средство запуска приложений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридная среда OneDrive для бизнеса и сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |Да  <br/> |Да  <br/> |
+|Центральные сайты  <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет<sup>19</sup> <br/> |Нет  <br/> |Нет  <br/> |
+|Гибридное средство запуска приложений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |Да  <br/> |Да  <br/> |
+|Гибридная среда OneDrive для бизнеса и сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Масштабируемость и управление большими списками](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Мобильное подключение](sites-servicedesc.md#mobile-connectivity) <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Многоязычный пользовательский интерфейс](sites-servicedesc.md#multilingual-user-interface) <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Мобильное подключение](sites-servicedesc.md#mobile-connectivity) <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Многоязычный пользовательский интерфейс](sites-servicedesc.md#multilingual-user-interface) <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Веб-части OOTB](sites-servicedesc.md#ootb-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Управление разрешениями](sites-servicedesc.md#permissions-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Личные блоги](social.md#personal-blogs) <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да<sup>12</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Личные блоги](social.md#personal-blogs) <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Шаблоны сайтов проекта](sites-servicedesc.md#project-site-template) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Списки SharePoint](sites-servicedesc.md#sharepoint-lists) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Лента SharePoint <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -233,26 +232,25 @@ OneDrive для бизнеса (ранее SkyDrive Pro) — это хранил
 |Интеграция Yammer  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |||
 |**Надстройки** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**SharePoint Online (план 1)** <br/> |**SharePoint Online (план 2)** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Дополнительное хранилище](add-ons.md#additional-storage) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Приложения, подготовленные в Azure: службы Access](add-ons.md#azure-provisioned-apps-access-services) <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |Нет  <br/> |Нет  <br/> |
+|[Приложения, подготовленные в Azure: службы Access](add-ons.md#azure-provisioned-apps-access-services) <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |[Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 
-<sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов. <br/>
-<sup>2</sup> задействование сотрудники имеют ограниченные возможности OneDrive для бизнеса. Сотрудники задействование получают 2 ГБ места для хранения.<br/> 
-<sup>3</sup> служба Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
-<sup>4</sup> так как сотрудники задействование не могут быть администраторами, для доступа к центру администрирования клиентам задействование требуется по крайней мере один корпоративный пользователь. <br/>
-<sup>5</sup> пользователям SharePoint Online необходимо скачать и установить свободное приложение ранжирования для настройки модели, чтобы создать и настроить модели ранжирования. <br/> 
-<sup>6</sup> При использовании функций eDiscovery лицензионное требование для плана применяется ко всем конечным пользователям, включенным в действие eDiscovery (поиск, хранение, экспорт). <br/>
-<sup>7</sup> У пользователей SharePoint Online, прошедших проверку подлинности, есть доступ к частным семействам веб-сайтов с фасетной навигацией. <br/>
-<sup>8</sup> Некоторые поставщики могут быть заблокированы в вашей стране или регионе. <br/> 
-<sup>9</sup> Администраторы могут разрешить делиться документом, библиотекой или сайтом по электронной почте с пользователями не из организации. Но при этом они увидят предупреждающее сообщение о том, что в этом случае эти файлы могут стать доступными за пределами их страны. Пользователи, которые попытаются поделиться документами с кем-то не из организации, получат такое же сообщение. <br/>
-<sup>10</sup> вы можете просматривать документы в любом браузере мобильного устройства. Чтобы редактировать документы, необходимо установить приложение Office Mobile. В настоящее время приложение Office Mobile доступно для телефонов и планшетов с ОС Windows и Android, а также для iPhone и iPad. <br/>
-<sup>11</sup> Справка доступна только на китайском (упрощенное письмо) и английском языках. <br/> 
-<sup>12</sup> в блогах нельзя добавлять комментарии. <br/> 
-<sup>13</sup> веб-сайт сообщества Организации доступен, но общедоступная помощь сообщества недоступна. <br/>
-<sup>14</sup> доступ 2010 не поддерживается. <br/> 
-<sup>15</sup> для Office в Интернете пользователи F1 должны иметь доступ к Office для веб-сайта (живых плиток) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
-<sup>16</sup> форм InfoPath, которые содержат пользовательский код (песочница), можно использовать только в полнофункциональном клиенте InfoPath. <br/>
-<sup>17</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.  <br/>
-<sup>18</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. <br/>
-<sup>19</sup> ключ клиента доступен в Office 365 корпоративный "~". Ключ клиента позволяет вам контролировать ключи шифрования в Организации, а затем настраивать Office 365 для шифрования данных на REST в центрах обработки данных Майкрософт. К ним относятся данные из Exchange Online и Skype для бизнеса, хранящиеся в почтовых ящиках, а также файлы, хранящиеся в SharePoint Online и OneDrive для бизнеса. Ключ клиента помогает обеспечивать соответствие требованиям, так как вы можете управлять ключами шифрования, которые Office 365 использует для расшифровки данных. Дополнительные сведения см в разделе [Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>20</sup> ожидается в ближайшее время. 
+<sup>1</sup> задействование сотрудники имеют ограниченные возможности OneDrive для бизнеса. Сотрудники задействование получают 2 ГБ места для хранения.<br/> 
+<sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
+<sup>3</sup> поскольку сотрудники задействование не могут быть администраторами, для доступа к центру администрирования клиенты с задействование должны иметь по крайней мере одного корпоративного пользователя. <br/>
+<sup>4</sup> пользователям SharePoint Online необходимо скачать и установить свободное приложение ранжирования для настройки модели, чтобы создать и настроить модели ранжирования. <br/> 
+<sup>5</sup> при использовании функций обнаружения электронных данных требования к лицензированию для плана, разрешающего эту функцию, применяются ко всем конечным пользователям, входящим в действие EDiscovery (Поиск, хранение, экспорт). <br/>
+<sup>6</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation. <br/>
+<sup>7</sup> Some providers may be blocked in your country/region. <br/> 
+<sup>8</sup> Sharing a document, library, or site by email with someone outside of your organization. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Пользователи, которые попытаются поделиться документами с кем-то не из организации, получат такое же сообщение. <br/>
+<sup>9</sup> You can view documents in any Mobile browser. Чтобы редактировать документы, необходимо установить приложение Office Mobile. В настоящее время приложение Office Mobile доступно для телефонов и планшетов с ОС Windows и Android, а также для iPhone и iPad. <br/>
+<sup>10</sup> Help is available only in Simplified Chinese and English. <br/> 
+<sup>11</sup> Comments on blogs cannot be added. <br/> 
+<sup>12</sup> Organization community website is available, but public community-provided help is not available. <br/>
+<sup>13</sup> Access 2010 is not supported. <br/> 
+<sup>14</sup> для Office в Интернете пользователи F1 должны иметь доступ к Office для веб-сайта (живых плиток) для создания контента. Однако у них есть ограничения, связанные с основными коммерческими мобильными приложениями. Включены следующие продукты: Yammer, StaffHub, Microsoft Teams, Skype для бизнеса, SharePoint и Группы. Следующие компоненты **не** входят в состав: Outlook, Word, Excel, PowerPoint и OneNote.<br/> 
+<sup>15</sup> формы InfoPath, содержащие пользовательский код ("песочнице"), можно использовать только в полнофункциональном клиенте InfoPath. <br/>
+<sup>16</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.  <br/>
+<sup>17</sup> F1 пользователи могут получить доступ к SharePoint Server в гибридной настройке, но Office 365 F1 не включает права CAL на доступ к серверу; Эти права необходимо приобрести отдельно. <br/>
+<sup>18</sup> ключ клиента доступен в Office 365 корпоративный "~". Ключ клиента позволяет вам контролировать ключи шифрования в Организации, а затем настраивать Office 365 для шифрования данных на REST в центрах обработки данных Майкрософт. К ним относятся данные из Exchange Online и Skype для бизнеса, хранящиеся в почтовых ящиках, а также файлы, хранящиеся в SharePoint Online и OneDrive для бизнеса. Ключ клиента помогает обеспечивать соответствие требованиям, так как вы можете управлять ключами шифрования, которые Office 365 использует для расшифровки данных. Дополнительные сведения см в разделе [Управление данными в Office 365 с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>19</sup> ожидается в ближайшее время.
