@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Среды GCC High и DoD соответствуют уникальным и постоянно меняющимся требованиям Министерства обороны США, а также подрядчиков, которые хранят или обрабатывают контролируемую открытую информацию министерства обороны или подпадают под действие правил международной торговли оружием (ITAR). Корпорация Майкрософт предоставляет эти среды по программе корпоративного лицензирования. Перед созданием среды заинтересованные организации проходят проверку на соответствие требованиям. В настоящее время ознакомительные версии недоступны. '
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262550"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003964"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High и DoD
 
@@ -98,8 +98,15 @@ GCC High и DoD соответствуют требованиям следующ
   
 ### <a name="skype-for-business-online"></a>Skype для бизнеса Online
 
- **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
-  
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Телефонная система и телеконференции (через прямую маршрутизацию)**: телефонная система и телеконференцию для сред с высокой наставкой GCC и DOD могут осуществляться через прямую маршрутизацию. Для получения дополнительных сведений обратитесь к документации по уровню обслуживания:
+
+- [Телефонная система через прямую маршрутизацию](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Аудио-конференции с прямой маршрутизацией для GCC High и DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Удостоверение
 
 Многофакторная проверка подлинности на основе модели федеративного удостоверения позволяет использовать PIV- и CAC-карты.
