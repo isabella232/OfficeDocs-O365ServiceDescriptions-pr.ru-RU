@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262762"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840248"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -32,8 +32,13 @@ Microsoft Outlook — это почтовая программа, включаю
 
 По умолчанию доступ к Outlook включен для всех пользователей. Администраторы могут отключить доступ для определенных пользователей или групп с помощью Windows PowerShell. Рекомендуется использовать последнюю версию Outlook (с последним пакетом обновлений) для доступа к Exchange Online. 
   
-Сведения о том, какие клиенты Outlook поддерживаются в Exchange 2016 и Exchange Online, см. в разделе "Поддерживаемые клиенты" статьи [Требования к системе для установки Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
-  
+Сведения о том, какие клиенты Outlook поддерживаются в Exchange 2016 и Exchange Online, приведены в разделе [требования к системе для Office](https://products.office.com/office-system-requirements). 
+
+Office 365 предназначен для работы с последними браузерами и версиями Office. Если вы используете старые браузеры и версии Office, которые не поддерживаются основной версией:
+
+- Корпорация Майкрософт не может помешать подключению к службе, но качество взаимодействия с Office 365 может быть снижено с течением времени.
+- Корпорация Майкрософт не предоставляет обновления программного обеспечения для устранения проблем, не связанных с безопасностью.
+
 > [!IMPORTANT]
 >  Outlook не предоставляется по подписке Exchange Online. Microsoft Office профессиональный плюс (содержащий Microsoft Outlook) включен в некоторые тарифные планы Office 365 и его можно приобрести как отдельную подписку. При использовании POP для подключения к учетной записи электронной почты Exchange Online вы увидите следующие ограничения: > нет сведений о календаре > нет сведений о доступности > нет глобального списка адресов > без push-уведомления > при подключении через POP все сообщения будут загружены на клиент и не будут синхронизироваться между несколькими компьютерами или устройствами (например, между ноутбуками и телефонным подключением). 
   
@@ -59,7 +64,7 @@ Exchange Online работает с приложениями Outlook, досту
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Устройство  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Доступность приложений Outlook Mobile  <br/> |Да  <br/> [Получение Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получение Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные почтовые приложения, совместимые с Exchange Online  <br/> |Почтовое приложение для приложения Gmail и Samsung  <br/> |Почтовое приложение iOS  <br/> |Почта, календарь, контакты Outlook  <br/> |
 |Дополнительные сведения  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
