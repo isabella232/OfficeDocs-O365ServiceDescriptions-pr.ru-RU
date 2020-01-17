@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987651"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216528"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -72,7 +72,7 @@ ms.locfileid: "40987651"
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Электронная почта Майкрософт (Майкрософт)<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Flow  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Автоматизация управления электропитанием (Майкрософт)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |

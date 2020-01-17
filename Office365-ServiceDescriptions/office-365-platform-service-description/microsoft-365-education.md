@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
-ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263030"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216538"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
@@ -92,7 +92,7 @@ Microsoft 365 представляет собой полноценную сис�
 |SharePoint<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>10</sup> <br/> |Да  <br/> |
 |Skype для бизнеса<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>10</sup> <br/> |Да  <br/> |
 |Клиентская лицензия на Windows Server  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|System Center Configuration Manager  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
+|Диспетчер конфигураций конечных точек Майкрософт  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |System Center Endpoint Protection  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
    
 > [!NOTE]

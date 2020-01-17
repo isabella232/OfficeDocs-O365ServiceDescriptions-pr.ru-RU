@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 369b753a5b96db0faefaf34e7a1c6b58739abb3e
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810798"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216618"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
@@ -98,7 +98,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> |
 |Microsoft Bookings  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |No<sup>20</sup>  <br/> |No<sup>20</sup>  <br/> |Нет  <br/> |
 |Информационная электронная почта Майкрософт<sup>23</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Flow  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |
+|Автоматизация управления электропитанием (Майкрософт)  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft MyAnalytics<sup>21</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |

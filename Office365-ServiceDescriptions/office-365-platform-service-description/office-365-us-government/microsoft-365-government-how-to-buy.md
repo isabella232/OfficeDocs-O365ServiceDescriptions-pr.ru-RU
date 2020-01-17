@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 правительственные учреждения как приобрести
+title: Как купить Microsoft 365 для государственных организаций
 ms.author: danarl
 author: danarl
 manager: mnirkhe
@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263543"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216548"
 ---
 ---
 
@@ -100,7 +100,7 @@ Microsoft 365 для государственных учреждений (США
 - [Teams для государственных сред государственных организаций](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Outlook для iOS и Android в облаке сообщества государственных организаций](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps для государственных учреждений США](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow для государственных учреждений США](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power Автоматизация для государственных организаций США](https://docs.microsoft.com/flow/us-govt)
 - [Страница продукта Microsoft 365 для государственных учреждений](https://www.microsoft.com/microsoft-365/government)
 - [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -167,7 +167,7 @@ Microsoft 365 для государственных учреждений (США
 - [Teams для государственных сред государственных организаций](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Outlook для iOS и Android в облаке сообщества государственных организаций](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps для государственных учреждений США](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow для государственных учреждений США](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power Автоматизация для государственных организаций США](https://docs.microsoft.com/flow/us-govt)
 - [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 - [Страница продукта Microsoft 365 для государственных учреждений](https://www.microsoft.com/microsoft-365/government)
 - [Страница отраслевого учреждения корпорации Майкрософт](https://www.microsoft.com/enterprise/government)

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810808"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216638"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнес
 
@@ -39,7 +39,7 @@ Microsoft 365 бизнес включает следующие функции Az
 |[Приложения Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Да  <br/> |Да  <br/> |
 |Yammer корпоративный  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Bookings  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Flow  <br/> |Да  <br/> |Да  <br/> |
+|Автоматизация управления электропитанием (Майкрософт)  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |
 |Планировщик Microsoft  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft PowerApps  <br/> |Да  <br/> |Да  <br/> |
@@ -62,7 +62,7 @@ Microsoft 365 бизнес включает следующие функции Az
 |Office 365 Advanced Threat protection (план 1) <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |
 |Оценка безопасности<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Advanced Threat Protection (план 2) <br/> |Нет  <br/> |Нет <br/> |
-|[Управление идентификацией и доступом](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 бизнес включает функции выбора Azure AD Premium P1 (ААДП P1). Не включает в себя полностью AADP1. <sup>8</sup> <br/>|**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Управление удостоверениями и доступом](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 бизнес включает функции выбора Azure AD Premium P1 (ААДП P1). Не включает в себя полностью AADP1. <sup>8</sup> <br/>|**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Многофакторная идентификация Azure (MFA)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Административные единицы  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |Обнаружение облачных приложений  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
@@ -108,7 +108,7 @@ Microsoft 365 бизнес включает следующие функции Az
 |Защитить папки от угроз, таких как программы-шантажисты <br/> |Да  <br/> |
 |Защита файлов и папок на компьютерах от несанкционированного доступа с помощью BitLocker <br/> |Да  <br/> |
 
-### <a name="notes"></a>Заметки
+### <a name="notes"></a>Примечания
 <sup>1</sup> включает Exchange Online (план 1).<br/>
 <sup>2</sup> . Azure Information Protection (точка административной защиты) включает поддерживаемые функции управления правами на доступ к данным (IRM). AIP (план 1) входит в состав Microsoft 365 бизнес. <br/>
 <sup>3</sup> Microsoft 365 бизнес включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
