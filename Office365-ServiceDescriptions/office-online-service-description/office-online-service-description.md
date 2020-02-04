@@ -1,5 +1,5 @@
 ---
-title: Описание веб-службы Office
+title: Описание служб Office в Интернете
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263523"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711909"
 ---
-# <a name="office-for-the-web-service-description"></a>Описание веб-службы Office
+# <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
 Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге. 
   
@@ -192,7 +192,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 > [!NOTE] 
 > <sup>1</sup> не может создавать сводные диаграммы, только просмотр.
  <br/><sup>2</sup> в зависимости от того, как настроена среда, некоторые виды подключений к данным поддерживаются для книг, отображаемых в Excel для Интернета. Дополнительные сведения см в статье обновление данных в книге в окне браузера. 
- <br/><sup>3</sup> вы не можете создавать макросы в Excel в Excel для Интернета, но вы можете открывать и редактировать электронные таблицы с поддержкой VBA без удаления (или повреждения) VBA, содержащегося в файле.
+ <br/><sup>3</sup> вы не можете создавать и запускать макросы в Excel в Excel для Интернета, но вы можете открывать и редактировать электронные таблицы с поддержкой VBA без удаления (или повреждения) VBA, содержащегося в файле.
  <br/><sup>4</sup> в Excel для Интернета в окне браузера отображается последнее известное значение ссылки. Тем не менее, его необходимо обновить с помощью классического приложения Excel. 
  <br/><sup>5</sup> некоторые, но не все, доступны надстройки Office. 
   
