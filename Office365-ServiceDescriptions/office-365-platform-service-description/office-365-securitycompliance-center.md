@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262572"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773779"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "39262572"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 США G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
+|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -62,7 +62,7 @@ ms.locfileid: "39262572"
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. <br/>
 <sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.<br/>
 <sup>10</sup> метки чувствительности также включены в Azure Information Protection P1 и P2.<br/>
-<sup>11</sup> для применения политики хранения к почтовому ящику пользователя требуется лицензия на Exchange Online (план 2). 
+<sup>11</sup> лицензия на Exchange Online (план 2) необходима для помещения почтового ящика пользователя на хранение с использованием политики хранения.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -87,7 +87,7 @@ ms.locfileid: "39262572"
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Архивация](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/>|Да<sup>10</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |[Унифицированный аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/>|Да<sup>10</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|[Политики хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/>|Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Политики хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Да,<sup>11</sup>  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/>|Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
 |[Политики контроля](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ ms.locfileid: "39262572"
 <sup>7</sup> включает файлы, хранящиеся в репозиториях Microsoft Teams.<br/>
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. <br/>
 <sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.<br/>
-<sup>10</sup> только файлы, хранящиеся в OneDrive для бизнеса.
+<sup>10</sup> только файлы, хранящиеся в OneDrive для бизнеса.<br/>
+<sup>11</sup> лицензия на Exchange Online (план 2) необходима для помещения почтового ящика пользователя на хранение с использованием политики хранения.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
