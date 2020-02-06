@@ -1,5 +1,5 @@
 ---
-title: 'Описания служб Office 365 '
+title: 'Описание служб Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 — это облачная служба, предназначенная для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
+ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262040"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41787021"
 ---
-# <a name="office-365-service-descriptions"></a>Описания служб Office 365 
+# <a name="office-365-service-descriptions"></a>Описание служб Office 365 
 
 Microsoft Office 365 — это облачная служба, предназначенная для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей. 
   
@@ -37,49 +37,49 @@ Microsoft Office 365 — это облачная служба, предназн�
 Сначала следует ознакомиться с описанием следующих служб.
   
 - [Описание 1 службы платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup></sup>
-    
-- [Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md)
-    
-- [Описание веб-службы Office](office-online-service-description/office-online-service-description.md)
-    
-- [Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
-    
-- [Описание службы Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
-    
-- [Описание службы Advanced Threat Protection в Office 365](office-365-advanced-threat-protection-service-description.md)
-    
-- [Описание службы архивации на базе Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
-    
-- [Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md)
-    
-- [Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
-    
-- [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-    
-- [Описание службы информационного сообщения электронной почты](briefing-service-description.md)
 
-- [Описание службы аналитики рабочего места](workplace-analytics-service-description.md)
+- [Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md)
+
+- [Описание служб Office в Интернете](office-online-service-description/office-online-service-description.md)
+
+- [Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
+
+- [Описание службы Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+
+- [Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
+
+- [Описание службы архивации на базе Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+
+- [Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md)
+
+- [Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+
+- [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+
+- [Описание службы информационных писем](briefing-service-description.md)
+
+- [Описание службы Workplace Analytics](workplace-analytics-service-description.md)
 
 - [Описание службы MyAnalytics](mya-service-description.md)
-    
+
 - [Описание службы Power BI](power-bi-service-description.md)
-    
+
 - [Описание службы Project Online](project-online-service-description/project-online-service-description.md)
-    
-- [Описание веб-службы в Visio](visio-online-service-description/visio-online-service-description.md)
-    
+
+- [Описание службы Visio в Интернете](visio-online-service-description/visio-online-service-description.md)
+
 - [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Описание Microsoft 365 Business Service](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Описание службы Microsoft 365 бизнес](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Рекомендации по лицензированию служб на уровне клиента Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
-    
-- [Описание службы Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
-    
+- [Рекомендации по лицензированию & безопасности Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+
+- [Описание веб-службы Microsoft Dynamics 365](microsoft-dynamics-365-online-service-description.md)
+
 > [!NOTE]
 > <sup>1</sup> Включает сведения о доступности [функций набора](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), таких как Office Delve, Microsoft MyAnalytics, Microsoft Sway и Microsoft Teams.
   
 ## <a name="disclaimer"></a>Заявление об отказе
 
-© Корпорация Майкрософт, 2018. Все права защищены. Microsoft, Office 365, а также другие названия продуктов и служб являются или могут являться зарегистрированными товарными знаками и/или товарными знаками в США и/или других странах. Информация, представленная в настоящем документе, дается только в ознакомительных целях и представляет текущую точку зрения корпорации Майкрософт на момент последней публикации или редакции данного документа. Она не является контрактом на оказание услуг и не обязывает Майкрософт или заказчика выполнять функции, предоставлять возможности и отвечать за обязанности, упомянутые в данном документе. КОРПОРАЦИЯ МАЙКРОСОФТ НЕ ПРЕДОСТАВЛЯЕТ НИКАКИХ ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ОТНОСИТЕЛЬНО СВЕДЕНИЙ В ЭТОМ ДОКУМЕНТЕ. 
-  
+© Корпорация Майкрософт, 2018. Все права защищены. Microsoft, Office 365, а также другие названия продуктов и служб являются или могут являться зарегистрированными товарными знаками и/или товарными знаками в США и/или других странах. Информация, представленная в настоящем документе, дается только в ознакомительных целях и представляет текущую точку зрения корпорации Майкрософт на момент последней публикации или редакции данного документа. Она не является контрактом на оказание услуг и не обязывает Майкрософт или заказчика выполнять функции, предоставлять возможности и отвечать за обязанности, упомянутые в данном документе. КОРПОРАЦИЯ МАЙКРОСОФТ НЕ ПРЕДОСТАВЛЯЕТ НИКАКИХ ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ОТНОСИТЕЛЬНО СВЕДЕНИЙ В ЭТОМ ДОКУМЕНТЕ.
+ 
