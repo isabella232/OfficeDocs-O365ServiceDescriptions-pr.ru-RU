@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
-ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
+ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2020
-ms.locfileid: "41773779"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931925"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "41773779"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
+|**Функция** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> **Office 365 для государственных учреждений (США) G1** <br/> |**Office 365 корпоративный E3** <br/> **Office 365 США G3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F1** <br/> **Office 365 США, F1 F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -39,8 +39,8 @@ ms.locfileid: "41773779"
 |[Защита от потери данных для сообщений в беседах и каналах Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/>|
 |[Метки конфиденциальности](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Нет <br/>| Нет <br/> | Нет <br/>| Да <br/>| Да <br/>| Нет <br/> |
 |[Информационные барьеры](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/>|
-|[Управление данными](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Расширенное управление данными](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|[Управление сведениями](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Расширенное управление информацией](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Поиск контента](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[случаи обнаружения электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[удержания eDiscovery (включая удержания обнаружения электронных данных на основе запросов)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
@@ -48,12 +48,13 @@ ms.locfileid: "41773779"
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Архивация](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Нет  <br/> |
 |[Унифицированный аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Расширенный аудит](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup><br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |[Политики хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>11</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>, 11<br/> |
 |[Политики контроля](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 ||||||||
    
-<sup>1</sup> управление данными позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети.<br/>
-<sup>2</sup> Advanced Data управление позволяет хранить важную информацию и удалять несущественные сведения, выполнив классификацию информации на основе политики хранения или удаления или обеих. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.<br/>
+<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети.<br/>
+<sup>2</sup> Advanced Information управление позволяет хранить важную информацию и удалять неважную информацию, выполнив классификацию информации на основе политики хранения или удаления или и того, и других. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.<br/>
 <sup>3</sup> 50 ГБ ограничения. <br/>
 <sup>4</sup> без ограничений. <br/>
 <sup>5</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).<br>
@@ -62,7 +63,8 @@ ms.locfileid: "41773779"
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. <br/>
 <sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.<br/>
 <sup>10</sup> метки чувствительности также включены в Azure Information Protection P1 и P2.<br/>
-<sup>11</sup> лицензия на Exchange Online (план 2) необходима для помещения почтового ящика пользователя на хранение с использованием политики хранения.
+<sup>11</sup> для сохранения контента в почтовом ящике пользователя с помощью политики хранения требуется лицензия на Exchange Online (план 2).<br/>
+<sup>12</sup> Расширенный аудит включает в себя срок хранения журналов аудита для действий в Azure Active Directory, Exchange и SharePoint, а также возможность создания настраиваемых политик хранения журнала аудита для управления хранением журнала аудита для других служб Office 365. Кроме того, он предоставляет аудит событий высокого уровня и доступ к API действий управления Office 365 с высокой пропускной способностью.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -78,8 +80,8 @@ ms.locfileid: "41773779"
 |[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да <sup>7<sup> <br/> |Нет <br/> |Да<sup>10</sup> <br/>|Нет  <br/> |Да  <br/> |
 |[Защита от потери данных для сообщений в беседах и каналах Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Информационные барьеры](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Управление данными](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Да<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Расширенное управление данными](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|[Управление сведениями](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Да<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
+|[Управление расширенной информацией](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |[Поиск контента](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/>| Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |
 |[случаи обнаружения электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Нет  <br/> |Нет  <br/> |
 |[Экспорт при обнаружении электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет <br/> |Да<sup>10</sup> <br/>|Нет<sup>4</sup> <br/> |Нет<sup>4</sup> <br/> |
@@ -91,9 +93,9 @@ ms.locfileid: "41773779"
 |[Политики контроля](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |||||||||
    
-<sup>1</sup> управление данными позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. <br/>
+<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. <br/>
 <sup>2</sup> Требует приобретения надстройки Exchange Online Archiving. <br/>
-<sup>3</sup> расширенное управление данными позволяет хранить важную информацию и удалять неважную информацию, выполнив классификацию информации на основе политики хранения или удаления или и того, и других. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.<br/>
+<sup>3</sup> Расширенная система управления сведениями позволяет хранить важную информацию и удалять неважную информацию, выполнив классификацию информации на основе политики хранения или удаления или и того, и других. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.<br/>
 <sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика. <br/>
 <sup>5</sup> Advanced eDiscovery требует наличия лицензии на надстройку или Office 365 корпоративный E5. <br/>
 <sup>6</sup> Архивация Skype находится в почтовом ящике пользователя.<br/> 

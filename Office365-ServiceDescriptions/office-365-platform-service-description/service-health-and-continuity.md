@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Microsoft Office 365 могут просматривать состояние служб и узнавать, когда обслуживание запланировано. Сведения о работоспособности службы доступны в любое время, войдя в Office 365.
-ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 612233533b6feb8cfb812661e2566cf6e0526200
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262480"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931935"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -49,7 +49,7 @@ ms.locfileid: "39262480"
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Втором квартале** <br/> |**Вопрос** <br/> |**Й** <br/> |
-| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> | 99,98% <br/> |
 
 <br/>
 
