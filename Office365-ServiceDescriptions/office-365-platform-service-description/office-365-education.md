@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
-ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: aef2ede957404e73ab723766239ffbbd186e1d3c
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216528"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172241"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -72,7 +72,7 @@ ms.locfileid: "41216528"
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Электронная почта Майкрософт (Майкрософт)<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Автоматизация управления электропитанием (Майкрософт)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Microsoft Power Automate  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
@@ -141,7 +141,7 @@ ms.locfileid: "41216528"
 |Использование браузера  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Использование операционной системы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Обновления служб](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Обновления службы](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Roadmap.office.com для некоторых обновлений служб  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -346,7 +346,7 @@ ms.locfileid: "41216528"
 |Карантин  управление администраторами  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Карантин  самостоятельное управление пользователями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Расширенная защита от угроз  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Настраиваемая маршрутизация исходящей почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Secure messaging with a trusted partner  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Conditional mail routing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -821,260 +821,8 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
   
 ## <a name="sharepoint-online-features"></a>Функции SharePoint Online
 
-В следующей таблице описываются функции SharePoint, доступные в каждом плане Office 365 для образовательных учреждений. 
-  
-****
+Сведения о возможностях SharePoint Online приведены в статье [Описание службы SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md).
 
-|||||
-|:-----|:-----|:-----|:-----|
-|**Возможности для разработчиков** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|BCS: оповещения для внешних списков <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[BCS: внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|BCS: страницы профилей <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|BCS: Расширенная интеграция клиентов <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|BCS: служба Secure Store <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|BCS: Tenant-level external data log <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Browser-based customizations <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Клиентская объектная модель (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Client-side rendering (CSR) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|настраиваемые определения сайтов; <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Страница подготовки настраиваемого сайта](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Сайт разработчика](../sharepoint-online-service-description/developer.md#developer-site) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Приложения на основе форм](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Решения с полным доверием](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |
-|[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|List and Library APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Интерфейсы REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Дизайнер SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|SharePoint Store <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Рабочие процессы SharePoint 2010 (.NET 3.5) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Рабочие процессы SharePoint 2010 (встроенные)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Рабочие процессы SharePoint 2013 и SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
-|Workload API: ECM APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Workload API: Search APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Workload API: Social APIs <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Функции для ИТ-специалистов** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Синхронизация Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Альтернативное сопоставление доступа](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Analytics Platform <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Защита от вредоносных программ](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка проверки подлинности на основе утверждений](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Мастера настройки <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Отложенное обновление семейства сайтов <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Распределенный кэш <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Семейства веб-сайтов с заголовком узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Улучшенное управление разрешениями <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Улучшенное самостоятельное создание сайтов <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Управляемые учетные записи <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Minimal Download Strategy (MDS) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление мобильными устройствами для Office 365](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |
-|[Управление исправлениями](../sharepoint-online-service-description/it-professional.md#patch-management) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Шаблоны квот](../sharepoint-online-service-description/it-professional.md#quota-templates) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Поддержка баз данных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Удаленное хранилище BLOB-объектов.](../sharepoint-online-service-description/it-professional.md#remote-blob-storage) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Управление запросами](../sharepoint-online-service-description/it-professional.md#request-management) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Request throttling <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Регулирование ресурсов](../sharepoint-online-service-description/it-professional.md#resource-throttling) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Платформа приложения службы](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Анализатор работоспособности SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Центр администрирования SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Shredded Storage <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Политики соответствия семейств веб-сайтов](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Проверки работоспособности семейств веб-сайтов <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Служба состояний <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Усовершенствованный центр администрирования <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Уведомления о состоянии системы <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Восстановление неприсоединенной базы данных контента <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Upgrade evaluation site collections <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Отчеты об использовании и ведение журнала](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Поддержка Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности работы с контентом** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Поддержка стандартов специальных возможностей](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Расширения библиотеки активов и поддержка видео](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Аудит](../sharepoint-online-service-description/content.md#auditing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Дизайнер](../sharepoint-online-service-description/content.md#design-manager) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Наборы документов](../sharepoint-online-service-description/content.md#document-sets) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|[Хранение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|[Экспорт при обнаружении электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|Списки и библиотеки с поддержкой электронной почты <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Внешний общий доступ: внешний доступ](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |
-|[Внешний общий доступ: Гостевая ссылка](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Да,<sup>6</sup> <br/> |Да  <br/> |Да,<sup>6</sup> <br/> |
-|[Синхронизация папок](../sharepoint-online-service-description/content.md#folder-sync) <br/> |Да<sup>, 1, 6</sup> <br/> |Да  <br/> |Да  <br/> |
-|Гибридный аудит  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Гибридная Таксономия и типы контента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Да  <br/> |Да  <br/> |<sup>6</sup> Нет  <br/> |
-|[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Многоступенчатое расположение](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office профессиональный плюс (Osub)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|PowerPoint Automation Services <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Архивная библиотека](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Быстрое редактирование](../sharepoint-online-service-description/content.md#quick-edit) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление записями](../sharepoint-online-service-description/content.md#records-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Корзина (центр администрирования SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Корзина (семейство веб-сайтов)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Связанные элементы <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Rich Media Management <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Общие типы контента](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Службы перевода SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Опросы <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поиск видео](../sharepoint-online-service-description/content.md#video-search) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Каталог](../sharepoint-online-service-description/content.md#catalog) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Публикация на нескольких- сайтах.](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|WCM: инструменты конструктора <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Аспектная Навигация](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |Нет  <br/> |Да,<sup>14</sup> <br/> |Да,<sup>14</sup> <br/> |
-|[Представления изображений](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|WCM: Managed navigation <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|WCM: Визуализация на мобильных устройствах и устройствах <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|WCM: несколько доменов <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|WCM: Recommendations <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**Функции аналитики** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Вычисляемые показатели и элементы](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Библиотека подключений к данным](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Разъединенные сводные таблицы и диаграммы](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка списка полей и полей](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Улучшенные фильтры](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Фильтрация поиска](../sharepoint-online-service-description/insights.md#filter-search) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|PerformancePoint Services (PPS) Dashboard Migration <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Веб-часть Power BI](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Power View для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Power Pivot для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Экспресс-тенденции](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Scorecards & Dashboards <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Работа с книгами Excel, содержащими модели данных](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности поиска** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Advanced Content Processing <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Непрерывные обходы контента](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Custom entity extraction <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Прямые ссылки](../sharepoint-online-service-description/search.md#deep-links) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Релевантность на основе событий](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поиск в навыках](../sharepoint-online-service-description/search.md#expertise-search) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расширенная обработка контента] <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Графические уточнители](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Гибридный поиск](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление схемой поиска](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|On-premises search index <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Фонетическое сопоставление имен](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Правила запросов  добавление продвигаемых результатов](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Правила запроса  расширенные действия](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Исправление орфографии запросов](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Предложения запросов](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Query throttling <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Предварительный просмотр при наведении](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Модели ранжирования](../sharepoint-online-service-description/search.md#ranking-models) <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |
-|[Уточнители](../sharepoint-online-service-description/search.md#refiners) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[API запросов RESTful и объектная модель запросов](../sharepoint-online-service-description/search.md#restful-query-apiquery-om) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Result sources <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Search connector framework <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Сортировка результатов поиска](../sharepoint-online-service-description/search.md#search-results-sorting) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Search vertical: “Conversations” <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Search vertical: “People” <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Search vertical: “Video” <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поиски "Этот список"](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности веб-сайтов** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Change the look <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Подключения к клиентам Microsoft Office <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка различных браузеров](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Настраиваемые управляемые пути](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Управление](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Средство запуска гибридных приложений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Гибридная среда OneDrive для бизнеса и сайты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
-|My Tasks <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Project functionality for team sites <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Шаблоны сайтов проекта](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Project Summary web part <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Project workspace <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Списки SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Лента SharePoint <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Библиотеки документов](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Список задач](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Team Site: Drag & Drop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Записная книжка группы](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Team Site: Simplified Access <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Макеты сайтов](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Темы сайта (изменение внешнего вида)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[страница "Использование сайта";](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Варианты](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Work Management Service <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Возможности для общения** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ask Me About <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Личные блоги](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |
-|Репутация сообществ, награды и контроль <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |
-|[Сообщество](../sharepoint-online-service-description/social.md#community) <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>10</sup> <br/> |
-|[Веб-канал компании](../sharepoint-online-service-description/social.md#company-feed) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Беседы с документами в Yammer <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Подписаться <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Микроблоги <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Канал новостей <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Общий доступ с одним щелчком <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Люди, сайты, рекомендации по документам <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|личный сайт; <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Фотографии и сведения о присутствии <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Профиль <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Ratings <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Мне предоставлен доступ <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Веб-канал сайта (классический сайт группы с использованием SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|OneDrive для бизнеса <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Tag profiles <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Tasks integrated with Outlook <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Теги тенденции <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Вики-сайты](../sharepoint-online-service-description/social.md#wikis) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Yammer  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Надстройки** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Дополнительное хранилище](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Приложения, подготовленные в Azure: службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup> <br/> |
-|[Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов. <br/> 
-<sup>2</sup> так как пользователи киосков не могут быть администраторами, для доступа к центру администрирования у пользователей с киоском должен быть по крайней мере один пользователь предприятия. <br/> 
-<sup>3</sup> пользователям SharePoint Online необходимо скачать и установить свободное приложение ранжирования для настройки модели, чтобы создать и настроить модели ранжирования. <br/> 
-<sup>4</sup> при использовании функций обнаружения электронных данных требования к лицензированию для плана, разрешающего эту функцию, применяются ко всем конечным пользователям, входящим в действие EDiscovery (Поиск, хранение, экспорт). <br/> 
-<sup>5</sup> некоторые поставщики могут быть заблокированы в вашей стране или регионе. <br/> 
-<sup>6</sup> общий доступ к документу, библиотеке или сайту через электронную почту за прев Организации. Администраторы имеют возможность включить их, но получат предупреждение о том, что доступ к файлам можно получить за пределами вашей страны. Пользователи, которые попытаются поделиться документами с кем-то не из организации, получат такое же сообщение. <br/> 
-<sup>7</sup> документы можно просматривать в любом браузере мобильного устройства. Чтобы редактировать документы, необходимо установить приложение Office Mobile. В настоящее время приложение Office Mobile доступно для телефонов и планшетов с ОС Windows и Android, а также для iPhone и iPad. <br/> <sup>8</sup> Справка доступна только на китайском (упрощенное письмо) и английском языках. <br/> 
-<sup>9</sup> комментарии в блогах нельзя добавлять.<br/> 
-<sup>10</sup> веб-сайт сообщества Организации доступен, но общедоступная помощь сообщества недоступна. <br/> <sup>11</sup> Access 2010 не поддерживается. <br/> 
-<sup>12</sup> изолированные решения не могут содержать пользовательский код. Они могут содержать только файлы определения (XML) и ресурсы, обрабатываемые сервером при активации. <br/> <sup>13</sup> формы InfoPath, содержащие пользовательский код ("песочнице"), можно использовать только в полнофункциональном клиенте InfoPath. <br/> 
-<sup>14</sup> пользователи SharePoint Online, прошедшие проверку подлинности, могут получать доступ к частным семействам веб-сайтов с использованием аспекта 
-  
 ### <a name="sharepoint-online-limits"></a>Ограничения SharePoint Online
 
 В приведенной ниже таблице показаны пределы SharePoint для каждого плана образования Office 365.
@@ -1148,7 +896,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Представление выбранного участника  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Общий доступ к OneNote  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Прямое и плановое веб-Конференц-связь  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Подключение к собранию Skype для бизнеса с помощью аудио-конференций (первая сторона)  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Подключение к собранию Skype для бизнеса с помощью аудио-конференций (первая сторона)  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Подключение к собранию Skype для бизнеса с помощью сертифицированного поставщика службы аудио-и видеоконференций (ACP)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Общий доступ к PowerPoint  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Передача файлов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -1167,12 +915,12 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Делегирование Outlook для планирования собраний  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Создание общедоступных собраний со статическими кодами собрания в Outlook  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**Голосовая связь** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Автосекретари  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Автосекретари  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Параметры доступности  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Отказоустойчивость связи в филиалах  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Контроль допуска звонков  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Прием и инициирование вызовов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Делегирование вызовов  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Делегирование вызовов  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Переадресация звонков и одновременный звонок  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |История звонков.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Удержание вызова и восстановление звонка.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -1183,25 +931,25 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |Режим ожидания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Клиентские приложения для компьютеров с Windows, Mac и мобильных устройств  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Переключение устройств.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Различение звонков.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Различение звонков.  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Маршрутизация для режима "Не беспокоить".  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Экстренные вызовы  статическое местоположение  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Экстренные вызовы  статическое местоположение  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Экстренные вызовы  динамическое местоположение  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Маршрутизация звонков на основе корпоративного календаря  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Набор внутренних номеров  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Ответ на вызов в группе  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Сервисные группы/очереди и обработка вызовов  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Интегрированная панель набора номера.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Сервисные группы/очереди и обработка вызовов  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
+|Интегрированная панель набора номера.  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Маршрутизация на основе местоположения  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Музыка в режиме удержания.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Управление номерами DID для исходящих вызовов  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Частная линия  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Специальные стационарные IP-телефоны.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Специальные стационарные IP-телефоны.  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Распределенная линия  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |Звонки по Skype и федеративные вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Групповые звонки.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Групповые звонки.  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |Монитор видеозвонков.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Voicemail  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
+|Voicemail  <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
 |[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для внутренних звонков с обязательным приобретением надстройки)  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
 |[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для международных звонков с обязательным приобретением надстройки)  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |
 |[Кредиты на связь](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Нет  <br/> |Нет  <br/> |ДА  <br/> |
@@ -1304,7 +1052,7 @@ OneDrive для бизнеса (план 2) доступен для Office 365 a
 |:-----|:-----|:-----|:-----|
 |**Функция** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Хранение контента собрания: разовое собрание  <br/> |15 дней   <br/> |15 дней   <br/> |15 дней  <br/> |
-|Хранение контента собрания: повторяющееся собрание  <br/> |15 дней  <br/> |15 дней   <br/> |15 дней   <br/> |
+|Хранение контента собрания: повторяющееся собрание  <br/> |15 дней  <br/> |15 дней   <br/> |15 дней  <br/> |
 |Хранение контента собрания: Функция "Провести собрание"  <br/> |8 часов   <br/> |8 часов   <br/> |8 часов  <br/> |
 |Окончание срока действия собрания: разовое собрание  <br/> |14 дней  <br/> |14 дней  <br/> |14 дней  <br/> |
 |Окончание срока действия собрания: повторяющееся собрание  <br/> |14 дней  <br/> |14 дней  <br/> |14 дней  <br/> |
