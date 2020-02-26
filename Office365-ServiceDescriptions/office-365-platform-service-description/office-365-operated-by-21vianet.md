@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 5de46f8188a936ceadc36caf1cf76c2a4eb4bab7
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216628"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279842"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -83,7 +83,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[Функции набора Office 365](office-365-suite-features.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Microsoft Bookings|Нет|Нет|Да|Нет|Нет|Нет|Нет|
 |Информационные сообщения Майкрософт|Нет|Нет|Да|Нет|Нет|Нет|Нет|
-|Автоматизация управления электропитанием (Майкрософт)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Microsoft Power Automate|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Microsoft Forms|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Microsoft MyAnalytics|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Планировщик Microsoft|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -153,7 +153,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
+|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -330,7 +330,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Шифрование статических данных (BitLocker)|Да|Да|Да|Да|Да|Да|Да|
 |IRM на базе Azure Information Protection|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |IRM с использованием AD RMS Windows Server<sup>2</sup>|Да|Да|Да|Да|Да|Да|Да|
-|Шифрование сообщений Office 365|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Шифрование сообщений Office 365|Нет|Нет|Нет|Да<sup>15</sup>|Нет|Да<sup>15</sup>|Нет|
 |S/MIME|Да|Да|Да|Да|Да|Да|Да||
 |Хранение на месте и хранение для судебного разбирательства|Нет|--|Нет|Да|Нет|Да|Нет|
 |Обнаружение электронных данных на месте|Да<sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|Да|Да<sup>7</sup>|Да<sup>7</sup>|Да|
@@ -429,6 +429,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>12</sup> настройка гибридного развертывания доступна через мастер гибридной конфигурации для Exchange 2013 CU5 или может быть настроен вручную при наличии Exchange 2013 с пакетом обновления 1 (SP1). Обратитесь к разделу справки для получения дополнительных сведений: [Office 365 под управлением 21vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
 <br/><sup>13</sup> подключенные учетные записи поддерживаются для учетных записей IMAP POP &amp; , но отключены для Outlook.com (Hotmail).
 <br/><sup>14</sup> использование командлета для работы со списками адресов и глобальными списками адресов не поддерживается.
+<br/><sup>15</sup> текущая возможность шифрования сообщений Office 365 (OME) — это эволюция текущих решений управления правами на доступ к данным (IRM) и предыдущих OME. Дополнительные сведения о OME можно найти в статье [вопросы и ответы по шифрованию сообщений в Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
 
 ### <a name="exchange-online-limits"></a>Ограничения Exchange Online
 
@@ -480,7 +481,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Правила потока обработки почты](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Да<sup>3, 4, 11</sup>|Да<sup>3, 4, 11</sup>|
 |[Ведение журнала аудита](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|Да<sup>5</sup>|Да|
 |[Предотвращение потери данных (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Нет|Нет|
-|[Шифрование сообщений Office 365](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Нет|Нет|
+|[Шифрование сообщений Office 365](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Да,<sup>13</sup>|Да,<sup>13</sup>|
 |[Защита от нежелательной почты](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (встроенная)|Да|Да|
 |[Настройка политик защиты от нежелательной почты](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|Да,<sup>6</sup>|Да|
 |[Защита от вредоносных программ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (встроенная)|Да<sup>10</sup>|Да|
@@ -514,6 +515,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>10</sup> сканирует входящие и исходящие сообщения, но не сканирует внутренние сообщения, отправленные от отправителя в вашей организации получателю в вашей организации. <br/>
 <sup>11</sup> доступные предикаты и действия ОТЛИЧАЮТСЯ в EOP и Exchange Online. <br/>
 <sup>12</sup> Гибридная Настройка недоступна при использовании мастера гибридного развертывания, но ее можно настроить вручную, если у вас есть Exchange SP1.
+<br/><sup>13</sup> текущая возможность шифрования сообщений Office 365 (OME) — это эволюция текущих решений управления правами на доступ к данным (IRM) и предыдущих OME. Дополнительные сведения о OME можно найти в статье [вопросы и ответы по шифрованию сообщений в Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
 
 ## <a name="exchange-online-archiving-features"></a>Функции архивации на базе Exchange Online
 
@@ -570,219 +572,219 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Возможности для разработчиков**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|[Каталог приложений (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Да|Да|Да|Да|Да|Да|Да|
-|[Развертывание приложений: приложения, размещаемые в облаке](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|
-|[Развертывание приложений: приложения, размещаемые в SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Да|Да|Да|Да|Да|Да|Да|
-|[Служба управления приложениями](../sharepoint-online-service-description/developer.md#app-management-service)|Да|Да|Да|Да|Да|Да|Да|
+|**Возможности для разработчиков**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
+|Каталог приложений (SharePoint)|Да|Да|Да|Да|Да|Да|Да|
+|Развертывание приложений: приложения, размещаемые в облаке|Да|Да|Да|Да|Да|Да|Да|
+|Развертывание приложений: приложения, размещаемые в SharePoint|Да|Да|Да|Да|Да|Да|Да|
+|Служба управления приложениями|Да|Да|Да|Да|Да|Да|Да|
 |BCS: оповещения для внешних списков|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[BCS: внешние типы контента с областью действия приложений (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[BCS: веб-части бизнес-данных](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[BCS: внешний список](../sharepoint-online-service-description/developer.md#bcs-external-list)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[BCS: Соединитель OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|BCS: внешние типы контента с областью действия приложений (ECT)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|BCS: веб-части бизнес-данных|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|BCS: внешний список|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|BCS: OData connector|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |BCS: страницы профилей|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[BCS: Расширенная интеграция клиентов](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|BCS: Расширенная интеграция клиентов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |BCS: Secure Store Service|Нет|Нет|Нет|Да|Нет|Да|Нет|
 |BCS: Tenant-level external data log|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Browser-based customizations|Да|Да|Да|Да|Да|Да|Да|
-|[Клиентская объектная модель (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|Да|Да|Да|Да|Да|Да|Да|
+|Client Object Model (OM)|Да|Да|Да|Да|Да|Да|Да|
 |Client-side rendering (CSR)|Да|Да|Да|Да|Да|Да|Да|
 |настраиваемые определения сайтов;|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Страница подготовки настраиваемого сайта](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Сайт разработчика](../sharepoint-online-service-description/developer.md#developer-site)|Да|Нет|Да|Да|Да|Да|Да|
-|[Приложения на основе форм](../sharepoint-online-service-description/developer.md#forms-based-applications)|Да|Нет|Да|Да|Да|Да|Да|
-|[Решения с полным доверием](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Служба форм InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Нет|Нет|Нет|Нет|Нет|Нет<sup>14</sup>|Нет|
-|[Объектная модель JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Да|Да|Да|Да|Да|Да|Да|
+|Страница подготовки настраиваемого сайта|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Сайт разработчика|Да|Нет|Да|Да|Да|Да|Да|
+|Приложения на основе форм|Да|Нет|Да|Да|Да|Да|Да|
+|Решения с полным доверием|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|InfoPath Forms Services|Нет|Нет|Нет|Нет|Нет|Нет<sup>14</sup>|Нет|
+|JavaScript Object Model|Да|Да|Да|Да|Да|Да|Да|
 |List and Library APIs|Да|Да|Да|Да|Да|Да|Да|
-|[Удаленный приемник событий](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Да|Нет|Да|Да|Да|Да|Да|
-|[Интерфейсы REST API](../sharepoint-online-service-description/developer.md#rest-apis)|Да|Да|Да|Да|Да|Да|Да|
-|[Дизайнер SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Да|Нет|Да|Да|Да|Да|Да|
-|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Да|Нет|Да|Да|Да|Да|Да|
+|Удаленный приемник событий|Да|Нет|Да|Да|Да|Да|Да|
+|REST API|Да|Да|Да|Да|Да|Да|Да|
+|SharePoint Design Manager|Да|Нет|Да|Да|Да|Да|Да|
+|SharePoint Designer 2013|Да|Нет|Да|Да|Да|Да|Да|
 |Магазин SharePoint|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Рабочие процессы SharePoint 2010 (.NET 3.5)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Рабочие процессы SharePoint 2010 (встроенные)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Рабочие процессы SharePoint 2013 и SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows)|Да|Нет|Да|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да|
+|Рабочие процессы SharePoint 2010 (встроенные)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Рабочие процессы SharePoint 2013 и SharePoint 2016|Да|Нет|Да|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да|
 |Workload API: ECM APIs|Да|Нет|Да|Да|Да|Да|Да|
 |Workload API: Search APIs|Да|Нет|Да|Да|Да|Да|Да|
 |Workload API: Social APIs|Да|Нет|Да|Да|Да|Да|Да|
 |**Функции для ИТ-специалистов**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|[Синхронизация Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|Да|Да|Да|Да|Да|Да|Да|
-|[Альтернативное сопоставление доступа (альтернативное сопоставление доступа)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Синхронизация Active Directory|Да|Да|Да|Да|Да|Да|Да|
+|Альтернативное сопоставление доступа (альтернативное сопоставление доступа)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Платформа аналитики|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Защита от вредоносных программ](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Да|Да|Да|Да|Да|Да|Да|
-|[Поддержка проверки подлинности на основе утверждений](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Anti-malware protection|Да|Да|Да|Да|Да|Да|Да|
+|Поддержка проверки подлинности на основе утверждений|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Мастера настройки|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Отложенное обновление семейства сайтов|Да|Да|Да|Да|Да|Да|Да|
 |Распределенный кэш|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Защита от потери данных](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Шифрование статических данных](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Да|Да|Да|Да|Да|Да|Да|
-|[Семейства веб-сайтов с заголовком узла](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Data loss prevention|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Encryption at rest|Да|Да|Да|Да|Да|Да|Да|
+|Семейства веб-сайтов с заголовком узла|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Улучшенное управление разрешениями|Да|Да|Да|Да|Да|Да|Да|
 |Улучшенное самостоятельное создание сайтов|Нет|Нет|Да|Нет|Нет|Нет|Нет|
 |Управляемые учетные записи|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Minimal Download Strategy (MDS)|Да|Да|Да|Да|Да|Да|Да|
-|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|
-|[Управление исправлениями](../sharepoint-online-service-description/it-professional.md#patch-management)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Шаблоны квот](../sharepoint-online-service-description/it-professional.md#quota-templates)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Поддержка баз данных только для чтения](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Удаленное хранилище BLOB-объектов.](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Управление запросами](../sharepoint-online-service-description/it-professional.md#request-management)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|OAuth|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|
+|Управление исправлениями|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Шаблоны квот|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Поддержка баз данных только для чтения|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Удаленное хранилище больших двоичных объектов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Управление запросами|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Request throttling|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Регулирование ресурсов](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Платформа приложения службы](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Да|Нет|Да|Да|Да|Да|Да|
-|[Анализатор работоспособности SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Центр администрирования SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Да|Да|Да|Да|Да|Да|Нет<sup>4</sup>|
+|Resource throttling|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Платформа приложения службы|Да|Нет|Да|Да|Да|Да|Да|
+|SharePoint Health Analyzer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Центр администрирования SharePoint (Office 365)|Да|Да|Да|Да|Да|Да|Нет<sup>4</sup>|
 |Shredded Storage|Да|Да|Да|Да|Да|Да|Да|
-|[Политики соответствия семейств веб-сайтов](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Да|Да|Да|Да|Да|Да|Да|
+|Политики соответствия семейств веб-сайтов|Да|Да|Да|Да|Да|Да|Да|
 |Проверки работоспособности семейств веб-сайтов|Да|Да|Да|Да|Да|Да|Да|
 |Служба состояний|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Усовершенствованный центр администрирования|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Уведомления о состоянии системы|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Восстановление неприсоединенной базы данных контента|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Upgrade evaluation site collections|Нет|Нет|Нет|Да|Да|Да|Да|
-|[Отчеты об использовании и ведение журнала](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Поддержка Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Да|Да|Да|Да|Да|Да|Да|
+|Отчеты об использовании и ведение журнала|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Поддержка Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|
 |**Возможности работы с контентом**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|[Поддержка стандартов специальных возможностей](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Да|Да|Да|Да|Да|Да|Да|
-|[Расширения библиотеки активов и поддержка видео](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Да|Да|Да|Да|Да|Да|Да|
-|[Аудит](../sharepoint-online-service-description/content.md#auditing)|Да|Да|Да|Да|Да|Да|Да|
-|[Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Да|Да|Да|Да|Да|Да|Да|
-|[Организатор контента](../sharepoint-online-service-description/content.md#content-organizer)|Да|Нет|Да|Да|Да|Да|Да|
-|[Дизайнер](../sharepoint-online-service-description/content.md#design-manager)|Да|Нет|Да|Да|Да|Да|Да|
-|[Наборы документов](../sharepoint-online-service-description/content.md#document-sets)|Да|Да|Да|Да|Да|Да|Да|
-|[Перевод документов в Word для Интернета](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Обнаружение электронных данных](../sharepoint-online-service-description/content.md#ediscovery-search)|Да,<sup>6</sup>|Да|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|
-|[удержание eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
-|[Экспорт при обнаружении электронных данных](../sharepoint-online-service-description/content.md#ediscovery-export)|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
+|Поддержка стандартов специальных возможностей|Да|Да|Да|Да|Да|Да|Да|
+|Расширения библиотеки активов и поддержка видео|Да|Да|Да|Да|Да|Да|Да|
+|Аудит|Да|Да|Да|Да|Да|Да|Да|
+|Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)|Да|Да|Да|Да|Да|Да|Да|
+|Content Organizer|Да|Нет|Да|Да|Да|Да|Да|
+|Design Manager|Да|Нет|Да|Да|Да|Да|Да|
+|Наборы документов|Да|Да|Да|Да|Да|Да|Да|
+|Перевод документов в Word для Интернета|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Поиск с обнаружением электронных данных|Да,<sup>6</sup>|Да|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|
+|удержание eDiscovery|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
+|Экспорт обнаружения электронных данных|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Да,<sup>6</sup>|Нет<sup>6</sup>|
 |Списки и библиотеки с поддержкой электронной почты|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Внешний общий доступ: внешний доступ](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
-|[Внешний общий доступ: Гостевая ссылка](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
-|[Синхронизация папок](../sharepoint-online-service-description/content.md#folder-sync)|Да<sup>, 1, 10</sup>|Да|Да<sup>, 1, 10</sup>|Да<sup>, 1, 10</sup>|Да<sup>1</sup>|Да|Да<sup>, 2, 11</sup>|
+|Внешний общий доступ: внешний доступ|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
+|Внешний общий доступ: Гостевая ссылка|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
+|Синхронизация папок|Да<sup>, 1, 10</sup>|Да|Да<sup>, 1, 10</sup>|Да<sup>, 1, 10</sup>|Да<sup>1</sup>|Да|Да<sup>, 2, 11</sup>|
 |Гибридный аудит|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Гибридная Таксономия и типы контента|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
-|[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Нет|Нет|Нет|Нет|Нет|Нет|Нет<sup>4</sup>|
-|[(IRM) Управления Правами На Доступ К Данным](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Служба управляемых метаданных](../sharepoint-online-service-description/content.md#managed-metadata-service)|Да|Нет|Да|Да|Да|Да|Да|
-|[Навигация на основе метаданных](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Да|Нет|Да|Да|Да|Да|Да|
-|[Расстановка с несколькими стадиями](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Да|Да|Да|Да|Да|Да|Да|
-|[Office для Интернета (создание и редактирование)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Да|Да|Да|Да|Да|Да|Да<sup>8</sup>|
-|[Office для Интернета (представление)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Да|Да|Да|Да|Да|Да|Да|
+|(IRM) Управления Правами На Доступ К Данным|Нет|Нет|Нет|Нет|Нет|Нет|Нет<sup>4</sup>|
+|(IRM) Управления Правами На Доступ К Данным|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Служба управляемых метаданных|Да|Нет|Да|Да|Да|Да|Да|
+|Навигация на основе метаданных|Да|Нет|Да|Да|Да|Да|Да|
+|Расстановка с несколькими стадиями|Да|Да|Да|Да|Да|Да|Да|
+|Office для Интернета (создание и редактирование)|Да|Да|Да|Да|Да|Да|Да<sup>8</sup>|
+|Office для Интернета (представление)|Да|Да|Да|Да|Да|Да|Да|
 |Office профессиональный плюс (Osub)|Нет|Да|Нет|Нет|Нет|Да|Нет|
-|[Интеграция Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Office Web Apps Server integration|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |PowerPoint Automation Services|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Архивная библиотека](../sharepoint-online-service-description/content.md#preservation-hold-library)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Быстрое редактирование](../sharepoint-online-service-description/content.md#quick-edit)|Да|Да|Да|Да|Да|Да|Нет|
-|[Управление записями](../sharepoint-online-service-description/content.md#records-management)|Да|Нет|Да|Да|Да|Да|Да|
-|[Корзина (Центр администрирования SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Да|Да|Да|Да|Да|Да|Нет|
-|[Корзина (семейства веб-сайтов)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Да|Да|Да|Да|Да|Да|Нет|
+|Preservation hold library|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Quick Edit|Да|Да|Да|Да|Да|Да|Нет|
+|Records management|Да|Нет|Да|Да|Да|Да|Да|
+|Recycle Bin (SharePoint admin center)|Да|Да|Да|Да|Да|Да|Нет|
+|Recycle Bin (site collection)|Да|Да|Да|Да|Да|Да|Нет|
 |Связанные элементы|Да|Нет|Да|Да|Да|Да|Да|
 |Богатые возможности управления мультимедиа|Да|Нет|Да|Да|Да|Да|Да|
-|[Общие типы контента](../sharepoint-online-service-description/content.md#shared-content-types)|Да|Да|Да|Да|Да|Да|Да|
-|[Службы перевода SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Общие типы контента|Да|Да|Да|Да|Да|Да|Да|
+|Службы перевода SharePoint|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Опросы|Да|Да|Да|Да|Да|Да|Да|
-|[Уникальные идентификаторы документов](../sharepoint-online-service-description/content.md#unique-document-ids)|Да|Да|Да|Да|Да|Да|Да|
-|[Поиск видео](../sharepoint-online-service-description/content.md#video-search)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Аналитика публикации](../sharepoint-online-service-description/content.md#publishing-analytics)|Да|Нет|Да|Да|Нет|Да|Нет|
-|[Каталог](../sharepoint-online-service-description/content.md#catalog)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Страница категории и страница элемента каталога](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Веб-части поиска](../sharepoint-online-service-description/content.md#search-web-parts)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Публикация на нескольких- сайтах.](../sharepoint-online-service-description/content.md#cross-site-publishing)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Уникальные идентификаторы документов|Да|Да|Да|Да|Да|Да|Да|
+|Поиск видео|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Аналитика публикации|Да|Нет|Да|Да|Нет|Да|Нет|
+|Каталог|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Страница категории и страница элемента каталога|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Веб-части поиска|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Публикация на нескольких сайтах|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |WCM: инструменты конструктора|Да|Нет|Да|Да|Да|Да|Да|
-|[Аспектная Навигация](../sharepoint-online-service-description/content.md#faceted-navigation)|Нет|Нет|Нет|Нет|Нет|Нет<sup>7</sup>|Нет|
-|[Представления изображений](../sharepoint-online-service-description/content.md#image-renditions)|Да|Нет|Да|Да|Нет|Нет|Нет|
+|Аспектная Навигация|Нет|Нет|Нет|Нет|Нет|Нет<sup>7</sup>|Нет|
+|Отрисовка изображений|Да|Нет|Да|Да|Нет|Нет|Нет|
 |WCM: Managed navigation|Да|Нет|Да|Да|Да|Да|Да|
 |WCM: Визуализация на мобильных устройствах и устройствах|Да|Нет|Да|Да|Да|Да|Да|
 |WCM: несколько доменов|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |WCM: Recommendations|Да|Нет|Да|Да|Да|Да|Да|
-|[WCM: Оптимизация поисковых систем (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Да|Нет|Да|Да|Да|Да|Да|
-|[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|WCM: Оптимизация поисковых систем (SEO)|Да|Нет|Да|Да|Да|Да|Да|
+|Word Automation Services|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Функции аналитики**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Вычисляемые показатели и элементы](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|Нет|Нет|Нет|Да|Нет|Да|Нет|
-|[Библиотека подключений к данным](../sharepoint-online-service-description/insights.md#data-connection-library)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Разъединенные сводные таблицы и диаграммы](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Business Intelligence Center|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Вычисляемые показатели и элементы|Нет|Нет|Нет|Да|Нет|Да|Нет|
+|Библиотека подключений к данным|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Decoupled PivotTables and PivotCharts|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Службы Excel|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Поддержка списка полей и полей|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Улучшенные фильтры](../sharepoint-online-service-description/insights.md#filter-enhancements)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Фильтрация поиска](../sharepoint-online-service-description/insights.md#filter-search)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Улучшенные фильтры|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Фильтрация поиска|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|PerformancePoint Services|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |PerformancePoint Services (PPS) Dashboard Migration|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Power BI|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Power View для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Power Pivot для Excel в SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Экспресс-тенденции](../sharepoint-online-service-description/insights.md#quick-explore)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Power View for Excel in SharePoint|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Power Pivot for Excel in SharePoint|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Quick Explore|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Системы показателей & панели мониторинга|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Интегрированный режим служб SQL Server Reporting Services (SSRS)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Срез временной шкалы](../sharepoint-online-service-description/insights.md#timeline-slicer)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Работа с книгами Excel, содержащими модели данных](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Visio для Web](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14, 15</sup>|Да|Да|Да|Да|Да|Да|Да|
-|[Службы Visio](../sharepoint-online-service-description/insights.md#visio-services)<sup>14</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|SQL Server Reporting Services (SSRS) Integrated Mode|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Срез временной шкалы|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Работа с книгами Excel, содержащими модели данных|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Visio для Web<sup>14, 15</sup>|Да|Да|Да|Да|Да|Да|Да|
+|Службы Visio<sup>14</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Возможности поиска**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Расширенная обработка контента|Да|Нет|Да|Да|Да|Да|Да|
-|[Непрерывные обходы контента](../sharepoint-online-service-description/search.md#continuous-crawls)|Да|Да|Да|Да|Да|Да|Да|
+|Continuous crawls|Да|Да|Да|Да|Да|Да|Да|
 |Custom entity extraction|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Прямые ссылки](../sharepoint-online-service-description/search.md#deep-links)|Да|Да|Да|Да|Да|Да|Да|
-|[Релевантность на основе событий](../sharepoint-online-service-description/search.md#event-based-relevancy)|Да|Да|Да|Да|Да|Да|Да|
-|[Поиск в навыках](../sharepoint-online-service-description/search.md#expertise-search)|Да|Да|Да|Да|Да|Да|Да|
+|Deep links|Да|Да|Да|Да|Да|Да|Да|
+|Event-based relevancy|Да|Да|Да|Да|Да|Да|Да|
+|Поиск по специализации|Да|Да|Да|Да|Да|Да|Да|
 |Extensible content processing|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Графические уточнители](../sharepoint-online-service-description/search.md#graphical-refiners)|Да|Да|Да|Да|Да|Да|Да|
-|[Гибридный поиск](../sharepoint-online-service-description/search.md#hybrid-search)|Да|Да|Да|Да|Да|Да|Да|
-|[Управление схемой поиска](../sharepoint-online-service-description/search.md#manage-search-schema)|Да|Нет|Да|Да|Да|Да|Да|
+|Graphical refiners|Да|Да|Да|Да|Да|Да|Да|
+|Hybrid search|Да|Да|Да|Да|Да|Да|Да|
+|Manage search schema|Да|Нет|Да|Да|Да|Да|Да|
 |On-premises search index|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Фонетическое сопоставление имен](../sharepoint-online-service-description/search.md#phonetic-name-matching)|Да|Да|Да|Да|Да|Да|Да|
-|[Правила запросов  добавление продвигаемых результатов](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results)|Да|Нет|Да|Да|Да|Да|Да|
-|[Правила запроса  расширенные действия](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions)|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Исправление орфографии запросов](../sharepoint-online-service-description/search.md#query-spelling-correction)|Да|Нет|Да|Да|Да|Да|Да|
-|[Предложения запросов](../sharepoint-online-service-description/search.md#query-suggestions)|Да|Нет|Да|Да|Да|Да|Да|
+|Phonetic name matching|Да|Да|Да|Да|Да|Да|Да|
+|Правила запросов — добавление продвигаемых результатов|Да|Нет|Да|Да|Да|Да|Да|
+|Query rules—advanced actions|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Query spelling correction|Да|Нет|Да|Да|Да|Да|Да|
+|Query suggestions|Да|Нет|Да|Да|Да|Да|Да|
 |Query throttling|Да|Нет|Да|Да|Да|Да|Да|
-|[Предварительный просмотр при наведении](../sharepoint-online-service-description/search.md#on-hover-preview)|Да|Да|Да|Да|Да|Да|Да|
-|[Модели ранжирования](../sharepoint-online-service-description/search.md#ranking-models)|Нет<sup>5</sup>|Нет|Нет|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|
-|[Уточнители](../sharepoint-online-service-description/search.md#refiners)|Да|Да|Да|Да|Да|Да|Да|
-|[API запросов RESTful и объектная модель запросов](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|Да|Да|Да|Да|Да|Да|Да|
+|Предварительный просмотр при наведении|Да|Да|Да|Да|Да|Да|Да|
+|Ranking models|Нет<sup>5</sup>|Нет|Нет|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|
+|Уточнения|Да|Да|Да|Да|Да|Да|Да|
+|RESTful Query API/Query OM|Да|Да|Да|Да|Да|Да|Да|
 |Result sources|Да|Да|Да|Нет|Нет|Нет|Нет|
 |Search connector framework|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Сортировка результатов поиска](../sharepoint-online-service-description/search.md#search-results-sorting)|Да|Да|Да|Да|Да|Да|Да|
+|Search results sorting|Да|Да|Да|Да|Да|Да|Да|
 |Search vertical: “Conversations”|Да|Да|Да|Да|Да|Да|Да|
 |Search vertical: “People”|Да|Да|Да|Да|Да|Да|Да|
 |Search vertical: “Video”|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|[Поиски "Этот список"](../sharepoint-online-service-description/search.md#this-list-searches)|Да|Да|Да|Да|Да|Да|Да|
+|Поиски "Этот список"|Да|Да|Да|Да|Да|Да|Да|
 |**Возможности веб-сайтов**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Change the look|Да|Нет|Да|Да|Да|Да|Да|
 |Подключения к клиентам Microsoft Office|Да|Да|Да|Да|Да|Да|Да|
-|[Поддержка всех веб-браузеров](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Да|Да|Да|Да|Да|Да|Да|
-|[Настраиваемые управляемые пути](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Управление](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Да|Да|Да|Да|Да|Да|Да|
+|Поддержка всех веб-браузеров|Да|Да|Да|Да|Да|Да|Да|
+|Настраиваемые управляемые пути|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Управление|Да|Да|Да|Да|Да|Да|Да|
 |Средство запуска гибридных приложений|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
-|[Масштабируемость и управление большими списками](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Да|Да|Да|Да|Да|Да|Да|
-|[Мобильное подключение](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Нет|Да,<sup>13</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
-|[Многоязыковой пользовательский интерфейс](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
+|Масштабируемость и управление большими списками|Да|Да|Да|Да|Да|Да|Да|
+|Мобильное подключение|Нет|Да,<sup>13</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|Да<sup>12</sup>|
+|Многоязыковой пользовательский интерфейс|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
 |My Tasks|Да|Нет|Да|Да|Да|Да|Да|
-|[Веб-части OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Да|Нет|Да|Да|Да|Да|Да|
-|[Управление разрешениями](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Да|Да|Да|Да|Да|Да|Да|
+|Веб-части OOTB|Да|Нет|Да|Да|Да|Да|Да|
+|управление разрешениями;|Да|Да|Да|Да|Да|Да|Да|
 |Project functionality for team sites|Да|Нет|Да|Да|Да|Да|Да|
-|[Шаблоны сайтов проекта](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|Да|Нет|Да|Да|Да|Да|Да|
+|Project site template|Да|Нет|Да|Да|Да|Да|Да|
 |Project Summary web part|Да|Нет|Да|Да|Да|Да|Да|
 |Project workspace|Да|Нет|Да|Да|Да|Да|Да|
-|[Списки SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Да|Нет|Да|Да|Да|Да|Да|
+|Списки SharePoint|Да|Нет|Да|Да|Да|Да|Да|
 |Лента SharePoint|Да|Нет|Да|Да|Да|Да|Да|
-|[Библиотеки документов](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Да|Нет|Да|Да|Да|Да|Да|
-|[Список задач](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Да|Нет|Да|Да|Да|Да|Да|
+|Библиотеки документов|Да|Нет|Да|Да|Да|Да|Да|
+|Task list|Да|Нет|Да|Да|Да|Да|Да|
 |Сайт группы: перетаскивание & перетаскивания|Да|Нет|Да|Да|Да|Да|Да|
-|[Записная книжка группы](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Да|Нет|Да|Да|Да|Да|Да|
+|Записная книжка группы|Да|Нет|Да|Да|Да|Да|Да|
 |Сайт группы: упрощенный доступ|Да|Нет|Да|Да|Да|Да|Да|
-|[Макеты сайтов](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Да|Нет|Да|Да|Да|Да|Да|
-|[Темы сайта (изменение внешнего вида)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Да|Нет|Да|Да|Да|Да|Да|
-|[страница "Использование сайта";](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Варианты](../sharepoint-online-service-description/sites-servicedesc.md#variations)|Да|Нет|Да|Да|Да|Да|Нет|
+|Макеты сайтов|Да|Нет|Да|Да|Да|Да|Да|
+|Темы сайта (изменение внешнего вида)|Да|Нет|Да|Да|Да|Да|Да|
+|страница "Использование сайта";|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Варианты|Да|Нет|Да|Да|Да|Да|Нет|
 |Work Management Service|Да|Нет|Да|Да|Да|Да|Да|
 |**Возможности для общения**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Ask Me About|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Личные блоги](../sharepoint-online-service-description/social.md#personal-blogs)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Личные блоги|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Репутация сообществ, награды и контроль|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Сообщество](../sharepoint-online-service-description/social.md#community)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Веб-канал компании](../sharepoint-online-service-description/social.md#company-feed)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Сообщество|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Веб-канал компании|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Беседы с документами в Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Подписаться|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Микроблоги|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -794,17 +796,17 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Профиль|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Ratings|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Shared with Me|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Веб-канал сайта (классический сайт группы с использованием SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Веб-канал сайта (классический сайт группы с использованием SharePoint Social)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да<sup>2</sup>|
 |Tag profiles|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Tasks integrated with Outlook|Да|Да|Да|Да|Да|Да|Нет|
 |Теги тенденции|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Вики-сайты](../sharepoint-online-service-description/social.md#wikis)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Вики-сайты|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**Надстройки**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
-|[Дополнительное хранилище](../sharepoint-online-service-description/add-ons.md#additional-storage)|Да|Нет|Да|Да|Да|Да|Да|
-|[Приложения, подготовленные в Azure: службы Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)<sup>3</sup>|Да|Да|Да|Да|Да|Да|Да|
-|[Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Да|Да|Да|Да|Да|Да|Да|
+|Дополнительное хранилище|Да|Нет|Да|Да|Да|Да|Да|
+|Приложения, подготовленные в Azure: службы Access<sup>3</sup>|Да|Да|Да|Да|Да|Да|Да|
+|Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)|Да|Да|Да|Да|Да|Да|Да|
 
 <sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов.
 <br/><sup>2</sup> В учетных записях с базовой подпиской доступны не все функции OneDrive для бизнеса. Пользователи с базовой подпиской могут синхронизировать библиотеки документов сайта группы с общедоступным компьютером и просматривать документы офлайн с помощью клиентского приложения OneDrive для бизнеса. Но учетные записи с базовой подпиской не включают личный сайт OneDrive для бизнеса, поэтому в них недоступна личная библиотека OneDrive для бизнеса с интернет-хранилищем объемом 1 ТБ.
