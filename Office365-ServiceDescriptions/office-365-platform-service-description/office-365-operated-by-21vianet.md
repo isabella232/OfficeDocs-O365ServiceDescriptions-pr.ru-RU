@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279842"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374196"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -52,11 +52,12 @@ Office 365 под управлением 21Vianet разработана в со
 |Power BI|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Visio для Web<sup>3</sup>|Да|Да|Да|Да|Да|Да|Да|
 |Yammer корпоративный|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Azure Information Protection|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Azure Information Protection|Нет|Нет|Нет|Нет|Нет|Да<sup>4</sup>|Нет|
 
 <sup>1</sup> включает в себя такие функции, как администрирование Office 365, приложения Office 365 Suite, Управление учетными записями пользователей, домены, работоспособность и непрерывность работы, отчеты, обновления служб, Справка и обучение, работа в сети и т. д. Дополнительные сведения см. в таблице [функции платформы](office-365-operated-by-21vianet.md#platform-features) .
 <br/><sup>2</sup> Project Online не входит в комплект, но его можно приобрести в виде отдельной дополнительной службы или добавить бесплатно в план Office 365 a1.
 <br/><sup>3</sup> Visio для Интернет-потребления (возможность просмотра) доступен бесплатно. Для работы с возможностями создания и редактирования в Visio требуется лицензия. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.
+<br/><sup>4</sup> служба Azure Information Protection (точка административной защиты) является частично поддерживаемой в Office 365 под управлением 21vianet. Дополнительную информацию можно узнать в статье [четность службы Azure Information Protection для Office 365 под управлением 21vianet и коммерческих услуг](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
 
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -224,7 +225,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Да|Да|Да|Да|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Да|Да|Да|Да|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Да|Да|Да|Да|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|Да|Да|Да|Да|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|Да|Да|Да|Да|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Да|Да|Да|Да|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|Да|Да|Да|Да|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|Да|Да|Да|Да<sup>9</sup>|Нет|Да<sup>9</sup>|Нет<sup>5</sup>|Нет|Да|Нет|
