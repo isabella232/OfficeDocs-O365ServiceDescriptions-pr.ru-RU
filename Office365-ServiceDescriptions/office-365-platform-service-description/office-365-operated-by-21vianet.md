@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374196"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546002"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -234,9 +234,11 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Нет|Нет|Нет|Нет|Нет|Нет|Нет<sup>5</sup>|Нет|Нет|Нет|
 |[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Да|Да|Да|Да|Да|Да|Да|Да|Да|Нет|
 |[Office для Mac в Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Нет|Да|Нет|Нет|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
+|Приложение Microsoft Office для Android|Да|Да|Да|Да|Да|Да|Да|Да|Да|Да|
+|Приложение Microsoft Office для iOS|Да|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Да|Да|Да|Да|Да|Да|Да<sup>5</sup>|Да|Да|Да|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Да|Да|Да|Да|Да|Да|Да|Да|Да|Да|
-|[Office Mobile для Android] <sup>15</sup>(.. /оффице-аппликатионс-сервице-дескриптион/оффице-аппликатионс.МД # Office-Mobile-for-Android)|Да|Да|Да|Да|Да|Да|Да<sup>5</sup>|Да|Да|Да|
+|[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|Да|Да|Да|Да|Да|Да|Да<sup>5</sup>|Да|Да|Да|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Нет|Да|Нет|Нет|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Нет|Да|Нет|Нет|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
 |Outlook для Android|Нет|Да|Да|Да|Нет|ДА|Нет<sup>5</sup>|Нет|Да|Нет|
@@ -746,9 +748,9 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Result sources|Да|Да|Да|Нет|Нет|Нет|Нет|
 |Search connector framework|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Search results sorting|Да|Да|Да|Да|Да|Да|Да|
-|Search vertical: “Conversations”|Да|Да|Да|Да|Да|Да|Да|
-|Search vertical: “People”|Да|Да|Да|Да|Да|Да|Да|
-|Search vertical: “Video”|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Вертикаль поиска: "Беседы"|Да|Да|Да|Да|Да|Да|Да|
+|Вертикаль поиска: "Люди"|Да|Да|Да|Да|Да|Да|Да|
+|Вертикаль поиска: "Видео"|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Поиски "Этот список"|Да|Да|Да|Да|Да|Да|Да|
 |**Возможности веб-сайтов**|**Подписка на Office 365 бизнес базовый, предоставляемая 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F1 под управлением 21Vianet**|
 |Change the look|Да|Нет|Да|Да|Да|Да|Да|

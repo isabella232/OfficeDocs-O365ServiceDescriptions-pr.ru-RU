@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: В Project Online доступны следующие основные функциональные возможности.
 ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263463"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546022"
 ---
 # <a name="core-functionality"></a>Основная функциональность
 
@@ -41,7 +41,7 @@ ms.locfileid: "39263463"
 
 Правой кнопкой мыши щелкните любой элемент в представлении проекта (например, заголовок столбца) для быстрого доступа ко всем возможным действиям, применимым к этому элементу.
   
-## <a name="custom-fields"></a>Настраиваемые поля 
+## <a name="custom-fields"></a>настраиваемые поля;
 
 В дополнение к полям, которые имеются в программе Project, можно настроить собственные поля, которые будут отвечать требованиям вашей организации. Чтобы узнать о полях больше, ознакомьтесь со статьей [Справочник по доступным полям](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   

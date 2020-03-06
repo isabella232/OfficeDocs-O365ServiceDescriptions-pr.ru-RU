@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft Office 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711909"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545792"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
@@ -152,7 +152,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Скрытие и показ строк, столбцов и листов](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление диаграмм](excel-online.md#insert-charts) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка/удаление строк и столбцов](excel-online.md#insertdelete-rows-and-columns) <br/> |Да  <br/> |Да  <br/> |
-|[Вставка рисунков](excel-online.md#insert-pictures) <br/> |Да  <br/> |Да  <br/> |
+|[Вставка изображений](excel-online.md#insert-pictures) <br/> |Да  <br/> |Да  <br/> |
 |[Вставка фигур](excel-online.md#insert-shapes) <br/> |Да  <br/> |Да  <br/> |
 |[Объединение ячеек](excel-online.md#merge-cells) <br/> |Да  <br/> |Да  <br/> |
 |[Именованные диапазоны](excel-online.md#named-ranges) <br/> |Да  <br/> |Да  <br/> |

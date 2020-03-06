@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office — это мощная служба, которая поможет вам лучше разобраться с вашими идеями, выполнять действия и оставаться на связи в дороге. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
 ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263553"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545732"
 ---
 # <a name="office-applications"></a>Приложения Office
 
