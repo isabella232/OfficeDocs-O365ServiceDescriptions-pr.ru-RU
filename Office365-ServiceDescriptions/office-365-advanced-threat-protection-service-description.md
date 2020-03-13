@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat protection (ATP) — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту от нерабочего дня, а также включает функции защиты Организация из нежелательных ссылок в режиме реального времени.
-ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
-ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
+ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "40824993"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609840"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Описание службы Office 365 Advanced Threat Protection
 
@@ -53,7 +53,7 @@ ATP включена в Office 365 корпоративный, Office 365 для
 
 - Office 365 корпоративный E3
 
-- Office 365 корпоративный F1
+- Office 365 корпоративный F3
 
 - Office 365 A1
 

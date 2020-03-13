@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного уровня Microsoft Office 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Майкрософт Exchange Server 2010 (SP2 или более поздней версии) или подписаться на некоторые планы Exchange Online или Office 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 12fb7da8cd3e27ff98ea8ca0f759f013eef74e5d
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: edc507790d19f8323f7cae33e70ddf7bd8a6502a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987661"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609710"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -42,7 +42,7 @@ ms.locfileid: "40987661"
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии). Дополнительные сведения см. [в разделе Лицензирование "краткое лицензирование" основного набора CAL и комплекта Cal Enterprise CAL](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F1  <br/> Microsoft 365 корпоративный F1 F1<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2</sup>:<br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Office 365 бизнес базовый  <br/>  Office 365 бизнес премиум  <br/>  Office 365 для предприятий E1  <br/>  Office 365 корпоративный F3  <br/> Microsoft 365 корпоративный F3<br/> <b>Примечание:</b> В следующих планах уже есть Архивация и не требуется архивация на базе Exchange Online в качестве надстройки.<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Гибридное развертывание не требуется для облачных организаций, почтовые ящики которых не хранятся на локальном сервере Exchange Server. Однако если у вас есть локальные почтовые ящики, гибридное развертывание необходимо.
@@ -57,7 +57,7 @@ ms.locfileid: "40987661"
   
 ### <a name="federated-identity-and-single-sign-on"></a>Федеративное удостоверение и единый вход
 
-Администраторы могут использовать единый вход для проверки подлинности Office 365 с помощью локальных служб Active Directory. Для этого администраторы могут настроить локальные службы федерации Active Directory (входят в состав Microsoft Windows Server® 2008) для федерации с Microsoft Federation Gateway. После настройки локальных служб федерации Active Directory все пользователи Office 365 с идентификаторами, основанными на федеративном домене, смогут использовать свои корпоративные учетные данные для автоматической проверки подлинности в Office 365.
+Администраторы могут использовать единый вход для проверки подлинности Office 365 с помощью локальных служб Active Directory. Для этого администраторы могут настроить локальные службы федерации Active Directory (служба Microsoft Windows Server&reg; 2008) для Федерации с шлюзом Microsoft Federation Gateway. После настройки локальных служб федерации Active Directory все пользователи Office 365 с идентификаторами, основанными на федеративном домене, смогут использовать свои корпоративные учетные данные для автоматической проверки подлинности в Office 365.
   
 ### <a name="user-subscriptions"></a>Подписки пользователей
 
@@ -105,6 +105,6 @@ ms.locfileid: "40987661"
 <br/>
 <sup>2</sup> . Архив на месте можно использовать только для архивации почты для одного пользователя или сущности, для которых была применена лицензия. Использовать архив на месте для хранения почты нескольких пользователей или организаций запрещено. Например, ИТ-администраторы не могут создать общие почтовые ящики и позволить пользователям копировать (в полях "Копия" или "Скрытая копия" или с помощью правил транспорта) общий почтовый ящик для явного архивирования. <br/> 
 <sup>3</sup> для получения списка поддерживаемых версий Microsoft Outlook, ознакомьтесь со статьей [клиентские функции архивации на базе Exchange Online](client-features.md). <br/>
-<sup>4</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
+<sup>4</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Для некоторых функций Azure Information Protection необходима подписка на Office 365 профессиональный плюс, которая не входит в состав Office 365 бизнес Essentials, Office 365 бизнес премиум, Office 365 корпоративный E1, Office 365 для образования или Office 365 Enterprise F3. <br/>
 <sup>5</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. <br/>
 <sup>6</sup> при помещении почтового ящика на хранение на месте или хранение для судебного разбирательства оно размещается как в основном, так и архивном почтовом ящике. 

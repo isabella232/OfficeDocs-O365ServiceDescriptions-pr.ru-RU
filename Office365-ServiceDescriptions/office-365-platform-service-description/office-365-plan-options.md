@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810818"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42614520"
 ---
 # <a name="office-365-plan-options"></a>Планы Office 365
 
@@ -34,7 +34,7 @@ ms.locfileid: "39810818"
 |**Семейство служб Office 365**|**Планы**|
 |:-----|:-----|
 |**Бизнес (максимум 300 пользователей)** <br/> |[Office 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 бизнес](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 бизнес премиум](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Предприятие (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F1](https://products.office.com/business/office-365-f1) <br/> |
+|**Предприятие (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Правительственные учреждения (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные бизнес-планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
@@ -49,7 +49,7 @@ ms.locfileid: "39810818"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Служба** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный ~<sup>3</sup>–<sup>16</sup>** <br/> |**Office 365 корпоративный F1** <br/> |
+|**Служба** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный ~<sup>3</sup>–<sup>16</sup>** <br/> |**Office 365 корпоративный F3** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -64,7 +64,7 @@ ms.locfileid: "39810818"
 |Microsoft Kaizala<sup>17</sup> <br/> |Да <br/> |Нет  <br/> |Да <br/> |Да <br/> |Да  <br/> |Да  <br/> |Да <br/> |
    
 <sup>1</sup> Project Online не включен, но его можно приобрести в виде отдельной дополнительной службы или добавить бесплатно в план Office 365 для образовательных учреждений.<br/>
-<sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
+<sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Для некоторых функций Azure Information Protection необходима подписка на Office 365 профессиональный плюс, которая не входит в состав Office 365 бизнес Essentials, Office 365 бизнес премиум, Office 365 корпоративный E1, Office 365 для образования или Office 365 Enterprise F3.<br/>
 <sup>3</sup> чтобы узнать больше о возможностях Azure Information Protection в планах Office 365, обратитесь к статье [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 корпоративный 3: Поддержка телефонной системы, аудио-и видеоконференций, а так же возможности плана звонков. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков).<br/>
 <sup>5</sup> включает хранилище объемом 2 ГБ. <br/>

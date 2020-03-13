@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте о пределах SharePoint для Office 365 и отдельных планов.
-ms.openlocfilehash: 03cf3a792bb88d1a6c6d6048752fe2caaf695f35
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279872"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609980"
 ---
 # <a name="sharepoint-limits"></a>Границы SharePoint
 
@@ -24,7 +24,7 @@ ms.locfileid: "42279872"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office 365 бизнес Essentials или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3, или 1/2 или SharePoint (план 1)** <br/> | **Office 365 корпоративный F1** <br/> |
+|**Функция** <br/> |**Office 365 бизнес Essentials или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3, или 1/2 или SharePoint (план 1)** <br/> | **Office 365 корпоративный F3** <br/> |
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию  <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Максимальное количество хранилищ на сайт (семейство веб-сайтов)<sup>4</sup><br/> |25 ТБ <br/> |25 ТБ <br/> |25 ТБ<sup>5</sup> <br/> |
 |Сайты (семейства веб-сайтов) на организацию  <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<br/> |

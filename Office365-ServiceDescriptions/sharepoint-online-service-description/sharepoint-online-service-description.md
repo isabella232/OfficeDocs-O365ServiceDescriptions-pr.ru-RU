@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172856"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609870"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -43,13 +43,13 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Подробнее о различных планах, в том числе автономных вариантах планов, а также сведениях о переходе от одного плана к другому см. в разделе [Параметры планов Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Чтобы получить доступ к SharePoint, пользователям в Организации должна быть назначена лицензия, включающая SharePoint. План задействование не продается как отдельное, а только как часть подписки на задействование. Задействование сотрудники не видят меню навигации SharePoint, поэтому задействование рабочих процессов необходимо перейти на сайты SharePoint напрямую по URL-адресу.
+Чтобы получить доступ к SharePoint, пользователям в Организации должна быть назначена лицензия, включающая SharePoint. План задействование не продается как отдельное, а только как часть подписки на [задействование](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Права гостей
 
 Если вы приобретаете план и создаете сайт, использующий корпоративные компоненты, приглашенные гости получают права на использование и/или Просмотр корпоративных компонентов на сайте, к которым вы их предложили. Вы можете пригласить гостей на выполнение всего ряда действий на сайте, но у них не будет таких же возможностей, как и у лицензированного пользователя в вашей организации. Например, если ваш план включает версии приложений Office для настольных ПК, гости не могут установить их на свои компьютеры, если вам не назначена лицензия.
 
-## <a name="onedrive"></a>OneDrive;
+## <a name="onedrive"></a>OneDrive
 
 OneDrive в Microsoft 365 — это сетевое хранилище для отдельных пользователей в Организации. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive включен в SharePoint, и его также можно приобрести в виде автономного плана. Чтобы узнать, какой объем хранилища OneDrive поставляется вместе с каждым планом, ознакомьтесь с [описанием службы OneDrive](../onedrive-for-business-service-description.md).
 
@@ -152,7 +152,7 @@ SharePoint интегрируется с расширенными возможн
 Если не указано иное, следующие функции доступны для всех планов, включающих SharePoint, и всех автономных планов SharePoint:
 
 - [Специальные возможности](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Добавление Microsoft Teams на сайты](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Требуется подписка, включающая в себя Office 365, и необходимо, чтобы пользователь был лицензирован для Teams.
+- [Добавление Microsoft Teams на сайты](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
 - [Выбор целевой аудитории](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Подключите Классические сайты групп к новым группам Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Требуется подписка, включающая в себя Office 365.
 - [Создайте план (интеграция с планировщиком)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Требуется подписка, включающая в себя Office 365, и необходимо, чтобы пользователь был лицензирован для планировщика.
@@ -163,12 +163,12 @@ SharePoint интегрируется с расширенными возможн
 - [Меню мегапиксели](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Интеграция Microsoft Forms](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Требуется подписка, включающая в себя Office 365, и необходимо, чтобы пользователь был лицензирован для форм.
 - [Новости](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Интеграция приложений Office для настольных систем. Требуется подписка, включающая в себя классические приложения Office.
+- Интеграция приложений Office для настольных систем. Требуется подписка, включающая приложения для рабочего стола Office.
 - Интеграция с веб-сайтами Office. Требуется подписка, включающая в себя Office 365.
 - [Библиотека активов Организации](/sharepoint/organization-assets-library)
 - [Новости Организации](/sharepoint/organization-news-site)
 - [Утверждение страницы](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Страницы](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Управление записями
 - [Корзина](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Мобильное приложение SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ SharePoint интегрируется с расширенными возможн
 - [Записная книжка OneNote для групп](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Темы (изменение внешнего вида)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Веб-части](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Работайте с контентом SharePoint в Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Требуется подписка, включающая в себя Office 365, и необходимо, чтобы пользователь был лицензирован для Teams.
+- [Работайте с контентом SharePoint в Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
 
 Чтобы узнать больше о доступности приложений Майкрософт для управления питанием и автоматизации автоматизации, ознакомьтесь со статьей [Power Apps and Power автоматизированное лицензирование вопросов](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Сведения о функциях, связанных с общим доступом, можно найти в [описании службы OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+Сведения о функциях, связанных с общим доступом, можно найти в [описании службы OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Функции поиска
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию Microsoft 365 Security &, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374166"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609920"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -71,7 +71,7 @@ Azure Information Protection (точка административной защ
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи используют преимущества службы?
 
-Лицензированные пользователи Microsoft 365 F1, Microsoft 365 бизнес, Microsoft 365 E3/a3/G3, а для установки в 1 план 1 могут воспользоваться преимуществами АДМИНИСТРАТИВной схемы 1. Лицензированные пользователи Microsoft 365/A5/A5/G5, соответствие требованиям корпорации Майкрософт 365 об/в, A5 и G5, а для установки в плане 2 могут воспользоваться сочетанием АДМИНИСТРАТИВного плана 2.
+Лицензированные пользователи Microsoft 365 F3, Microsoft 365 бизнес, Microsoft 365 E3/a3/G3, а для установки в плане 1 плана 1 могут воспользоваться преимуществами, описанными в плане 1. Лицензированные пользователи Microsoft 365/A5/A5/G5, соответствие требованиям корпорации Майкрософт 365 об/в, A5 и G5, а для установки в плане 2 могут воспользоваться сочетанием АДМИНИСТРАТИВного плана 2.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
@@ -87,7 +87,7 @@ Azure Information Protection (точка административной защ
 
 Для функции сканера АДМИНИСТРАТИВной установки корпорация Майкрософт не может выполнять классификацию файлов, метки или возможности защиты для пользователей, которые не имеют лицензии. Со временем к АДМИНИСТРАТИВному подключению будут добавлены проверки лицензий или целевые средства, чтобы обеспечить возможность назначения сканера лицензированным пользователям.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 Advanced Threat protection (ATP) помогает защитить организации от изощренных атак, таких как вредоносные программы и вредоносные программы с фишингом. Он также обеспечивает согласованность действий путем согласования сигналов из широкого диапазона данных для определения, определения приоритетов и предоставления рекомендаций по устранению потенциальных угроз.
 
@@ -408,7 +408,7 @@ Microsoft Cloud App Security (МКАС) — это решение брокера
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи используют преимущества службы?
 
-Лицензированные пользователи Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3, а Azure Active Directory Premium Plan 1 могут воспользоваться преимуществами политик условного доступа. Лицензированные пользователи Enterprise Mobility + Security/A5/G5, Microsoft 365 и A5/A5/G5, безопасность Microsoft и Azure Active Directory Premium Plan 2 могут воспользоваться преимуществами защиты идентификации (политик условного доступа на основе риска).
+Лицензированные пользователи Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F3/E3/a3/G3, а Azure Active Directory Premium Plan 1 могут воспользоваться преимуществами политик условного доступа. Лицензированные пользователи Enterprise Mobility + Security/A5/G5, Microsoft 365 и A5/A5/G5, безопасность Microsoft и Azure Active Directory Premium Plan 2 могут воспользоваться преимуществами защиты идентификации (политик условного доступа на основе риска).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 

@@ -1,5 +1,5 @@
 ---
-title: Пределы Skype для бизнеса Online
+title: Ограничения Skype для бизнеса Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Предельные значения в Skype для бизнеса Online делятся на следующие категории.
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263283"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609960"
 ---
-# <a name="skype-for-business-online-limits"></a>Пределы Skype для бизнеса Online
+# <a name="skype-for-business-online-limits"></a>Ограничения Skype для бизнеса Online
 
 Предельные значения в Skype для бизнеса Online делятся на следующие категории:
   
@@ -47,7 +47,7 @@ ms.locfileid: "39263283"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Skype для бизнеса Server 2015** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный F1** <br/> |
+|**Функция** <br/> |**Skype для бизнеса Server 2015** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный F3** <br/> |
 |Ограничение на передачу файлов  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |Не ограничено  <br/> |Неприменимо  <br/> |
 |Предельное число бесед<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Ограничение на количество бесед во вкладках  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Неприменимо  <br/> |
@@ -85,7 +85,7 @@ ms.locfileid: "39263283"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Skype для бизнеса Server 2015** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный F1** <br/> |
+|**Функция** <br/> |**Skype для бизнеса Server 2015** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный F3** <br/> |
 |Ограничение на передачу файлов  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |Не применимо  <br/> |
 |Участники собрания Skype для бизнеса<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Неприменимо  <br/> |
 |Выступающие на собрании Skype для бизнеса  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Неприменимо  <br/> |
