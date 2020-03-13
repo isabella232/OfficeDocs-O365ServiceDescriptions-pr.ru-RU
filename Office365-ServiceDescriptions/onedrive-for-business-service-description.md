@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374176"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609880"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -40,7 +40,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 **2 ГБ**
 
-- Office 365 корпоративный F1
+- Office 365 корпоративный F3
 
 **1 ТБ**
 
@@ -88,7 +88,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
   
 - Когда по меньшей мере 90 % пространства из доступных 5 ТБ в хранилище OneDrive использованы, корпорация Майкрософт увеличивает его объем до 25 ТБ на каждого пользователя. При необходимости администраторы могут устанавливать собственные ограничения для каждого пользователя. 
     
-- Пользователям, у которых 25 ТБ места в хранилище OneDrive заполнено по крайней мере на 90 %, в качестве дополнительного облачного хранилища предоставляется 25 ТБ на сайтах групп для отдельных пользователей SharePoint.
+- Пользователям, у которых 25 ТБ места в хранилище OneDrive заполнено по крайней мере на 90 %, в качестве дополнительного облачного хранилища предоставляется 25 ТБ на сайтах групп для отдельных пользователей SharePoint. Обратитесь за помощью и информацией в службу технической поддержки Майкрософт.
     
 Чтобы просмотреть объем и использование хранилища для отдельного пользователя, перейдите в раздел [Управление хранилищем](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) в приложении синхронизации OneDrive. Чтобы просмотреть, какой объем хранилища используют пользователи в организации, перейдите к [отчету об использовании OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) в Центре администрирования Microsoft 365. 
    
@@ -132,7 +132,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 Если не указано иное, следующие функции доступны во всех планах, включая OneDrive и все автономные планы OneDrive:
 
 - [Запросы доступа](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Ссылки "все"](/Office365/Enterprise/best-practices-anonymous-sharing) (для которых может быть задано значение "требуется срок действия") 
+- [Ссылки "Все"](/Office365/Enterprise/best-practices-anonymous-sharing) (для которых можно настроить обязательный срок действия) 
 - [В упоминании в комментариях](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Требуется план, включающий Office 365 для Интернета или настольные приложения Office 365.
 - [Запросы файлов](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Управление ссылкой для обмена по умолчанию ([на уровне организации](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) и [для каждого сайта](/sharepoint/change-default-sharing-link))
@@ -184,5 +184,5 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 ## <a name="it-admin-security-and-compliance-features"></a>Функции ИТ-администратора, безопасности и соответствия
 
-Для получения информации об этих функциях см. [Описание службы SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features).
-  
+Для получения информации об этих функциях см. [Описание службы SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
+
