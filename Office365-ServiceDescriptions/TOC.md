@@ -65,6 +65,7 @@
 ### [Клиентские возможности](exchange-online-archiving-service-description/client-features.md)
 ### [Функции контроля соответствия требованиям и безопасности](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
+## [Описание службы Microsoft Teams](teams-service-description.md)
 ## [Описание службы OneDrive](onedrive-for-business-service-description.md)
 ## [Описание службы SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Границы SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
