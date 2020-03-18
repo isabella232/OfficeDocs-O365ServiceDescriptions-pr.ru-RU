@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio для Интернета расширяет возможности Microsoft Visio в браузере, где вы можете создавать и редактировать схемы, сохраненные в облаке. Пользователи Microsoft Office 365 могут просматривать, печатать и совместно использовать схемы, а также добавлять комментарии в дороге.
 ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700221"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688280"
 ---
 # <a name="visio-for-the-web"></a>Visio в Интернете
 

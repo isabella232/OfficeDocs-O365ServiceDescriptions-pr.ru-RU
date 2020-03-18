@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: В Project Online доступны следующие функции управления ресурсами.
 ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546062"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688391"
 ---
 # <a name="project-resource-management"></a>Управление ресурсами проектов
 

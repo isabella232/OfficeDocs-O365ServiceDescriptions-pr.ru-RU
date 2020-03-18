@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: В Project Online доступны следующие функции для создания отчетов и бизнес-аналитики.
 ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546082"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688319"
 ---
 # <a name="reporting-and-business-intelligence"></a>Отчетность и бизнес-аналитика
 
