@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260734"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093566"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Функции обеспечения соответствия требованиям и безопасности в архивации на базе Exchange Online
 
@@ -37,9 +37,6 @@ ms.locfileid: "39260734"
 ### <a name="in-place-hold-and-litigation-hold"></a>Хранение на месте и хранение для судебного разбирательства
 
 При наличии обоснованных предпосылок для судебных исков организациям требуется сохранять электронные данные (включая почту), связанные с делом. Такие предпосылки могут возникать до уточнения подробностей дела, и сохранение часто охватывает широкие области. Организации могут сохранять всю почту, относящуюся к конкретному вопросу, или всю электронную почту отдельных лиц.
-  
-> [!NOTE]
-> В настоящее время хранение на месте и хранение для судебного разбирательства не применяются к сообщениям электронной почты, отправленным с помощью клиентов POP или IMAP, а также с помощью настраиваемых приложений, использующих SMTP-протокол. 
   
 В Exchange Online хранение на месте и судебное удержание можно использовать для достижения следующих целей:
   

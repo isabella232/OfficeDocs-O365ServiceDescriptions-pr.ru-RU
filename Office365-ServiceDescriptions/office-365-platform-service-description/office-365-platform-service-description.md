@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
-ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954806"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093576"
 ---
 # <a name="office-365-platform-service-description"></a>Описание служб платформы Office 365
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. В этой статье описываются различия между различными планами Office 365, включая планы Exchange Online.
   
-Microsoft Office 365 обеспечивает мощь облачных возможностей для предприятий всех размеров, позволяя экономить время, деньги и освобождать ценные ресурсы. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт следующего поколения, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
+Microsoft Office 365 обеспечивает мощь облачных возможностей для предприятий всех размеров, позволяя экономить время, деньги и освобождать ценные ресурсы. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям работать с Интернетом практически в любом месте.
   
 Сравнение функций в планах приведено в статье [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) или, более подробный список функций, приведено в описании соответствующего описания службы в [описании службы Office 365 ](../office-365-service-descriptions-technet-library.md).
   
@@ -96,23 +96,23 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Администрирование Office 365 с помощью центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Нет<sup>2</sup> <br/> |
 |**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
-|Microsoft Bookings  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |No<sup>20</sup>  <br/> |No<sup>20</sup>  <br/> |Нет  <br/> |
-|Информационная электронная почта Майкрософт<sup>23</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Power Automate  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup> <br/> |
+|Microsoft Bookings  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет<sup>19</sup>  <br/> |Нет<sup>19</sup>  <br/> |Нет  <br/> |
+|Информационные сообщения Майкрософт<sup>22</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Microsoft Power Automate  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft MyAnalytics<sup>21</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Microsoft MyAnalytics<sup>20</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Планировщик Microsoft  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>13</sup> <br/> |
+|Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |
 |Microsoft StaffHub  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Stream  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
 |Office Delve  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Группы Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Видео  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>11</sup> <br/> |
-|Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да<sup>15</sup> <br/> |Нет  <br/> |
-|Microsoft Kaizala<sup>19</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
+|Записная книжка OneNote для занятий  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да,<sup>14</sup> <br/> |Нет  <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
 |**[Управление учетными записями пользователей](user-account-management.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
 |Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Установщик обновлений Office 365: для рабочего стола  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -125,7 +125,7 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Управление группами безопасности в Office 365:  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Несколько доступных ролей администратора  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Возможность разрешить партнеру администрировать Office 365 вместо вас  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Службы Azure Active Directory<sup>22</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Службы Azure Active Directory<sup>21</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |**[Домены](domains.md)** <br/> |**Office 365 бизнес базовый** <br/> |**Office 365 бизнес** <br/> |**Office 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
 |Добавление личных доменов второго уровня, например fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Добавление личных доменов третьего уровня, например marketing.fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -185,8 +185,8 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 |Office 365 Cloud App Security  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Расширенная защита от угроз  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Защищенное хранилище пользователя  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|Ключ клиента для Office 365<sup>16</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
-|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Ключ клиента для Office 365<sup>15</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Office 365 Advanced eDiscovery<sup>16</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |Оценка безопасности<sup>7</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Аналитика угроз  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
 |**[Соответствие требованиям](compliance-servicedesc.md)** <br/> ||||||||
@@ -217,15 +217,14 @@ Microsoft Office 365 обеспечивает мощь облачных возм
 <br/><sup>9</sup> снижение качества взаимодействия. Если ваша организация зависит от Internet Explorer 8 или Internet Explorer 9, чтобы получить доступ к старым веб-приложениям и службам, вам может потребоваться обновление до Internet Explorer 11 и оценка режима предприятия для Internet Explorer 11. Это обновление обеспечивает лучшую обратную совместимость с устаревшими веб-приложениями. 
 <br/><sup>10</sup> Microsoft Teams доступен в Office 365 бизнес Essentials, Office 365 бизнес премиум, Office 365 Enterprise (E1, E3, f 3) и планах Office 365 для образования. 
 <br/><sup>11</sup> в Office 365 корпоративный F3 для Office 365 видео доступно только для просмотра (без публикации или общего доступа). 
-<br/><sup>12</sup> в Office 365 Enterprise F3 поддерживаются одноранговые аудио-и визуальные вызовы. Права, касающиеся собраний, ограничены присоединением (без возможности создавать или инициировать собрания). 
-<br/><sup>13</sup> в Office 365 корпоративный F3, PowerApps ограничен только потреблением (без публикации или общего доступа). 
-<br/><sup>14</sup> в Office 365 корпоративный F3 поток ограничен только потреблением и работает только до 750 на одного пользователя в месяц. 
-<br/><sup>15</sup> доступно только в планах Office 365 для образовательных учреждений, в том числе Office 365 для образования. Она недоступна в Office 365 корпоративный "~". 
-<br/><sup>16</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
-<br/><sup>18</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
-<br/><sup>19</sup> начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.
-<br/><sup>20</sup> доступно как бесплатная надстройка. Для получения дополнительных сведений обратитесь [к разделу Получение доступа к книгам Майкрософт](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>21</sup> дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.
-<br/><sup>22</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или в версии 1.<br/>
-<sup>23</sup> информационный адрес автоматически предоставляется всем пользователям Exchange Online. Дополнительную информацию можно узнать [в статье Настройка краткого электронного сообщения](https://docs.microsoft.com/Briefing/be-admin).<br>
+<br/><sup>12</sup> в Office 365 корпоративный F3 PowerApps ограничен только потреблением (без публикации или общего доступа). 
+<br/><sup>13</sup> в Office 365 корпоративный F3 поток ограничен только потреблением и работает только до 750 на одного пользователя в месяц. 
+<br/><sup>14</sup> доступно только в планах Office 365 для образовательных учреждений, в том числе Office 365 для образования. Она недоступна в Office 365 корпоративный "~". 
+<br/><sup>15</sup> дополнительные сведения можно найти [в статье Управление данными в Office 365 с помощью ключа клиента](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>16</sup> -е Расширенное обнаружение электронных данных поддерживается в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
+<br/><sup>17</sup> потребление только для Microsoft Stream: нет публикации или общего доступа.
+<br/><sup>18</sup> , начиная с Май 2019, существующие подходящие SKU для Office 365 и Microsoft 365 будут заполнены Kaizala Pro. С 1 июня 2019 Kaizala Pro будут включены во все подходящие SKU Office 365 и Microsoft 365.
+<br/><sup>19</sup> доступно в качестве бесплатной надстройки. Для получения дополнительных сведений обратитесь [к разделу Получение доступа к книгам Майкрософт](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
+<br/><sup>20</sup> дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.
+<br/><sup>21</sup> включает функции Azure Active Directory, описанные в столбце **Office 365 Apps** на [странице "цены Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/)". Для получения расширенных функций Azure AD необходимо добавить Azure Active Directory (план 1) или план 2, Enterprise Mobile Security или Microsoft 365 E3 или в версии 1.<br/>
+<sup>22</sup> информационные сообщения автоматически предоставляются всем пользователям Exchange Online. Дополнительную информацию можно узнать [в статье Настройка краткого электронного сообщения](https://docs.microsoft.com/Briefing/be-admin).<br>
