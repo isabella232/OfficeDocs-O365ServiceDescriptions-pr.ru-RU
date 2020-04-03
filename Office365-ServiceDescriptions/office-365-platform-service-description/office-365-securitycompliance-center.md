@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101128"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109439"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ ms.locfileid: "43101128"
 
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита.
 
-<sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.
+<sup>9</sup> требуется надстройка предотвращения потери данных в Office 365.
 
 <sup>10</sup> метки чувствительности также включены в Azure Information Protection P1 и P2.
 
-<sup>11</sup> для сохранения контента в почтовом ящике пользователя с помощью политики хранения требуется лицензия на Exchange Online (план 2).
+<sup>11</sup> для сохранения контента в почтовом ящике пользователя с помощью политики хранения требуется лицензия на Exchange Online (план 2) или Exchange Online для архивации.
 
 <sup>12</sup> Расширенный аудит включает в себя срок хранения журналов аудита для действий в Azure Active Directory, Exchange и SharePoint, а также возможность создания настраиваемых политик хранения журнала аудита для управления хранением журнала аудита для других служб Office 365. Кроме того, он предоставляет доступ к важным событиям для исследования и доступа с высоким пропускной способностью к API действий управления Office 365.
 
@@ -131,7 +131,7 @@ ms.locfileid: "43101128"
 
 <sup>8</sup> вы также можете использовать [API действий управления Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита.
 
-<sup>9</sup> доступна надстройка DLP, которую можно добавить к любому SKU с Exchange или SharePoint/OneDrive.
+<sup>9</sup> требуется надстройка предотвращения потери данных в Office 365.
 
 <sup>10</sup> только файлы, хранящиеся в OneDrive для бизнеса.
 
