@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109449"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206626"
 ---
 # <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнес
 
@@ -25,7 +25,6 @@ Microsoft 365 Business — это интегрированное решение,
 
 Microsoft 365 бизнес включает практически все функции, доступные в Office 365 бизнес премиум, а также дополнительные функции безопасности Office 365.
 
-Microsoft 365 бизнес включает следующие функции Azure AD Premium P1: самостоятельный сброс паролей с обратной записью в AD, многофакторной проверкой подлинности Azure (MFA) и условный доступ. Он не включает в себя полностью Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|

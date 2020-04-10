@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию Microsoft 365 Security &, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171145"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215118"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -353,13 +353,13 @@ Microsoft 365 a1/E3/a3/G3/предприятие, Office 365 E3/a3/G3 и Office 
 
 Администраторы могут настраивать расположения (рабочие нагрузки), включенных пользователей и исключенных пользователей в центре безопасности Office 365 & соответствия требованиям, в разделе > **расположения** **защиты от потери данных**.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Защита от потери данных для бесед в Teams и сообщений в каналах
+## <a name="communication-data-loss-prevention-for-teams"></a>Защита от потери данных при обмене данными для Teams
 
-С предотвращением потери данных (DLP) для бесед в Teams и сообщений канала Организации могут блокировать сеансы разговора и каналы, содержащие конфиденциальную информацию, например финансовую информацию, личную информацию, информацию о работоспособности или другую конфиденциальную информацию.
+С помощью DLP DLP для Teams, организации могут блокировать сеансы разговора и сообщений, содержащие конфиденциальные сведения, например финансовую информацию, личную информацию, информацию о работоспособности или другие конфиденциальные данные.
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи используют преимущества службы?
 
-Лицензированные пользователи Office 365/A5/A5/G5, Microsoft 365 "A5/A5/G5, соответствие требованиям Microsoft 365, A5, A5/G5, а также соответствие требованиям Office 365 для Teams и поканальных сообщений.
+Лицензированные пользователи Office 365/A5/A5, Microsoft 365 "A5/A5", Microsoft 365/A5, Microsoft/A5 Information Protection/A5 и Office 365 для Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
