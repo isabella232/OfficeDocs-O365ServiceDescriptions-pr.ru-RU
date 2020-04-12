@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию Microsoft 365 Security &, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215118"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230799"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -37,7 +38,7 @@ ms.locfileid: "43215118"
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы?
 
-Enterprise Mobility + Security/A5/G5, Microsoft 365, а также A5/G5, Microsoft, A5/A5/G5, безопасность Microsoft 365, A5/A5/G5, а Azure Active Directory Premium Plan 2 предоставляют права пользователя на преимущества, предоставляемые службой удостоверений Azure Active Directory.
+Enterprise Mobility + Security/A5, Microsoft 365/A5/A5, Microsoft 365 "A5/A5, безопасность" и Azure Active Directory Premium Plan 2 предоставляют права пользователя на преимущества защиты удостоверений Azure Active Directory.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Каким образом подготовлена или развернута служба?
 
@@ -57,7 +58,7 @@ Enterprise Mobility + Security/A5/G5, Microsoft 365, а также A5/G5, Micros
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы?
 
-Enterprise Mobility + Security/A5/G5, Microsoft 365/A5/A5/G5, Microsoft 365 "A5/A5/G5, безопасность" и Advanced Threat Protection в Azure для пользователей предоставляет права на преимущества, предоставляемые Azure ATP.
+Enterprise Mobility + Security/A5, Microsoft 365/A5/A5, Microsoft 365 "A5/A5, безопасность" и "Advanced Threat Protections" для пользователей предоставляет права на преимущества использования Azure ATP.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Каким образом подготовлена или развернута служба?
 
@@ -77,7 +78,7 @@ ATP защищает пользователей от совершенных ат
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы? 
 
-Office 365 Advanced Threat Protection, Office 365, A5/A5/G5, Microsoft 365 "/A5/A5/G5, Microsoft 365/A5/G5, Microsoft 365 бизнес и Office 365 ATP, планы 1 и 2 предоставляют права пользователя на преимущества Office 365 Advanced Threat protection.
+Office 365 Advanced Threat Protection, Office 365 в ~/A5, Microsoft 365/A5, Microsoft 365 "/A5", Microsoft 365 бизнес и Office 365 ATP, планы 1 и 2 предоставляют права пользователя на преимущества Office 365 Advanced Threat protection.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Каким образом подготовлена или развернута служба?
 
