@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609940"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581981"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -154,7 +154,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -1070,41 +1070,31 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Функции Outlook Mobile
+## <a name="outlook-features-for-ios-and-android"></a>Функции Outlook для iOS и Android
 
-В приведенных ниже таблицах перечислены платформы и функции Outlook для мобильных устройств, доступные во всех службах Office 365 под управлением 21Vianet.
+Служба Office 365 под управлением 21Vianet поддерживает как Outlook для iOS, так и Outlook для Android.
 
-### <a name="mobile-platforms-supported"></a>Поддерживаемые мобильные платформы
+Следующие функции мобильных устройств не поддерживаются:
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook для iOS (iPhone & iPad)**|**Outlook для Android**|
-|Служба Office 365, предоставляемая 21Vianet|Да|Нет|
-
-### <a name="mobile-features-supported"></a>Поддерживаемые мобильные функции
-
-|||
-|:-----|:-----|:-----|
-|**Функция**|**Outlook для iOS (iPhone & iPad)**|**Outlook для Android**|
-|OneDrive для бизнеса|Нет|Н/Д|
-|Поиск людей & календаре|Нет|Н/Д|
-|&ное резервирование поиска конференц-зала|Нет|Н/Д|
-|Карточка с разрядами|Нет|Н/Д|
-|"LinkedIn" & "отчеты" — "данные на карточке людей|Нет|Н/Д|
-|Избранное|Нет|Н/Д|
-|Проигрывать мои сообщения|Нет|Н/Д|
-|Надстройки|Нет|Н/Д|
-|Группы|Нет|Н/Д|
-|Интеллектуальный ответ|Нет|Н/Д|
-|Веб-канал Office|Нет|Н/Д|
-|Время для выхода|Нет|Н/Д|
-|CLP/МИЛ|Нет|Н/Д|
-|Хранилище Dropbox|Нет|Н/Д|
-|Хранилище Google Drive|Нет|Н/Д|
-|Хранилище Box|Нет|Н/Д|
-|Календарь Facebook|Нет|Н/Д|
-|хелпшифт|Нет|Н/Д|
-|UserVoice|Нет|Н/Д|
+- OneDrive для бизнеса (поддерживается только на Android)
+- Поиск людей & календаре
+- &ное резервирование поиска конференц-зала
+- Карточка с разрядами
+- "LinkedIn" & "отчеты" — "данные на карточке людей
+- Избранное
+- Проигрывать мои сообщения
+- Надстройки
+- Группы
+- Интеллектуальный ответ
+- Веб-канал Office
+- Время для выхода
+- Метки чувствительности к защите информации Майкрософт
+- Хранилище Dropbox
+- Хранилище Google Drive
+- Хранилище Box
+- Календарь Facebook
+- хелпшифт
+- UserVoice
 
 ## <a name="project-online-features"></a>Функции Project Online
 
