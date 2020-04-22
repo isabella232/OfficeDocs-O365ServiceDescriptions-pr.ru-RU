@@ -1,5 +1,5 @@
 ---
-title: Функции внешней сети в Yammer
+title: Возможности по работе с внешними сетями в Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: В Yammer доступны следующие возможности по работе с внешними сетями.
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263191"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640067"
 ---
-# <a name="external-network-features-in-yammer"></a>Функции внешней сети в Yammer
+# <a name="external-network-features-in-yammer"></a>Возможности по работе с внешними сетями в Yammer
 
 В Yammer доступны следующие возможности по работе с внешними сетями.
   
@@ -33,4 +33,4 @@ ms.locfileid: "39263191"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).

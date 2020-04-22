@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. В этот список входят планы, обеспечивающие защиту Exchange Online, а также сравнение функций в этих планах.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260924"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640177"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online Protection (EOP)  это облачная служб
 
 - **В гибридном развертывании**: EOP можно настроить для защиты среды обмена сообщениями и управления маршрутизацией почты при наличии смешанных локальных и облачных почтовых ящиков.
 
-Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Сравнение функций в планах приведено в [статье сравнение планов Microsoft 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Сведения о покупке Exchange Online Protection см. на странице [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online Protection (EOP)  это облачная служб
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Новые возможности Exchange Online Protection (EOP)
 
-[План Office 365 для бизнеса](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) — это хороший ресурс для получения сведений о будущих новых возможностях.
+[Схема Microsoft 365 для бизнеса](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) — это хороший ресурс для получения сведений о новых возможностях.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Планы Exchange Online Protection (EOP)
 
@@ -101,7 +101,7 @@ EOP можно использовать с любым агентом перед�
 |[Карантин](anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|Да|
 |[Надстройка Report Message для Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Да|Да|Да|
 |[Создание отчетов о нежелательной почте в Outlook в Интернете](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Да|Да|Да|
-|[Маршрутизация сообщений между Office 365 и почтовыми серверами пользователя](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Да|Да|Да|
+|[Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|Да|
 |[Добавление IP-адреса партнера в список надежных отправителей](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Да|Да|Да|
 |[Условная маршрутизация почты](mail-flow-eop.md#conditional-mail-routing)|Да|Да|Да|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: В Yammer доступны следующие возможности по использованию сообщений и бесед.
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688262"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640037"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Возможности по использованию сообщений и бесед в Yammer
 
@@ -57,5 +57,5 @@ ms.locfileid: "42688262"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Для просмотра планов доступности компонентов, автономных параметров и локальных решений, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
   

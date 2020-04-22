@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: В Project Online доступны следующие функции управления задачами.
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546102"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640277"
 ---
 # <a name="task-management"></a>Управление задачами
 
@@ -67,5 +67,5 @@ ms.locfileid: "42546102"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь со статьей [Описание службы Project Online](project-online-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
   

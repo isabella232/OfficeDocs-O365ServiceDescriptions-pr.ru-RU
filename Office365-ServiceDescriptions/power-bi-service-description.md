@@ -12,20 +12,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI это облачный набор инструментов бизнес-аналитики, позволяющий всем подключаться к данным, визуализировать и анализировать данные с большим быстродействием, эффективностью и пониманием. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
-ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263473"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638977"
 ---
 # <a name="power-bi-service-description"></a>Описание службы Power BI
 
 Power BI это облачный набор инструментов бизнес-аналитики, позволяющий всем подключаться к данным, визуализировать и анализировать данные с большим быстродействием, эффективностью и пониманием. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
   
-Сейчас Power BI входит в состав версии Office 365 корпоративный E5. Дополнительные сведения см. на веб-сайте [Power BI](https://powerbi.microsoft.com/).
+Сейчас Power BI входит в состав версии Office 365 корпоративный E5. Чтобы узнать больше, перейдите в [Power BI](https://powerbi.microsoft.com/).
   
-Сравнение функций в разных планах см. на странице [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Сравнение функций в планах приведено в [статье сравнение планов Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="power-bi-plans"></a>Планы Power BI
 

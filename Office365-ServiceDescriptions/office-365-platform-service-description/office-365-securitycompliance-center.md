@@ -1,5 +1,5 @@
 ---
-title: Центр безопасности и соответствия требованиям Office 365
+title: Центр безопасности и соответствия требованиям
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Центр соответствия требованиям безопасности &amp; Office 365 предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: Центр соответствия &amp; требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109439"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639687"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[Центр соответствия требованиям безопасности &amp; Office 365](https://protection.office.com/) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+[Центр соответствия &amp; требованиям безопасности](https://protection.office.com/) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ ms.locfileid: "43109439"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция**  |**Office 365 бизнес базовый**  |**Office 365 бизнес премиум**  |**Office 365 корпоративный E1**, **Office 365 для государственных учреждений (США) G1**  |**Office 365 корпоративный E3**, **Office 365 для государственных организаций (США) G3**  |**Office 365 корпоративный E5**  |**Office 365 корпоративный F3**  **Office 365 для государственных учреждений США F3**|
+|**Функция**  |**Microsoft 365 бизнес базовый**  |**Microsoft 365 бизнес Standard**  |**Office 365 корпоративный E1**, **Office 365 для государственных учреждений (США) G1**  |**Office 365 корпоративный E3**, **Office 365 для государственных организаций (США) G3**  |**Office 365 корпоративный E5**  |**Office 365 корпоративный F3**  **Office 365 для государственных учреждений США F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет|Нет   |Да   |Нет   |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ |Да   |Да   |Да   |Да   |Да   |Да   |
@@ -56,7 +56,7 @@ ms.locfileid: "43109439"
 |[Шифрование сообщений Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
-|[Ключ клиента Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
+|[Ключ клиента](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 ||||||||
 
 <sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети.

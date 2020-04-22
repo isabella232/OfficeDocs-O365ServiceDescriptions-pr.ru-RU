@@ -1,5 +1,5 @@
 ---
-title: Функции обнаружения в Yammer
+title: Возможности обнаружения в Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: В Yammer доступны следующие возможности обнаружения.
-ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263100"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640077"
 ---
-# <a name="discovery-features-in-yammer"></a>Функции обнаружения в Yammer
+# <a name="discovery-features-in-yammer"></a>Возможности обнаружения в Yammer
 
 В Yammer доступны следующие возможности обнаружения.
   
@@ -45,6 +45,6 @@ ms.locfileid: "39263100"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
   
   

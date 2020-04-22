@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688274"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640167"
 ---
 # <a name="messaging-policy-and-compliance"></a>Политика обмена сообщениями и соответствие требованиям
 
@@ -77,4 +77,4 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 > <sup>1</sup> доступные условия, исключения и действия правила обработки почтового процесса незначительно ОТЛИЧАЮТСЯ в EOP и Exchange Online. Эти отличия отмечены в [правилах обработки обработки почты и исключения (предикаты) в](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) почтовых действиях в Exchange Online и [почтовых ящиках в Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> отчеты аудита EOP являются подмножеством отчетов об аудите Exchange Online, которые исключают сведения о почтовых ящиках. <br/>
 > <sup>3</sup> подсказки политики DLP недоступны для клиентов Exchange Enterprise CAL со службами. <br/>
-> <sup>4</sup> поддерживается для локальных пользователей, которые приобрели надстройку Azure Information Protection и используют Exchange Online Protection для маршрутизации электронной почты через Exchange Online. В дополнение к надстройке Azure Information Protection, для работы с рабочими станциями необходимо приобрести Office 365 профессиональный плюс. <br/>
+> <sup>4</sup> поддерживается для локальных пользователей, которые приобрели надстройку Azure Information Protection и используют Exchange Online Protection для маршрутизации электронной почты через Exchange Online. В дополнение к надстройке Azure Information Protection для работы с рабочим столом необходимо приобрести приложения Microsoft 365 для предприятия. <br/>

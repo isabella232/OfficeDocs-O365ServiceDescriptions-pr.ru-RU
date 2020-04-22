@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609870"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639847"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -31,7 +31,7 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Краткий обзор: [что такое SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Чтобы узнать, какие планы Office 365 включают SharePoint, [Сравните планы office 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans). Требования к системе для Office 365 приведены в статье [требования к системе для Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Для просмотра планов, включающих SharePoint, [Сравните Microsoft 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans). Требования к системе для Microsoft 365 приведены в статье [требования к системе для Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
 
 Чтобы узнать о различиях в функциях SharePoint для облачных пользователей США, ознакомьтесь со статьей [SharePoint для государственных сред США](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
@@ -41,7 +41,7 @@ SharePoint в Microsoft 365 помогает организациям делит
   
 ## <a name="subscription-options"></a>Варианты подписки
 
-Служба Office 365 доступна в разных планах для того, чтобы наилучшим образом удовлетворить потребности вашей организации. Подробнее о различных планах, в том числе автономных вариантах планов, а также сведениях о переходе от одного плана к другому см. в разделе [Параметры планов Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе от одного плана к другому, представлены в [статье Microsoft 365 Plan](../office-365-platform-service-description/office-365-plan-options.md).
   
 Чтобы получить доступ к SharePoint, пользователям в Организации должна быть назначена лицензия, включающая SharePoint. План задействование не продается как отдельное, а только как часть подписки на [задействование](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
@@ -49,7 +49,7 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Если вы приобретаете план и создаете сайт, использующий корпоративные компоненты, приглашенные гости получают права на использование и/или Просмотр корпоративных компонентов на сайте, к которым вы их предложили. Вы можете пригласить гостей на выполнение всего ряда действий на сайте, но у них не будет таких же возможностей, как и у лицензированного пользователя в вашей организации. Например, если ваш план включает версии приложений Office для настольных ПК, гости не могут установить их на свои компьютеры, если вам не назначена лицензия.
 
-## <a name="onedrive"></a>OneDrive
+## <a name="onedrive"></a>OneDrive;
 
 OneDrive в Microsoft 365 — это сетевое хранилище для отдельных пользователей в Организации. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive включен в SharePoint, и его также можно приобрести в виде автономного плана. Чтобы узнать, какой объем хранилища OneDrive поставляется вместе с каждым планом, ознакомьтесь с [описанием службы OneDrive](../onedrive-for-business-service-description.md).
 
@@ -99,7 +99,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 - [Миграция: Диспетчер миграции](/sharepointmigration/mm-get-started)
 - [Миграция: средство оценки миграции SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [Миграция: Mover.IO](https://mover.io/). В настоящее время доступно только для клиентов в Северной Америке.
-- [Multi-Geo (Data размещению)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). С надстройкой, для которой требуется минимум 500 лицензий Office 365. Обратитесь к представителю Майкрософт за дополнительными сведениями.
+- [Multi-Geo (Data размещению)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). С надстройкой, для которой требуется не менее 500 лицензий корпорации Майкрософт. Обратитесь к представителю Майкрософт за дополнительными сведениями.
 - [Программная подготовка сайтов](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Замена корневого сайта](/sharepoint/modern-root-site)
 - [Восстановление удаленных сайтов](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 - [Шифрование в транзитном месте и в REST](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [Выход из сеанса бездействующего сеанса](/sharepoint/sign-out-inactive-users)
 - [Политики управления информацией](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Управление правами на доступ к данным (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Требуется автономная или в составе набора Azure Information Protection. Для некоторых функций Azure Information Protection необходима подписка на Office 365 профессиональный плюс.
+- [Управление правами на доступ к данным (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Требуется автономная или в составе набора Azure Information Protection. Для некоторых функций Azure Information Protection требуется подписка на приложения Microsoft 365 для предприятия.
 - [Восстановление библиотеки документов до предыдущего момента времени](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Поиск вирусов](/office365/securitycompliance/virus-detection-in-spo)
 

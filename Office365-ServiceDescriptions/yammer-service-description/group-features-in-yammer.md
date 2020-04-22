@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: В Yammer доступны следующие возможности работы с группами.
-ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263181"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640057"
 ---
 # <a name="group-features-in-yammer"></a>Функции работы с группами в Yammer
 
@@ -37,5 +37,5 @@ ms.locfileid: "39263181"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
   

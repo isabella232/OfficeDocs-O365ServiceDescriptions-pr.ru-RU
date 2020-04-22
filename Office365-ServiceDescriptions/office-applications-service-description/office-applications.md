@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office — это мощная служба, которая поможет вам лучше разобраться с вашими идеями, выполнять действия и оставаться на связи в дороге. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688334"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639677"
 ---
 # <a name="office-applications"></a>Приложения Office
 
 Microsoft Office — это мощная служба, которая поможет вам лучше разобраться с вашими идеями, выполнять действия и оставаться на связи в дороге. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
   
-Требования к системе для Office 365: служба, доступная по месячной подписке для предприятий, образовательных и правительственных организаций, приведена в статье [требования к системе для office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Требования к системе для корпоративных, образовательных и правительственных организаций, доступных для бизнеса и организаций, можно найти в [статье требования к системе](https://products.office.com/office-system-requirements/#Office365forBEG)для бизнеса 365.
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Microsoft InfoPath  это программа, которая позволяе
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile для iPad и iPhone включает в себя избранные приложения Office, например Word для iPad/iPhone, Excel для iPad/iPhone и PowerPoint для iPad и iPhone. Приложения доступны для бесплатного скачивания, и вы можете создавать и редактировать документы на своем устройстве iPad или iPhone благодаря соответствующим планам Office 365. Дополнительные сведения: [Настройка приложений Office и электронной почты на устройствах с iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile для iPad и iPhone включает в себя избранные приложения Office, например Word для iPad/iPhone, Excel для iPad/iPhone и PowerPoint для iPad и iPhone. Приложения можно скачать бесплатно, а с помощью соответствующих планов вы можете создавать и редактировать документы на своем устройстве iPad или iPhone. Дополнительные сведения: [Настройка приложений Office и электронной почты на устройствах с iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Office Mobile для Android включает в себя избранные приложения Office, например Word для Android, Excel для Android и PowerPoint для Android. Эти приложения доступны для бесплатного скачивания, и вы можете создавать и редактировать документы на своем устройстве Android благодаря соответствующим планам Office 365. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile для Android включает в себя избранные приложения Office, например Word для Android, Excel для Android и PowerPoint для Android. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на устройствах с Android. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile для Windows Phone включает в себя избранные приложения Office, такие как Word для Windows Phone, Excel для Windows Phone и PowerPoint для Windows Phone. Эти приложения доступны для бесплатного скачивания, и вы можете создавать и редактировать документы на своем устройстве с Windows Phone благодаря соответствующим планам Office 365. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile для Windows Phone включает в себя избранные приложения Office, такие как Word для Windows Phone, Excel для Windows Phone и PowerPoint для Windows Phone. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на вашем Windows Phone. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-for-windows-10-mobile"></a>Office для Windows 10 Mobile
 
@@ -85,5 +85,5 @@ Office Mobile для Windows Phone включает в себя избранны
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Просмотреть доступность функций в планах Office 365, отдельных и локальных решениях можно в статье [Описание службы приложений Office](office-applications-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных параметрах и локальных решениях, ознакомьтесь со статьей [Описание службы приложений Office](office-applications-service-description.md).
   

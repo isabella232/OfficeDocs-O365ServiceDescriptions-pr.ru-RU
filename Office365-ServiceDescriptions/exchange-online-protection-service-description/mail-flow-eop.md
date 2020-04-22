@@ -11,27 +11,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке.
-ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Это самая простая конфигурация, которая позволяет Майкрософт управлять всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке.
+ms.openlocfilehash: d85ae7b22be1405679ceac8d853b345d251166b6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688325"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638935"
 ---
 # <a name="mail-floweop"></a>Процесс обработки почты [EOP]
 
-Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Такая конфигурация самая простая, согласно ей Office 365 управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Для большинства организаций, использующих Майкрософт, мы размещаем почтовые ящики и позаботитесь о движении почты. Это самая простая конфигурация, которая позволяет Майкрософт управлять всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
 Ищете сведения об управлении доменом или пограничной блокировке на основе каталогов (DBEB)? Просмотр [получателей, доменов и управления организациями](recipient-domain-and-company-management.md). Чтобы узнать больше о всех возможностях EOP, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   
-## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Маршрутизация сообщений между Office 365 и почтовыми серверами пользователя
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами
 
-Вы можете настроить соединитель, чтобы обеспечить поток обработки почты между Office 365 (включая Exchange Online или EOP) и почтовым сервером, использующим SMTP, таким как сервер Exchange. Дополнительные сведения см. в статьях [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector) и [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Вы можете настроить соединитель для включения направления почты между корпорацией Майкрософт (включая Exchange Online или EOP) и SMTP-сервером электронной почты, например Exchange. Дополнительные сведения см. И [Настройте соединители для маршрутизации почты между корпорацией Майкрософт и вашими почтовыми серверами](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Защищенный обмен сообщениями с доверенным партнером
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Как клиент EOP, вы можете настроить безопасный процесс обработки почты с помощью доверенного партнера с помощью соединителей Office 365. Office 365 поддерживает безопасное соединение через протокол TLS и позволяет создать соединитель для применения шифрования через TLS. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) — это протокол шифрования, обеспечивающий безопасность связи через Интернет. С помощью соединителей можно настроить как принудительный входящий и исходящий TLS, используя сертификаты с собственной подписью или сертифицированным центром сертификации (CA). Кроме того, можно применить другие ограничения безопасности, такие как указание доменных имен или диапазонов IP-адресов, от которых Партнерская организация отправляет почту. 
+Как клиент EOP, вы можете настроить безопасный почтовый ящик с доверенным партнером с помощью соединителей Майкрософт. Корпорация Майкрософт поддерживает безопасное соединение через протокол TLS и позволяет создать соединитель для применения шифрования через TLS. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) — это протокол шифрования, обеспечивающий безопасность связи через Интернет. С помощью соединителей можно настроить как принудительный входящий и исходящий TLS, используя сертификаты с собственной подписью или сертифицированным центром сертификации (CA). Кроме того, можно применить другие ограничения безопасности, такие как указание доменных имен или диапазонов IP-адресов, от которых Партнерская организация отправляет почту. 
   
 Дополнительные сведения см. в статье [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -53,4 +53,4 @@ ms.locfileid: "42688325"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: В приведенных ниже таблицах перечислены изменения, недавно внесенные в описание служб.
-ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263373"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640127"
 ---
 # <a name="recent-service-descriptions-changes"></a>Недавние изменения в описании службы
 
@@ -29,7 +29,7 @@ ms.locfileid: "39263373"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Office 365 для образования](office-365-platform-service-description/office-365-education.md) <br/> |Обновлена доступность мобильных устройств в планах a1.  <br/> |
 ||[Office 365 для образования](office-365-platform-service-description/office-365-education.md) <br/> |Обновлены справочные материалы по удержаниям для судебного разбирательства в центре безопасности и соответствия требованиям и разделах Exchange Online.  <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновлена доступность в Office 365 для бизнеса.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновлены сведения о доступности в приложениях Microsoft 365 для бизнеса.  <br/> |
 |Приложения Office  <br/> |[Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md) <br/> |Обновлена доступность на мобильных платформах.  <br/> |
 |Workplace Analytics  <br/> |[Описание службы Workplace Analytics](workplace-analytics-service-description.md) <br/> |Обновленный лимит на доступное место для лицензий, добавлена ссылка на статью Начало работы, обновлены необходимые компоненты.  <br/> |
 |Project Online  <br/> |[Описание службы Project Online](project-online-service-description/project-online-service-description.md) <br/> |Уточнена лицензия.  <br/> |
@@ -50,8 +50,8 @@ ms.locfileid: "39263373"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлены сведения о нескольких географических регионах в описание службы платформы.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлена служба Microsoft 365 Business.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено значение параметра ограничения архивации на "Да" для Office 365 Business Essentials и Office 365 бизнес премиум.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено "Расширенное управление безопасностью" на "безопасность облачных приложений Office 365".  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Для записи ограничения архивации изменено значение "Да" для Microsoft 365 Business Basic и Microsoft 365 бизнес Standard.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено "Расширенное управление безопасностью" на "безопасность облачных приложений Office 365".  <br/> |
 |Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Первая заметка в разделе "книги", размер которых превышает 30 мегабайт (МБ), не может быть просмотрена в Excel для Интернета в Microsoft SharePoint Online. " Ранее в заметке было сказано 10 МБ.  <br/> |
 |OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Описание основных обновлений для службы OneDrive для бизнеса.  <br/> |
    
@@ -74,13 +74,13 @@ ms.locfileid: "39263373"
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновлена доступность StaffHub для Office 365 бизнес премиум.  <br/> |
+|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновлена доступность StaffHub для Microsoft 365 Business Standard.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновлены соответствия требованиям для отраслевых сертификатов на странице [[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) .  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Обновлены политики хранения вручную для плана Office 365 корпоративный 1.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Обновлены политики хранения вручную для плана Office 365 корпоративный 1.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Несколько обновлений и реструктуризация.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправление доступности интеграции голосовой почты и голосовой почты.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Разъяснена доступность групп для планов Exchange Online.  <br/> |
-|Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Обновлены сведения о доступности телефонных систем и конференций для клиентов Office 365 бизнес премиум.  <br/> |
+|Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Обновлены возможности телефонной системы и конференций для клиентов Microsoft 365 бизнес Standard.  <br/> |
    
 ## <a name="january-2018"></a>Январь 2018 г.
 
@@ -108,7 +108,7 @@ ms.locfileid: "39263373"
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнено, что пользователи Office 365 Enterprise F1 Microsoft Stream могут просматривать видео, но не могут публиковать их или предоставлять к ним общий доступ.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлено рассмотрение ликвидации в Расширенное управление данными.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлено рассмотрение ликвидации в Расширенное управление данными.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Разъяснена Yammer и Office 365 Pro Plus, доступность.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлена возможность защиты от потери данных.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлена доступность IRM с помощью службы управления правами Active Directory.  <br/> |
@@ -125,12 +125,12 @@ ms.locfileid: "39263373"
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены дополнительные сведения о управлении.  <br/> |
+|Платформа Office 365:  <br/> |[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены дополнительные сведения о управлении.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены данные миграции данных, выполненных таблицей FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлено примечание о том, что для федеративного общего доступа требуется использование адресного пространства доступности для поддержки общего доступа к другим клиентам.  <br/> |
 |Exchange Online  <br/> |[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Добавлены пределы для устаревшей версии Office 365 Message encryption (OME) и шифрования сообщений Office 365 (OME) с новыми возможностями.  <br/> |
-|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоконференций в Office 365 Business Premium, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
-||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что кредиты на связь можно добавить в план подписки на Office 365 Business Premium в качестве надстройки для поддержки голосовой конференции.  <br/> |
+|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что для добавления аудио-и видеоконференций в Microsoft 365 бизнес Standard, Office 365 корпоративный E1 и планов подписки Office 365 корпоративный E3 в качестве надстройки можно добавить новые планы.  <br/> |
+||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание о том, что кредиты на связь можно добавить в план подписки Microsoft 365 бизнес Standard, в качестве надстройки, поддерживающей только голосовую конференцию.  <br/> |
 ||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Разъяснены возможности передачи файлов в Office 365 Enterprise F1.  <br/> |
 |Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Добавлена новая страница описания службы Visio Online и обновлены несколько страниц, чтобы отразить это добавление.  <br/> |
    
@@ -155,8 +155,8 @@ ms.locfileid: "39263373"
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Планы Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена таблица, в которой сравниваются функции автономных планов.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены сведения о компоненте Advanced Threat Protection.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена таблица, в которой сравниваются функции автономных планов.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены сведения о компоненте Advanced Threat Protection.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
@@ -174,8 +174,8 @@ ms.locfileid: "39263373"
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлены сведения о доступности Microsoft Forms.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлена выноска о доступности Advanced eDiscovery.  <br/> |
 ||[Параметры планов Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |На страницу с вариантами планов добавлены сведения о планах Skype для бизнеса и Exchange Online для каждого SKU.  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |В сноску No добавлено следующее: 1: "политики хранения, применяемые к почтовым ящикам, требуют E3 или" \ ".  <br/> |
-||[Центр безопасности &amp; и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена выноска о доступности Advanced eDiscovery.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |В сноску No добавлено следующее: 1: "политики хранения, применяемые к почтовым ящикам, требуют E3 или" \ ".  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена выноска о доступности Advanced eDiscovery.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлено описание Microsoft Forms.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены сведения о Office 365 US Government G5.  <br/> |
 ||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Изменены сведения об управлении правами на доступ к данным (IRM) с использованием AD RMS Windows Server.  <br/> |

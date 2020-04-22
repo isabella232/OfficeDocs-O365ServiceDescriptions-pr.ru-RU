@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: В этом разделе описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8b3f6cfceb015bc1730fe4c4d61c2fcda3f94259
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688277"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640027"
 ---
 # <a name="administration-and-managementeop"></a>Администрирование и управление [EOP]
 
@@ -27,11 +27,11 @@ ms.locfileid: "42688277"
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к центру администрирования Microsoft 365
 
-Центр администрирования Microsoft 365 — это веб-портал, с которого администратор службы каждой компании может управлять учетными записями и параметрами пользователей для каждой службы Office 365, на которую они подписаны. В центре администрирования Microsoft 365 администраторы могут перейти по ссылкам в центр администрирования Exchange, где они могут управлять параметрами, характерными для EOP.
+Центр администрирования Microsoft 365 — это веб-портал, с которого администратор службы каждой компании может управлять учетными записями и параметрами пользователей для каждой из служб Майкрософт, на которые они подписаны. В центре администрирования Microsoft 365 администраторы могут перейти по ссылкам в центр администрирования Exchange, где они могут управлять параметрами, характерными для EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Доступ в Центр администрирования Exchange
 
-Центр администрирования Exchange (EAC)  это единая консоль управления, легкая в использовании и оптимизированная для всех типов развертываний. Новый и улучшенный Центр администрирования Exchange заменяет собой Forefront Online Protection для Центра администрирования Exchange. Центр администрирования Exchange обеспечивает более тесную интеграцию с Office 365 и единообразный и простой в использовании пользовательский интерфейс во всех продуктах Exchange (Microsoft Exchange Online и Microsoft Exchange Server 2013). Дополнительные сведения о Центре администрирования Exchange см. в статье [Центр администрирования Exchange в Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+Центр администрирования Exchange (EAC) — это единая консоль управления, легкая в использовании и оптимизированная для всех типов развертываний. Новый и улучшенный Центр администрирования Exchange заменяет собой Forefront Online Protection для Центра администрирования Exchange. Центр администрирования Exchange обеспечивает более тесную интеграцию с Microsoft 365 и единообразный, эффективный интерфейс взаимодействия с пользователем в продуктах Exchange (Microsoft Exchange Online и Microsoft Exchange Server 2013). Дополнительные сведения о [центре администрирования Exchange можно найти в центре администрирования Exchange в Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
 ## <a name="remote-windows-powershell-access"></a>Удаленный доступ к Windows PowerShell
 
@@ -39,5 +39,5 @@ ms.locfileid: "42688277"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   

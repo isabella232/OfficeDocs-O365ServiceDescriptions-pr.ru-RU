@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Следующие функции администрирования и обеспечения безопасности доступны в Yammer.
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263201"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640087"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Функции администрирования и безопасности в Yammer
 
@@ -55,10 +55,10 @@ ms.locfileid: "39263201"
 
 ## <a name="network-migration"></a>Перенос сети
 
-Объедините несколько сетей Yammer в одну. Дополнительные сведения см. в статье [Перенос сети: объединение нескольких сетей Yammer](https://go.microsoft.com/fwlink/?LinkID=617488).
+Объедините несколько сетей Yammer в одну. Дополнительные сведения см. [Объединение нескольких сетей Yammer в сети](https://go.microsoft.com/fwlink/?LinkID=617488).
   
 > [!NOTE]
-> Перенос сетей Yammer для клиентов Office 365 не поддерживается. 
+> Миграция сетей Yammer между планами не поддерживается. 
 
 ## <a name="organization-resources"></a>Ресурсы Организации
 
@@ -74,7 +74,7 @@ ms.locfileid: "39263201"
 
 ## <a name="single-identity"></a>Одно удостоверение
 
-Если выбрать Yammer в качестве социальной сети по умолчанию в Office 365: для вашей организации, сотрудники будут сопоставлены с существующими учетными записями Yammer. Это значит, что им не потребуется заново входить в систему при переходе в Yammer в Office 365:. Когда сотрудники получают доступ&mdash;к Yammer из Office 365, через мобильное приложение Yammer или Yammer.com&mdash;, они автоматически регистрируются в соответствии с существующими учетными данными Организации.
+При выборе Yammer в качестве социального взаимодействия по умолчанию для Организации сотрудники сопоставляются с существующими учетными записями Yammer. Это значит, что им не потребуется заново входить в систему при переходе в Yammer в Office 365:. Когда сотрудники получают доступ&mdash;к Yammer из Office 365, через мобильное приложение Yammer или Yammer.com&mdash;, они автоматически регистрируются в соответствии с существующими учетными данными Организации.
 
 ## <a name="usage-policy"></a>Политика использования
 
@@ -86,6 +86,6 @@ ms.locfileid: "39263201"
 
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
   
 

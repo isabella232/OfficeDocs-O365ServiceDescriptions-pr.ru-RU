@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
-ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
+ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43581981"
+ms.locfileid: "43639857"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -153,7 +153,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Отчеты о защите загружаемой почты|Да|Да|Да|Да|Да|Да|Да|
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
-|Создание собственных отчетов с помощью веб-служб отчетов Office 365:|Да|Да|Да|Да|Да|Да|Да|
+|Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365|Да|Да|Да|Да|Да|Да|Да|
 |**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
@@ -173,7 +173,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Расширенное управление безопасностью|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Расширенная защита от угроз|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Защищенное хранилище пользователя|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Office 365 Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Оценка безопасности<sup>4</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Аналитика угроз|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**[Соответствие требованиям](compliance-servicedesc.md)**||||||||
@@ -326,7 +326,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Нет|Нет|Да|Нет|Нет|Нет|
 |Теги хранения и политики хранения|Да|Да|Да|Да|Да|Да|Да|
@@ -348,7 +348,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да <sup>4</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|
 |Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Нет|
-|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|
@@ -461,7 +461,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - [Ограничения Exchange ActiveSync](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - Пределы, применяемые к организации Microsoft Office 365, могут различаться в зависимости от того, сколько времени в Организации зарегистрировано в службе. Когда ограничение в центрах данных Майкрософт изменяется, может потребоваться некоторое время на применение изменения ко всем существующим заказчикам.
+> - Пределы, применяемые к организации Microsoft 365, могут различаться в зависимости от того, сколько времени в Организации зарегистрировано в службе. Когда ограничение в центрах данных Майкрософт изменяется, может потребоваться некоторое время на применение изменения ко всем существующим заказчикам.
 > - Большую часть этих ограничений нельзя изменить, но вам и вашим пользователям следует знать о них.
 > - Они применяются как к внутренним, так и к внешним получателям.
 > - По умолчанию служба Exchange Online Protection (EOP) защищает почтовые ящики Exchange Online. Для пределов, которые применяются к функциям EOP в Exchange Online, ознакомьтесь с разделом [Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
@@ -493,7 +493,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|
 |[Надстройка Report Message для Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Да|Да|
 |[Создание отчетов о нежелательной почте в Outlook в Интернете](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Нет<sup>7</sup>|Нет<sup>7</sup>|
-|[Маршрутизация сообщений между Office 365 и почтовыми серверами пользователя](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Да|Да|
+|[Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|
 |[Добавление IP-адреса партнера в список надежных отправителей](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Да|Да|
 |[Условная маршрутизация почты](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Да|Да|
@@ -811,7 +811,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Приложения, подготовленные в Azure: службы Access<sup>3</sup>|Да|Да|Да|Да|Да|Да|Да|
 |Приложения, подготовленные в Azure: Пользовательский код в Azure Lightweight Web Role (LWR)|Да|Да|Да|Да|Да|Да|Да|
 
-<sup>1</sup> Чтобы синхронизировать папки, необходим набор Office 2013 или более новой версии (стандартный или профессиональный выпуск) либо подписка на Office 365:, которая включает приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов.
+<sup>1</sup> чтобы использовать синхронизацию папок, необходимо иметь Office 2013 или более поздней версии (стандартный или профессиональный выпуск) или подписку, включающую приложения Office. Office 365 бизнес Essentials, Office 365 корпоративный E1 и планы образования Office 365 не включают подписки на классические приложения Office. Но вы можете синхронизировать папки, если установите Office 2013 (или более новой версии) и подпишетесь на один из этих планов.
 <br/><sup>2</sup> В учетных записях с базовой подпиской доступны не все функции OneDrive для бизнеса. Пользователи с базовой подпиской могут синхронизировать библиотеки документов сайта группы с общедоступным компьютером и просматривать документы офлайн с помощью клиентского приложения OneDrive для бизнеса. Но учетные записи с базовой подпиской не включают личный сайт OneDrive для бизнеса, поэтому в них недоступна личная библиотека OneDrive для бизнеса с интернет-хранилищем объемом 1 ТБ.
 <br/><sup>3</sup> доступ к 2010 не поддерживается.
 <br/><sup>4</sup> Так как пользователи с базовой подпиской не могут быть администраторами, для доступа к Центру администрирования таким клиентам нужен по крайней мере один пользователь с корпоративной подпиской.
@@ -932,8 +932,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Групповые звонки.|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Монитор видеозвонков.|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Voicemail|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для внутренних звонков с обязательным приобретением надстройки)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|[Планы звонков в Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (план для международных звонков с обязательным приобретением надстройки)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Планы звонков](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (план для внутренних звонков с обязательным приобретением надстройки)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|[Планы звонков](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (план для международных звонков с обязательным приобретением надстройки)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Кредитование связи](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Голосовые вызовы Skype для бизнеса|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|

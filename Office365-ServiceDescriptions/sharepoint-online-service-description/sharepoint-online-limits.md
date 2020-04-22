@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Узнайте о пределах SharePoint для Office 365 и отдельных планов.
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Узнайте о пределах SharePoint для Microsoft 365 и автономных планов.
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609980"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638947"
 ---
 # <a name="sharepoint-limits"></a>Границы SharePoint
 
@@ -24,7 +24,7 @@ ms.locfileid: "42609980"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office 365 бизнес Essentials или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3, или 1/2 или SharePoint (план 1)** <br/> | **Office 365 корпоративный F3** <br/> |
+|**Функция** <br/> |**Microsoft 365 бизнес базовый или бизнес премиум** <br/> |**Office 365 корпоративный E1, E3, или 1/2 или SharePoint (план 1)** <br/> | **Office 365 корпоративный F3** <br/> |
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию  <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Максимальное количество хранилищ на сайт (семейство веб-сайтов)<sup>4</sup><br/> |25 ТБ <br/> |25 ТБ <br/> |25 ТБ<sup>5</sup> <br/> |
 |Сайты (семейства веб-сайтов) на организацию  <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<br/> |
@@ -32,7 +32,7 @@ ms.locfileid: "42609980"
    
 <sup>1</sup> [Узнайте, как найти общее и доступное хранилище для Организации](/sharepoint/manage-site-collection-storage-limits). Вы можете приобрести неограниченное количество дополнительных хранилищ SharePoint. В разделе изменение дискового [пространства для подписки](/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> рекомендуем регулярно отслеживать корзину и очищать ее. Используемое ею место на диске является частью общего объема хранилища в Организации. 
-<br/> <sup>3</sup> если у вас есть подписка на Office 365 и дополнительная надстройка для хранения файлов Office 365, добавляются объемы хранилища. 
+<br/> <sup>3</sup> если у вас есть подписка на Microsoft 365 и дополнительная надстройка для хранения файлов Office 365, добавляются объемы хранилища. 
 <br/> <sup>4</sup> это *максимальный размер* хранилища для одного сайта (ранее называемого "семейством веб-сайтов"), а не объем хранилища, *предоставленный* для каждого сайта. Это значение применяется ко всем типам сайтов, включая сайты групп, подключенных к группам Office 365, и OneDrive. Администраторы SharePoint могут [вручную устанавливать более низкие пределы хранения](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> задействование сотрудники не могут администрировать сайты SharePoint. 
 <br/> <sup>6</sup> не включает OneDrive, созданный для каждого лицензированного пользователя. 

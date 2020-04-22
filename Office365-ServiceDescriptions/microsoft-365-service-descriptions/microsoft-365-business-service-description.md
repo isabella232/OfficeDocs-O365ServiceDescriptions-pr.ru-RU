@@ -1,5 +1,5 @@
 ---
-title: Описание службы Microsoft 365 бизнес
+title: Описание службы Microsoft 365 бизнес премиум
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,26 +9,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
-description: Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенными возможностями обеспечения безопасности и управления устройствами для защиты вашего бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: cf4c1e84746d3664475999384fee27896f9ad95f
-ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
+description: Microsoft 365 Business Premium — это интегрированное решение, объединяющее наилучшую производительность с помощью расширенных возможностей по обеспечению безопасности и управлению устройствами для защиты вашего бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
+ms.openlocfilehash: 9333e69a11784fe0879c6cd4109039ed6a7d11b1
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43581961"
+ms.locfileid: "43639747"
 ---
-# <a name="microsoft-365-business-service-description"></a>Описание службы Microsoft 365 бизнес
+# <a name="microsoft-365-business-premium-service-description"></a>Описание службы Microsoft 365 бизнес премиум
 
-Microsoft 365 Business — это интегрированное решение, объединяющее наилучшую производительность Office 365 с расширенной безопасностью и управлением устройствами для защиты бизнеса от сложных угроз. В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье [описания служб office 365](../office-365-service-descriptions-technet-library.md).
+Microsoft 365 Business Premium — это интегрированное решение, объединяющее наилучшую производительность Microsoft 365 с расширенной безопасностью и управлением устройствами для защиты бизнеса от сложных угроз. В этом описании службы рассматриваются варианты и возможности планов. Дополнительные сведения о Office 365 вы найдете в статье [описания служб office 365](../office-365-service-descriptions-technet-library.md).
   
-## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Доступность функций в планах Office 365 бизнес премиум и Microsoft 365 бизнес
+## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>Доступность функций в Microsoft 365 бизнес Standard и планах Microsoft 365 Бизнес Premium
 
-Microsoft 365 бизнес включает практически все функции, доступные в Office 365 бизнес премиум, а также дополнительные функции безопасности Office 365.
-
+Microsoft 365 Business Premium включает в себя все функции, доступные в Microsoft 365 Business Standard, а также дополнительные функции безопасности Майкрософт.
 
 ||||
 |:-----|:-----|:-----|
-|**Планы** <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|**Планы** <br/> |**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Да  <br/> |
@@ -44,10 +43,10 @@ Microsoft 365 бизнес включает практически все фун
 |Microsoft PowerApps  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft StaffHub  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Stream  <br/> |Да,<sup>6</sup>  <br/> |Да,<sup>6</sup>  <br/> |
-|[Администрирование Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Администрирование Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Средство синхронизации Azure AD Connect<br/> |Да  <br/> |Да  <br/> |
 |Shared computer activation <br/> |Нет <br/> |ДА  <br/> |
-|[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Долгосрочная Архивация почтовых ящиков на основе Exchange Online  <br/> |Нет  <br/> |Да,<sup>3</sup> <br/> |
 |Azure Information Protection (план 1) |Нет <br/>|Да<sup>2</sup> </br>|
 |Шифрование сообщений Office 365  <br/> |Нет  <br/> |Да<sup>2</sup> <br/> |
@@ -55,17 +54,17 @@ Microsoft 365 бизнес включает практически все фун
 |Обнаружение электронных данных на месте  <br/> |Да  <br/> |Да  <br/> |
 |Transport rules  <br/> |Да  <br/> |Да  <br/> |
 |Защита от потери данных  <br/> |Нет  <br/> |ДА <br/> |
-|[Конфиденциальность, безопасность и прозрачность](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |
+|[Конфиденциальность, безопасность и прозрачность](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Встроенная защита от нежелательной почты  <br/> |Да  <br/> |Да  <br/> |
 |Встроенная защита от вредоносных программ  <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Advanced Threat protection (план 1) <br/> |Нет  <br/> |Да<sup>7</sup> <br/> |
 |Оценка безопасности<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |
 |Office 365 Advanced Threat Protection (план 2) <br/> |Нет  <br/> |Нет <br/> |
-|[Управление идентификацией и доступом](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Полное развертывание Azure AD Premium P1 ожидается в Microsoft 365 Business Customers. Для получения дополнительных сведений ознакомьтесь с [этой записью в блоге](https://aka.ms/aadp1smbblog).<br/>|**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Многофакторная идентификация Azure (MFA)  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
-|Административные единицы  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
-|Обнаружение облачных приложений  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
-|Динамические группы  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
+|[управление удостоверениями и доступом;](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Полное восстановление Azure AD Premium P1 ожидается для клиентов Microsoft 365 Business Premium. Для получения дополнительных сведений ознакомьтесь с [этой записью в блоге](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|Многофакторная идентификация Azure (MFA)  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |Да  <br/> |
+|Административные единицы  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |Да  <br/> |
+|Обнаружение облачных приложений  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |Да  <br/> |
+|Динамические группы  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |Да  <br/> |
 |Самостоятельный сброс паролей для облачных удостоверений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Самостоятельный сброс паролей путем обратной записи в локальной службе AD  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
 |Двусторонняя синхронизация объектов устройств между локальными каталогами и Azure AD (обратная запись устройств)  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
@@ -75,7 +74,7 @@ Microsoft 365 бизнес включает практически все фун
 |Клиентская лицензия для пользователей Microsoft Identity Manager (MIM)  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
 |Connect Health  <br/> |Нет  <br/> |Да<sup>10</sup>  <br/> |Да  <br/> |
 |Соглашение об уровне обслуживания 99,9 %  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление устройствами и приложениями](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business включает в себя все возможности Intune для iOS, Android, Mac OS и другие возможности управления устройствами на нескольких платформах. <sup>8</sup> <br/> |**Office 365 бизнес премиум** <br/> |**Microsoft 365 бизнес** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Управление устройствами и приложениями](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 бизнес премиум включает в себя полные возможности Intune для iOS, Android, Mac OS и другого управления устройствами на нескольких платформах. <sup>9</sup> <br/> |**Microsoft 365 бизнес Standard** <br/> |**Microsoft 365 бизнес премиум** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Управление мобильными устройствами Intune (MDM) для ПК, Mac и мобильных устройств<sup>5</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Автоматическая регистрация для управления мобильными устройствами (MDM)  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
 |Управление мобильными приложениями Intune (MAM) для приложений Office и бизнес-приложений<sup>8</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
@@ -91,7 +90,7 @@ Microsoft 365 бизнес включает практически все фун
 
 |||
 |:-----|:-----|
-|**Управление Windows 10 Pro** <br/>Если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 бизнес предоставляет обновление до Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 бизнес** <br/> |
+|**Управление Windows 10 Pro** <br/>Если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 Бизнес Премиум предоставляет обновление до Windows 10 Pro. <sup>10</sup> <br/>|**Microsoft 365 бизнес премиум** <br/> |
 |Упрощенное развертывание при помощи Windows AutoPilot  <br/> |Да  <br/> |
 |Активация подписки  <br/> |Да  <br/> |
 |Организационное управление экраном устройства в режиме бездействия  <br/> |Да  <br/> |
@@ -99,7 +98,7 @@ Microsoft 365 бизнес включает практически все фун
 |Организационное управление доступом пользователей к Кортане  <br/> |Да  <br/> |
 |Организационное управление подсказками Windows и рекламными объявлениями от Майкрософт  <br/> |Да  <br/> |
 |Автоматическое обновление устройств с Windows 10  <br/> |Да  <br/> |
-|**Безопасность Windows 10** <br/> |**Microsoft 365 бизнес** <br/> |
+|**Безопасность Windows 10** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Защита компьютеров от вирусов и других угроз с помощью антивирусной программы "Защитник Windows"  <br/> |Да  <br/> |
 |Защита компьютеров с помощью веб-угроз в Microsoft Edge  <br/> |Да  <br/> |
 |Использовать правила для ограничения направлений атак на устройства <br/> |Да  <br/> |
@@ -108,12 +107,13 @@ Microsoft 365 бизнес включает практически все фун
 
 ### <a name="notes"></a>Заметки
 <sup>1</sup> включает Exchange Online (план 1).<br/>
-<sup>2</sup> . Azure Information Protection (точка административной защиты) включает поддерживаемые функции управления правами на доступ к данным (IRM). AIP (план 1) входит в состав Microsoft 365 бизнес. <br/>
-<sup>3</sup> Microsoft 365 бизнес включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>2</sup> . Azure Information Protection (точка административной защиты) включает поддерживаемые функции управления правами на доступ к данным (IRM). АДМИНИСТРАТИВная схема 1 входит в состав Microsoft 365 Business Premium. <br/>
+<sup>3</sup> Microsoft 365 бизнес премиум включает подписку на архивацию на базе Exchange Online. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации в Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4</sup> доступно в [https://securescore.office.com](https://securescore.office.com). Требуются разрешения администратора. Дополнительные сведения см. [в статье Введение в Office 365 Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/>
-<sup>5</sup> упрощенное управление устройствами Windows 10 встроено в центр администрирования Microsoft 365. Возможности управления Intune, Android, macOS и другое управление устройствами на нескольких платформах, встроенные в центр администрирования управления устройствами и лицензированные для использования с Microsoft 365 Business. Сторонние приложения и настройка таких вещей, как профили Wi-Fi и VPN-сертификаты, можно также управлять в центре администрирования управления устройствами. <br/>
+<sup>5</sup> упрощенное управление устройствами Windows 10 встроено в центр администрирования Microsoft 365. Возможности управления Intune для iOS, Android, macOS и другие возможности управления устройствами на нескольких платформах, встроенные в центр администрирования управления устройствами и лицензированные для использования с Microsoft 365 Business Premium. Сторонние приложения и настройка таких вещей, как профили Wi-Fi и VPN-сертификаты, можно также управлять в центре администрирования управления устройствами. <br/>
 <sup>6</sup> этот план поставляется с Microsoft Streaming Plan 2, который включает в себя видеопортал, речевое распознавание текста, поиск с глубоким поиском и определением лица.<br/>
-<sup>7</sup> Microsoft 365 поставляется с планом Office 365 Advanced Threat protection (план 1). Дополнительные сведения можно найти в [статье Microsoft 365 Business Security and соответствие требованиям](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
-<sup>8</sup> Microsoft 365 Business подписчики лицензированы для использования полных возможностей Intune для iOS, Android, MacOS и другого управления устройствами на разных платформах. Функции, недоступные в центре администрирования в Microsoft 365 Business, такие как Управление приложениями сторонних производителей и настройка профилей Wi-Fi, VPN-сертификаты и т. д., можно управлять в полной консоли Intune.</br>
-<sup>9</sup> если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 бизнес предоставляет обновление до Windows 10 Pro. С помощью Microsoft 365 бизнес вы не только получаете [функции безопасности защитника Майкрософт, включенные в Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), также получаете доступ к расширенным функциям, таким как защита сети на основе веб-угроз и правил предотвращения вторжения для узлов, чтобы уменьшить время атаки. При настройке Microsoft 365 Business клиент вы выбираете пункт Защита приложений и параметры конфигурации устройств. Эти параметры определяют, какие политики автоматически применяются к устройствам при их присоединении к Azure Active Directory.</br>
-<sup>10</sup> полная версия Azure AD Premium P1 вскоре выходит в Microsoft 365 Business Customers. Для получения дополнительных сведений ознакомьтесь с [этой записью в блоге](https://aka.ms/aadp1smbblog).
+<sup>7</sup> Microsoft 365 поставляется с планом Office 365 Advanced Threat protection (план 1). Дополнительные сведения можно найти в [статье Microsoft 365 для обеспечения безопасности и соответствия требованиям бизнеса](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
+<sup>8</sup> Microsoft 365 бизнес премиум включает следующие функции Azure AD Premium P1: самостоятельный сброс паролей с использованием обратной записи AD, многофакторной проверки подлинности Azure (MFA) и условный доступ. Он не включает в себя полностью Azure AD Premium P1.</br>
+<sup>9</sup> подписчики Microsoft 365 Business Premium лицензированы для использования полных возможностей Intune для iOS, Android, MacOS и другого управления устройствами на разных платформах. Функции, недоступные в центре администрирования Microsoft 365 Business Premium, такие как Управление приложениями сторонних производителей и настройка профилей Wi-Fi, VPN-сертификаты и т. д., можно управлять в полной консоли Intune.</br>
+<sup>10</sup> если у вас есть устройства, лицензированные для Windows 7 и 8,1 Professional, Microsoft 365 Бизнес Премиум предоставляет обновление до Windows 10 Pro. С помощью Microsoft 365 Бизнес Премиум вы не только получаете [функции безопасности защитника Майкрософт, включенные в Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), также получаете доступ к расширенным функциям, таким как защита от сети для веб-угроз и правил защиты от вторжения на уровне узла, чтобы уменьшить время атаки. При настройке учетной записи Microsoft 365 Бизнес Premium необходимо выбрать защиту приложения и параметры конфигурации устройств. Эти параметры определяют, какие политики автоматически применяются к устройствам при их присоединении к Azure Active Directory.</br>
+<sup>11</sup> полная версия Azure AD Premium P1 вскоре выходит в Microsoft 365 Business Premium Customers. Для получения дополнительных сведений ознакомьтесь с [этой записью в блоге](https://aka.ms/aadp1smbblog).

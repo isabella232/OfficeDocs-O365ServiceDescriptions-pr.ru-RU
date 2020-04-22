@@ -1,5 +1,5 @@
 ---
-title: Описание службы Microsoft 365 Business Voice Service
+title: Описание службы корпоративной голосовой связи Microsoft 365
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -9,27 +9,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice — это служба надстройки, которая позволяет использовать Microsoft Teams для звонков по телефону. Это сочетает телефонную систему, план для местных звонков, SMS и голосовые конференции.
-ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262782"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640157"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Описание службы Microsoft 365 Business Voice Service
+# <a name="microsoft-365-business-voice-service-description"></a>Описание службы корпоративной голосовой связи Microsoft 365
 
 Microsoft 365 Business Voice это облачное решение для телефонной связи, предоставляющее возможности телефонной системы, такие как парковки вызовов, переадресация вызовов, автосекретарей, очереди звонков, аудио-и видеоконференций. Бизнес-голос можно добавить в подписки на Office 365 и Microsoft 365, включающие Microsoft Teams (до 300 лицензий). Дополнительные сведения о службе деловой голосовой связи можно найти в [статье Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
 
 Вы можете выбрать один из двух вариантов Microsoft 365 Business Voice Voice:
 
-- Microsoft 365 Business Voice
+- Корпоративная голосовая связь Microsoft 365
 - Microsoft 365 Business Voice без плана звонков
 
 Microsoft 365 Business Voice доступна со следующими малыми и средними подписками, имеющими до 300 лицензий:
 
-- [Office 365 бизнес базовый](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Office 365 бизнес премиум](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 бизнес](microsoft-365-business-service-description.md)
+- [Microsoft 365 бизнес базовый](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 бизнес Standard](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 бизнес премиум](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
@@ -38,7 +38,7 @@ Microsoft 365 Business Voice доступна со следующими малы
 
 ## <a name="microsoft-365-business-voice-features"></a>Функции Microsoft 365 Business Voice
 
-| **Функция**                                            | **Microsoft 365 Business Voice** | **Microsoft 365 Business Voice без плана звонков** |
+| **Функция**                                            | **Корпоративная голосовая связь Microsoft 365** | **Microsoft 365 Business Voice без плана звонков** |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Местные номера                                          | Да                              | Да                                                   |
 | Звонок по VoIP                                           | Да                              | Да                                                   |
@@ -57,7 +57,7 @@ Microsoft 365 Business Voice доступна со следующими малы
 | Набор номера автосекретаря                       | Да                              | Да                                                   |
 | Автосекретарь/передача очереди звонков в общую голосовую почту | Да                              | Да                                                   |
 | Многоязыковой интерактивный ответ (IVR)          | Да                              | Да                                                   |
-| Политика вызовов                                         | Да                              | Да                                                   |
+| Политика звонков                                         | Да                              | Да                                                   |
 | План внутренних звонков                                  | Да                              | Нет                                                    |
 | Бесплатный набор номера\*                                    | Да                              | Нет                                                    |
 | План международных звонков\*                           | Да                              | Нет                                                    |
