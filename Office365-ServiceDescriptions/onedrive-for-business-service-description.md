@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609880"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639877"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -44,18 +44,18 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 **1 ТБ**
 
-- Office 365 бизнес базовый
-- Office 365 для бизнеса
-- Office 365 бизнес премиум
-- Office 365 профессиональный плюс
-- Office 365 корпоративный E1
+- Microsoft 365 бизнес базовый
+- Приложения Microsoft 365 для бизнеса
+- Microsoft 365 бизнес стандарт
+- Приложения Microsoft 365 для предприятий
+- Office 365 для предприятий E1
 - Office 365 для государственных организаций G1
 - Office 365 бизнес базовый для некоммерческих организаций
 - Office 365 бизнес премиум для некоммерческих организаций
 - Office 365 для некоммерческих организаций E1
 - OneDrive для бизнеса (план 1)
 - SharePoint Online (план 1)
-- Microsoft 365 бизнес
+- Microsoft 365 бизнес премиум
 
 **От 1 ТБ до неограниченного размера**
  
