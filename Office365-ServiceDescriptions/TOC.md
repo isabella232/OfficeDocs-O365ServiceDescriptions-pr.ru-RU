@@ -3,7 +3,7 @@
 ## [Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Планы Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Требования к системе для Office 365](office-365-platform-service-description/office-365-system-requirements.md)
-### [Центр безопасности и соответствия требованиям Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [Центр безопасности и соответствия требованиям](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Функции набора Office 365](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -102,7 +102,7 @@
 ### [Возможности поддержки в Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Описание служб Microsoft 365
 ### [Описание службы корпоративной голосовой связи Microsoft 365](microsoft-365-business-voice-service-description.md)
-### [Описание службы Microsoft 365 бизнес](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Руководство по лицензированию Microsoft 365 для обеспечения безопасности и соответствия требованиям](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
