@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Майкрософт могут просматривать состояние служб и узнавать, когда обслуживание запланировано. Сведения о работоспособности службы доступны в любое время, войдя в.
-ms.openlocfilehash: 6ac04087599b2ddbe212a1f292b06b7d5b22a378
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
+ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640243"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796720"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -43,6 +43,13 @@ ms.locfileid: "43640243"
 ### <a name="recent-worldwide-uptimes"></a>Последние в мире время ожидания
 
 Перемещение в облачную службу не должно приводить к потере возможности знать, что происходит. В Office 365 это не так. Мы не должны быть прозрачными в наших операциях, чтобы можно было отслеживать состояние службы, отслеживать проблемы и просматривать сведения о доступности. В приведенных ниже таблицах показаны последние сведения о времени простоя.
+
+<br/>
+
+|**2020** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Втором квартале** <br/> |**Вопрос** <br/> |**Й** <br/> |
+| 99,98% <br/> | <br/> | <br/> |<br/> |
 
 <br/>
 
