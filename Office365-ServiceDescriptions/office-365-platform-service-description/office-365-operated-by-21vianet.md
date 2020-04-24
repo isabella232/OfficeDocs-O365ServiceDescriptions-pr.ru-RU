@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
+ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639857"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43800625"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -326,7 +326,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Нет|Нет|Да|Нет|Нет|Нет|
 |Теги хранения и политики хранения|Да|Да|Да|Да|Да|Да|Да|
@@ -348,7 +348,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да <sup>4</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|
 |Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Нет|
-|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|
@@ -1084,7 +1084,6 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - Избранное
 - Проигрывать мои сообщения
 - Надстройки
-- Группы
 - Интеллектуальный ответ
 - Веб-канал Office
 - Время для выхода
