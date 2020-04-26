@@ -11,6 +11,7 @@
 #### [Как купить Microsoft 365 для государственных организаций](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [OneDrive для государственных организаций США](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [SharePoint для государственных организаций США](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [Exchange Online для государственных организаций США](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 для образования](office-365-platform-service-description/office-365-education.md)
