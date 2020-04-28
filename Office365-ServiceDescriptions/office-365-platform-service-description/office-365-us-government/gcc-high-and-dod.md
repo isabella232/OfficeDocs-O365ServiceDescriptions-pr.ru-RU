@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Узнайте о уникальных обязательствах и различиях между средами Office 365 GCC High и DoD по сравнению с коммерческой средой Office 365.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639057"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914785"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High и DoD
 
@@ -31,7 +31,7 @@ ms.locfileid: "43639057"
 
 GCC High и DoD соответствуют требованиям следующих сертификационных и аттестационных программ: 
   
-- Федеральная программа управления рисками и авторизацией на среднем уровне (FedRAMP Moderate), в том числе параметры безопасности и расширения контроля, описанные в специальной публикации 800-53 Национального института стандартов и технологий (NIST).
+- Федеральная программа по управлению рисками и авторизацией на FedRAMP высокая, включая такие элементы управления безопасностью и элементы управления, как, описанные в разделе национального института стандартов и технологий (NIST) специальной публикации 800-53.
     
 - Применение средств обеспечения безопасности и соответствие нарастающим требованиям, описанным в руководстве по безопасности облачных вычислений Министерства обороны США (CC SRG), для информации с индексом критичности до 5 (L5).
     
@@ -84,7 +84,7 @@ GCC High и DoD соответствуют требованиям следующ
 - [Телефонная система через прямую маршрутизацию](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Аудиоконференции с прямой маршрутизацией для GCC High и DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
-### <a name="identity"></a>Удостоверение
+### <a name="identity"></a>Идентификация
 
 Многофакторная проверка подлинности на основе модели федеративного удостоверения позволяет использовать PIV- и CAC-карты.
   
