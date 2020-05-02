@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Корпорация Майкрософт поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639827"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002316"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ ms.locfileid: "43639827"
 > [!NOTE]
 > В этом разделе не содержатся сведения о функциях безопасности, которые разрешают или запрещают доступ к отдельным ресурсам Майкрософт (например, управление доступом на основе ролей в Microsoft Exchange Online или настройку безопасности в Microsoft SharePoint Online). Для получения дополнительных сведений об этих функциях обратитесь к [описанию службы Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) и [описанию SharePoint Online Service](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
-Если вам понадобятся сведения о средствах, которые могут помочь при выполнении задач администрирования, ознакомьтесь со статьей [инструменты для управления учетными записями Майкрософт](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Чтобы узнать, как выполнять повседневные задачи управления, ознакомьтесь со статьями [Common Management Tasks for Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
+Если вам понадобятся сведения о средствах, которые могут помочь при выполнении задач администрирования, ознакомьтесь со статьей [инструменты для управления учетными записями Майкрософт](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Сведения о том, как выполнять повседневные задачи управления, приведены в разделе [Common Task Management](https://docs.microsoft.com/office365/admin/manage/manage).
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Не удается войти, установить или удалить Office или отменить подписку?
 
-Помощь со [входом в Office 365](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Установка или удаление Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Отмена подписки на Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Справка по [входу в](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [установку и удаление Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Отмена Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Другие проблемы можно найти в [центре поддержки Майкрософт](https://support.microsoft.com/contactus/). Чтобы получить поддержку по службе Office 365, предоставляемой компанией 21Vianet в Китае, свяжитесь со [группой поддержки 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Если вы используете Office 365 Germany, свяжитесь со [группой поддержки Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -48,7 +48,7 @@ ms.locfileid: "43639827"
   
 ### <a name="custom-domains-and-identity-options"></a>Личные домены и параметры удостоверений
 
-При создании нового пользователя имя входа и адрес электронной почты пользователя назначаются для домена по умолчанию, как указано в центре администрирования Microsoft 365. Чтобы узнать больше, ознакомьтесь [со статьей Добавление пользователей и доменов в Office 365](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+При создании нового пользователя имя входа и адрес электронной почты пользователя назначаются для домена по умолчанию, как указано в центре администрирования Microsoft 365. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей и доменов](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 \< По умолчанию для подписки используется домен _Company Name_ \> **. onmicrosoft.com** , созданный с помощью учетной записи. \* Вы можете добавить один или несколько пользовательских доменов в корпорацию Майкрософт, а не хранить домен onmicrosoft.com, а также назначить пользователям возможность входа с помощью любого из проверенных доменов. Каждый назначенный домен пользователя  это электронный адрес, который будет появляться при отправке и получении электронных сообщений. 
   
@@ -74,9 +74,9 @@ ms.locfileid: "43639827"
     
 Корпорация Майкрософт использует проверку подлинности на основе форм, а трафик проверки подлинности по сети всегда шифруется с помощью протокола TLS/SSL с помощью порта 443. Трафик проверки подлинности использует незначительную долю пропускной способности для служб Майкрософт. 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Многофакторная проверка подлинности для Office 365
+### <a name="multi-factor-authentication"></a>Многофакторная проверка подлинности
 
-При многофакторной проверке подлинности для Office 365 пользователям необходимо подтвердить телефонный звонок, текстовое сообщение или уведомление приложения на смартфоне после правильного ввода пароля. Пользователь сможет войти только после прохождения второго этапа аутентификации. Администраторы Майкрософт могут регистрировать пользователей для многофакторной проверки подлинности в центре администрирования Microsoft 365. Узнайте больше о [многофакторной проверке подлинности в Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+При многофакторной проверке подлинности пользователям необходимо подтвердить телефонный звонок, текстовое сообщение или уведомление приложения на смартфоне после правильного ввода пароля. Пользователь сможет войти только после прохождения второго этапа аутентификации. Администраторы Майкрософт могут регистрировать пользователей для многофакторной проверки подлинности в центре администрирования Microsoft 365. Узнайте больше о [многофакторной проверке подлинности](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
   
 ### <a name="rich-client-authentication"></a>Проверка подлинности полнофункционального клиента
 
@@ -117,7 +117,7 @@ ms.locfileid: "43639827"
   
 ## <a name="creating-user-accounts"></a>Создание учетных записей пользователей
 
-Добавлять пользователей в Office 365 можно различными способами. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей по отдельности или в справке по массовому администратору](https://docs.microsoft.com/office365/admin/add-users/add-users) , а также [Добавление, удаление и управление пользователями в предварительной версии Microsoft 365 Admin Center](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Если вы используете Office 365 под управлением 21Vianet в Китае, ознакомьтесь со статьей [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Добавить пользователей можно несколькими способами. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей по отдельности или в справке по массовому администратору](https://docs.microsoft.com/office365/admin/add-users/add-users) , а также [Добавление, удаление и управление пользователями в предварительной версии Microsoft 365 Admin Center](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Если вы используете Office 365 под управлением 21Vianet в Китае, ознакомьтесь со статьей [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="deleting-accounts"></a>Удаление учетных записей
 
@@ -127,7 +127,7 @@ ms.locfileid: "43639827"
     
 - Если синхронизация каталогов используется, то необходимо удалять пользователей из локальных Active Directory, а не из Office 365:.
     
-При удалении учетной записи она становится неактивной. В течение приблизительно 30 дней после его удаления можно восстановить учетную запись. Дополнительные сведения об удалении и восстановлении учетных записей можно найти в статье [Delete Users in office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) and [RESTORE Users in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) или, если вы используете Office 365 под управлением 21vianet в Китае, можно ознакомиться в статье [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
+При удалении учетной записи она становится неактивной. В течение приблизительно 30 дней после его удаления можно восстановить учетную запись. Дополнительные сведения об удалении и восстановлении учетных записей приведены в статье [Delete Users](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) and [RESTORE](https://docs.microsoft.com/office365/admin/add-users/restore-user) Users OR, если вы используете Office 365 под управлением 21vianet в Китае, в статье [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Управление паролями
 
@@ -188,5 +188,5 @@ ms.locfileid: "43639827"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных параметрах и локальных решениях, ознакомьтесь со статьей [Microsoft 365 и служба платформы Office 365 Platform Description](office-365-platform-service-description.md).
   

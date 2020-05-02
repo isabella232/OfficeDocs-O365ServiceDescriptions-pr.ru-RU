@@ -324,7 +324,7 @@ ms.locfileid: "43639947"
 |Разрешения на основе ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Группы ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Политики назначения ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Архивация почтовых ящиков на основе Exchange Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Архивация сообщений в облаке для локальных почтовых ящиков  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Теги хранения и политики хранения для управления записями сообщений (управления ЗАПИСЯМИ сообщений)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -346,7 +346,7 @@ ms.locfileid: "43639947"
 |Карантин  управление администраторами  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Карантин  самостоятельное управление пользователями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Расширенная защита от угроз  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Настраиваемая маршрутизация исходящей почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Secure messaging with a trusted partner  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Conditional mail routing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

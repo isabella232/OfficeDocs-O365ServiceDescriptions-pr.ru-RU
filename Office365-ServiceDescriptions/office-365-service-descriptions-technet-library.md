@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 — это облачная служба, предназначенная для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638727"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002069"
 ---
 # <a name="office-365-service-descriptions"></a>Описание служб Office 365 
 
@@ -36,7 +36,7 @@ Microsoft Office 365 — это облачная служба, предназн�
   
 Сначала следует ознакомиться с описанием следующих служб.
   
-- [Описание 1 службы платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Описание 1 Microsoft 365 и служба платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,7 +70,7 @@ Microsoft Office 365 — это облачная служба, предназн�
 
 - [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Рекомендации по лицензированию & безопасности Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 

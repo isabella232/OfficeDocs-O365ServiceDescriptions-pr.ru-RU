@@ -33,7 +33,7 @@ ms.locfileid: "42688271"
 |[Официальный контент](document-collaboration-features-in-yammer.md#official-content) <br/> |Нет  <br/> |Да  <br/> |
 |[Последние изменения](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Да  <br/> |Да  <br/> |
 
-## <a name="files"></a>Файлы
+## <a name="files"></a>Files
 
 Совместное использование документов Microsoft Office, PDF-файлов, изображений и видеороликов в Teams и обратная связь сразу. Отправляйте новые версии, чтобы все могли увидеть последнюю версию, а также старые версии проекта.
   

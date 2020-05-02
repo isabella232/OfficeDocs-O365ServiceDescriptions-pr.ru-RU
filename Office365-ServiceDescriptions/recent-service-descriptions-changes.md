@@ -161,7 +161,7 @@ ms.locfileid: "43640127"
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Исправлена запись "Поддерживается прямая миграция" в таблице. Теперь сказано, что прямая миграция Exchange поддерживается.  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Добавлены сведения о приложениях Office 2016.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Добавлена эта статья.  <br/> |
 |Skype для бизнеса  <br/> |[Ограничения Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |Исправлены сведения об ограничении на передачу файлов.  <br/> |

@@ -1,5 +1,5 @@
 ---
-title: Политика сообщений и соответствие требованиям
+title: Политика обработки сообщений и соответствие требованиям
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -18,7 +18,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "43638951"
 ---
-# <a name="message-policy-and-compliance"></a>Политика сообщений и соответствие требованиям
+# <a name="message-policy-and-compliance"></a>Политика обработки сообщений и соответствие требованиям
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Архивирование почтовых ящиков на основе сервера Exchange Online
 

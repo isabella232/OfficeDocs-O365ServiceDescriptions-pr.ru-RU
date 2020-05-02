@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия &amp; требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813392"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001995"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -32,7 +32,7 @@ ms.locfileid: "43813392"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Функция**  |**Microsoft 365 бизнес базовый**  |**Microsoft 365 бизнес стандарт**  |**Microsoft 365 бизнес премиум**  |**Office 365 корпоративный E1**, **Office 365 для государственных учреждений (США) G1**  |**Office 365 корпоративный E3**, **Office 365 для государственных организаций (США) G3**  |**Office 365 корпоративный E5**  |**Office 365 корпоративный F3**  **Office 365 для государственных учреждений США F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет|Нет   |Да   |Нет   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет|Нет   |Нет   |Да   |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Расширенные возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), такие как обозреватель угроз для фишинговых кампаний<sup>6</sup>  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Защищенное хранилище пользователя](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |

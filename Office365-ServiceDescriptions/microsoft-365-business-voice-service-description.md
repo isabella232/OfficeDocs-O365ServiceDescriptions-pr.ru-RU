@@ -28,7 +28,7 @@ Microsoft 365 Business Voice это облачное решение для те�
 Microsoft 365 Business Voice доступна со следующими малыми и средними подписками, имеющими до 300 лицензий:
 
 - [Microsoft 365 бизнес базовый](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 бизнес Standard](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 бизнес стандарт](office-365-platform-service-description/office-365-platform-service-description.md)
 - [Microsoft 365 бизнес премиум](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)

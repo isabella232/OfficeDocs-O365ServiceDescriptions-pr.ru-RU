@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 03c1b613404033b38b9898ac2f3c979882f96845
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 34e959c8b5d88034154819f7bdca53e72ab92bde
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640297"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001985"
 ---
 # <a name="service-level-agreement"></a>Соглашение об условиях обслуживания
 
@@ -35,5 +35,5 @@ ms.locfileid: "43640297"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть сведения о доступности функций в планах, ознакомьтесь с [описанием службы платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть сведения о доступности функций в планах, ознакомьтесь со статьей [Microsoft 365 и Office 365 Platform Service Description](office-365-platform-service-description.md).
   

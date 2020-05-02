@@ -1,5 +1,5 @@
 ---
-title: Пределы Exchange Online Protection
+title: Ограничения Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -19,7 +19,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/26/2019
 ms.locfileid: "39260754"
 ---
-# <a name="exchange-online-protection-limits"></a>Пределы Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Ограничения Exchange Online Protection
 
 В настоящее время существуют следующие ограничения для Exchange Online Protection. Эти пределы нельзя настраивать, если не указано иное. 
   

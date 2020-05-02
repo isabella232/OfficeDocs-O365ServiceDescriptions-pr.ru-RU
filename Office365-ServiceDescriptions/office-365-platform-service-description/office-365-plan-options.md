@@ -33,7 +33,7 @@ ms.locfileid: "43640257"
   
 |**Семейство служб Office 365**|**Планы**|
 |:-----|:-----|
-|**Бизнес (максимум 300 пользователей)** <br/> |[Microsoft 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Приложения Microsoft 365 для бизнеса](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 бизнес Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Бизнес (максимум 300 пользователей)** <br/> |[Microsoft 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Приложения Microsoft 365 для бизнеса](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 бизнес стандарт](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Предприятие (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Правительственные учреждения (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ ms.locfileid: "43640257"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Служба** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес Standard** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный ~<sup>3</sup>–<sup>16</sup>** <br/> |**Office 365 корпоративный F3** <br/> |
+|**Служба** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный ~<sup>3</sup>–<sup>16</sup>** <br/> |**Office 365 корпоративный F3** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "43640257"
 |SharePoint Online  <br/> |[SharePoint Online (план 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (план 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive для бизнеса  <br/> |[OneDrive для бизнеса (план 1)](https://onedrive.live.com/about/business/) <br/> [OneDrive для бизнеса (план 2)](https://onedrive.live.com/about/business/) <br/> |
 |Skype для бизнеса Online  <br/> |[Skype для бизнеса online (план 1)](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype для бизнеса online (план 2)](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Приложения Office  <br/> |[Приложения Microsoft 365 для предприятий](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Приложения Microsoft 365 для бизнеса](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 бизнес Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Приложения Office  <br/> |[Приложения Microsoft 365 для предприятий](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Приложения Microsoft 365 для бизнеса](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 бизнес стандарт](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Управление портфелями проектов  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Аналитика продуктивности персонала  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |

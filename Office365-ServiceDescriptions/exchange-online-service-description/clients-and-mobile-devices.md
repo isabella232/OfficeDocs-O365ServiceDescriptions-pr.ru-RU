@@ -64,10 +64,10 @@ Exchange Online работает с приложениями Outlook, досту
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Устройство  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Доступность приложений Outlook Mobile  <br/> |Да  <br/> [Получение Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получение Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные почтовые приложения, совместимые с Exchange Online  <br/> |Почтовое приложение для приложения Gmail и Samsung  <br/> |Почтовое приложение iOS  <br/> |Почта, календарь, контакты Outlook  <br/> |
-|Дополнительные сведения  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Дополнительная информация  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 Кроме того, существуют параметры для использования Exchange Online с устройствами, включая Blackberry.
   

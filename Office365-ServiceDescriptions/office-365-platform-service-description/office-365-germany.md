@@ -360,7 +360,7 @@ Office 365 Германия соответствует стандартам Clou
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Нет|Нет|Да|Да|Да|Да|Нет|
 |Теги хранения и политики хранения|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -382,7 +382,7 @@ Office 365 Германия соответствует стандартам Clou
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Процесс обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|Да|
