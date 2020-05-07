@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 'Microsoft Office 365: предлагает вам как авторизованному партнеру корпорации Майкрософт возможность увеличения клиентской базы и создания долгосрочных отношений с клиентами. За ежемесячную или ежегодную плату, выплачиваемую вам, ваши клиенты смогут использовать облачные службы, в результате чего им не придется отвечать за резервное копирование данных, серверное оборудование и обновление серверов. Доступность служб зависит от типа услуг, которые вы уполномочены предоставлять.'
-ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638757"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044971"
 ---
 # <a name="partners"></a>Партнеры
 
@@ -53,5 +53,5 @@ Office 365: Marketplace предлагает клиентам возможнос
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Microsoft 365 и Office 365, ознакомьтесь со статьей [microsoft 365 и служба office 365 Platform Description](office-365-platform-service-description.md).
   

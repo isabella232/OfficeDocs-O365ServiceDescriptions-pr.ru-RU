@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639847"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044791"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -49,7 +49,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 
 Если вы приобретаете план и создаете сайт, использующий корпоративные компоненты, приглашенные гости получают права на использование и/или Просмотр корпоративных компонентов на сайте, к которым вы их предложили. Вы можете пригласить гостей на выполнение всего ряда действий на сайте, но у них не будет таких же возможностей, как и у лицензированного пользователя в вашей организации. Например, если ваш план включает версии приложений Office для настольных ПК, гости не могут установить их на свои компьютеры, если вам не назначена лицензия.
 
-## <a name="onedrive"></a>OneDrive;
+## <a name="onedrive"></a>OneDrive
 
 OneDrive в Microsoft 365 — это сетевое хранилище для отдельных пользователей в Организации. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive включен в SharePoint, и его также можно приобрести в виде автономного плана. Чтобы узнать, какой объем хранилища OneDrive поставляется вместе с каждым планом, ознакомьтесь с [описанием службы OneDrive](../onedrive-for-business-service-description.md).
 
@@ -82,7 +82,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 
 Чтобы узнать больше о доступности приложений Майкрософт для управления питанием и автоматизации автоматизации, ознакомьтесь со статьей [Power Apps and Power автоматизированное лицензирование вопросов](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Чтобы узнать больше о доступности Microsoft Graph, ознакомьтесь со статьей [Описание службы платформы Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Чтобы узнать больше о доступности Microsoft Graph, ознакомьтесь со статьей [microsoft 365 и Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>Функции ИТ ИТ Admin
 
@@ -203,6 +203,6 @@ SharePoint интегрируется с расширенными возможн
 - [Центр поиска (классический поиск)](/sharepoint/manage-search-center)
 - [Схема поиска (классический и современный Поиск)](/sharepoint/manage-search-schema)
 
-Сведения о delve можно найти в статье [Описание службы платформы Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Сведения о delve можно найти в [статье Microsoft 365 и служба платформы Office 365 Platform Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 

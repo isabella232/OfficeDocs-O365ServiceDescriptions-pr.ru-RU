@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172261"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045051"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 для государственных организаций — как приобрести
 
-В ответ на уникальные и развивающиеся требования государственного сектора США Корпорация Майкрософт создала конкретные среды Microsoft 365 для государственных учреждений для клиентов с общественным сектором США. В этом разделе представлен обзор сред и дополнительные сведения о том, как приобрести. Рекомендуется прочитать этот дополнительный раздел вместе с [описаниями служб Office 365 ](../../office-365-service-descriptions-technet-library.md).
+В ответ на уникальные и развивающиеся требования государственного сектора США Корпорация Майкрософт создала конкретные среды Microsoft 365 для государственных учреждений для клиентов с общественным сектором США. В этом разделе представлен обзор сред и дополнительные сведения о том, как приобрести. Рекомендуется прочитать этот дополнительный раздел наряду с [описаниями служб microsoft 365 и Office 365](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="whats-microsoft-365-government"></a>Что такое Office 365 для государственных организаций?
 

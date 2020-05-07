@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
-ms.openlocfilehash: 5c8df6d3faaba680046b6b2f808fe1aa74bffa73
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639947"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045001"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
 Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
   
-В этой статье перечислены возможности планов Office 365 для образовательных учреждений (a1, A3 и A5). Чтобы сравнить функции в планах бизнеса и предприятий, ознакомьтесь со статьей [Сравнение планов Office 365 для бизнеса](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) или, более детальный список функций, приведено в описании соответствующей службы в [описании службы Office 365](../office-365-service-descriptions-technet-library.md).
+В этой статье перечислены возможности планов Office 365 для образовательных учреждений (a1, A3 и A5). Сравнение функций в планах бизнеса и предприятий приведено в статье [Сравнение планов Office 365 для бизнеса](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) или, более подробный список функций, приведено в описании соответствующего описания службы в [описании служб Microsoft 365 и Office 365](../office-365-service-descriptions-technet-library.md).
   
 Чтобы найти статьи и сведения о поддержке, посетите [учебный &amp; курс по Office](https://support.office.com/).
   

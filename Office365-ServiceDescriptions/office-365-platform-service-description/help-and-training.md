@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 предоставляет следующие ресурсы справки и обучения.
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262892"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045031"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -149,4 +149,4 @@ Microsoft Office 365 предоставляет следующие ресурс�
    
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, отдельных и локальных решениях, ознакомьтесь с [описанием службы платформы office 365 Platform](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных параметрах и локальных решениях, ознакомьтесь со статьей [Microsoft 365 и служба платформы Office 365 Platform Description](office-365-platform-service-description.md).
