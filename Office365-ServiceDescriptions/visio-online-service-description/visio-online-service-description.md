@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: С помощью Visio для Интернета можно просматривать, редактировать и совместно использовать схемы Visio в Интернете.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263232"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213659"
 ---
 # <a name="visio-for-the-web-service-description"></a>Описание службы Visio в Интернете
 
 С помощью Visio для Интернета можно просматривать, редактировать и совместно использовать схемы Visio в Интернете. Начните с простой схемы для представления общих идей, например описания плана, предложения или последовательности действий в процессе. Простой и простой способ создать схемы первого класса с часто используемыми типами схем и расширенными наборами фигур. Visio для веб-пользователей может просматривать и совместно работать с диаграммами и вставлять комментарии в файлы, отправленные в SharePoint Online или OneDrive для бизнеса Online.
   
-Чтобы получить дополнительные сведения и приступить к работе, ознакомьтесь со статьей [Visio для Интернета](https://products.office.com/en-US/visio/visio-online).
+Чтобы получить дополнительные сведения и приступить к работе, ознакомьтесь с [Разпланом Visio 1](https://products.office.com/en-US/visio/visio-online).
   
-Справку по использованию Visio в Интернете можно найти в [центре справки Visio](https://support.office.com/visio).
+Справка по использованию Visio в Интернете приведена в статье [Справка по visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Доступность и сравнение функций
 

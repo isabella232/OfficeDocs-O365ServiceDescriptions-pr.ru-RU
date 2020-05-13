@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: 6762e865e12665613a22d8360c82ec02613299be
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1f9267abbf0de0caeeaa49989403a92ce1895f56
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639897"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214001"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -29,13 +29,13 @@ Microsoft 365 — это служба подписки, предоставляю
   
 Доступны 32-разрядные и 64-разрядные выпуски приложений Office.
   
-Сравнение функций в планах приведено в [статье сравнение планов Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Чтобы сравнить функции в планах, ознакомьтесь со статьей [мощные средства для поддержки предприятия](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="feature-availability-across-plans"></a>Доступность функций в планах
 
 Используйте приведенную ниже таблицу, чтобы сравнить возможности, доступные в планах и выпусках Microsoft Office 2013 и Office 2016 с корпоративной лицензией.
   
-В некоторых планах Microsoft 365 для бизнеса есть надстройки, которые можно купить для вашей подписки. Они позволяют расширить возможности подписки. Дополнительные сведения можно найти [в статье покупка или изменение надстройки для Microsoft 365 для бизнеса](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+В некоторых планах Microsoft 365 для бизнеса есть надстройки, которые можно купить для вашей подписки. Они позволяют расширить возможности подписки. Более подробную информацию можно найти [в статье Покупка и изменение надстройки](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -48,10 +48,10 @@ Microsoft 365 — это служба подписки, предоставляю
 |[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |
-|[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>5, 10</sup> <br/> |Да<sup>5</sup>  <br/> |
+|[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да<sup>5</sup>  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>5, 10</sup> <br/> |Да<sup>5</sup>  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
 |[Приложения Windows 10](office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
+|[Office для Microsoft 365 для Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
 |[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/>|Да,<sup>13</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
 |[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup>  <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
 |[Office Mobile для Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да, <sup>13</sup> <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
@@ -89,24 +89,24 @@ Microsoft 365 — это служба подписки, предоставляю
 |Volume activation (KMS/MAK)  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Нет<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br> |
    
 > [!NOTE]
-><sup>+</sup>При установке Office 365 или Office 2019 вы получите по умолчанию OneNote для Windows 10. Дополнительные сведения см. [в разделе часто задаваемые вопросы о OneNote в Office 2019](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>При установке Office 365 или Office 2019 вы получите по умолчанию OneNote для Windows 10. Для получения дополнительных сведений см раздел [часто задаваемые вопросы о OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>Доступ приложений OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365. <br/>
 ><sup>+++</sup>Поддержка объектов BHO — это технология расширения для Internet Explorer. <br/>
 ><sup>1</sup> функции архивации и обеспечения соответствия требованиям поддерживаются в этой версии Office, но в планах Exchange Online и SharePoint Online они не включены и должны быть приобретены отдельно или использоваться с поддерживаемыми локальными серверными эквивалентами.<br/>
 <sup>2</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Некоторые функции Azure Information Protection требуют подписки на приложения Microsoft 365 для предприятий, которые не входят в состав Microsoft 365 бизнес базовый, Microsoft 365 бизнес для бизнеса, Office 365 корпоративный E1, Office 365 для образовательных учреждений или Office 365 Enterprise F3.<br/>
 <sup>3</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
-<sup>4</sup> если у вас есть Office профессиональный плюс 2013 или отдельная версия Excel 2013, вы можете скачать и использовать [Предварительный просмотр Power Map для Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) в качестве неподдерживаемой надстройки.<br/> 
+<sup>4</sup> если у вас есть Office 2013 профессиональный плюс или отдельная версия Excel 2013, вы можете использовать функцию предварительного просмотра Power Map для Excel 2013, которая является неподдерживаемой надстройкой. Предыдущая версия предварительного просмотра Power Map просрочена и не работает с какой-либо версией Excel. Если вы установили более раннюю версию, удалите ее с панели управления, а затем скачайте и установите текущую версию предварительного просмотра Power Map. Эта версия имеет те же функциональные возможности, что и версия Power Map, выпущенная с помощью Microsoft 365 с пакетом обновления 1 (SP1).<br/> 
 <sup>5</sup> Skype для бизнеса Basic доступен для всех клиентов. Настольный клиент Skype для бизнеса — это локально установленное приложение, которое предоставляет возможности присутствия, обмена мгновенными сообщениями и конференций для планов, включающих Skype для бизнеса Online. Приложения Microsoft 365 для предприятий и Office 365 корпоративный E3 включают полное приложение Skype, включающее дополнительные функции, в том числе расширенную поддержку телефонии, архивацию и функции обеспечения соответствия требованиям. A Skype for Business Online license must be assigned for each user. Сравнение функций и возможностей приведено в статье [Сравнение клиентов для настольных ПК для Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> некоторые учебные заведения подходят для образовательных учреждений, в том числе приложений Microsoft 365 для предприятий, а также для учащихся, преподавателей и сотрудников — для установки последней версии Office на компьютерах с компьютерами Mac и Mac, а также на других мобильных устройствах, в том числе на планшетах под управлением Windows и iPad. Учебные заведения для образовательных учреждений в Office 365 для образовательных учреждений, а также в каждой организации для образовательных учреждений и сотрудников, исключая регистрацию для решений для образования, открытых значений и договоров учебного заведения. Обратите внимание, что Access и Publisher доступны только на компьютерах с Windows. OneNote для Mac доступен в качестве отдельной загрузки из Mac App Store. <br/>
 <sup>7</sup> можно установить Office для Mac 2011, но не активировать. <br/>
 <sup>8</sup> приложения Microsoft 365 для предприятий поддерживаются в пользовательской инфраструктуре виртуальных рабочих столов (VDI). Приложения Microsoft 365 для предприятий поддерживают только службы удаленных рабочих столов (RDS), приобретенные через программу корпоративного лицензирования.<br/>
 <sup>9</sup> многопользовательская активация для приложений Office 365 корпоративный E3 и Microsoft 365 для предприятий ограничена установками в Windows Server 2008 R2 и более поздних версий с включенной ролью RDS или установками Windows to go. В любом случае пользователи, обращающиеся к этим установкам, должны быть лицензированы для пользователей Office 365 корпоративный E3 или Microsoft 365 для предприятий.<br/> 
 <sup>10</sup> возможности Skype для бизнеса в Office 365 корпоративный F3 включают Skype для бизнеса (план 1) (нет общего доступа к рабочему столу, общий доступ к приложениям не удается инициировать многокомпонентную звукозапись, видео или веб-конференцию, не можете планировать собрания).<br/> 
-<sup>11</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе Access, входящий в состав приложений Microsoft 365 для бизнеса и бизнеса премиум](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
+<sup>11</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Дополнительные сведения см. [в статье microsoft 365 и подписки Office 365](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> InfoPath 2013 по-прежнему поддерживается и входит в установку Office профессиональный плюс 2016, но нет новой версии для Office 2016.<br/> 
 <sup>13</sup> поддержка основных возможностей редактирования.<br/> 
 <sup>14</sup> ограничено устройствами со встроенными растрами, которые измеряют 10,1 дюймов или менее по диагонали.<br/> 
-<sup>15</sup> Power Query — это бесплатная надстройка, которую можно скачать здесь: [Скачайте надстройку Power Query](https://www.microsoft.com/download/details.aspx?id=39379). После включения функции Power Query доступны на вкладке Power Query на ленте.
+<sup>15</sup> Power Query — это бесплатная надстройка, которую можно скачать здесь: [Microsoft Power Query для Excel](https://www.microsoft.com/download/details.aspx?id=39379). После включения функции Power Query доступны на вкладке Power Query на ленте.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Доступность приложений Office в планах Office для Mac
 
@@ -123,7 +123,7 @@ Microsoft 365 — это служба подписки, предоставляю
 |[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Нет  <br/> |Нет  <br/> |
    
-> <sup>1</sup> для Office 2016 для Mac требуется Mac OS X 10,10 или более поздней версии. Для клиентов, подключающихся к Exchange через Outlook для Mac, требуется подключение к Microsoft Exchange Server 2010 с пакетом обновления 2 (SP2) или более поздней версии. Чтобы узнать больше, ознакомьтесь со статьей [требования к системе для Office](https://products.office.com/en-US/office-system-requirements).<br/>
+> <sup>1</sup> для Office 2016 для Mac требуется Mac OS X 10,10 или более поздней версии. Для клиентов, подключающихся к Exchange через Outlook для Mac, требуется подключение к Microsoft Exchange Server 2010 с пакетом обновления 2 (SP2) или более поздней версии. Дополнительные сведения см. в [статье Microsoft 365 и ресурсы Office](https://products.office.com/en-US/office-system-requirements).<br/>
 <sup>2</sup> доступно как отдельное скачивание из Store App Store. Дополнительные сведения см. в разделе [OneNote для Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> Office для Mac 2011 можно установить, но не активировать.
 

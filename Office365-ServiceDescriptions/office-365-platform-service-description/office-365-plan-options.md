@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044993"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213911"
 ---
 # <a name="office-365-plan-options"></a>Планы Office 365
 
@@ -38,7 +38,7 @@ ms.locfileid: "44044993"
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Правительственные учреждения (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные бизнес-планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Просмотреть все доступные планы для бизнеса](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[Узнайте больше о Office 365 Германия](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Доступность служб в каждой из версий Office 365
 

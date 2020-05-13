@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640117"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213660"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
 Microsoft Teams это центр для работы в Microsoft 365. Служба Teams позволяет осуществлять обмен мгновенными сообщениями, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций. Кроме того, Teams предоставляет возможности для совместной работы с файлами и данными и их расширения, а также интегрируется с Microsoft 365 и другими приложениями Майкрософт и партнерами.
 
-Skype для бизнеса Online будет выпущен 31 июля 2021 г., [который был выпущен](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 30 июля 2019 г. Microsoft Teams — это полностью новая служба, созданная для облака с нуля с помощью Azure и других нововведений в службах Майкрософт. Microsoft Teams основан на группах Office 365, Microsoft Graph и на уровне корпоративного уровня безопасности, соответствия требованиям и управляемости, как и в остальных версиях Office 365. Teams использует удостоверения, хранящиеся в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет. Дополнительные сведения можно найти в статье [архитектура и схема решений для архитектуры Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype для бизнеса Online будет выпущен 31 июля 2021 г., [который был выпущен](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 30 июля 2019 г. Microsoft Teams — это полностью новая служба, созданная для облака с нуля с помощью Azure и других нововведений в службах Майкрософт. Microsoft Teams основан на группах Office 365, Microsoft Graph и на уровне корпоративного уровня безопасности, соответствия требованиям и управляемости, как и в остальных версиях Office 365. Teams использует удостоверения, хранящиеся в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет. Для получения дополнительных сведений ознакомьтесь с [плакатами об архитектуре ИТ и решений для телефонии Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 Корпорация Майкрософт остается в обеспечении безопасности ваших данных и [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших услуг. Дополнительные сведения можно найти в [центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и [центре специальных возможностей Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Для вашей справочной системы мы включили эту основную таблицу подписок, которые позволяют пользователям Microsoft Teams. Подробные сведения можно найти в разделе [Лицензирование Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing). Дополнительные сведения о планах Office 365 в государственных планах представлены в статье [office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). В Office 365 с G1 по G5 есть доступ к функциям Teams.
+Для вашей справочной системы мы включили эту основную таблицу подписок, которые позволяют пользователям Microsoft Teams. Подробная информация о планах приведена [в статье Поиск правильных Microsoft Teams для бизнеса](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Дополнительные сведения о планах Office 365 в государственных планах представлены в статье [office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). В Office 365 с G1 по G5 есть доступ к функциям Teams.
 
 |||||
 |:-----|:-----|:-----|:-----|
@@ -31,14 +31,14 @@ Skype для бизнеса Online будет выпущен 31 июля 2021 г
 |Microsoft 365 бизнес базовый  <br/> |Office 365 корпоративный E1  <br/> |Office 365 для образовательных учреждений  <br/> |Office 365 для разработчиков  <br/> |
 |Microsoft 365 бизнес стандарт  <br/> |Office 365 корпоративный E3  <br/> |Office 365 для образования плюс  <br/> |   <br/> |
 |Microsoft 365 для бизнеса  <br/> |Office 365 корпоративный E4 (с прекращением)  <br/> |Office 365 для образования E3 (с прекращением)  <br/> |  <br/> |
-|  <br/> |Office 365 корпоративный E5  <br/> |Office 365 для образования E5  <br/> |  <br/> |
+|  <br/> |Office 365 корпоративный E5  <br/> |Office 365 для образования E5  <br/> |  <br/> |
 |  <br/> |Office 365 корпоративный F1  <br/> |  <br/> |  <br/> |
 
-Подробные инструкции по реализации функций продукции представлены в [документации для администраторов Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). В этом описании службы описываются основные различия между службами, предоставляемыми для различных облачных установок. Основные функциональные возможности Microsoft Teams не отличаются между собой подписок. Доступность возможностей соответствия зависит от уровня подписки. Чтобы узнать больше, ознакомьтесь со статьей [безопасность и соответствие требованиям в Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Подробный список функций, доступных в каждой подписке, представлен в статье [Описание службы платформы Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Подробные инструкции по реализации функций продукции представлены в [документации для администраторов Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). В этом описании службы описываются основные различия между службами, предоставляемыми для различных облачных установок. Основные функциональные возможности Microsoft Teams не отличаются между собой подписок. Доступность возможностей соответствия зависит от уровня подписки. Чтобы узнать больше, ознакомьтесь со статьей [безопасность и соответствие требованиям в Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Подробный список функций, доступных в каждой подписке, приведен в [статье Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Функции облачной голосовой связи**: для конференций с аудио-и видеоконференциями в Организации необходимо приобрести и назначить лицензию на голосовую конференцию каждому пользователю, который будет настраивать собрания с телефонным подключением. Для функций Teams, которым требуются планы звонков, каждому пользователю необходима телефонная система, а также план внутреннего или внутреннего звонка. Чтобы узнать больше, ознакомьтесь [со статьей лицензирование надстроек Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Функции облачной голосовой связи**: для конференций с аудио-и видеоконференциями в Организации необходимо приобрести и назначить лицензию на голосовую конференцию каждому пользователю, который будет настраивать собрания с телефонным подключением. Для функций Teams, которым требуются планы звонков, каждому пользователю необходима телефонная система, а также план внутреннего или внутреннего звонка. Дополнительные сведения о [лицензиях на надстройки Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**События Live**: это предложение в Office 365 заменяет отмененное вещание собраний Skype. Возможности Live Events доступны для планов лицензирования, как описано в службе потока. Ознакомьтесь со [сведениями о лицензировании](https://docs.microsoft.com/stream/license-overview). Доступ к службе Live Events можно получить с помощью Stream, Yammer или Microsoft Teams. Чтобы узнать больше о возможностях Live Events, ознакомьтесь со статьями [Live Events в microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**События Live**: это предложение в Office 365 заменяет отмененное вещание собраний Skype. Возможности Live Events доступны для планов лицензирования, как описано в службе потока. Ознакомьтесь со статьей " [сведения о лицензировании Microsoft Stream](https://docs.microsoft.com/stream/license-overview)". Доступ к службе Live Events можно получить с помощью Stream, Yammer или Microsoft Teams. Чтобы узнать больше о возможностях Live Events, ознакомьтесь со статьями [Live Events в microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Все поддерживаемые планы подписки подходят для доступа к веб-клиенту Microsoft Teams, настольным клиентам и мобильным приложениям.
 
@@ -50,7 +50,7 @@ Microsoft Teams недоступен в качестве автономной с
 
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Малый бизнес** <br/> |**Планы предприятия** <br/> |**GCC** <br/> |**GCC — High** <br/> |**ВЫЗОВ** <br/> |**Образование** <br/> |
+| <br/>|**Для малого бизнеса** <br/> |**Планы предприятия** <br/> |**GCC** <br/> |**GCC — High** <br/> |**ВЫЗОВ** <br/> |**Образование** <br/> |
 |Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
 |Каналы — Standard  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

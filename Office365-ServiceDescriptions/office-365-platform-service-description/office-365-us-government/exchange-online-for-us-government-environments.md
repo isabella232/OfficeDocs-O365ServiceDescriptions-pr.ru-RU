@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в описании службы Exchange Online.
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813409"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213701"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для сред США для государственных организаций
 
@@ -22,7 +22,7 @@ ms.locfileid: "43813409"
 
 Дополнительные сведения о правительственном облаке, включая сведения о приемлемости и приобретении, можно найти [в статье Microsoft 365 государственных учреждений — как приобрести](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Чтобы сравнить планы Office 365 для государственных учреждений, ознакомьтесь с [планами office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Чтобы узнать о необходимых конечных точках при управлении подключением к сети, ознакомьтесь со статьями [Office 365 для государственных учреждений GCC gcc High](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) , а также [конечных точек DOD Office 365 для правительства США](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Чтобы узнать о необходимых конечных точках при управлении подключением к сети, ознакомьтесь со статьями [office 365 для государственных учреждений GCC gcc High](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business),   а также [конечных точек DOD Office 365 для правительства США](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 В дополнение к преимуществам функций и возможностей Office 365 организации могут использовать следующие функции, уникальные для облачных сред США:
 
@@ -65,7 +65,7 @@ ms.locfileid: "43813409"
 |Хранение на месте и хранение для судебного разбирательства|Да|Да|Да|Требуется план обслуживания G3 или G5.|
 |Обнаружение электронных данных на месте|Да|Да|Да||
 |Правила потока обработки почты|Да|Да|Да||
-|Защита от потери данных|Нет|Да|Да|Требуется план обслуживания G3 или G5.|
+|Защита от потери данных|Да|Да|Да|Требуется план обслуживания G3 или G5.|
 |Ведение журнала|Да|Да|Да||
 |**[Защита от нежелательной почты и вредоносных программ](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
 |Встроенная защита от нежелательной почты|Да|Да|Да||
@@ -154,9 +154,9 @@ ms.locfileid: "43813409"
 
 В связи с этими ограничениями функции, зависящие от этого исходящего подключения из сред с поддержкой GCC High и DoD, обычно не поддерживаются, в том числе: 
 
-- Подключенные&mdash;учетные записи пользователи не могут добавлять или синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
+- Подключенные учетные записи &mdash; Пользователи не могут добавлять или синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
 
-- Поддержка сторонних поставщиков&mdash;хранилища файлов для учетной записи пользователя в OneDrive для бизнеса с помощью *GCC High/DOD* можно получить доступ из различных клиентов Outlook в целях присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
+- Поддержка сторонних поставщиков хранилища файлов для &mdash; учетной записи пользователя в OneDrive для бизнеса с помощью *GCC High/DOD*   можно получить доступ из различных клиентов Outlook в целях присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
 
 - Связь с социальными сетями, такими как Facebook и LinkedIn. 
 

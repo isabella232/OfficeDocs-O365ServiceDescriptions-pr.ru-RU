@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640137"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213991"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
 Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге. 
   
-Сравнение функций в планах приведено в [статье сравнение планов Microsoft 365 для бизнеса](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Чтобы сравнить функции в планах, ознакомьтесь со статьей [мощные средства для поддержки предприятия](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Доступность функций в Office для веб-планов
 
