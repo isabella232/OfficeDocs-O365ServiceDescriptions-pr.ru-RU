@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639877"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213931"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -27,7 +27,7 @@ OneDrive для рабочих и школьных учетных записей
   
 OneDrive включен в планы Microsoft 365 и Office 365, в планы SharePoint, а также может быть приобретен как самостоятельный план. 
     
-Сравнительные характеристики планов см. на страницах [Сравнение планов Office 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнение планов OneDrive для бизнеса](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Для сравнения планов см. разделы [Мощные инструменты поддержки вашего предприятия](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнить планы OneDrive для бизнеса](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Автономные планы OneDrive включают Office для Интернета. 
