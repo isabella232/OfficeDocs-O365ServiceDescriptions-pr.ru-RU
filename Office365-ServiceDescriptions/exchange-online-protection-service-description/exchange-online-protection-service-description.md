@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. В этот список входят планы, обеспечивающие защиту Exchange Online, а также сравнение функций в этих планах.
-ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213981"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226208"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -99,8 +99,9 @@ EOP можно использовать с любым агентом перед�
 |[Настройка политик защиты от вредоносных программ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Да|Да|Да|
 |[Карантин](anti-spam-and-anti-malware-protection-eop.md#quarantine): управление администраторами|Да|Да|Да|
 |[Карантин](anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|Да|
-|[Надстройка Report Message для Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Да|Да|Да|
-|[Создание отчетов о нежелательной почте в Outlook в Интернете](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Да|Да|Да|
+|[Сданная работа](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|Нет|Да|Нет|
+|[Надстройка Report Message для Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Да|Да|Да|
+|[Создание отчетов о нежелательной почте в Outlook в Интернете](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Да|Да|Да|
 |[Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|Да|
 |[Добавление IP-адреса партнера в список надежных отправителей](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Да|Да|Да|

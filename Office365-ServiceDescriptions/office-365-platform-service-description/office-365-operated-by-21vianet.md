@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800625"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226258"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -96,7 +96,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Группы Office 365|Да|Нет|Да|Да|Да|Да|Да|
 |Office 365 Видео|Нет|Нет|Нет|Да|Да|Да|Да<sup>2</sup>|
-|Записная книжка OneNote для занятий|Нет|Нет|Нет|Да<sup>15<sup>|Нет|Нет|Нет|
+|Записная книжка OneNote для занятий|Нет|Нет|Нет|Да <sup> 15<sup>|Нет|Нет|Нет|
 |**[Учетная запись пользователя Мманажемент](user-account-management.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Облачное удостоверение, федеративное удостоверение или многофакторная проверка подлинности<sup>14</sup>|Да|Да|Да|Да|Да|Да|Да|
 |Установщик обновлений Office 365: для рабочего стола|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -154,7 +154,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -430,7 +430,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>10</sup> мастер гибридной конфигурации доступен для Exchange 2013 CU5 и более поздних локальных развертываний. Однако некоторые функции гибридной среды имеют ограничения, описанные в разделе справки. Дополнительные сведения см. [в статье Office 365 под управлением 21vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
 <br/><sup>11</sup> для Office 365 под управлением 21Vianet доступна LinkedIn, а не Facebook.
 <br/><sup>12</sup> настройка гибридного развертывания доступна через мастер гибридной конфигурации для Exchange 2013 CU5 или может быть настроен вручную при наличии Exchange 2013 с пакетом обновления 1 (SP1). Обратитесь к разделу справки для получения дополнительных сведений: [Office 365 под управлением 21vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
-<br/><sup>13</sup> подключенные учетные записи поддерживаются для учетных записей IMAP POP &amp; , но отключены для Outlook.com (Hotmail).
+<br/><sup>13</sup> подключенные учетные записи поддерживаются для &amp; учетных записей IMAP POP, но отключены для Outlook.com (Hotmail).
 <br/><sup>14</sup> использование командлета для работы со списками адресов и глобальными списками адресов не поддерживается.
 <br/><sup>15</sup> текущая возможность шифрования сообщений Office 365 (OME) — это эволюция текущих решений управления правами на доступ к данным (IRM) и предыдущих OME. Дополнительные сведения о OME можно найти в статье [вопросы и ответы по шифрованию сообщений в Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
 
@@ -491,8 +491,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Настройка политик защиты от вредоносных программ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Да|Да|
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): управление администраторами|Да|Да|
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|
-|[Надстройка Report Message для Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Да|Да|
-|[Создание отчетов о нежелательной почте в Outlook в Интернете](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Нет<sup>7</sup>|Нет<sup>7</sup>|
+|[Надстройка Report Message для Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Да|Да|
+|[Создание отчетов о нежелательной почте в Outlook в Интернете](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Нет<sup>7</sup>|Нет<sup>7</sup>|
 |[Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|
 |[Добавление IP-адреса партнера в список надежных отправителей](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Да|Да|
@@ -652,7 +652,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Поддержка стандартов специальных возможностей|Да|Да|Да|Да|Да|Да|Да|
 |Расширения библиотеки активов и поддержка видео|Да|Да|Да|Да|Да|Да|Да|
 |Аудит|Да|Да|Да|Да|Да|Да|Да|
-|Отчетность &amp; по аудиту (например, редактирование документов, изменение политик, удаление)|Да|Да|Да|Да|Да|Да|Да|
+|Отчетность по аудиту &amp; (например, редактирование документов, изменение политик, удаление)|Да|Да|Да|Да|Да|Да|Да|
 |Content Organizer|Да|Нет|Да|Да|Да|Да|Да|
 |Design Manager|Да|Нет|Да|Да|Да|Да|Да|
 |Наборы документов|Да|Да|Да|Да|Да|Да|Да|
@@ -743,7 +743,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Query throttling|Да|Нет|Да|Да|Да|Да|Да|
 |Предварительный просмотр при наведении|Да|Да|Да|Да|Да|Да|Да|
 |Ranking models|Нет<sup>5</sup>|Нет|Нет|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|Нет<sup>5</sup>|
-|Уточнения|Да|Да|Да|Да|Да|Да|Да|
+|Refiners|Да|Да|Да|Да|Да|Да|Да|
 |RESTful Query API/Query OM|Да|Да|Да|Да|Да|Да|Да|
 |Result sources|Да|Да|Да|Нет|Нет|Нет|Нет|
 |Search connector framework|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -757,7 +757,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Подключения к клиентам Microsoft Office|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка всех веб-браузеров|Да|Да|Да|Да|Да|Да|Да|
 |Настраиваемые управляемые пути|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Управление|Да|Да|Да|Да|Да|Да|Да|
+|Система управления|Да|Да|Да|Да|Да|Да|Да|
 |Средство запуска гибридных приложений|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |Масштабируемость и управление большими списками|Да|Да|Да|Да|Да|Да|Да|

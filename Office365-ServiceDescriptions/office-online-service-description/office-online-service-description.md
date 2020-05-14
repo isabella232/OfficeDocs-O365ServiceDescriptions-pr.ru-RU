@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213991"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226218"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
@@ -176,7 +176,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Сохранение или Загрузка копии](excel-online.md#save-or-download-a-copy) <br/> |Да  <br/> |Да  <br/> |
 |[Предоставление общего доступа](excel-online.md#share) <br/> |Да  <br/> |Да  <br/> |
 |[Защита листа](excel-online.md#sheet-protection) <br/> |Да  <br/> |Да  <br/> |
-|[Просмотр срезов](excel-online.md#slicer-viewing) <br/> |Да  <br/> |Да  <br/> |
+|[Slicers](excel-online.md#slicers) <br/> |Да  <br/> |Да  <br/> |
 |[Сортировка и фильтрация данных](excel-online.md#sort-and-filter-data) <br/> |Да  <br/> |Да  <br/> |
 |[Аудит и соответствие электронных таблиц](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Нет  <br/> |ДА  <br/> |
 |[Статистические выражения на панели состояния](excel-online.md#status-bar-aggregates) <br/> |Да  <br/> |Да  <br/> |
