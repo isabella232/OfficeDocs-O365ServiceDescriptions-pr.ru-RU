@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Чтобы узнать о возможностях Office 365, которые только что были выпущены или готовы к выпуску, ознакомьтесь с планом Microsoft 365.
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639777"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044811"
 ---
 # <a name="service-updates"></a>Обновления служб
 
@@ -43,6 +43,6 @@ ms.locfileid: "43639777"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть сведения о доступности функций в планах, ознакомьтесь с [описанием службы платформы Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть сведения о доступности функций в планах, ознакомьтесь со статьей [Microsoft 365 и Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

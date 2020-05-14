@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Смартфоны BlackBerry® могут получать доступ к электронной почте и документам в Office 365:.
-ms.openlocfilehash: 61f6e4cf3d28ba4acb05cac1f436f868ca5bcabb
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: cb7119c136887b4ddbaae284a78b38686ccf0f09
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262882"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044841"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -53,5 +53,5 @@ ms.locfileid: "39262882"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы microsoft 365 и Office 365](office-365-platform-service-description.md).
   
