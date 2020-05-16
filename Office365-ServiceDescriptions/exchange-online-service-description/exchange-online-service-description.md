@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213791"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267348"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -119,7 +119,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Политики адресных книг|Да|Да|Да|Да|Да|Да|Да|Да|
 |Иерархическая адресная книга|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Списки адресов и глобальный список адресов|Да|Да|Да|Да|Да<sup>18</sup>|Да<sup>18</sup>|Да<sup>18</sup>|Да<sup>18</sup>|
-|Группы Office 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
+|Группы Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Группы рассылки|Да|Да|Да|Да|Да|Да|Да|Да|
 |Внешние контакты (глобальный список)|Да|Да|Да|Да|Да|Да|Да|Да|
 |Универсальная карточка контакта|Да|Да|Да|Да|Да|Да|Да|Да|

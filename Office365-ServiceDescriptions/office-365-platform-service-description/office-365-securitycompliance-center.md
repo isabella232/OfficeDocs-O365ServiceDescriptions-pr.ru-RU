@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Центр соответствия &amp; требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001995"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267328"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[Центр соответствия &amp; требованиям безопасности](https://protection.office.com/) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+[ &amp; Центр соответствия требованиям безопасности](https://protection.office.com/) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -38,7 +38,7 @@ ms.locfileid: "44001995"
 |[Защищенное хранилище пользователя](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Управление мобильными устройствами](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Защита от потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Нет   |Нет   |Нет   |Нет   |Да   |Да   |Нет   |
-|[Защита от потери данных при обмене данными для Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет  |
+|[Защита от потери данных при обмене данными для Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да  |
 |[Метки чувствительности для ручных расстановки](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Нет | Нет  |Нет   | Да | Да | Да | Нет  |
 |Автоматические метки чувствительности| Нет | Нет  |Нет  | Нет | Нет | Да,<sup>13</sup> | Нет  |
 |[Информационные барьеры](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет  |
@@ -53,8 +53,8 @@ ms.locfileid: "44001995"
 |[Базовый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Да   |Да   |Да|Да   |Да   |Да   |Да   |
 |[Расширенный аудит](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Соответствие требованиям (политики контроля)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
-|[Шифрование сообщений Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
-|[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
+|[Microsoft 365 Message encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Да  |Да   |Нет   |
+|[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Нет |Да   |Нет   |
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Ключ клиента](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |||||||||

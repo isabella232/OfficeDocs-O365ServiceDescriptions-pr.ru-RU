@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214021"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267338"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -66,7 +66,7 @@ Enterprise Mobility + Security/A5, Microsoft 365/A5/A5, Microsoft 365 "A5/A5, б
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применить эту службу только к пользователям в клиенте, у которого есть лицензия на эту службу?
 
-Корпорация Майкрософт предоставляет возможности по обнаружению угроз для лицензированных пользователей.
+Службы Azure ATP сейчас не могут ограничивать возможности для определенных пользователей. Необходимо лицензировать каждого пользователя, которому планируется использовать преимущества.
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
@@ -249,7 +249,7 @@ Microsoft 365 в ~/A5, соответствие требованиям Microsoft
 
 Функции управления записями могут быть применены к лицензированным пользователям в определенных расположениях (сайты групп, сайты групп и т. д.). Сведения о настройке управления записями, применяемые для лицензированных пользователей, можно найти [в статье Управление записями в Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
 
-## <a name="ediscovery"></a>Обнаружение электронных данных (eDiscovery)
+## <a name="ediscovery"></a>Обнаружение электронных данных
 
 Обнаружение электронных данных предоставляет решения по исследованию и обнаружению электронных данных для ИТ и юридических отделов, которые позволяют определить, собрать, сохранить, сократить и проанализировать материалы, относящиеся к расследованию или судебному разбирательству до экспорта из системы Microsoft 365.
 
