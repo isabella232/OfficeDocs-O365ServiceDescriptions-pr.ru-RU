@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте о пределах SharePoint для Microsoft 365 и автономных планов.
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638947"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356887"
 ---
 # <a name="sharepoint-limits"></a>Границы SharePoint
 
@@ -85,6 +85,10 @@ ms.locfileid: "43638947"
 ### <a name="managed-metadata"></a>Управляемые метаданные
 
 200 000 термины в банке терминов, 1 000 глобальные наборы терминов, 1 000 групп.
+
+### <a name="overall-site-metadata"></a>Общие метаданные сайта
+
+1000 ГБ для каждого сайта (метаданные редко достигают такого размера).
 
 ### <a name="subsites"></a>Дочерних сайтов 
 
