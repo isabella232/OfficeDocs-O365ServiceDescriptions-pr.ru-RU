@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267338"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408929"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -30,7 +30,7 @@ ms.locfileid: "44267338"
 
 ## <a name="azure-active-directory-identity-protection"></a>Защита идентификации Azure Active Directory
 
-Служба защиты удостоверений Azure Active Directory (ААДИП) является компонентом плана Azure Active Directory Premium, который позволяет обнаруживать потенциальные уязвимости, затрагивающие удостоверения вашей организации, настраивать автоматические ответы на обнаруженные подозрительные действия, связанные с удостоверениями организации, а также изучать подозрительные инциденты и предпринимать соответствующие действия по их устранению.
+Защита удостоверений Azure Active Directory — это компонент плана Azure Active Directory Premium, который позволяет обнаруживать потенциальные уязвимости, затрагивающие удостоверения вашей организации, настраивать автоматические ответы на обнаруженные подозрительные действия, связанные с удостоверениями организации, а также изучать подозрительные инциденты и предпринимать соответствующие действия по их устранению.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security/A5, Microsoft 365/A5/A5, Microsoft 365 "A5/A5, б
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Каким образом подготовлена или развернута служба?
 
-По умолчанию функции ААДИП включены на уровне клиента для всех пользователей в клиенте. Сведения о ААДИП можно узнать в статье [Защита удостоверений Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+По умолчанию функции защиты удостоверений Azure AD включены на уровне клиента для всех пользователей в клиенте. Сведения о защите удостоверений Azure AD приведены в статье [что такое защита удостоверений Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применить эту службу только к пользователям в клиенте, у которого есть лицензия на эту службу?
 
-Администраторы могут использовать область ААДИП, назначая политики риска, определяющие уровень сброса пароля и разрешая доступ только для лицензированных пользователей. Инструкции по [настройке политики риска входа](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)в аадип см.
+Администраторы могут ограничить защиту удостоверения Azure AD, назначая политики риска, определяющие уровень сброса паролей и разрешая доступ только лицензированным пользователям. Инструкции по настройке развертывания системы защиты удостоверений Azure AD приведены в статье [Настройка политики риска входа](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
 ## <a name="azure-advanced-threat-protection"></a>Расширенная защита от угроз Azure
 
