@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Это помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя наши ведущие отраслевые службы для работы с цифровыми данными, от Германии, с данными размещению в Германии и жесткими мерами доступа к данным и управления с помощью уникальной модели доверенного лица для Германии.
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226268"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429124"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -162,7 +162,7 @@ Office 365 Германия соответствует стандартам Clou
 |Защищенное хранилище пользователя|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Оценка безопасности|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Соответствие требованиям](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Соответствие требованиям](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |Оценки по стандартам SAS 70 и SSAE16|Да|Да|Да|Да|Да|Да|Да|Да|
 |Сертификация ISO 27001|Да|Да|Да|Да|Да|Да|Да|Да|
 |Типовые статьи ЕС|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -338,7 +338,7 @@ Office 365 Германия соответствует стандартам Clou
 
 ||||
 |:-----|:-----|:-----|
-|**Приложение**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
+|**Application**|**Office в Интернете**|**Ссылка на подробные сравнительные характеристики функций**|
 |Word|Word в Интернете|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel в Интернете|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote в Интернете|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -738,7 +738,7 @@ Office 365 Германия соответствует стандартам Clou
 |Connections to Microsoft Office Clients|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка различных браузеров|Да|Да|Да|Да|Да|Да|Да|Да|
 |Настраиваемые управляемые пути|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Система управления|Да|Да|Да|Да|Да|Да|Да|Да|
+|Управление|Да|Да|Да|Да|Да|Да|Да|Да|
 |Средство запуска гибридных приложений|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да|Да<sup>19</sup>|
 |Масштабируемость и управление большими списками|Да|Да|Да|Да|Да|Да|Да|Да|

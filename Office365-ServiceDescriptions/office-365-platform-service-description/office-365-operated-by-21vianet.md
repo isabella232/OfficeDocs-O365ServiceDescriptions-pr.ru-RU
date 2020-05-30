@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226258"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429114"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -176,7 +176,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Оценка безопасности<sup>4</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Аналитика угроз|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|**[Соответствие требованиям](compliance-servicedesc.md)**||||||||
+|**[Соответствие требованиям](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Оценки по стандартам SAS 70 и SSAE16|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Сертификация ISO 27001|Да|Да|Да|Да|Да|Да|Да|
 |Типовые статьи ЕС|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -301,7 +301,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 ||||
 |:-----|:-----|:-----|
-|**Приложение**|**Office для веб-сайта под управлением 21Vianet**|**Ссылка на подробные сравнительные характеристики функций**|
+|**Application**|**Office для веб-сайта под управлением 21Vianet**|**Ссылка на подробные сравнительные характеристики функций**|
 |Word|Word для веб-сайта под управлением 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel для веб-сайта под управлением 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote для веб-сайта под управлением 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -757,7 +757,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Подключения к клиентам Microsoft Office|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка всех веб-браузеров|Да|Да|Да|Да|Да|Да|Да|
 |Настраиваемые управляемые пути|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
-|Система управления|Да|Да|Да|Да|Да|Да|Да|
+|Управление|Да|Да|Да|Да|Да|Да|Да|
 |Средство запуска гибридных приложений|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |Гибридная среда OneDrive для бизнеса и сайты|Да|Да|Да|Да|Да|Да|Да<sup>15</sup>|
 |Масштабируемость и управление большими списками|Да|Да|Да|Да|Да|Да|Да|

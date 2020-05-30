@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт, в &mdash; том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, &mdash; чтобы помочь пользователям эффективно работать в любом месте через Интернет.
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045001"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429134"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
-Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб&mdash;связи и совместной работы Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online&mdash;, чтобы помочь пользователям эффективно работать в любом месте через Интернет.
+Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия в планах Office 365 для образовательных учреждений, в этой статье будут показаны функции, включенные в каждый из них. Office 365 сочетает привычный набор приложений Microsoft Office с облачными версиями служб связи и совместной работы Майкрософт, в &mdash; том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, &mdash; чтобы помочь пользователям эффективно работать в любом месте через Интернет.
   
 В этой статье перечислены возможности планов Office 365 для образовательных учреждений (a1, A3 и A5). Сравнение функций в планах бизнеса и предприятий приведено в статье [Сравнение планов Office 365 для бизнеса](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) или, более подробный список функций, приведено в описании соответствующего описания службы в [описании служб Microsoft 365 и Office 365](../office-365-service-descriptions-technet-library.md).
   
-Чтобы найти статьи и сведения о поддержке, посетите [учебный &amp; курс по Office](https://support.office.com/).
+Чтобы найти статьи и сведения о поддержке, посетите [ &amp; учебный курс по Office](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Доступность служб в каждом плане
 
@@ -141,7 +141,7 @@ ms.locfileid: "44045001"
 |Использование браузера  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Использование операционной системы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Обновления службы](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Обновления служб](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Roadmap.office.com для некоторых обновлений служб  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -161,7 +161,7 @@ ms.locfileid: "44045001"
 |Расширенные функции обнаружения электронных данных<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
 |Показатель безопасности<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Аналитика угроз  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|**[Соответствие требованиям](compliance-servicedesc.md)** <br/> ||||
+|**[Соответствие требованиям](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |Оценки по стандартам SAS 70 и SSAE16  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Сертификация ISO 27001  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Типовые статьи ЕС  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -191,9 +191,9 @@ ms.locfileid: "44045001"
 <sup>9</sup> дополнительные сведения см. в статье [MyAnalytics Plans and](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)Environments.<br>
 <sup>10</sup> информационное сообщение автоматически предоставляется всем пользователям Exchange Online. Дополнительную информацию можно узнать [в статье Настройка краткого электронного сообщения](https://docs.microsoft.com/Briefing/be-admin).<br>
 
-## <a name="security-amp-compliance-center-features"></a>Функции &amp; центра соответствия требованиям безопасности
+## <a name="security-amp-compliance-center-features"></a>&amp;Функции центра соответствия требованиям безопасности
 
-[Центр соответствия &amp; требованиям безопасности](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[ &amp; Центр соответствия требованиям безопасности](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -301,7 +301,7 @@ ms.locfileid: "44045001"
   
 ||||
 |:-----|:-----|:-----|
-|**Приложение** <br/> |**Office в Интернете** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
+|**Application** <br/> |**Office в Интернете** <br/> |**Ссылка на подробные сравнительные характеристики функций** <br/> |
 |Word  <br/> |Word в Интернете <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel в Интернете <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote в Интернете <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
