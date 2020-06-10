@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice — это служба надстройки, которая позволяет использовать Microsoft Teams для звонков по телефону. Это сочетает телефонную систему, план для местных звонков, SMS и голосовые конференции.
-ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213971"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679596"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Описание службы корпоративной голосовой связи Microsoft 365
 
@@ -25,16 +25,20 @@ Microsoft 365 Business Voice это облачное решение для те�
 - Корпоративная голосовая связь Microsoft 365
 - Microsoft 365 Business Voice без плана звонков
 
-Microsoft 365 Business Voice доступна со следующими малыми и средними подписками, имеющими до 300 лицензий:
+Microsoft 365 Business Voice доступна со следующими подписками, которые имеют до 300 лицензий:
 
-- [Microsoft 365 бизнес базовый](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 бизнес стандарт](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 бизнес премиум](microsoft-365-business-service-description.md)
-- [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
-- [Microsoft 365 a1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 a3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- Microsoft 365 бизнес базовый
+- Microsoft 365 бизнес стандарт
+- Microsoft 365 бизнес премиум
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft и Office 365 корпоративный E1, E3 или "/д"
+- Microsoft 365 и Office 365 для образования a1, A3 и A5
+- Microsoft 365 и Office 365 для государственных учреждений G1, G3 или G5 (только GCC)
+- Microsoft 365 некоммерческие бизнес-базовые
+- Microsoft 365 некоммерческие бизнес-стандарты
+- Microsoft 365 и Office 365 некоммерческие E1, E3 или в ~
 
 ## <a name="microsoft-365-business-voice-features"></a>Функции Microsoft 365 Business Voice
 

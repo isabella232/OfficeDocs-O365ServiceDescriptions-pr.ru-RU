@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356897"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679586"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
 Microsoft Teams это центр для работы в Microsoft 365. Служба Teams позволяет осуществлять обмен мгновенными сообщениями, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций. Кроме того, Teams предоставляет возможности для совместной работы с файлами и данными и их расширения, а также интегрируется с Microsoft 365 и другими приложениями Майкрософт и партнерами.
 
-Skype для бизнеса Online будет выпущен 31 июля 2021 г., [который был выпущен](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 30 июля 2019 г. Microsoft Teams — это полностью новая служба, созданная для облака с нуля с помощью Azure и других нововведений в службах Майкрософт. Microsoft Teams основан на группах Office 365, Microsoft Graph и на уровне корпоративного уровня безопасности, соответствия требованиям и управляемости, как и в остальных версиях Office 365. Teams использует удостоверения, хранящиеся в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет. Для получения дополнительных сведений ознакомьтесь с [плакатами об архитектуре ИТ и решений для телефонии Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype для бизнеса Online будет выпущен 31 июля 2021 г., [который был выпущен](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 30 июля 2019 г. Microsoft Teams — это полностью новая служба, созданная для облака с нуля с помощью Azure и других нововведений в службах Майкрософт. Microsoft Teams построен на базе Microsoft 365, Microsoft Graph и на уровне корпоративного уровня безопасности, соответствия требованиям и управляемости, как и в остальных версиях Office 365. Teams использует удостоверения, хранящиеся в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет. Для получения дополнительных сведений ознакомьтесь с [плакатами об архитектуре ИТ и решений для телефонии Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 Корпорация Майкрософт остается в обеспечении безопасности ваших данных и [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших услуг. Дополнительные сведения можно найти в [центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и [центре специальных возможностей Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
