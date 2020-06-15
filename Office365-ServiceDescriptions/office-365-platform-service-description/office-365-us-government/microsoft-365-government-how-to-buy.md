@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6a3bdafcdd7b18f64fd6894d1a4ab3612d392ae2
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213721"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711129"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 для государственных организаций — как приобрести
 
@@ -136,6 +136,7 @@ Microsoft 365 для государственных учреждений (США
 **AOS-G для партнеров GCC и GCC High (на 500 рабочих мест)**
 
 - Гибкость ИТ
+- Примененные сведения СЦиенцес (AIS) 
 - Интегрированные решения С3
 - Докс электроника, Inc.
 - F1 Solutions, Inc.

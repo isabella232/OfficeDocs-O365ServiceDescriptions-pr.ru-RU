@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267328"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711119"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -59,7 +59,7 @@ ms.locfileid: "44267328"
 |[Ключ клиента](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |||||||||
 
-<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети.
+<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. Эти функции доступны в E3 и в версии ", только в том числе с ограниченной доступностью в E1. Полный список возможностей, доступных в E1, E3 и в элементе «е», приведен в статье подробное сравнение лицензий на соответствие требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Advanced Information управление позволяет хранить важную информацию и удалять неважную информацию, выполнив классификацию информации на основе политики хранения или удаления или и того, и других. Он включает в себя интеллектуальные и автоматические действия, такие как рекомендации по политикам, автоматическое применение меток к данным, применение меток на основе конфиденциальных типов данных или запросов, анализ расстановки и использование фильтров интеллектуального импорта. Кроме того, она включает функцию надзора для проверки общения сотрудников в целях обеспечения безопасности и соответствия требованиям.
 
@@ -115,7 +115,7 @@ ms.locfileid: "44267328"
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |||||||||
 
-<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети.
+<sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. Эти функции доступны в E3 и в версии ", только в том числе с ограниченной доступностью в E1. Полный список возможностей, доступных в E1, E3 и в элементе «е», приведен в статье подробное сравнение лицензий на соответствие требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Требует приобретения надстройки Exchange Online Archiving.
 

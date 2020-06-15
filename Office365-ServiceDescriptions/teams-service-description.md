@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679586"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711149"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -25,14 +25,17 @@ Skype для бизнеса Online будет выпущен 31 июля 2021 г
 
 Для вашей справочной системы мы включили эту основную таблицу подписок, которые позволяют пользователям Microsoft Teams. Подробная информация о планах приведена [в статье Поиск правильных Microsoft Teams для бизнеса](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Дополнительные сведения о планах Office 365 в государственных планах представлены в статье [office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). В Office 365 с G1 по G5 есть доступ к функциям Teams.
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**Планы для малого бизнеса** <br/> |**Планы предприятия** <br/> |**Планы образования** <br/> |**Планы для разработчиков** <br/> |
-|Microsoft 365 бизнес базовый  <br/> |Office 365 корпоративный E1  <br/> |Office 365 для образовательных учреждений  <br/> |Office 365 для разработчиков  <br/> |
-|Microsoft 365 бизнес стандарт  <br/> |Office 365 корпоративный E3  <br/> |Office 365 для образования плюс  <br/> |   <br/> |
-|Microsoft 365 для бизнеса  <br/> |Office 365 корпоративный E4 (с прекращением)  <br/> |Office 365 для образования E3 (с прекращением)  <br/> |  <br/> |
-|  <br/> |Office 365 корпоративный E5  <br/> |Office 365 для образования E5  <br/> |  <br/> |
-|  <br/> |Office 365 корпоративный F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 бизнес базовый <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 для разработчиков <br/> |
+|Microsoft 365 бизнес стандарт <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 бизнес премиум <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 Подробные инструкции по реализации функций продукции представлены в [документации для администраторов Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). В этом описании службы описываются основные различия между службами, предоставляемыми для различных облачных установок. Основные функциональные возможности Microsoft Teams не отличаются между собой подписок. Доступность возможностей соответствия зависит от уровня подписки. Чтобы узнать больше, ознакомьтесь со статьей [безопасность и соответствие требованиям в Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Подробный список функций, доступных в каждой подписке, приведен в [статье Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
