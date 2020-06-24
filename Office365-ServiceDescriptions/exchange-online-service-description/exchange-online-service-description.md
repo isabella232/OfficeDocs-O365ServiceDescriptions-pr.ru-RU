@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267348"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845023"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -33,7 +33,7 @@ ms.locfileid: "44267348"
 [Отчеты о недоставке электронной почты в Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Справка по Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online  это размещенное решение для обмена сообщениями с возможностями Microsoft Exchange Server в виде облачной службы. Оно предоставляет пользователям доступ к электронной почте, календарю, контактам и задачам с ПК, мобильных устройств и через Интернет. Оно полностью интегрируется с Active Directory, позволяя администраторам с помощью групповых политик и других средств администрирования управлять функциями Exchange Online в своей среде.
+Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
   
 Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы размещены в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет.
   
@@ -50,9 +50,9 @@ Microsoft Exchange Online  это размещенное решение для
 
 Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
-Каждому пользователю, имеющему доступ к службе Exchange Online, должен быть назначен план подписки. Для каждой подписки пользователя предусмотрен отдельный почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центре обработки данных Майкрософт на компьютере, на котором запущена служба Exchange Server.
+Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
   
-Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. У этих специальных почтовых ящиков нет учетных данных для входа. Вместо этого ими через делегирование управляют лицензированные пользователи с соответствующими разрешениями.
+User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Системные требования для Exchange Online
 
@@ -244,7 +244,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Оповещения о доступном объеме|Да|Да|Да|Да|Да|
 |Папка "Несрочные"|Нет|Нет|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|
-|Делегированный доступ|Да|Да|Да, \| Да|Нет|
+|Делегированный доступ|Да|Да|Да|Да|Нет|
 |Правила для папки "Входящие"|Да|Да|Да|Да|Да|
 |Подключенные учетные записи|Да|Да|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|
 |Неактивные почтовые ящики|Нет|Нет|Нет <sup>6</sup>|Да|Нет <sup>6</sup>|
