@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873629"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909452"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -129,7 +129,7 @@ Microsoft Cloud App Security (МКАС) — это решение брокера
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы?
 
-МКАС, Enterprise Mobility + Security/A5/G5, Microsoft 365, а также A5/G5, Microsoft 365 "/A5/A5/G5, безопасность, 365 а также защита и управление информацией предоставляют права пользователя на преимущества МКАС.
+МКАС, Enterprise Mobility + Security/A5/G5, Microsoft 365 в ~/A5/G5, Microsoft 365 "A5/A5/G5, безопасность, Microsoft 365"/A5/G5 "," Microsoft "/" A5/G5 "," Microsoft 365 Information Protection
 
 Azure AD P1 предоставляет пользователям права на получение доступа к функциям обнаружения в МКАС.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/бизнес премиум, Office 365 E1/a1/F3, а также
 
 Microsoft 365 F3/F1/бизнес премиум, Office 365 E1/a1/F3, а также автономные планы SharePoint предоставляют пользователю права на применение меток хранения, не относящихся к записи, в файлы в SharePoint или OneDrive вручную. 
 
-Microsoft 365/A5/A5/E3/a3, Office 365 в ~/A5/E3/a3, Exchange Plan 2 и архивация на базе Exchange Online предоставляют права пользователя на использование одной базовой политики хранения для всей организации или всей Организации и/или ручного применения меток хранения без записи к данным почтовых ящиков.
+Microsoft 365/A5/A5/E3/a3/бизнес премиум, Office 365 в ~/A5/E3/a3, Exchange Plan 2 и архивация на базе Exchange Online предоставляют права пользователя на преимущества от политики хранения на уровне Организации или на уровне всей Организации, а также для применения меток хранения без записи к данным почтовых ящиков вручную.
 
 Microsoft 365 в ~/A5/E3/a3, Office 365, A5/A5/E3/a3, и SharePoint (план 2) предоставляют пользователям права на использование базовой политики хранения в SharePoint или OneDrive и/или ручного применения метки хранения без записи к файлам в SharePoint или OneDrive.
 
