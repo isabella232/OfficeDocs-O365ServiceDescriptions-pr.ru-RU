@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909452"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988873"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -497,7 +497,7 @@ Microsoft 365/A5/A5, совместимость с корпорацией Май
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи используют преимущества службы?
 
-Лицензированные пользователи Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3, а Azure Active Directory Premium Plan 1 могут воспользоваться преимуществами политик условного доступа. Лицензированные пользователи Enterprise Mobility + Security/A5/G5, Microsoft 365 в ~/A5, безопасность Microsoft (Майкрософт) и Azure Active Directory Premium Plan 2 могут воспользоваться преимуществами защиты идентификации (политик условного доступа на основе риска).
+Лицензированные пользователи Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3/бизнес премиум, а Azure Active Directory Premium Plan 1 могут воспользоваться преимуществами политик условного доступа. Лицензированные пользователи Enterprise Mobility + Security/A5/G5, Microsoft 365 в ~/A5, безопасность Microsoft (Майкрософт) и Azure Active Directory Premium Plan 2 могут воспользоваться преимуществами защиты идентификации (политик условного доступа на основе риска).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
