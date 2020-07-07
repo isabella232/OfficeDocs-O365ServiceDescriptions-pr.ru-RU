@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711119"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043041"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ ms.locfileid: "44711119"
 |[Экспорт при обнаружении электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Нет   |Нет   |Нет   |Нет   |Да   |Да   |Нет   |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Архивация](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Да,<sup>3</sup>  |Да,<sup>3</sup>  |Да,<sup>3</sup>   |Да,<sup>3</sup>  |Да<sup>4</sup>  |Да<sup>4</sup>  |Нет   |
+|[Политики оповещений](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Да   |Да   |Да|Да   |Да   |Да   |Да   |
 |[Базовый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Да   |Да   |Да|Да   |Да   |Да   |Да   |
 |[Расширенный аудит](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Соответствие требованиям (политики контроля)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
