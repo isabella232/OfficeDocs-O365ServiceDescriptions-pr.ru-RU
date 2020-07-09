@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте о пределах SharePoint для Microsoft 365 и автономных планов.
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909442"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082261"
 ---
 # <a name="sharepoint-limits"></a>Границы SharePoint
 
@@ -59,7 +59,11 @@ ms.locfileid: "44909442"
 
 ### <a name="moving-and-copying-across-sites"></a>Перемещение и копирование на сайтах
 
-100 ГБ для каждой операции. Веб-браузер должен быть открытым.
+Копирование и перемещение нескольких файлов в одной операции состоит из трех требований: 
+
+- Не более 100 ГБ общего размера файлов 
+- Не более 30 000 файлов
+- Размер каждого файла не должен превышать 2 ГБ
 
 ### <a name="sync"></a>Синхронизировать
 
