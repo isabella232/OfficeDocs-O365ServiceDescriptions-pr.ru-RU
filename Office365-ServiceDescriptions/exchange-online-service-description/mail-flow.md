@@ -1,8 +1,7 @@
 ---
 title: Поток обработки почты
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Для большинства организаций мы разместите свои почтовые ящики и позаботитесь о движении почты. Это самая простая конфигурация, которая позволяет Майкрософт управлять всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье.
-ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1ada5a3199e6ae65c6aaa99873f13a4025366a8d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640327"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132723"
 ---
 # <a name="mail-flow"></a>Поток обработки почты
 
@@ -45,19 +44,19 @@ Microsoft Exchange Online может маршрутизировать почту
   
 ## <a name="conditional-mail-routing"></a>Условная маршрутизация почты
 
-Вы можете направлять почту на определенные сайты с помощью соединителей и правил транспорта. При маршрутизации с использованием условий можно выбрать соединитель на основе специальных условий.
+You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
   
 Дополнительные сведения см. в статье [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Список надежных отправителей входящей почты
 
-Вы можете добавить IP-адрес доверенного партнера в список надежных отправителей, чтобы к его письмам не применялись фильтры нежелательной почты. Для этого можно использовать список разрешенных IP-адресов фильтра подключений.
+You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
   
 Дополнительные сведения см. в статье [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Маршрутизация почты в гибридной конфигурации
 
-Гибридное развертывание позволяет переносить полнофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange в облако. В случае гибридного транспорта сообщения, отправляемые пользователями в обеих организациях, проходят проверку подлинности, шифруются, передаются по протоколу TLS и рассматриваются как внутренние сообщения для таких компонентов Exchange, как правила транспорта, функция ведения журналов и политики блокировки нежелательной почты. Настройте гибридный транспорт с помощью мастера гибридной конфигурации в Exchange Server.
+A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
   
 Дополнительные сведения о маршрутизации почты в гибридном развертывании приведены в статье [Маршрутизация транспорта при гибридных развертываниях Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -77,13 +76,13 @@ Microsoft Exchange Online может маршрутизировать почту
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Устранение неполадок развертывания с помощью мастера гибридной конфигурации
 
-Настройка гибридного развертывания в Microsoft Exchange Server с помощью мастера гибридной конфигурации значительно уменьшает вероятность проблем в гибридном развертывании. Тем не менее есть параметры, которые невозможно настроить в этом мастере, и при неправильной их настройке могут возникнуть проблемы в гибридном развертывании. Сюда входит надлежащая конфигурация сервера клиентского доступа, а также правильная установка и настройка сертификатов.
+Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
   
 Дополнительные сведения об устранении неполадок развертывания с помощью мастера гибридной конфигурации см. в статье [Устранение неполадок в гибридном развертывании](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Управление гибридной конфигурацией
 
-Вы можете изменять существующую гибридную конфигурацию, изменяя параметры в мастере гибридной конфигурации. В сценарии входят такие действия, как отключение централизованного транспорта или отключение безопасного почтового транспорта.
+You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
   
 Дополнительные сведения об управлении конфигурацией гибридного развертывания см. в статье [Управление гибридным развертыванием](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

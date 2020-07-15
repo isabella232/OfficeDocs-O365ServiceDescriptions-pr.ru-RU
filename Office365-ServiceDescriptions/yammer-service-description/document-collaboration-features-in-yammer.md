@@ -1,8 +1,7 @@
 ---
 title: Возможности совместной работы с документами в Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Следующие возможности совместной работы доступны в Yammer.
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688271"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132093"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Возможности совместной работы с документами в Yammer
 
@@ -25,7 +24,7 @@ ms.locfileid: "42688271"
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Функции совместной работы над документами в планах Yammer
 
-Нужна помощь, чтобы определить, какой план Yammer наилучшим образом отвечает требованиям вашей организации? Используйте следующую таблицу, чтобы изучить функции совместной работы над документами, доступные в каждом плане.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**Функция**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -33,7 +32,7 @@ ms.locfileid: "42688271"
 |[Официальный контент](document-collaboration-features-in-yammer.md#official-content) <br/> |Нет  <br/> |Да  <br/> |
 |[Последние изменения](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Да  <br/> |Да  <br/> |
 
-## <a name="files"></a>Files
+## <a name="files"></a>Файлы
 
 Совместное использование документов Microsoft Office, PDF-файлов, изображений и видеороликов в Teams и обратная связь сразу. Отправляйте новые версии, чтобы все могли увидеть последнюю версию, а также старые версии проекта.
   

@@ -1,8 +1,7 @@
 ---
 title: Клиенты и мобильные устройства
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639717"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132973"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -26,11 +25,11 @@ Microsoft Outlook — это почтовая программа, включаю
   
 - Протокол **MAPI over HTTP** Интерфейс обмена сообщениями (MAPI) через HTTP позволяет пользователям Outlook подключаться к почтовым ящикам Exchange Online через Интернет извне брандмауэра организации. Протокол MAPI over HTTP, долгосрочная замена мобильного Outlook. Этот способ подключения обеспечивает улучшенную устойчивость к подключению, более безопасный вход, расширяемость, а также улучшения для ИТ и поддержки. Для получения дополнительных сведений ознакомьтесь с разработкой [вызовов RPC через HTTP до конца поддержки в Office 365](https://go.microsoft.com/fwlink/?linkid=863890) и [MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041).
 
-- **Автообнаружение** Служба автообнаружения автоматически настраивает Outlook для работы с Exchange Online. Пользователи Outlook могут получить необходимые настройки профиля напрямую из Exchange Online при первом входе с использованием адреса электронной почты и пароля. Эти параметры автоматически обновляют в клиенте Outlook данные, необходимые для создания и обслуживания профиля пользователя. Для использования службы автообнаружения требуется SSL-сертификат. Данный SSL-сертификат ограничивается для одного основного домена SSL. 
+- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
 
 - **Режим кэширования Exchange** Функция режима кэширования Exchange позволяет пользователям Outlook получать доступ к локальным копиям почтовых ящиков Exchange Online, когда они не подключены к Интернету. Режим кэширования Exchange хранит клиентскую копию почтовых ящиков Exchange в Outlook и автоматически синхронизирует эту копию с сервером электронной почты. Рекомендуется использовать Outlook в режиме кэширования Exchange, поскольку он предоставляет автономный доступ и помогает пользователям работать, даже если сетевые условия между клиентом и сервером не идеальны. 
 
-По умолчанию доступ к Outlook включен для всех пользователей. Администраторы могут отключить доступ для определенных пользователей или групп с помощью Windows PowerShell. Рекомендуется использовать последнюю версию Outlook (с последним пакетом обновлений) для доступа к Exchange Online. 
+By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
   
 Сведения о том, какие клиенты Outlook поддерживаются в Exchange 2016 и Exchange Online, приведены в разделе [требования к системе для Office](https://products.office.com/office-system-requirements). 
 
@@ -67,7 +66,7 @@ Exchange Online работает с приложениями Outlook, досту
 |Устройство  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Доступность приложений Outlook Mobile  <br/> |Да  <br/> [Получение Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получение Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные почтовые приложения, совместимые с Exchange Online  <br/> |Почтовое приложение для приложения Gmail и Samsung  <br/> |Почтовое приложение iOS  <br/> |Почта, календарь, контакты Outlook  <br/> |
-|Дополнительная информация  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Дополнительные сведения  <br/> |[Настройка Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[Установка для iPhone или iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Настройка Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 Кроме того, существуют параметры для использования Exchange Online с устройствами, включая Blackberry.
   
@@ -136,24 +135,24 @@ Exchange Online поддерживает протокол Microsoft Exchange Act
   
 ## <a name="pop-and-imap"></a>POP и IMAP
 
-Exchange Online поддерживает доступ к почтовым ящикам по протоколам POP3 и IMAP4. Для доступа по протоколам POP и IMAP требуется шифрование с использованием SSL. Протокол POP включен по умолчанию для всех пользователей. Пользователи могут просматривать параметры подключения POP и IMAP в Outlook в Интернете. Администраторы могут отключить доступ по протоколам POP и IMAP на уровне пользователя.
+Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
   
 Дополнительные сведения о подключении с помощью протоколов POP3 и IMAP4 см. в статье [POP3 и IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070).
   
 ## <a name="smtp"></a>SMTP
 
-Протокол SMTP используется для отправки исходящих сообщений для клиентов, которые подключаются к Exchange Online по протоколу IMAP или POP. Это основной протокол для маршрутизации и доставки почты через сервер Exchange. Exchange Online поддерживает два типа служб ретрансляции SMTP для авторизованных внутренних клиентских приложений, для которых требуется отправка почты по протоколу SMTP:
+Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
   
 - передача сообщений SMTP для пользователей внутри управляемой среды.
 
 - ретрансляция сообщений SMTP с проверкой подлинности адресам за пределами управляемой среды.
 
 > [!IMPORTANT]
-> IP-адреса для авторизованных исходных серверов необходимы для SMTP-ретрансляции. При использовании SMTP для отправки электронной почты требуется шифрование и проверка подлинности TLS. 
+> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
   
-## <a name="blackberryreg-devices"></a>Устройства&reg; BlackBerry
+## <a name="blackberryreg-devices"></a>&reg;Устройства BlackBerry
 
-Электронная почта доступна на устройствах&reg; BlackBerry с помощью Exchange ActiveSync. Чтобы узнать, какие параметры доступны, ознакомьтесь со следующими статьями:
+Электронная почта доступна на устройствах BlackBerry с &reg; помощью Exchange ActiveSync. Чтобы узнать, какие параметры доступны, ознакомьтесь со следующими статьями:
   
 - [Настройка электронной почты на устройстве BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -162,7 +161,7 @@ Exchange Online поддерживает доступ к почтовым ящи
 Дополнительные сведения см. в разделе [BlackBerry](../office-365-platform-service-description/blackberry.md).
   
 > [!NOTE]
-> Если вы используете Office 365: под управлением 21Vianet в Китае, служба BlackBerry Business Cloud Servicesнедоступна. Но вы можете использовать Exchange ActiveSync или предложение от Research in Motion (RIM, беспроводное решение BlackBerry для работы с электронной почтой), чтобы запустить сервер Blackberry Enterprise Server (BES). 
+> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
   
 ## <a name="feature-availability"></a>Доступность функций
 

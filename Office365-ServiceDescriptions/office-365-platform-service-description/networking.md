@@ -1,8 +1,7 @@
 ---
 title: сеть
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Корпорация Майкрософт поддерживает следующие сетевые функции.
-ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 0f0554bdd907a6f0a37299dc3e38e5f778e7187e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045011"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132333"
 ---
 # <a name="networking"></a>Сеть
 
@@ -30,7 +29,7 @@ ms.locfileid: "44045011"
 Корпорация Майкрософт поддерживает список разрешенных IP-адресов в справке Майкрософт. Дополнительные сведения см. в разделе [URL-адреса и диапазоны IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). Для Office 365 под управлением 21Vianet обратитесь к разделам [URL-адресов и IP-адресов для Office 365](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints)под управлением 21vianet. В Office 365 для Германии вы найдете [конечные точки office 365 для Германии](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
 > [!IMPORTANT]
-> Мы настоятельно рекомендуем обеспечить маршрутизацию в корневые домены, указанные в вышеупомянутых статьях (например, \*.Outlook.com, \*.MicrosoftOnline.com и \*.SharePoint.com), вместо маршрутизации в специальные подсети IP-адресов. Во втором случае при внесении изменений увеличивается риск перерывов в работе для пользователей. 
+> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
   
 ## <a name="bandwidth-requirements"></a>Требования к пропускной способности
 
@@ -44,7 +43,7 @@ ms.locfileid: "44045011"
   
 ### <a name="wan-accelerators"></a>Акселераторы глобальной сети
 
-Корпорация Майкрософт не предоставляет поддержку принадлежащим пользователям устройствам ускорения глобальной сети и кэширования в Office 365:. Если вы решите использовать контроллер оптимизации глобальной сети для улучшения производительности в условиях высокой задержки или низкой пропускной способности, вам необходимо будет отключать его во время устранения неполадок по запросам на обслуживание в корпорацию Майкрософт, а вопросы, связанные с поддержкой устройства,  решать с производителем устройства. Дополнительные сведения см. в разделе [Устройства ускорения глобальной сети и кэширования в Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
+Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
   
 ## <a name="the-global-microsoft-network"></a>Глобальная сеть Майкрософт
 
@@ -52,9 +51,9 @@ ms.locfileid: "44045011"
   
 Чтобы обеспечить конфиденциальность и целостность данных о клиентах, корпорация Майкрософт следит за сетями служб пользователей, отделенными от сетей Майкрософт. Для контроля информационных потоков используется множество различных методов, включающих, среди прочего, следующие.
   
-- Физическое разделение. Сегменты сети физически разделены маршрутизаторами, настроенными для предотвращения определенных схем связи.
+- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
     
-- Логическое разделение. Для последующего разделения сообщений используется технология виртуальной локальной сети (VLAN).
+- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
     
 - Брандмауэры. Брандмауэры и другие точки обеспечения безопасности сети используются для ограничения обмена данными с системами, доступными в Интернете, и для изоляции систем от серверных систем, управляемых корпорацией Майкрософт. 
     

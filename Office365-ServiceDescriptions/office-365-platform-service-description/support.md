@@ -1,8 +1,7 @@
 ---
 title: Поддержка
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Благодаря каждой подписке Microsoft Office 365 предприятие, предприятие, образование и правительственная подписка служба поддержки Майкрософт предоставляет глобальные технические, предварительные продажи, выставление счетов и поддержку подписки. Поддержка доступна как в Интернете, так и в центре администрирования Microsoft365, а также по телефону для платных и пробных подписок. Для получения дополнительных сведений см в разделе Поддержка поддержки Майкрософт.
-ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: efc4153cd928152ff614134f879533277220d331
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002326"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131493"
 ---
 # <a name="support"></a>Поддержка
 
@@ -71,13 +70,13 @@ ms.locfileid: "44002326"
   
 ### <a name="technical-support-case-handling"></a>Работа службы технической поддержки с обращениями
 
-Корпорация Майкрософт присваивает степень серьезности обращению при его открытии на основе оценки типа проблемы и ее влияния на клиента. Примеры типов проблем и степеней серьезности показаны в таблице ниже.
+Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
   
 |**Степень серьезности**|**Описание операций и поддержки**|**Примеры**|
 |:-----|:-----|:-----|
-|Степень А (критическая)  <br/> |Одна или несколько служб недоступны или непригодны для использования. Рабочая среда, операции или крайние сроки развертывания серьезно нарушены, или оказывается серьезное влияние на производство либо прибыльность клиента. Нарушена работа многих пользователей или служб.  <br/> | Широко распространены проблемы при отправке или получении почты.  <br/>  Недоступен сайт SharePoint.  <br/>  Ни один пользователь не может отправлять мгновенные сообщения, присоединяться к собраниям Skype для бизнеса или планировать их либо совершать звонки в Skype для бизнеса.  <br/> |
-|Степень B (высокая)  <br/> |Службой можно пользоваться, но ее работа нарушена. Ситуация оказывает среднее влияние на бизнес, и с ней можно справиться в рабочее время. Один пользователь, клиент или служба частично затронуты.  <br/> | Кнопка "Отправить" в Outlook отображается с искажениями.  <br/>  Настройка невозможна через EAC (Центр администрирования Exchange), но возможна в PowerShell.  <br/> |
-|Степень C (некритическая)  <br/> |Ситуация оказывает минимальное влияние на бизнес. Это важная проблема, но она не имеет значительного влияния на текущую службу или продуктивность для клиента. У одного пользователя возникают частичные нарушения, но при этом существует обходной путь решения проблем.  <br/> | Как установить бессрочный пароль пользователя.  <br/>  Пользователи не могут удалять контактные данные в Exchange Online.  <br/> |
+|Степень А (критическая)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Широко распространены проблемы при отправке или получении почты.  <br/>  Недоступен сайт SharePoint.  <br/>  Ни один пользователь не может отправлять мгновенные сообщения, присоединяться к собраниям Skype для бизнеса или планировать их либо совершать звонки в Skype для бизнеса.  <br/> |
+|Степень B (высокая)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Кнопка "Отправить" в Outlook отображается с искажениями.  <br/>  Настройка невозможна через EAC (Центр администрирования Exchange), но возможна в PowerShell.  <br/> |
+|Степень C (некритическая)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Как установить бессрочный пароль пользователя.  <br/>  Пользователи не могут удалять контактные данные в Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Время первоначального отклика службы технической поддержки
 
@@ -106,7 +105,7 @@ ms.locfileid: "44002326"
   
 ## <a name="shared-support-responsibilities"></a>Общие обязанности службы поддержки
 
-Корпорация Майкрософт понимает, что получение своевременной технической поддержки от квалифицированных специалистов является ключевым аспектом облачных служб. Такой же важной является и роль, которую играет ИТ-отдел клиента в поддержке своих пользователей.
+Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
   
 ### <a name="administrator-role-and-responsibilities"></a>Роль и обязанности администратора
 
@@ -132,7 +131,7 @@ ms.locfileid: "44002326"
 
 - Использование предоставляемых корпорацией Майкрософт ресурсов по самостоятельной поддержке для решения вопросов, связанных с поддержкой пользователей.
 
-Администратор должен оказывать первоначальную помощь пользователям клиента. Если администратор не может решить проблему с помощью ресурсов самостоятельной поддержки, ему следует связаться с [Техническая поддержка](support.md#technical-support).
+The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Роль службы поддержки корпорации Майкрософт
 
@@ -178,7 +177,7 @@ ms.locfileid: "44002326"
 
 ### <a name="partners"></a>Партнеры
 
-Вы можете выбрать партнера корпорации Майкрософт и делегировать ему административные функции, включая создание запросов на обслуживание. Дополнительные сведения см. в описание службы на странице [Партнеры](partners.md) и в статье [Добавление, смена и удаление партнера-консультанта по подпискам](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Разработчики
 

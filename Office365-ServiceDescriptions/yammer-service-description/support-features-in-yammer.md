@@ -1,8 +1,7 @@
 ---
 title: Возможности поддержки в Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: В Yammer доступны следующие возможности поддержки.
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688265"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132003"
 ---
 # <a name="support-features-in-yammer"></a>Возможности поддержки в Yammer
 
 В Yammer доступны следующие возможности поддержки.
   
 > [!IMPORTANT]
-> Yammer не поддерживает восстановление удаленного контента&mdash;(например, внешних сетей, пользователей, сообщений, групп и файлов&mdash;), в том числе контента, случайно удаленных администраторами сети.
+> Yammer не поддерживает восстановление удаленного контента &mdash; (например, внешних сетей, пользователей, сообщений, групп и файлов), &mdash; в том числе контента, случайно удаленных администраторами сети.
 >
 > Корпорация Майкрософт не предоставляет настраиваемые и ad-hoc-отчеты, выходящие за рамки функций аналитики, доступных в Yammer. Иногда корпорация Майкрософт может предоставить настраиваемый отчет в рамках запроса на поддержку, но в большинстве случаев они не могут поддерживать прямые запросы данных.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Администраторы Yammer Enterprise ответственны за техническую поддержку учетных записей и уполномочены напрямую обращаться к группе поддержки корпорации Майкрософт. Если вы  администратор Yammer Enterprise и вам нужна поддержка, см. статью [Поддержка корпорации Майкрософт](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Служба поддержки клиентов
 
@@ -42,7 +41,7 @@ ms.locfileid: "42688265"
 
 ## <a name="support-features-across-yammer-plans"></a>Возможности поддержки в планах Yammer
 
-Нужна помощь, чтобы определить, какой план Yammer наилучшим образом отвечает требованиям вашей организации? Используйте следующую таблицу, чтобы изучить возможности поддержки, доступные в каждом плане.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**Функция**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ ms.locfileid: "42688265"
  
 ## <a name="technical-support-case-handling"></a>Работа службы технической поддержки с обращениями
 
-Примеры 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**Степень серьезности**|**Описание**|**Примеры**|
 |:-----|:-----|:-----|

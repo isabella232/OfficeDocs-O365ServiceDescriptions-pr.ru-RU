@@ -1,8 +1,7 @@
 ---
 title: Privacy, security, and transparency
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,19 +11,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Дополнительные сведения можно найти в центре управления безопасностью Майкрософт.
-ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044951"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131673"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> Сведения, приведенные в этой статье, применимы к международным версиям Office 365. Если вы используете облачный экземпляр для определенной страны или региона Office 365, в частности Office 365 для государственных организаций США, Office 365 Germany и службу Office 365, предоставляемую 21Vianet, см. статью о [национальных облачных службах Майкрософт](https://go.microsoft.com/fwlink/?linkid=841582). 
+> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье [Центр управления безопасностью (Майкрософт)](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Конфиденциальность
 
@@ -50,7 +49,7 @@ ms.locfileid: "44044951"
 
 Как администратор Майкрософт, вы можете использовать защищенное хранилище клиентов для управления доступом к данным специалистом службы поддержки Майкрософт во время сеанса справки. В случаях, если сотрудник службы поддержки обратится к вашим данным, чтобы устранить неполадки, защищенное хранилище позволит вам одобрить или отклонить его запрос на доступ. При одобрении запроса, сотрудник получит доступ к этим данным. Каждый запрос имеет срок действия, и как только проблема будет решена, запрос будет закрыт, а право доступа  аннулировано.
   
-Защищенное хранилище включено в план Office 365 корпоративный 5, для любого другого плана Office 365 корпоративный данную подписку можно приобрести отдельно. Подробную информацию см. в статье [Запросы защищенного хранилища Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Расширенная защита от угроз
 

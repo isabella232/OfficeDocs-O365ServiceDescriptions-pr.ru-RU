@@ -1,8 +1,7 @@
 ---
 title: Service health and continuity
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Майкрософт могут просматривать состояние служб и узнавать, когда обслуживание запланировано. Сведения о работоспособности службы доступны в любое время, войдя в.
-ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044961"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131803"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -126,7 +125,7 @@ API службы связи службы Office 365 позволяет вам п
 
 Майкрософт обеспечивает доступность данных клиента, где бы они ни потребовались, с помощью следующих функциональных возможностей:
   
-- **Хранение и резервирование данных:** Данные клиента хранятся в резервной среде с надежными возможностями защиты данных, позволяющими обеспечить доступность, непрерывность бизнес-процессов и быстрое восстановление. Реализуется несколько уровней избыточности данных, от избыточных дисков для защиты от сбоев локальных дисков, до постоянной, полной репликации данных в географически удаленном центре обработки данных. 
+- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
     
 - **Мониторинг данных:** Службы Майкрософт поддерживают высокий уровень производительности, выполнив следующие действия: 
     
@@ -146,13 +145,13 @@ API службы связи службы Office 365 позволяет вам п
 
 Группы разработки и эксплуатации Майкрософт дополняются выделенной Организацией поддержки, которая играет важную роль в обеспечении непрерывности бизнеса. Сотрудники поддержки имеют глубокие знания служб и связанных с ними приложений, а также прямой доступ к экспертам Майкрософт в области архитектуры, разработки и тестирования.
   
-Организация поддержки тесно связана с операциями и разработкой продуктов, предлагает быстрые сроки разрешения инцидентов и обеспечивает канал, по которому можно услышать клиентов. Отзывы и предложения от клиентов предоставляют входные данные для процессов планирования, разработки и операций.
+The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
   
 - **Отслеживание проблем по Интернету:** Клиентам необходимо знать, когда их проблемы будут разрешены, и им нужна возможность отслеживания актуального процесса разрешения. Microsoft 365 падмин Center Ортал предоставляет единый веб-интерфейс для поддержки. Клиенты могут использовать портал для добавления запросов служб и их мониторинга, а также для получения отзывов от групп поддержки Майкрософт. 
     
 - **Самостоятельная помощь, которая поддерживается непрерывным персоналом:** Корпорация Майкрософт предлагает широкий спектр справочных ресурсов и средств, позволяющих пользователям решать проблемы, связанные с обслуживанием, не требуя поддержки Майкрософт. 
     
-Перед вводом запроса служб клиенты могут обратиться к статьям базы знаний и разделам вопросов и ответов, которые обеспечивают немедленную помощь по большинству распространенных проблем. Эти ресурсы постоянно обновляются актуальной информацией, которая помогает избежать задержки, предоставляя решения для известных проблем. Однако при возникновении проблемы, при которой требуется помощь специалиста поддержки, немедленный доступ к штатным сотрудникам можно получить по телефону и на портале администрирования круглосуточно, 7 дней в неделю.
+Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
   
 Дополнительные сведения см. в разделе [Поддержка](support.md). 
   

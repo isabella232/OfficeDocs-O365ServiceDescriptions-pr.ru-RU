@@ -1,8 +1,7 @@
 ---
 title: Описание службы Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845023"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131553"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -145,7 +144,7 @@ User subscriptions are not required for conference rooms and shared mailboxes. T
 |Outlook для Mac<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да| Нет|
 |Outlook для iOS и Android<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|Да|Да|Да|
-|Управление мобильными устройствами для Office 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
+|Общие сведения о мобильности и безопасности для Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |POP и IMAP|Да|Да|Да|Да|Да|Да|Да|Да <sup>12</sup>|
 |SMTP|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка приложений EWS|Да|Да|Да|Да|Да|Да|Да|Нет|

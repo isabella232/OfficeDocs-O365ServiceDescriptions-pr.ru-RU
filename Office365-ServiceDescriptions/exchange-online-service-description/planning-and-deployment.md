@@ -1,8 +1,7 @@
 ---
 title: Планирование и развертывание
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e722bec332e67e93647b10bbbf4916e7e059c1b7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639967"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132663"
 ---
 # <a name="planning-and-deployment"></a>Планирование и развертывание
 
@@ -32,20 +31,20 @@ ms.locfileid: "43639967"
     
 ### <a name="cloud-only"></a>Только облако
 
-Развертывание только на основе облака  это развертывание, в котором организация в службе Exchange Online не работает совместно с локальной организацией Exchange. В облаке размещаются почтовые ящики всех пользователей, а управление ведется через Exchange Online и Office 365.
+A cloud-only deployment is one where your organization in the Exchange Online service isn't connected with an on-premises Exchange organization. All users and mailboxes are hosted and managed in Exchange Online and Office 365.
   
 ### <a name="hybrid"></a>Гибридная среда
 
-Гибридное развертывание, доступное для Microsoft Exchange 2003, Exchange 2007, Exchange 2010 и Exchange 2013, позволяет обеспечить долгосрочное сосуществование, где некоторые почтовые ящики размещаются локально, а другие почтовые ящики  в Exchange Online. Его можно использовать до переноса всех пользовательских почтовых ящиков в Exchange Online. Гибридное развертывание позволяет организациям расширять многофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange на облако. Функции гибридного развертывания включают защищенный транспорт почты, общие календарные данные о занятости, а также отслеживание сообщений между локальной организацией и Exchange Online.
+Available for Microsoft Exchange 2003, Exchange 2007, Exchange 2010 and Exchange 2013 on-premises organizations, a hybrid deployment offers either a long-term coexistence configuration with some mailboxes hosted on-premises and some mailboxes hosted in Exchange Online or a migration path to hosting all user mailboxes in Exchange Online. A hybrid deployment offers organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. Hybrid deployment features include secure mail transport, shared calendar free/busy information, and message tracking between the on-premises and Exchange Online organizations.
   
-Дополнительные сведения о гибридных развертываниях см. в статье [Гибридные развертывания Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Если у вас есть план Office 365:, которым управляет 21Vianet, см. статью [Настройка компонентов гибридного развертывания Exchange для плана Office 365, которым управляет 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+For more information about hybrid deployments, see [Exchange Server 2013 Hybrid Deployments](https://go.microsoft.com/fwlink/p/?LinkId=287035). If you are using Office 365 operated by 21Vianet, see [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
-> Локальные организации Exchange 2003 должны установить по крайней мере один сервер почтовых ящиков или клиентского доступа Exchange 2010 для настройки гибридного развертывания с Exchange Online. Локальные организации Exchange 2007 должны установить по крайней мере один сервер почтовых ящиков или клиентского доступа Exchange 2010 или Exchange 2013 для настройки гибридного развертывания с Exchange Online. Локальные организации Exchange 2010 и Exchange 2013 поддерживают гибридное развертывание с Exchange Online изначально. Дополнительные сведения о совместимости сервера Exchange Server при гибридном развертывании см. в разделе [Необходимые условия для гибридного развертывания](https://go.microsoft.com/fwlink/p/?LinkId=243541)> Локальную организацию Exchange необходимо настроить для гибридного развертывания. Мы настоятельно рекомендуем администраторам использовать помощник по развертыванию Exchange Server и мастер гибридной конфигурации. Чтобы узнать больше, откройте [Помощник по развертыванию Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)
+> On-premises Exchange 2003 organizations must install at least one Exchange 2010 Client Access/Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2007 organizations must install at least one Exchange 2010 or Exchange 2013 Client Access and Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2010 and Exchange 2013 organizations natively support hybrid deployments with Exchange Online. For more information about Exchange server compatibility in hybrid deployments, see [Hybrid Deployment Prerequisites](https://go.microsoft.com/fwlink/p/?LinkId=243541)> On-premises Exchange organizations must configure their organization for a hybrid deployment. We strongly recommend that administrators use the Exchange Server Deployment Assistant and the Hybrid Configuration Wizard to configure the hybrid deployment. Learn more at [Exchange Server Deployment Assistant](https://go.microsoft.com/fwlink/p/?LinkId=287036)
   
 ## <a name="migration-options"></a>Варианты миграции
 
-Организациям следует выбирать варианты миграции на основе исходной системы электронной почты, необходимого конечного результата (полного или частичного размещения в облаке), количество пользователей для переноса, а также того, как быстро нужно добиться результата. Возможные варианты миграции:
+Organizations should choose migration options based on their source email systems, the desired end state (fully hosted or partially hosted), the number of users to migrate, and how quickly the end state needs to be reached. Possible migration options are:
   
 - **Миграция через IMAP** Миграция почтовых ящиков из систем электронной почты на основе IMAP в Exchange Online. 
     
@@ -53,13 +52,13 @@ ms.locfileid: "43639967"
     
 - **Поэтапная миграция Exchange** Поэтапная миграция почтовых ящиков из Exchange Server 2003 или 2007 с помощью веб-средств миграции с минимальными изменениями в локальной инфраструктуре. 
     
-- **Миграция с удаленным перемещением** Перенесение локальных почтовых ящиков Exchange в Exchange Online при гибридном развертывании Exchange. Чтобы была возможной миграция с удаленным перемещением, должно быть выполнено гибридное развертывание Exchange. 
+- **Remote move migration** Migrate on-premises Exchange mailboxes to Exchange Online in an Exchange hybrid deployment. You must have an Exchange hybrid deployment to use a remote move migration. 
     
 Дополнительные сведения о переносе электронной почты и почтовых ящиков в Exchange Online см. в статье [Перенос электронной почты в Office 365  справка для администраторов](https://support.office.com/en-us/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
 ### <a name="imap-migration"></a>Миграция IMAP
 
-Exchange Online предоставляет веб-средство для переноса данных из почтовых ящиков в системах электронной почты, поддерживающих протокол IMAP. Он проводит следующие этапы миграции: 
+Exchange Online offers a web-based tool for migrating mailbox data from email systems that support IMAP. It guides administrators through the following migration steps: 
   
 1. Создание пустых почтовых ящиков в облаке для пользователей в организации (как правило, это делается путем загрузки CSV-файла или с помощью удаленной оболочки Windows PowerShell).
     
@@ -76,13 +75,13 @@ Exchange Online предоставляет веб-средство для пер
   
 ### <a name="cutover-exchange-migration"></a>Прямая миграция Exchange
 
-Exchange Online предоставляет веб-средство для переноса данных с локального сервера Exchange Server 2003, Exchange Server 2007 или Exchange Server 2010. Он проводит следующие этапы миграции:
+Exchange Online offers a web-based tool for migrating data from on-premises Exchange Server 2003, Exchange Server 2007, or Exchange Server 2010 environments. It guides an administrator through the following migration steps:
   
 1. Используя адрес электронной почты и учетные данные локальной учетной записи администратора, Exchange Online подключается к локальной почтовой организации с помощью службы автообнаружения.
     
 2. Exchange Online использует RPC/HTTP для чтения информации из каталога на удаленном сервере и создает почтовые ящики в Exchange Online.
     
-3. Exchange Online синхронизирует содержимое почтовых ящиков с облачными почтовыми ящиками. Пользователи остаются подключенными к исходным почтовым ящикам, пока их данные переносятся в Exchange Online.
+3. Exchange Online synchronizes the mailbox content to the cloud mailboxes. Users remain connected to their original mailboxes while their data is being migrated to Exchange Online.
     
 4. После завершения первоначальной миграции изменения будут синхронизироваться с облаком каждые 24 часа до тех пор, пока администратор не остановит и не удалит пакет миграции.
     
@@ -91,28 +90,28 @@ Exchange Online предоставляет веб-средство для пер
 Дополнительные сведения о прямой миграции Exchange см. в статье [Что необходимо знать о прямой миграции электронной почты в Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
   
 > [!IMPORTANT]
-> Организация может перенести не более 2 000 почтовых ящиков Exchange 2003, Exchange 2007, Exchange 2010 или Exchange 2013 в облако с помощью прямой миграции Exchange. > Служба Exchange Online должна подключиться к локальному серверу Exchange Server, поэтому локальный сервер должен иметь сертификат, выданный доверенным центром сертификации, и внешний IP-адрес. 
+> An organization can migrate a maximum of 2,000 Exchange 2003, Exchange 2007, Exchange 2010, or Exchange 2013 mailboxes to the cloud using a cutover Exchange migration. > Exchange Online must connect to an on-premises Exchange Server, so the on-premises server must have a certificate issued by a trusted certificate authority and a public IP address. 
   
 ### <a name="staged-exchange-migration"></a>Поэтапная миграция Exchange
 
-При поэтапной миграции пользователи могут быть перенесены в облако через веб-интерфейс миграции Exchange и средство синхронизации службы каталогов. Вместо одновременного перемещения всех пользователей, как при прямой миграции Exchange, администраторы переносят пользователей в пакетах. Это достигается путем загрузки CSV-файла с указанием частичного списка пользователей для переноса. При поэтапной миграции все пользователи в организации могут использовать одно и то же имя домена электронной почты.
+With a staged migration, users can be migrated to the cloud using the web-based Exchange migration tool and the Directory Synchronization tool. Instead of migrating all users at once, like a cutover Exchange migration, administrators migrate users in batches. This is accomplished by uploading a .csv file to specify a partial list of users to migrate. In a staged migration, all of the users in an organization can share the same email domain name.
   
-Поэтапная миграция Exchange требует от администраторов использовать средство синхронизации каталогов Microsoft Online Services. Это предоставляет пользователям унифицированный глобальный список адресов, где облачная среда непрерывно синхронизируется с локальной.
+Staged Exchange migration requires administrators to use the Online Services Directory Synchronization tool. This provides users with a unified Global Address List (GAL) where the online environment is continuously synchronized with the on-premises environment.
   
 Дополнительные сведения о поэтапной миграции Exchange см. в статье [Что необходимо знать о поэтапной миграции электронной почты в Office 365](https://support.office.com/en-ie/article/What-you-need-to-know-about-a-staged-email-migration-to-Office-365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207).
   
 > [!IMPORTANT]
-> Использование функции поэтапной миграции Exchange для переноса почтовых ящиков Exchange 2010 и Exchange 2013 невозможно. Если в организации имеется менее 2 000 почтовых ящиков Exchange 2010 или Exchange 2013, можно использовать прямую миграцию Exchange. Если количество почтовых ящиков Exchange 2010 или Exchange 2013 превышает 2 000, можно применять гибридное развертывание. > Во время миграции администраторам необходимо использовать средство синхронизации каталогов Microsoft Online Services, чтобы предоставить пользователям единый глобальный список адресов, где облачная среда постоянно синхронизируется с локальной. 
+> Organizations can't use a staged Exchange migration to migrate Exchange 2010 and Exchange 2013 mailboxes. If you have fewer than 2,000 Exchange 2010 or Exchange 2013 mailboxes in your organization, you can use a cutover Exchange migration. If you have more than 2,000 Exchange 2010 or Exchange 2013 mailboxes, you can implement a hybrid deployment. > During migration, administrators must use the Online Services Directory Synchronization tool to provide users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
   
 ## <a name="migration-tools"></a>Средства миграции
 
-Корпорация Майкрософт предоставляет несколько средств для миграции существующей почтовой среды в Exchange Online. Используемое средство зависит от того, что подходит для текущей среды, и основных целей развертывания:
+Microsoft provides several tools to help migrate an existing email environment to Exchange Online. Which ones are appropriate depends on the organization's current environment and deployment goals:
   
-- **Панель мониторинга миграции** Администраторы могут использовать панель мониторинга миграции в Центре администрирования Exchange для управления переносом почтовых ящиков в Exchange Online в рамках прямой или поэтапной миграции Exchange. Администратор также может использовать панель миграции для переноса почтовых ящиков пользователей с локальных IMAP-серверов в существующие почтовые ящики Exchange Online. Панель управления дает администраторам следующие возможности: 
+- **Migration dashboard** Administrators can use the Migration dashboard in the Exchange admin center to manage mailbox migration to Exchange Online in a cutover or staged Exchange migration. Administrators can also use the dashboard to migrate the contents of users' mailboxes from an on-premises IMAP server to existing Exchange Online mailboxes. The dashboard gives administrators the following capabilities: 
     
-  - **Создание и запуск нескольких пакетов миграции** Администраторы могут создавать и ставить в очередь до 100 пакетов миграции. Одновременно выполняется только один пакет миграции, но администраторы могут поставить в очередь несколько пакетов, и, когда выполнение пакета миграции, запускается следующий пакет в очереди. 
+  - **Create and start multiple migration batches** Administrators can create and queue up to 100 migration batches. Only one migration batch runs at a time, but administrators can queue up multiple batches, so when a migration batch is finished running the next batch in the queue starts. 
     
-  - **Перезапуск пакета миграции со сбоями** После начальной синхронизации для пакета миграции, где элементы копируются из локальных почтовых ящиков в облачные почтовые ящики для каждого пользователя из пакета миграции, некоторые почтовые ящики могут вызвать ошибки синхронизации. Администратор может перезагрузить пакет миграции, чтобы предпринять попытку синхронизации сбойных почтовых ящиков. 
+  - **Restart a migration batch with failures** After the initial synchronization for a migration batch, where items are copied from on-premises mailboxes to the cloud mailboxes for each user in the migration batch, some mailboxes may fail synchronization. Administrators can restart that migration batch to try to synchronize the failed mailboxes. 
     
   - **Сведения о пропущенных элементах** При прямой и поэтапной миграции, а также миграции IMAP, панель мониторинга миграции отображает сведения об элементах, которые были пропущены, включая причину пропуска и место расположения элемента в почтовом ящике пользователя. 
     
@@ -120,11 +119,11 @@ Exchange Online предоставляет веб-средство для пер
     
   - **Редактирование пакетов миграции** Если пакет миграции при поэтапной миграции Exchange или миграции IMAP находится в очереди, но в данный момент не выполняется, администраторы могут изменить его. 
     
-- **Средство синхронизации каталогов Azure Active Directory**Средство синхронизации Azure Active Directory играет важную роль в переходе на гибридные почтовые сценарии с использованием Exchange Online и локального сервера Exchange Server. Средство выполняет одностороннюю синхронизацию из локального каталога Active Directory со службой Exchange Online. По завершении миграции администраторам достаточно использовать Exchange Online для управления пользователями и группами Active Directory. Средство также предоставляет пользователям унифицированный глобальный список адресов, где интернет-среда непрерывно синхронизируется с локальной средой. 
+- **Azure Active Directory Sync tool** The Azure Active Directory Sync tool plays an important role in migration to hybrid email scenarios that utilize both Exchange Online and an on-premises Exchange Server. The tool performs a one-way synchronization from on-premises Active Directory to Exchange Online. After migration is complete, administrators only need to use Exchange Online to manage Active Directory users and groups. The tool also provides users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
     
     Дополнительные сведения о Средство синхронизации Azure Active Directory см. в разделе [Синхронизация каталогов: стратегия](https://go.microsoft.com/fwlink/p/?LinkId=287034).
     
-- **Мастер гибридной конфигурации** Мастер гибридной конфигурации облегчает процесс развертывания благодаря упрощению конфигурации и компонентов и служб локальной среды и Exchange Online. Мастер гибридной конфигурации появился в Exchange Server 2010 с пакетом обновления 2 (SP2) и работает только в локальных организациях. Он включает следующие компоненты: 
+- **Hybrid Configuration Wizard** The Hybrid Configuration Wizard streamlines the hybrid deployment process by simplifying the on-premises and Exchange Online configuration of features and services. Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
     
   - Мастер Центра администрирования Exchange (EAC), выполняющий сквозной процесс настройки гибридного развертывания.
     
@@ -132,7 +131,7 @@ Exchange Online предоставляет веб-средство для пер
     
     Дополнительные сведения о мастере гибридной конфигурации см. в разделе [Мастер гибридной конфигурации](https://go.microsoft.com/fwlink/p/?LinkId=271734).
     
-- **Удаленная оболочка Windows PowerShell** В обновлении службы Exchange Online за декабрь 2011 г. удаленную оболочку Windows PowerShell можно использовать для поиска и устранения ошибок миграции. Например, администраторы могут отобразить диагностическую информацию для пакетов миграции, а также статистику миграции и диагностические сведения для пользователей с учетом их основных SMTP-адресов. 
+- **Remote Windows PowerShell** As part of the Exchange Online December 2011 Service Update, remote Windows PowerShell can be used to help troubleshoot migration errors. For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
     
 ## <a name="feature-availability"></a>Доступность функций
 

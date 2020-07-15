@@ -1,20 +1,19 @@
 ---
 title: Exchange Online для сред США для государственных организаций
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в описании службы Exchange Online.
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213701"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131933"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для сред США для государственных организаций
 
@@ -117,7 +116,7 @@ ms.locfileid: "44213701"
 |Outlook для Mac|Да|Да|Да|Чтобы удовлетворить требования к высокой и несоответствию требованиям GCC, необходимо использовать по крайней мере 1803 Office 365 профессиональный плюс. Office 365 профессиональный плюс не входит в состав G1 или F3.|
 |Outlook для iOS и Android|Да|Да|Да||
 |Exchange ActiveSync|Да|Да|Да||
-|Управление мобильными устройствами для Office 365|Да|Да|Да||
+|Общие сведения о мобильности и безопасности для Microsoft 365|Да|Да|Да||
 |POP и IMAP|Да|Да|Да||
 |SMTP|Да|Да|Да||
 |Поддержка приложений EWS|Да|Да|Да||

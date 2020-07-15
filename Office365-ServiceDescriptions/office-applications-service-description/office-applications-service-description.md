@@ -1,8 +1,7 @@
 ---
 title: Описание службы приложений Office
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 — это служба подписки, предоставляющая последние версии настольных приложений Office, с которыми вы уже знакомы, например Word, Excel и PowerPoint.
-ms.openlocfilehash: 1f9267abbf0de0caeeaa49989403a92ce1895f56
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e7a6562d20d4f126b25bb8ceca3e7c8dbf17c418
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214001"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131453"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
@@ -39,54 +38,54 @@ Microsoft 365 — это служба подписки, предоставляю
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Office профессиональный плюс 2013** <br/> |**Office профессиональный плюс 2016** <br/> |**Office профессиональный плюс 2019** <br/> |**Приложения Microsoft 365 для предприятий** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |**Microsoft 365 бизнес премиум** <br/> |
+|**Функция** <br/> |**Office профессиональный плюс 2013** <br/> |**Office профессиональный плюс 2016** <br/> |**Office профессиональный плюс 2019** <br/> |**Приложения Microsoft 365 для предприятий** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Microsoft 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
 |**Приложения Office** <br/> |||||||||||
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Да  <br/> |Да  <br/> |Нет<sup>+<sup> <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Microsoft Access](office-applications.md#microsoft-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да,<sup>11</sup>  <br/> |
-|[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да<sup>5</sup>  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>5, 10</sup> <br/> |Да<sup>5</sup>  <br/> |
-|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|[Приложения Windows 10](office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|[Office для Microsoft 365 для Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/>|Да,<sup>13</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
-|[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup>  <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
-|[Office Mobile для Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да, <sup>13</sup> <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |
-|Outlook для Android  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|**Корпоративная стоимость** <br/> |**Office профессиональный плюс 2013** <br/> |**Office профессиональный плюс 2016** <br/> |**Office профессиональный плюс 2019** <br/> |**Приложения Microsoft 365 для предприятий** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |**Microsoft 365 бизнес премиум** <br/>
-|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |Нет  <br/>| Нет  <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> | Да<sup>7</sup> <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Да  <br/> |Да  <br/> |Нет<sup>+<sup> <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Да  <br/> |Да  <br/> |Да <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Microsoft Access](office-applications.md#microsoft-access) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да,<sup>11</sup> <br/> |Нет  <br/> |Да,<sup>11</sup> <br/> |Да,<sup>11</sup>  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Skype для бизнеса](office-applications.md#skype-for-business) <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да<sup>5</sup>  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup>  <br/> |Да<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да<sup>5, 10</sup> <br/> |
+|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Да  <br/> |Да<sup>12</sup> <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Приложения Windows 10](office-applications.md#windows-10-apps) <br/> |Да  <br/> |Да  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Office для Microsoft 365 для Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|[Office Mobile для iPad и iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/>|Да,<sup>13</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
+|[Office Mobile для Android](office-applications.md#office-mobile-for-android) <br/> |Нет  <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup>  <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
+|[Office Mobile для Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Нет  <br/> |ДА  <br/> |Да,<sup>13</sup> <br/> |Да, <sup>13</sup> <br/>|Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |Да  <br/> |Да  <br/> |Да,<sup>14</sup>  <br/> |
+|Outlook для Android  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|**Корпоративная стоимость** <br/> |**Office профессиональный плюс 2013** <br/> |**Office профессиональный плюс 2016** <br/> |**Office профессиональный плюс 2019** <br/> |**Приложения Microsoft 365 для предприятий** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Microsoft 365 бизнес премиум** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
+|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |Нет  <br/> |Нет  <br/>| Нет  <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |ДА  <br/> |Да<sup>7</sup> <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> | 
 |Автоматическое назначение учетных записей пользователей  <br/> |Недоступно  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Многоязыковой пользовательский интерфейс  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Принудительное развертывание клиента  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|Client support for on-premises Exchange  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|Client support for on-premises SharePoint  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|Control of software updates  <br/> |Да  <br/> |Да  <br/>|Да  <br/>  |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|Database Compare  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br> |
-|Виртуализация рабочих столов  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да<sup>8</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Средство сравнения электронных таблиц Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Средство диагностики электронных таблиц Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/>
-|Архивация и соблюдение требований в Exchange Online и SharePoint Online  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/>|Да<sup>1</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА  <br/> |
-|Поддержка групповой политики  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Поддержка политик облачных приложений Office  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Управление правами на доступ к данным с помощью Azure Information Protection  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Нет<sup>2</sup> <br/> |Да <br/> |
+|Многоязыковой пользовательский интерфейс  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Принудительное развертывание клиента  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка клиентов для локального развертывания Exchange  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка клиентов для локального развертывания SharePoint  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Контроль обновлений программного обеспечения  <br/> |Да  <br/> |Да  <br/>|Да  <br/>  |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Средство сравнения баз данных  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Виртуализация рабочих столов  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да<sup>8</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Средство сравнения электронных таблиц Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Средство диагностики электронных таблиц Excel  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Архивация и соблюдение требований в Exchange Online и SharePoint Online  <br/> |Да<sup>1</sup> <br/> |Да  <br/> |Да  <br/>|Да<sup>1</sup> <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка групповой политики  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка политик облачных приложений Office  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Управление правами на доступ к данным с помощью Azure Information Protection  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Нет<sup>2</sup> <br/> |Да <br/> |Нет<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Нет<sup>2</sup> <br/> |
 |Управление правами на доступ к данным с использованием Windows Server AD RMS  <br/> |Да,<sup>3</sup> <br/> |Да  <br/> |Да <br/>| Да,<sup>3</sup> <br/>|Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |Да,<sup>3</sup> <br/> |
-|Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office  <br/> |Да  <br/> |Да  <br/> |Да<sup>+++<sup> <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Нет<sup>++</sup> <br/> |Да <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |ДА <br/> |
-|Телеметрия Office  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Поддержка автономного режима для клиентских приложений  <br/> |Да  <br/> |Да  <br/>|Да  <br/>  |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Power Map для Excel  <br/> |Нет<sup>4</sup> <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|PowerPivot для Excel  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Power Query for Excel  <br/> |Нет<sup>15</sup>  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Power View для Excel  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Перемещаемые параметры  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Активация совместно используемого компьютера  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Support for blocking cloud-based file storage  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Тематический поиск для обнаружения и повторного использования содержимого  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет <br/> |
-|Обновления версий  <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |ДА <br/> |
-|Volume activation (KMS/MAK)  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Нет<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br> |
+|Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office  <br/> |Да  <br/> |Да  <br/> |Да<sup>+++<sup> <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Нет<sup>++</sup> <br/> |Да <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |
+|Телеметрия Office  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка автономного режима для клиентских приложений  <br/> |Да  <br/> |Да  <br/>|Да  <br/>  |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Power Map для Excel  <br/> |Нет<sup>4</sup> <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|PowerPivot для Excel  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Power Query для Excel  <br/> |Нет<sup>15</sup>  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Power View для Excel  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Перемещаемые параметры  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Активация совместно используемого компьютера  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Поддержка блокировки облачного хранилища файлов  <br/> |Да  <br/> |Да  <br/>|Да  <br/> |Да  <br/>|Да  <br/> |Нет  <br/> |Нет  <br/> |Да <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |
+|Тематический поиск для обнаружения и повторного использования содержимого  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Обновления версий  <br/> |Нет  <br/> |Нет  <br/>|Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Активация корпоративных лицензий (KMS и MAK)  <br/> |Да  <br/> |Да  <br/> |Да  <br/>|Нет<sup>9</sup> <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет <br> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
    
 > [!NOTE]
 ><sup>+</sup>При установке Office 365 или Office 2019 вы получите по умолчанию OneNote для Windows 10. Для получения дополнительных сведений см раздел [часто задаваемые вопросы о OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>

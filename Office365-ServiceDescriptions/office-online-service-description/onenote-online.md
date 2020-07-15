@@ -1,8 +1,7 @@
 ---
 title: OneNote в Интернете
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Используйте OneNote в Интернете (ранее OneNote Web App), чтобы делать заметки в Интернете в записной книжке OneNote, которую вы можете добавить из любого места и легко делиться с другими пользователями. Все пользователи могут просматривать и легко редактировать файлы Office с помощью Office для Интернета.
-ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a85dcebbba52a14c0041f0cc514e557c8691161f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640227"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131313"
 ---
 # <a name="onenote-for-the-web"></a>OneNote в Интернете
 
@@ -142,7 +141,7 @@ OneNote для Интернета отображает записные книж
 
 Недоступно в OneNote для Интернета. Дополнительные функции поиска, например поиск по тегу, названию, автору и дате и звуковым файлам, доступны только в классическом приложении OneNote.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Общий доступ
 
 Если вы сохранили записную книжку OneNote в библиотеке документов SharePoint, ваша Записная книжка OneNote находится в сети. Это значит, что для того, чтобы совместно ее использовать, достаточно отправить ссылку на нее вместо вложения в электронное письмо. Выбрав ссылку, пользователи смогут читать свои заметки в веб-браузере. Узнайте больше об [общем доступе к заметкам OneNote в Интернете](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   

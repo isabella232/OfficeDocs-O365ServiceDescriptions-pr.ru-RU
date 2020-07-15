@@ -1,8 +1,7 @@
 ---
 title: Планы Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213911"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132133"
 ---
 # <a name="office-365-plan-options"></a>Планы Office 365
 
@@ -42,7 +41,7 @@ ms.locfileid: "44213911"
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Доступность служб в каждой из версий Office 365
 
-Каждый план Office 365: содержит набор отдельных служб, например, Exchange Online и SharePoint Online. В следующей таблице приведены службы, доступные в каждом из планов Office 365:.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
 >  Несмотря на то, что служба может быть доступна в планах Office 365, функции, доступные в каждом плане, могут отличаться. Подробные сведения о функциях, доступных в каждом плане, см. в описании отдельных служб либо свяжитесь с торговым представителем или торговым представителем Майкрософт. <br/>  В некоторых планах Office 365 для бизнеса можно приобретать надстройки. Они позволяют расширить возможности подписки. Дополнительные сведения можно найти [в статье покупка или изменение надстройки для Office 365 для бизнеса](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 

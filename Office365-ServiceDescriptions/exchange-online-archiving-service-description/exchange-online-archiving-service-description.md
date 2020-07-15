@@ -1,8 +1,7 @@
 ---
 title: Описание службы архивации на базе Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного корпоративного уровня Microsoft 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 и более поздних версий) или подписываться на некоторые планы Exchange Online или Microsoft 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213731"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131523"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -51,7 +50,7 @@ ms.locfileid: "44213731"
   
 Ищете сведения обо всех планах Microsoft 365? Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Требования
 
 Чтобы использовать архивацию на базе Exchange Online для Exchange Server, почтовые ящики пользователей должны находиться на сервере Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange Server 2010 (SP2 или более поздней версии).
   
@@ -61,7 +60,7 @@ ms.locfileid: "44213731"
   
 ### <a name="user-subscriptions"></a>Подписки пользователей
 
-Каждый пользователь, имеющий доступ к Архивация на базе Exchange Online, должен иметь подписку Архивация на базе Exchange Online. Каждая подписка на архив электронной почты может использоваться для хранения данных сообщений только одного пользователя.
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>Неограниченная квота на хранение архивов
 

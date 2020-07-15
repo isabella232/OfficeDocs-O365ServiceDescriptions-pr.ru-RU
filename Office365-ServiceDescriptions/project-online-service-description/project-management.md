@@ -1,8 +1,7 @@
 ---
 title: Управление проектами
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: В Project Online доступны следующие функции управления проектами.
-ms.openlocfilehash: 48fe2dd921cdda7d85dbbe138577a4a880e72488
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546042"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131223"
 ---
 # <a name="project-management"></a>Управление проектами
 
@@ -25,7 +24,7 @@ ms.locfileid: "42546042"
   
 ## <a name="issues-and-risk-management"></a>Управление проблемами и рисками
 
-Project Online и Project Server 2013 включают функции для предотвращения, выявления и снижения потенциальных деловых или проектных рисков. Дополнительные сведения см. в статье [Управление проблемами, рисками и документами в Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="manage-project-resources"></a>Управление ресурсами проектов
 
@@ -33,15 +32,15 @@ Project Online и Project Server 2013 включают функции для п�
   
 ## <a name="reporting-and-business-intelligence"></a>Создание отчетов и бизнес-аналитика
 
-Просматривать и создавать отчеты и работать с данными Project Server 2013 в решениях УПП от Майкрософт можно несколькими способами. Некоторые отчеты доступны автоматически, и вы можете легко создавать собственные с помощью различных инструментов. Дополнительные сведения см. в статье [Какие средства создания отчетов можно использовать с данными Project?](https://go.microsoft.com/fwlink/?LinkId=402642).
+With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).
   
 ## <a name="schedule-management"></a>Управление расписанием
 
-Расписание содержит задачи и конечные результаты, которые должны быть выполнены и достигнуты для сдачи проекта в срок. Вы можете создать временную шкалу для своих проектов для отслеживания прогресса и управления изменениями. Дополнительные сведения см. в статье [Добавление задач и проектов на временную шкалу](https://go.microsoft.com/fwlink/?LinkID=402655).
+The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).
   
 ## <a name="time-and-task-management"></a>Управление временем и задачами
 
-Используйте централизованный общий подход к оценке времени и управлению задачами. Контролируйте рабочее и нерабочее время для расчета зарплаты, выставления счетов и других деловых целей. Эффективно передавайте информацию о проектах, ежедневной работе и специальных запросах для оценки пиков и спадов использования или хода выполнения задач. Это поможет вам предвидеть влияние на запланированные усилия, затраты и сроки. Дополнительные сведения см. в статье [Отслеживание времени и хода выполнения задач](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
 ## <a name="project-home"></a>Домашняя страница проекта
 

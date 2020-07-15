@@ -1,20 +1,19 @@
 ---
 title: Планирование соответствия требованиям Microsoft 365 — GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Это руководство предназначено для ИТ-специалистов, которые управляют развертываниями Office 365 в отраслевых органах США и других субъектов, которые обрабатывают данные, которые подчиняются государственным нормативам и требованиям, в которых используется Корпорация Майкрософт 365 правительством США — для удовлетворения этих требований подходит.
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089640"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132503"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Планирование соответствия требованиям Microsoft 365 — GCC High
 
@@ -79,7 +78,7 @@ ms.locfileid: "45089640"
 |                                         | Обозреватель действий с метками                         | Невыполненная работа по проектированию |
 |                                         | Выученные классификаторы                           | Невыполненная работа по проектированию |
 |                                         | Единая подпись и метки чувствительности         | Невыполненная работа по проектированию |
-| **Управление рисками, связанными с инсайдерами**             | Расширенное шифрование сообщений                     | Available              |
+| **Управление рисками, связанными с инсайдерами.**             | Расширенное шифрование сообщений                     | Available              |
 |                                         | Управление внутренними рисками                         | Невыполненная работа по проектированию |
 |                                         | Соответствие требованиям к обмену данными                        | Невыполненная работа по проектированию |
 |                                         | Защищенное хранилище                                | Available              |
@@ -87,7 +86,7 @@ ms.locfileid: "45089640"
 |                                         | Управление привилегированным доступом                    | Невыполненная работа по проектированию |
 | **Обнаружение & ответа**                  | Резервирование на месте                            | Available              |
 |                                         | Управление обращениями                                 | Available              |
-|                                         | Search                                          | Available              |
+|                                         | Поиск                                          | Available              |
 |                                         | Экспорт                                          | Available              |
 |                                         | Расшифровка RMS                                  | Available              |
 |                                         | Собственный экспорт                                   | Available              |

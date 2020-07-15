@@ -1,8 +1,7 @@
 ---
 title: Обновления служб
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Чтобы узнать о возможностях Office 365, которые только что были выпущены или готовы к выпуску, ознакомьтесь с планом Microsoft 365.
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044811"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131483"
 ---
 # <a name="service-updates"></a>Обновления служб
 
 > [!NOTE]
-> Эта статья не относится к плану Office 365:, которым управляет компания 21Vianet. Информацию об обновлениях службы см. в статье [План Office 365, которым управляет 21Vianet: техническая поддержка и помощь в решении вопросов по подписке и выставлению счетов](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Чтобы узнать о возможностях, которые были выпущены или выпущены только для выпуска, ознакомьтесь с [планом Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Доступность обновлений зависит от многих факторов, таких как регион, язык, центр обработки данных и подписка. Это означает, что не все обновления становятся доступны сразу всем клиентам. 
+> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
   
 ## <a name="targeted-release"></a>Выпуск Targeted
 

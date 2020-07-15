@@ -1,8 +1,7 @@
 ---
 title: Функции администрирования и безопасности в Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Следующие функции администрирования и обеспечения безопасности доступны в Yammer.
-ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640087"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132103"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Функции администрирования и безопасности в Yammer
 
@@ -27,11 +26,11 @@ ms.locfileid: "43640087"
 
 ## <a name="admin-private-content-mode"></a>Частный режим контента администратора
 
-Проверенный администратор сети Yammer может просматривать личные сообщения и группы в ней.  Администраторы могут просматривать личное содержимое, только временно предоставив себе доступ к личному контенту для изучения проблем.  Дополнительные сведения см. в статье [Мониторинг личного контента в Yammer (проверенные администраторы)](https://go.microsoft.com/fwlink/?LinkId=627479).
+A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>Аналитика
 
-Анализируйте данные, передаваемые по сети чтобы узнать, как сотрудники используют Yammer. С помощью различных данных, от метрик использования до статистики участников, вы сможете определить методы повышения эффективности вашей сети.
+Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
 
 ## <a name="custom-network-branding"></a>Настраиваемая фирменная символика сети
 
@@ -74,7 +73,7 @@ ms.locfileid: "43640087"
 
 ## <a name="single-identity"></a>Одно удостоверение
 
-При выборе Yammer в качестве социального взаимодействия по умолчанию для Организации сотрудники сопоставляются с существующими учетными записями Yammer. Это значит, что им не потребуется заново входить в систему при переходе в Yammer в Office 365:. Когда сотрудники получают доступ&mdash;к Yammer из Office 365, через мобильное приложение Yammer или Yammer.com&mdash;, они автоматически регистрируются в соответствии с существующими учетными данными Организации.
+При выборе Yammer в качестве социального взаимодействия по умолчанию для Организации сотрудники сопоставляются с существующими учетными записями Yammer. Это значит, что им не потребуется заново входить в систему при переходе в Yammer в Office 365:. Когда сотрудники получают доступ к Yammer &mdash; из Office 365, через мобильное приложение Yammer или Yammer.com, &mdash; они автоматически регистрируются в соответствии с существующими учетными данными Организации.
 
 ## <a name="usage-policy"></a>Политика использования
 

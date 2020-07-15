@@ -1,7 +1,7 @@
 ---
 title: Описание службы Workplace Analytics
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Служба анализа рабочего места Майкрософт предоставляет широкие и выполняемые меры по тенденциям общения и совместной работы в Организации, что помогает принимать более эффективные бизнес-решения.
-ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640107"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132933"
 ---
 # <a name="workplace-analytics-service-description"></a>Описание службы Workplace Analytics
 

@@ -1,8 +1,7 @@
 ---
 title: Управление получателями, доменами и компаниями
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) предлагает несколько средств управления сведениями о получателях, доменах и компаниях. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
-ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640267"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132773"
 ---
 # <a name="recipient-domain-and-company-management"></a>Управление получателями, доменами и компаниями
 
@@ -31,7 +30,7 @@ Microsoft Exchange Online Protection (EOP) предлагает нескольк
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-В службе Exchange Online Protection можно настраивать только роли администраторов. Пользователей можно добавить в группы ролей администраторов по умолчанию и удалить из них непосредственно в Центре администрирования Exchange. Настройка RBAC недоступна. Дополнительные сведения см. в статье, посвященной [управлению разрешениями группы ролей администраторов в EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Управление доменами
 
@@ -39,13 +38,13 @@ Microsoft Exchange Online Protection (EOP) предлагает нескольк
   
 ## <a name="match-subdomains"></a>Соответствующие поддомены
 
-В службе EOP можно включить поток почты к поддоменам управляемого домена. Дополнительные сведения см. в статье [Включение потока почты к поддоменам в службе EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Пограничная блокировка на основе каталогов
 
 Функция пограничной блокировки на основе каталогов позволяет отклонять сообщения для недопустимых получателей в сети периметра службы. DBEB позволяет администраторам добавлять получателей с включенной поддержкой почты в корпорацию Майкрософт и блокировать все сообщения, отправленные на адреса электронной почты, которые отсутствуют в корпорации Майкрософт. Если сообщение отправляется на действительный адрес электронной почты в корпорации Майкрософт, сообщение пройдет через остальные слои фильтрации служб (защита от вредоносных программ, защита от нежелательной почты, правила транспорта). Если адрес отсутствует, служба блокирует сообщение еще до фильтрации, а отправителю отправляется отчет о недоставке сообщения. 
   
-Включение функции пограничной блокировки на основе каталогов требует настройки доменов и учетных записей пользователей. Дополнительные сведения см. в статье, посвященной [применению пограничной блокировки на основе каталогов для отклонения сообщений, отправленных недопустимым получателям](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Доступность функций
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 для образования
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045061"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132413"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
 Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них. 
   
-Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Чтобы сравнить функции в планах бизнеса и предприятий, ознакомьтесь со статьей [Сравнение Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177)или, более детальный список функций, приведено в описании соответствующей службы в [статье Microsoft 365 and Office 365 Description Service](../office-365-service-descriptions-technet-library.md). Чтобы найти статьи и сведения о поддержке, посетите [учебный &amp; курс по Office](https://support.office.com/).
+Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Чтобы сравнить функции в планах бизнеса и предприятий, ознакомьтесь со статьей [Сравнение Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?linkid=799177)или, более детальный список функций, приведено в описании соответствующей службы в [статье Microsoft 365 and Office 365 Description Service](../office-365-service-descriptions-technet-library.md). Чтобы найти статьи и сведения о поддержке, посетите [ &amp; учебный курс по Office](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Службы и компоненты
 

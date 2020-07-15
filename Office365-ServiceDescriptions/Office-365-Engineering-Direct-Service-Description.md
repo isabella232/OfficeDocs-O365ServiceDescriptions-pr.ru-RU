@@ -1,20 +1,19 @@
 ---
 title: Описание непосредственных служб по проектированию Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Разработка решений Office 365 — это добавление в корпорацию Майкрософт соглашения о поддержке премьер-поддержки на уровне предприятия. 365 в описании предлагаемых функций и требований к реализации представлены дополнительные сведения о предлагаемых функциях.
-ms.openlocfilehash: 6b2577a2164415ddd3865e22ef6785d9c6887066
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 00d481aeb789e017bbc4099d4bbb7338858716a7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638747"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131603"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Описание непосредственных служб по проектированию Office 365
 

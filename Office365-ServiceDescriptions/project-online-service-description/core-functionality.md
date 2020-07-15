@@ -1,8 +1,7 @@
 ---
 title: Основная функциональность
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: В Project Online доступны следующие основные функциональные возможности.
-ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640197"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131273"
 ---
 # <a name="core-functionality"></a>Основная функциональность
 
@@ -43,11 +42,11 @@ ms.locfileid: "43640197"
   
 ## <a name="custom-fields"></a>настраиваемые поля;
 
-В дополнение к полям, которые имеются в программе Project, можно настроить собственные поля, которые будут отвечать требованиям вашей организации. Чтобы узнать о полях больше, ознакомьтесь со статьей [Справочник по доступным полям](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
-Для совместной разработки графиков можно копировать и вставлять данные графиков между приложениями Microsoft Office, например Word. Дополнительные сведения о [копировании и вставке из программы Word в Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
@@ -55,7 +54,7 @@ ms.locfileid: "43640197"
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 
-Повышайте эффективность своей работы с помощью ленты, интерфейса на основе вкладок для быстрого поиска и использования функций и элементов управления Project. [Дополнительные сведения о ленте](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -79,15 +78,15 @@ ms.locfileid: "43640197"
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-Если вы не знаете всех сведений, касающихся проекта, вы можете использовать замещающий текст, например "TBD" для ресурсов, дат начала и окончания и т. д. С дополнительными сведениями можно ознакомиться в статье [Нисходящее планирование](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>Шаблоны проектов
 
-Вы можете значительно сэкономить время, создавая проекты на основе других проектов, используя их в качестве шаблона. Ознакомьтесь со статьей [Создание нового проекта из другого проекта или шаблона](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>Начальный опыт
 
-Вместо того, чтобы предоставить пользователям пустой проект, Project 2013 представляет универсальный центр для создания проектов. Вы можете использовать шаблоны клиентов или встроенное руководство по простому началу работы в четыре шага.
+Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
   
 ## <a name="text-wrap"></a>Перенос текста
 

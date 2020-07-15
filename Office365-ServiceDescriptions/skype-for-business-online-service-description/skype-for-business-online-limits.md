@@ -1,8 +1,7 @@
 ---
 title: Ограничения Skype для бизнеса Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Предельные значения в Skype для бизнеса Online делятся на следующие категории.
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639707"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131023"
 ---
 # <a name="skype-for-business-online-limits"></a>Ограничения Skype для бизнеса Online
 
@@ -39,7 +38,7 @@ ms.locfileid: "43639707"
 ## <a name="peer-to-peer-limits"></a>Одноранговые ограничения
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **Ограничение на передачу файлов.** Максимальный размер файла, который можно передать в чате Skype для бизнеса Online. Сведения о типах файлов, которые нельзя передавать, см. в статье об [отправке и получении файлов или вложений в Skype для бизнеса Online](https://go.microsoft.com/fwlink/?LinkId=398280) на веб-сайте службы поддержки Майкрософт.
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Ограничение на количество бесед во вкладках** Максимальное количество бесед, одновременно открытых пользователем Skype для бизнеса в отдельных вкладках. 
     

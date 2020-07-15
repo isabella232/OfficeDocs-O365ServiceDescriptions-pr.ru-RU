@@ -1,19 +1,18 @@
 ---
 title: Описание службы Microsoft Teams
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711149"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131993"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -53,7 +52,7 @@ Microsoft Teams недоступен в качестве автономной с
 
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Для малого бизнеса** <br/> |**Планы предприятия** <br/> |**GCC** <br/> |**GCC — High** <br/> |**ВЫЗОВ** <br/> |**Образование** <br/> |
+| <br/>|**Версия для малого бизнеса** <br/> |**Планы предприятия** <br/> |**GCC** <br/> |**GCC — High** <br/> |**ВЫЗОВ** <br/> |**Образование** <br/> |
 |Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
 |Каналы — Standard  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

@@ -1,8 +1,7 @@
 ---
 title: Управление портфелем
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: В Project Online доступны следующие функции управления портфелем.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688423"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131233"
 ---
 # <a name="portfolio-management"></a>Управление портфелем
 
@@ -37,19 +36,19 @@ ms.locfileid: "42688423"
   
 ## <a name="financial-management"></a>Управление финансами
 
-Используйте финансовый менеджмент, чтобы прогнозировать выгоды от реализации проекта. Отслеживайте эффективность затрат, чтобы каждый проект выполнялся в рамках бюджета, а портфель обеспечивал ожидаемые результаты. Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Участие в рабочем процессе
 
-Рабочие процессы помогают структурировать прохождение проектами всех необходимых этапов. Рабочий процесс включает определения стадий жизненного цикла, через которые проходит проект, например создание предложения и первоначальное утверждение. Он также задает необходимые или заблокированные сведения на каждом этапе.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>Аналитика и выбор портфеля
 
-Эффективно выявляйте, выбирайте и реализуйте портфели проектов, которые согласуются с бизнес-стратегией вашей организации, и увеличивайте рентабельность инвестиций (ROI). Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Управление программами
 
-Каждый проект имеет свои цели, которые в сочетании друг с другом обеспечивают прогнозируемые выгоды программы в целом. Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>План
 

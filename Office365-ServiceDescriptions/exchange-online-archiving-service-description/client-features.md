@@ -1,8 +1,7 @@
 ---
 title: Функции клиентов в архивации на базе Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Архивация Microsoft Exchange Online позволяет пользователям подключаться к архивным почтовым ящикам с различных устройств и платформ. Все сетевое подключение к архиву пользователя происходит через Интернет, и подключения к виртуальной частной сети (VPN) не требуются. Организации могут публиковать локальный сервер клиентского доступа, чтобы пользователи могли получать доступ к основному почтовому ящику с помощью мобильного Outlook, не требуя подключения к VPN. Если для доступа к основному почтовому ящику пользователя, расположенному на локальном сервере, требуется VPN-доступ, это требование не изменяется.
-ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639727"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132063"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Функции клиентов в архивации на базе Exchange Online
 
@@ -28,14 +27,14 @@ ms.locfileid: "43639727"
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook  это полнофункциональная программа электронной почты с поддержкой календарей, контактов и задач. Архивация на базе Exchange Online поддерживает Outlook 2013, Outlook 2010 и Outlook 2007. Ключевые функции:
+Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
   
 - **Мобильный Outlook** Мобильный Outlook позволяет пользователям Outlook подключаться к Exchange Server и архивации на базе Exchange Online через Интернет без необходимости подключения VPN. Подключение между Outlook и Архивация на базе Exchange Online выполняется по туннелю, защищенному с помощью протокола SSL, с использованием сетевого компонента Windows "RPC over HTTP".    
 - **Автообнаружение** Служба автообнаружения Exchange автоматически настраивает Outlook для работы с Архивация на базе Exchange Online. Служба автообнаружения позволяет пользователям Outlook получать необходимые параметры профиля непосредственно из Exchange в первый раз (и через определенные интервалы времени), чтобы они были входить с использованием адреса электронной почты и пароля. 
 
 Outlook 2010 и более поздние версии и Outlook в Интернете предоставляют пользователям все функции архива, а также связанные с ними функции, такие как политики хранения и архивирования.
   
-Outlook 2007 предоставляет базовую поддержку архивов, но не все функции архивирования и обеспечения соответствия доступны в Outlook 2007. Например, в Outlook 2007 пользователи не могут применять политики хранения или архивирования к элементам в своих почтовых ящиках. Вместо этого пользователи должны полагаться на политики, подготовленные администраторами. Для доступа к архивам пользователям Outlook 2007 требуется накопительный пакет обновления Office 2007 за февраль 2011 г.
+Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
   
 > [!NOTE]
 > Outlook не предоставляет возможности архивации на базе Exchange Online. Приложения Microsoft 365 для предприятий (включая Microsoft Outlook) включены в некоторые планы и могут быть приобретены в виде отдельной подписки. Дополнительные сведения можно найти в [статье Microsoft 365 Plan](../office-365-platform-service-description/office-365-plan-options.md). Дополнительные сведения о приложениях Microsoft 365 для предприятий можно найти в статье [Описание службы приложений Office](../office-applications-service-description/office-applications-service-description.md). 
@@ -62,7 +61,7 @@ Outlook 2007 предоставляет базовую поддержку арх
 
 ## <a name="outlook-on-the-web"></a>Outlook в Интернете
 
-Outlook в Интернете — это веб-версия почтового клиента Outlook, используемая вместе с Exchange Online. Когда пользователи подключаются к Интернету&mdash;дома, в офисе или в дороге&mdash;, они могут получать доступ к своей электронной почте через Outlook в Интернете.
+Outlook в Интернете — это веб-версия почтового клиента Outlook, используемая вместе с Exchange Online. Когда пользователи подключаются к Интернету &mdash; дома, в офисе или в дороге, &mdash; они могут получать доступ к своей электронной почте через Outlook в Интернете.
   
 Пользователи могут получить доступ к своему архиву, войдя в Outlook в локальной сети (используя один и тот же URL-адрес). Архив отображается вместе с основным почтовым ящиком в Outlook в Интернете. Нет прямого способа доступа к архиву непосредственно из Outlook в Интернете.
   

@@ -1,8 +1,7 @@
 ---
 title: Политика обмена сообщениями и соответствие требованиям
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640167"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132793"
 ---
 # <a name="messaging-policy-and-compliance"></a>Политика обмена сообщениями и соответствие требованиям
 
@@ -56,7 +55,7 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 - Просматривать данные об инциденте в отчетах защиты от потери данных или добавлять собственные специальные отчеты с помощью действия для создания отчета об инциденте.
 
 > [!NOTE]
-> Политики защиты от потери данных применяются только к входящей или исходящей почте организации. К внутриорганизационной (внутренней) почте политики защиты от потери данных не применяются кроме случаев, когда запущен Exchange Server 2013 с локальной защитой от потери данных. Это также относится к подсказкам политики защиты от потери данных, которые информируют пользователей о потенциальных нарушениях политики перед ошибочной отправкой конфиденциальных данных несанкционированным получателям.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 Чтобы узнать больше о защите от потери данных, обратитесь к разделу [Защита от потери данных в Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
@@ -66,7 +65,7 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 
-|**Функция**|**Изолированная EOP**|**Функции EOP в <br/> Exchange Online**|**Клиентская <br/> лицензия Exchange Enterprise CAL со службами**|
+|**Функция**|**Изолированная EOP**|**Функции EOP в <br/> Exchange Online**|**<br/>Клиентская лицензия Exchange Enterprise CAL со службами**|
 |:-----|:-----|:-----|:-----|
 |Правила потока обработки почты|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>, 1, 3</sup>|
 |Ведение журнала аудита|Да<sup>2</sup>|Да|Да|

@@ -1,8 +1,7 @@
 ---
 title: Установка и администрирование Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: В этой статье описываются административные элементы управления и поддержка, доступные для настройки параметров Exchange Online и поддержания среды Exchange Online в Организации, ее выполнения и текущей. Он включает сведения о средствах самостоятельного администрирования и возможностях, доступных для организаций; административные обязанности корпорации Майкрософт и обязательства производительности; а также обслуживание и обновления для продукта.
-ms.openlocfilehash: 53179b3526a53333583c8265a501c743658348cd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 19ec50b3f502ee111de05e1a115d17f16fec3569
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640337"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133004"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Установка и администрирование Exchange Online
 
@@ -49,28 +48,28 @@ ms.locfileid: "43640337"
   
 ### <a name="exchange-admin-center"></a>Центр администрирования Exchange
 
-Exchange Online предоставляет единую консоль управления, которая упрощает работу и оптимизирована для управления локальными, гибридными и веб-развертываниями. В Центре администрирования Exchange администраторы могут управлять специальными параметрами Exchange.
+Exchange Online provides a single unified management console that allows for ease of use and is optimized for management of on-premises, online, or hybrid deployments. The Exchange admin center (EAC) is where administrators can manage Exchange-specific settings.
   
 Дополнительные сведения об управлении Exchange Online с помощью Центра администрирования Exchange см. в разделе [Центр администрирования Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Удаленная оболочка Windows PowerShell для Exchange Online
 
-С помощью удаленной оболочки Windows PowerShell администраторы могут подключаться к Exchange Online для выполнения задач управления, недоступных или нецелесообразных при использовании Центра администрирования Exchange. Такие задачи включают автоматизацию повторяющихся задач, извлечение данных из пользовательских отчетов, настройку политик и подключение Exchange Online к существующим процессам и инфраструктуре. Дополнительные сведения см. в статье [Подключение к Exchange Online с помощью удаленной оболочки PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
+Using remote Windows PowerShell, administrators can connect to Exchange Online to perform management tasks that are not available or practical using the EAC. These include the ability to automate repetitive tasks, extract data for custom reports, customize policies, and connect Exchange Online to existing infrastructure and processes. For more information, see [Connect to Exchange Online Using Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   
-Exchange Online использует те же командлеты оболочки Windows PowerShell, что и Exchange Server 2013, но некоторые команды и параметры недоступны, поскольку эти функции не применяются в Exchange Online. Список командлетов, которые используются с Exchange Online, см. в разделе [Командлеты Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+Exchange Online uses the same Windows PowerShell cmdlets as Exchange Server 2013, with certain commands and parameters unavailable because these features do not apply in Exchange Online. For a list of cmdlets for use with Exchange Online, see [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
-Для использования удаленной оболочки Windows PowerShell администраторам не нужно устанавливать какое-либо средство управления или миграции Exchange Server. Однако компьютеры администраторов должны работать под управлением Windows Management Framework 3.0, включающей в себя Windows PowerShell версии 3 и WinRM 3.0; а также Windows .NET Framework 4.5. Эти компоненты уже установлены на компьютере под управлением ОС Windows 8 или Windows Server 2012. Администраторы могут загружать эти компоненты на компьютеры под управлением ОС Windows 7 или Windows Server 2008 R2 вручную.
+Administrators do not need to install any Exchange Server management or migration tools to use remote Windows PowerShell. However, administrators' computers must be running the Windows Management Framework 3.0, which contains Windows PowerShell v3 and WinRM 3.0; and Windows .NET Framework 4.5. These components are already installed on computers running Windows 8 or Windows Server 2012. Administrators can manually download these components for computers that are running Windows 7 or Windows Server 2008 R2.
   
 > [!IMPORTANT]
 > Для предотвращения атак типа "отказ в обслуживании" (DoS) можно открыть не более трех подключений оболочки Windows PowerShell к организации Exchange Online. 
   
 ## <a name="self-service-capabilities-for-exchange-online"></a>Возможности самообслуживания для Exchange Online
 
-Ниже приводятся важные функции, доступные для управления Exchange Online с помощью Центра администрирования Exchange, удаленной оболочки Windows PowerShell и других инструментов. С помощью этих инструментов можно контролировать и многие другие параметры, как описано в этом документе.
+Below are important capabilities that are available for managing Exchange Online by using the EAC, remote Windows PowerShell, and other tools. Many other settings can also be controlled with these tools, as described throughout this document.
   
 ### <a name="mobile-device-security-policies-for-exchange-online"></a>Политики безопасности мобильных устройств для Exchange Online
 
-Exchange Online поддерживает те же политики ActiveSync для мобильных устройств, что и Exchange Server 2013. Администраторы могут применять и настраивать эти политики для отдельных пользователей и групп с помощью Центра администрирования Exchange или удаленной оболочки Windows PowerShell.
+Exchange Online supports the same ActiveSync policies for mobile devices as Exchange Server 2013. Administrators can enforce and customize these security policies for specific users and groups by using the EAC or remote Windows PowerShell.
   
 ### <a name="message-tracking-for-exchange-online"></a>Отслеживание сообщений для Exchange Online
 
@@ -78,7 +77,7 @@ Exchange Online поддерживает те же политики ActiveSync �
   
 ### <a name="usage-reporting-for-exchange-online"></a>Использование отчетов для Exchange Online
 
-Администраторы могут использовать удаленную оболочку Windows PowerShell для получения информации об использовании служб Exchange Online сотрудниками организации. К такой информации относятся следующие сведения.
+Administrators can use remote Windows PowerShell to retrieve information about how people in their organizations use the Exchange Online service. Available information includes:
   
 - Размер почтового ящика для каждого пользователя в организации.
     
@@ -86,7 +85,7 @@ Exchange Online поддерживает те же политики ActiveSync �
     
 - Данные о подключении мобильных устройств, например, подключенных с помощью Exchange ActiveSync, об используемых устройствах и дате их последнего подключения.
     
-Командлеты удаленной оболочки Windows PowerShell, которые начинаются с префикса "get-", могут получать данные от системы Exchange Online. Администраторы могут экспортировать эту информацию с Windows PowerShell в формате CSV для расширенного анализа или создания отчета.
+Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the Exchange Online system. Administrators can export this information from Windows PowerShell in .csv format for advanced analysis or reporting.
   
 Дополнительные сведения о командлетах Windows PowerShell, которые используются в Exchange Online, см. в разделе [Командлеты Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
@@ -96,7 +95,7 @@ Exchange Online поддерживает те же политики ActiveSync �
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Обновления служб и продуктов для Exchange Online
 
-Клиенты Exchange Online пользуются преимуществом периодических обновлений Exchange до новейших технологий, в том числе до новых выпусков Exchange Server. Эти обновления доступны бесплатно и гарантируют, что клиенты всегда используют новейшее программное обеспечение Exchange.
+Exchange Online customers benefit from periodic upgrades to the latest Exchange technology, including new releases of Exchange Server. These upgrades are made available at no additional charge, and ensure that customers are always using the latest Exchange software.
   
 После выпуска корпорацией Майкрософт основной версии Exchange клиенты могут обновить службы до новой версии в течение 12 месяцев.
   

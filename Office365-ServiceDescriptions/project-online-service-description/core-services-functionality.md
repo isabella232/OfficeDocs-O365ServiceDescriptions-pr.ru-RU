@@ -1,8 +1,7 @@
 ---
 title: Основные функции
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: В Project Online доступны следующие функции основных служб.
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638967"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131243"
 ---
 # <a name="core-services-functionality"></a>Основные функции
 
@@ -25,11 +24,11 @@ ms.locfileid: "43638967"
   
 ## <a name="active-directory-integration"></a>Интеграция с Active Directory
 
-Active Directory предоставляет для администраторов централизованное местоположение для управления разрешениями и учетными данными пользователей. Интеграция Active Directory с Project позволяет синхронизировать пользователей и группы в Active Directory с Project Online или Project Server 2013. Ознакомьтесь со статьей [Управление синхронизацией групп безопасности с Active Directory в Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>Администрирование, развертывание и расширяемость
 
-Project Online и Project Server 2013 предоставляют функции, позволяющие администраторам планировать, устанавливать и настраивать, сопровождать и расширять Project. Ознакомьтесь с [новыми возможностями для ИТ-специалистов в Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>Начало работы
 
@@ -37,7 +36,7 @@ Project Online и Project Server 2013 предоставляют функции,
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Управление проблемами и рисками (для участников группы)
 
-Project Online и Project Server 2013 включают функции для предотвращения, выявления и снижения потенциальных деловых или проектных рисков. Дополнительные сведения см. в статье [Управление проблемами, рисками и документами в Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Центр управления безопасностью Office 365
 
@@ -45,7 +44,7 @@ Project Online и Project Server 2013 включают функции для п�
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
-Решения по управлению портфелями проектов (УПП) от Майкрософт поддерживаются сотнями партнеров, которые заслужили признание компетентности УПП и прошли соответствующие экзамены и большое количество развертываний в более чем 80 странах и регионах мира. Если вам нужна помощь по оценке, выработке концепции, развертыванию или обучению и вы готовы сотрудничать с организациями, предоставляющими профессиональные услуги, [свяжитесь с партнером по УПП в своем регионе](https://go.microsoft.com/fwlink/p/?LinkId=272646)
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>Service reliability
 
@@ -61,5 +60,5 @@ Project Online и Project Server 2013 включают функции для п�
   
 ## <a name="time-and-task-management-for-team-members"></a>Управление временем и задачами (для участников группы)
 
-Используйте централизованный общий подход к оценке времени и управлению задачами. Контролируйте рабочее и нерабочее время для расчета зарплаты, выставления счетов и других деловых целей. Эффективно передавайте информацию о проектах, ежедневной работе и специальных запросах для оценки пиков и спадов использования или хода выполнения задач. Это поможет вам предвидеть влияние на запланированные усилия, затраты и сроки. Дополнительные сведения см. в статье [Отслеживание времени и хода выполнения задач](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

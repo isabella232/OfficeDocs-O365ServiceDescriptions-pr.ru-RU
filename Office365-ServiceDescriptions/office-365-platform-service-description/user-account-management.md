@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Корпорация Майкрософт поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002316"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131663"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ ms.locfileid: "44002316"
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Не удается войти, установить или удалить Office или отменить подписку?
 
-Справка по [входу в](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [установку и удаление Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Отмена Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Справка по [входу в](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [установку и удаление Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [Отмена Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Другие проблемы можно найти в [центре поддержки Майкрософт](https://support.microsoft.com/contactus/). Чтобы получить поддержку по службе Office 365, предоставляемой компанией 21Vianet в Китае, свяжитесь со [группой поддержки 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Если вы используете Office 365 Germany, свяжитесь со [группой поддержки Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -50,7 +49,7 @@ ms.locfileid: "44002316"
 
 При создании нового пользователя имя входа и адрес электронной почты пользователя назначаются для домена по умолчанию, как указано в центре администрирования Microsoft 365. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей и доменов](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
-\< По умолчанию для подписки используется домен _Company Name_ \> **. onmicrosoft.com** , созданный с помощью учетной записи. \* Вы можете добавить один или несколько пользовательских доменов в корпорацию Майкрософт, а не хранить домен onmicrosoft.com, а также назначить пользователям возможность входа с помощью любого из проверенных доменов. Каждый назначенный домен пользователя  это электронный адрес, который будет появляться при отправке и получении электронных сообщений. 
+По умолчанию в подписке используется \< _company name_\> домен **. onmicrosoft.com** , созданный с помощью учетной записи. \* Вы можете добавить один или несколько пользовательских доменов в корпорацию Майкрософт, а не хранить домен onmicrosoft.com, а также назначить пользователям возможность входа с помощью любого из проверенных доменов. Каждый назначенный домен пользователя  это электронный адрес, который будет появляться при отправке и получении электронных сообщений. 
   
 Можно разместить до 900 зарегистрированных Интернет-доменов, каждый из которых представлен различное пространством имен. 
   
@@ -58,7 +57,7 @@ ms.locfileid: "44002316"
   
 Дополнительные сведения о доменах в Office 365: см. в описании службы [Домены](domains.md). 
   
-\* If you are using Office 365 operated by 21Vianet in China, the default domain is \<companyname\> **.onmsChina.cn**. If you are using Office 365 Germany, the default domain is \<companyname\> **.onmicrosoft.de**
+\*Если вы используете Office 365 под управлением 21Vianet в Китае, доменом по умолчанию является \<companyname\> **. onmsChina.CN**. Если вы используете Office 365 Германия, по умолчанию используется домен \<companyname\> **. onmicrosoft.de**
   
 ## <a name="authentication"></a>Проверка подлинности
 
@@ -141,7 +140,7 @@ ms.locfileid: "44002316"
     
 - Чтобы повысить уровень безопасности, пользователи должны изменить свои пароли при первом доступе к службам Майкрософт. В результате, прежде чем пользователи смогут получить доступ к службам Майкрософт, они должны войти в центр администрирования Microsoft 365, где ему будет предложено изменить свои пароли.
     
-- Администраторы могут задать политику истечения срока действия пароля. Дополнительные сведения см. в статье [Установка срока действия паролей](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 Существует несколько средств сброса паролей для пользователей с облачными удостоверениями:
   
@@ -173,7 +172,7 @@ ms.locfileid: "44002316"
   
 ## <a name="administrator-roles"></a>Роли администратора
 
-В Office 365: корпоративный применяется модель RBAC: разрешения и возможности определяются ролями управления. Пользователь, который регистрирует свою организацию в Office 365:, автоматически становится глобальным администратором или администратором высшего уровня. Существует пять ролей администратора: глобальный администратор, администратор выставления счетов, администратор паролей, администратор служб и администратор управления пользователями. Дополнительные сведения о ролях администратора в Office 365: корпоративный, в том числе об их применении в Exchange Online, SharePoint Online и Skype для бизнеса Online, см. в статье [Назначение ролей администратора](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Если вы используете план Office 365: под управлением 21Vianet в Китае, см. статью [Назначение ролей администраторов в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Делегированное администрирование и поддержка партнеров
 
@@ -184,7 +183,7 @@ ms.locfileid: "44002316"
   
 ## <a name="azure-active-directory-services"></a>Службы Azure Active Directory
 
-Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Дополнительные сведения о функциях AD в Office 365 см. в статье [Фирменная символика страницы входа и самостоятельный сброс пароля пользователя облака](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Узнайте больше о [выпусках Free, Basic и Premium службы Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Доступность функций
 

@@ -1,8 +1,7 @@
 ---
 title: Описание службы SharePoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214041"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131033"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -35,7 +34,7 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Чтобы узнать о различиях в функциях SharePoint для облачных пользователей США, ознакомьтесь со статьей [SharePoint для государственных сред США](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Новые возможности
+## <a name="whats-new"></a>Что нового
 
 Сведения о новейших возможностях можно узнать [в статье новые возможности SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -53,7 +52,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 
 OneDrive в Microsoft 365 — это сетевое хранилище для отдельных пользователей в Организации. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive включен в SharePoint, и его также можно приобрести в виде автономного плана. Чтобы узнать, какой объем хранилища OneDrive поставляется вместе с каждым планом, ознакомьтесь с [описанием службы OneDrive](../onedrive-for-business-service-description.md).
 
-## <a name="apps"></a>Приложения
+## <a name="apps"></a>Apps
 
 Для синхронизации файлов SharePoint на компьютере пользователи могут использовать [приложение синхронизации OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) для Windows или Mac. Сведения о доступности функций в приложении синхронизации содержатся в [описании службы OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
@@ -136,7 +135,7 @@ SharePoint интегрируется с расширенными возможн
 - [Защита от потери данных (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [Обнаружение электронных](/microsoft-365/compliance/ediscovery-cases) данных (поиск контента, удержание, экспорт)
 - [Информационные барьеры](/microsoft-365/compliance/information-barriers)
-- [Office 365 Advanced Threat protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Метки и политики хранения](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [Метки конфиденциальности](/microsoft-365/compliance/sensitivity-labels)
 - [Единый аудит](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (аудит действий пользователей и администраторов SharePoint)
