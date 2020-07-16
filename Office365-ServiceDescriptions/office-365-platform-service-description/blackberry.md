@@ -35,7 +35,7 @@ ms.locfileid: "45132366"
 
 С помощью BlackBerry® Internet Service (BIS) вы можете подключить смартфоны BlackBerry 7 и более ранних версий к Exchange Online. BIS позволяет пользователям BlackBerry получать доступ к своим учетным записям электронной почты через Интернет через IMAP или POP.
   
-Most mobile operators have BIS set up. End users will need to configure email, calendar, and contacts synchronization by using the instructions in the following Knowledge Base articles:
+Служба BIS предоставляется большинством мобильных операторов, поэтому пользователям потребуется настроить синхронизацию электронной почты, календаря и контактов, следуя инструкциям в указанных ниже статьях базы знаний.
   
 - [KB31310. Службы BlackBerry Internet Service и Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,7 +44,7 @@ Most mobile operators have BIS set up. End users will need to configure email, c
 - [KB22430. Как включить или отключить синхронизацию контактов с помощью BlackBerry Internet Service при беспроводном подключении](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Users who connect to their accounts using IMAP or POP connections can synchronize their email only by using a wireless connection. For information about how BIS users can use a wired connection to synchronize the contacts and calendar between their BlackBerry smartphones and their accounts, contact BlackBerry support. 
+> Пользователи, которые получают доступ к своим учетным записям с использованием протоколов IMAP или POP, могут синхронизировать свою электронную почту только с помощью беспроводного соединения. Чтобы узнать, как пользователи BIS могут синхронизировать контакты и календарь между смартфоном BlackBerry и своей учетной записью при проводном подключении, обратитесь в службу поддержки BlackBerry. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Смартфоны BlackBerry с SharePoint Online
 

@@ -27,15 +27,15 @@ ms.locfileid: "45132743"
 
 Архивация на базе Exchange Online предлагает политики хранения, которые смогут помочь организациям снизить обязательства, связанные с обменом электронными и другими сообщениями. С помощью этих политик администраторы могут применить параметры хранения к конкретным папкам в папках пользователей "Входящие". Администраторы также могут предоставить пользователям меню политик хранения и разрешить им применять политики к определенным элементам, беседам или папкам с помощью Outlook 2010 или более поздней версии или Outlook в Интернете. В Архивация на базе Exchange Online администраторы управляют политиками хранения из локальной инфраструктуры.
   
-Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
+Архивация на базе Exchange Online предлагает два типа политик: политики архивации и политики удаления. Оба типа могут применяться к одному и тому же элементу или папке. Например, пользователь может пометить сообщение электронной почты таким образом, чтобы оно автоматически перемещалось в личный архив через указанное количество дней, а затем удалялось через другое количество дней.
   
 В Outlook 2010 и более поздних версий и Outlook в Интернете пользователи могут применять политики хранения к папкам, беседам или отдельным сообщениям, а также просматривать примененные политики хранения и ожидаемые даты удаления сообщений. Сообщения пользователей в других почтовых клиентах могут удаляться или архивироваться на основе серверных политик хранения, создаваемых администратором, но они не предоставляют такого же уровня наглядности и управляемости.
   
-The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+Возможности политик хранения, предлагаемые в Архивация на базе Exchange Online, аналогичны предлагаемым в Exchange Server 2010 с пакетом обновления 2 (SP2) и более поздних версий. Администраторы могут управлять политиками хранения из локальной среды Exchange Server 2010 и более поздних версий. Управляемые папки (старый подход к управлению записью сообщений, представленный в Exchange 2007) недоступны в Exchange Online и несовместимы с архивацией на базе Exchange Online. Дополнительные сведения см. в статье [Теги хранения и политики хранения](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Хранение на месте и хранение для судебного разбирательства
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+При наличии обоснованных предпосылок для судебных исков организациям требуется сохранять электронные данные (включая почту), связанные с делом. Такие предпосылки могут возникать до уточнения подробностей дела, и сохранение часто охватывает широкие области. Организации могут сохранять всю почту, относящуюся к конкретному вопросу, или всю электронную почту отдельных лиц.
   
 В Exchange Online хранение на месте и судебное удержание можно использовать для достижения следующих целей:
   
@@ -67,19 +67,19 @@ When a reasonable expectation of litigation exists, organizations are required t
   
 ### <a name="in-place-ediscovery"></a>Обнаружение электронных данных на месте
 
-Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Архивация на базе Exchange Online поддерживает обнаружение электронных данных на месте для поиска содержимого почтовых ящиков в организации. С помощью Центра администрирования Exchange или удаленного сеанса Windows PowerShell на локальном сервере Exchange 2013 администраторы или уполномоченные менеджеры по обнаружению могут искать различные элементы почтовых ящиков, такие как сообщения, вложения, встречи, задачи и контакты. Функция обнаружения электронных данных на месте может одновременно выполнять поиск в основных почтовых ящиках и архивах. Разнообразные возможности фильтрации включают фильтрацию по отправителям, получателям, типам сообщений, датам отправки и получения, копиям и скрытым копиям, а также с помощью синтаксиса Keyword Query Language (KQL). Дополнительные сведения см. в статье [Обнаружение электронных данных на месте](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
-The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
-  
-> [!NOTE]
-> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
-  
-Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+С помощью Центра администрирования Exchange и удаленного сеанса Windows PowerShell можно выполнять поиск в 5000 почтовых ящиках одновременно при выполнении одного запроса на обнаружение электронных данных на месте. Дополнительные сведения об использовании удаленного сеанса Windows PowerShell для обнаружения электронных данных на месте см. в статье [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
 > [!NOTE]
-> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+> В удаленном сеансе Windows PowerShell командлет  `Search-Mailbox` позволяет выполнять поиск данных в более чем 5000 почтовых ящиков. Дополнительные сведения о поиске в большом количестве почтовых ящиков с помощью удаленного сеанса Windows PowerShell см. в статье [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
   
-Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
+Результаты обнаружения электронных данных на месте можно просмотреть в Центре администрирования Exchange, экспортировать в PST-файл или скопировать в специальный почтовый ящик, который называется почтовым ящиком найденных сообщений. Сотрудники, ответственные за обеспечение соответствия требованиям, или администраторы могут подключиться к почтовому ящику найденных сообщений, чтобы просмотреть сообщения. Дополнительные сведения см. в статье [Создание поискового запроса на обнаружение электронных данных на месте](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+  
+> [!NOTE]
+> Копируя результаты поиска для поиска методом обнаружения электронных данных на месте, который выполняется среди локальных и облачных почтовых ящиков или архивов, вы должны выбрать почтовый ящик найденных сообщений. Сообщения из локального основного почтового ящика и облачного архива копируются в локальный почтовый ящик найденных сообщений. 
+  
+Администраторы могут также искать и удалять недопустимые сообщения, отправленные на несколько почтовых ящиков в организации. Например, если конфиденциальные зарплатные данные будут случайно отправлены всем сотрудникам, администратор сможет удалить сообщение из почтовых ящиков пользователей. Такой тип поиска недоступен в Центре администрирования Exchange. Он должен выполняться с помощью удаленного сеанса PowerShell. Подробные инструкции по удалению сообщений из почтовых ящиков пользователей см. в статье [Поиск и удаление сообщений](https://go.microsoft.com/fwlink/p/?LinkId=314173).
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Функции безопасности в архивации на базе Exchange Online
 
@@ -99,13 +99,13 @@ Administrators can also search for and delete inappropriate email messages sent 
     
 ### <a name="encryption-smime-and-pgp"></a>Шифрование: S/MIME и PGP
 
-Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
+Архивация на базе Exchange Online будет хранить сообщения S/MIME. Но Архивация на базе Exchange Online не размещает функции S/MIME, не хранит открытые ключи, не предоставляет службы репозиториев ключей, управления ключами и каталогов ключей, так как все эти службы привязаны к локальной инфраструктуре Exchange.
   
 Аналогично, Архивация на базе Exchange Online будет хранить сообщения, зашифрованные с помощью сторонних клиентских решений по шифрованию, таких как PGP.
   
 ### <a name="information-rights-management"></a>Управление правами на доступ к данным
 
-Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
+Архивация на базе Exchange Online не предоставляет размещенные службы управления правами на доступ к данным (IRM), но администраторы могут использовать локальную службу управления правами Active Directory. Если сервер службы управления правами Active Directory развернут, Outlook может подключаться непосредственно к серверу, позволяя пользователям создавать и читать сообщения, защищенные с помощью IRM. Если настроено взаимодействие между сервером службы управления правами Active Directory и локальной средой Exchange, пользователи смогут создавать и читать сообщения, защищенные с помощью IRM.
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Поддержка управления правами на доступ к данным в Outlook в Интернете
 
@@ -123,9 +123,9 @@ Exchange Online Archiving does not provide hosted Information Rights Management 
     
 - **Журнал аудита почтовых ящиков** Он позволяет клиентам отслеживать доступ к почтовым ящикам пользователей, которые не являются владельцами этих почтовых ящиков. 
     
-Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
+В Центре администрирования Exchange доступно несколько предварительно заданных отчетов аудита, в том числе "Изменения ролей администратора", "Судебное удержание" и "Доступ к чужим почтовым ящикам". Администраторы могут фильтровать отчеты по дате и роли, а также экспортировать все события аудита для указанных почтовых ящиков в формате XML для долгосрочного хранения или создания специальных отчетов.
   
-Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
+Ведение журнала аудита действий администратора включено по умолчанию, а ведение журнала аудита почтового ящика по умолчанию отключено. Администраторы с помощью удаленного сеанса Windows PowerShell могут включить ведение журнала аудита почтового ящика для выбранных или всех почтовых ящиков в своей организации. Дополнительные сведения см. в статье [Отчеты аудита](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
 ## <a name="feature-availability"></a>Доступность функций
 

@@ -76,7 +76,7 @@ ATP можно использовать с любым агентом перед�
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Доступность функций в планах Advanced Threat Protection (ATP)
 
-Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+Каждая функция приведена ниже. Exchange Online обычно относят к семейству служб Office 365 корпоративный.
 
 |**Функция**|**План ATP 1**<br>(ранее в автономном режиме ATP)|**План ATP 2**<br>(ранее — аналитика угроз <br>Конфигурация| Office 365 корпоративный E5|
 |:-----|:-----|:-----|:-----|

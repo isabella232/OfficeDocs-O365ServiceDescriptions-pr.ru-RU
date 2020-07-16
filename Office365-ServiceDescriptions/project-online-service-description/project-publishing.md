@@ -26,7 +26,7 @@ ms.locfileid: "45131153"
   
 ## <a name="create-a-project-site"></a>Создание сайта проекта
 
-If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+Если вы используете Project Web App, то можете предоставлять общий доступ к проекту путем создания нового сайта проекта в SharePoint или синхронизации с уже существующим сайтом. Задачи проекта представляются в виде списка задач SharePoint. Дополнительные сведения см. в статье о [синхронизации с SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>Главные проекты на сайте SharePoint
 
@@ -46,7 +46,7 @@ If you are using Project Web App, you can share a project with others by creatin
   
 ## <a name="task-list-sync-to-sharepoint"></a>Синхронизация списка задач с SharePoint
 
-After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+После первого связывания проекта со списком задач SharePoint вы сможете продолжить синхронизацию со списком задач, обновляя свой проект. Во время синхронизации сохраняются предыдущие отношения между задачами, вехами и сопоставлениями полей (в том числе заметками). Членам вашей команды не нужно устанавливать Project профессиональный 2013 для получения доступа к своим задачам. Дополнительные сведения см. в статье о [синхронизации со списком задач SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Доступность функций
 

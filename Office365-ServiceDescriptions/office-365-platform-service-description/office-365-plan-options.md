@@ -41,7 +41,7 @@ ms.locfileid: "45132133"
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Доступность служб в каждой из версий Office 365
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Каждый план Office 365: содержит набор отдельных служб, например, Exchange Online и SharePoint Online. В следующей таблице приведены службы, доступные в каждом из планов Office 365:.
   
 > [!IMPORTANT]
 >  Несмотря на то, что служба может быть доступна в планах Office 365, функции, доступные в каждом плане, могут отличаться. Подробные сведения о функциях, доступных в каждом плане, см. в описании отдельных служб либо свяжитесь с торговым представителем или торговым представителем Майкрософт. <br/>  В некоторых планах Office 365 для бизнеса можно приобретать надстройки. Они позволяют расширить возможности подписки. Дополнительные сведения можно найти [в статье покупка или изменение надстройки для Office 365 для бизнеса](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 

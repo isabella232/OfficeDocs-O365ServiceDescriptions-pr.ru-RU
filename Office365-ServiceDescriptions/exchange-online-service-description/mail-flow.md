@@ -44,19 +44,19 @@ Microsoft Exchange Online может маршрутизировать почту
   
 ## <a name="conditional-mail-routing"></a>Условная маршрутизация почты
 
-You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
+Вы можете направлять почту на определенные сайты с помощью соединителей и правил транспорта. При маршрутизации с использованием условий можно выбрать соединитель на основе специальных условий.
   
 Дополнительные сведения см. в статье [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Список надежных отправителей входящей почты
 
-You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
+Вы можете добавить IP-адрес доверенного партнера в список надежных отправителей, чтобы к его письмам не применялись фильтры нежелательной почты. Для этого можно использовать список разрешенных IP-адресов фильтра подключений.
   
 Дополнительные сведения см. в статье [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Маршрутизация почты в гибридной конфигурации
 
-A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
+Гибридное развертывание позволяет переносить полнофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange в облако. В случае гибридного транспорта сообщения, отправляемые пользователями в обеих организациях, проходят проверку подлинности, шифруются, передаются по протоколу TLS и рассматриваются как внутренние сообщения для таких компонентов Exchange, как правила транспорта, функция ведения журналов и политики блокировки нежелательной почты. Настройте гибридный транспорт с помощью мастера гибридной конфигурации в Exchange Server.
   
 Дополнительные сведения о маршрутизации почты в гибридном развертывании приведены в статье [Маршрутизация транспорта при гибридных развертываниях Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -76,13 +76,13 @@ A hybrid deployment gives organizations the ability to extend the feature-rich e
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Устранение неполадок развертывания с помощью мастера гибридной конфигурации
 
-Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
+Настройка гибридного развертывания в Microsoft Exchange Server с помощью мастера гибридной конфигурации значительно уменьшает вероятность проблем в гибридном развертывании. Тем не менее есть параметры, которые невозможно настроить в этом мастере, и при неправильной их настройке могут возникнуть проблемы в гибридном развертывании. Сюда входит надлежащая конфигурация сервера клиентского доступа, а также правильная установка и настройка сертификатов.
   
 Дополнительные сведения об устранении неполадок развертывания с помощью мастера гибридной конфигурации см. в статье [Устранение неполадок в гибридном развертывании](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Управление гибридной конфигурацией
 
-You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
+Вы можете изменять существующую гибридную конфигурацию, изменяя параметры в мастере гибридной конфигурации. В сценарии входят такие действия, как отключение централизованного транспорта или отключение безопасного почтового транспорта.
   
 Дополнительные сведения об управлении конфигурацией гибридного развертывания см. в статье [Управление гибридным развертыванием](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

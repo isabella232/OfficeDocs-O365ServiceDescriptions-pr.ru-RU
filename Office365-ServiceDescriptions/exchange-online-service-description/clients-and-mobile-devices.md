@@ -25,11 +25,11 @@ Microsoft Outlook — это почтовая программа, включаю
   
 - Протокол **MAPI over HTTP** Интерфейс обмена сообщениями (MAPI) через HTTP позволяет пользователям Outlook подключаться к почтовым ящикам Exchange Online через Интернет извне брандмауэра организации. Протокол MAPI over HTTP, долгосрочная замена мобильного Outlook. Этот способ подключения обеспечивает улучшенную устойчивость к подключению, более безопасный вход, расширяемость, а также улучшения для ИТ и поддержки. Для получения дополнительных сведений ознакомьтесь с разработкой [вызовов RPC через HTTP до конца поддержки в Office 365](https://go.microsoft.com/fwlink/?linkid=863890) и [MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041).
 
-- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
+- **Автообнаружение** Служба автообнаружения автоматически настраивает Outlook для работы с Exchange Online. Пользователи Outlook могут получить необходимые настройки профиля напрямую из Exchange Online при первом входе с использованием адреса электронной почты и пароля. Эти параметры автоматически обновляют в клиенте Outlook данные, необходимые для создания и обслуживания профиля пользователя. Для использования службы автообнаружения требуется SSL-сертификат. Данный SSL-сертификат ограничивается для одного основного домена SSL. 
 
 - **Режим кэширования Exchange** Функция режима кэширования Exchange позволяет пользователям Outlook получать доступ к локальным копиям почтовых ящиков Exchange Online, когда они не подключены к Интернету. Режим кэширования Exchange хранит клиентскую копию почтовых ящиков Exchange в Outlook и автоматически синхронизирует эту копию с сервером электронной почты. Рекомендуется использовать Outlook в режиме кэширования Exchange, поскольку он предоставляет автономный доступ и помогает пользователям работать, даже если сетевые условия между клиентом и сервером не идеальны. 
 
-By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
+По умолчанию доступ к Outlook включен для всех пользователей. Администраторы могут отключить доступ для определенных пользователей или групп с помощью Windows PowerShell. Рекомендуется использовать последнюю версию Outlook (с последним пакетом обновлений) для доступа к Exchange Online. 
   
 Сведения о том, какие клиенты Outlook поддерживаются в Exchange 2016 и Exchange Online, приведены в разделе [требования к системе для Office](https://products.office.com/office-system-requirements). 
 
@@ -135,20 +135,20 @@ Exchange Online поддерживает протокол Microsoft Exchange Act
   
 ## <a name="pop-and-imap"></a>POP и IMAP
 
-Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
+Exchange Online поддерживает доступ к почтовым ящикам по протоколам POP3 и IMAP4. Для доступа по протоколам POP и IMAP требуется шифрование с использованием SSL. Протокол POP включен по умолчанию для всех пользователей. Пользователи могут просматривать параметры подключения POP и IMAP в Outlook в Интернете. Администраторы могут отключить доступ по протоколам POP и IMAP на уровне пользователя.
   
 Дополнительные сведения о подключении с помощью протоколов POP3 и IMAP4 см. в статье [POP3 и IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070).
   
 ## <a name="smtp"></a>SMTP
 
-Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
+Протокол SMTP используется для отправки исходящих сообщений для клиентов, которые подключаются к Exchange Online по протоколу IMAP или POP. Это основной протокол для маршрутизации и доставки почты через сервер Exchange. Exchange Online поддерживает два типа служб ретрансляции SMTP для авторизованных внутренних клиентских приложений, для которых требуется отправка почты по протоколу SMTP:
   
 - передача сообщений SMTP для пользователей внутри управляемой среды.
 
 - ретрансляция сообщений SMTP с проверкой подлинности адресам за пределами управляемой среды.
 
 > [!IMPORTANT]
-> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
+> IP-адреса для авторизованных исходных серверов необходимы для SMTP-ретрансляции. При использовании SMTP для отправки электронной почты требуется шифрование и проверка подлинности TLS. 
   
 ## <a name="blackberryreg-devices"></a>&reg;Устройства BlackBerry
 
@@ -161,7 +161,7 @@ Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients t
 Дополнительные сведения см. в разделе [BlackBerry](../office-365-platform-service-description/blackberry.md).
   
 > [!NOTE]
-> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
+> Если вы используете Office 365: под управлением 21Vianet в Китае, служба BlackBerry Business Cloud Servicesнедоступна. Но вы можете использовать Exchange ActiveSync или предложение от Research in Motion (RIM, беспроводное решение BlackBerry для работы с электронной почтой), чтобы запустить сервер Blackberry Enterprise Server (BES). 
   
 ## <a name="feature-availability"></a>Доступность функций
 

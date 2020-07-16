@@ -21,9 +21,9 @@ ms.locfileid: "45131673"
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> Сведения, приведенные в этой статье, применимы к международным версиям Office 365. Если вы используете облачный экземпляр для определенной страны или региона Office 365, в частности Office 365 для государственных организаций США, Office 365 Germany и службу Office 365, предоставляемую 21Vianet, см. статью о [национальных облачных службах Майкрософт](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье [Центр управления безопасностью (Майкрософт)](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Конфиденциальность
 
@@ -49,7 +49,7 @@ Microsoft values the partnerships we have with our customers and places great em
 
 Как администратор Майкрософт, вы можете использовать защищенное хранилище клиентов для управления доступом к данным специалистом службы поддержки Майкрософт во время сеанса справки. В случаях, если сотрудник службы поддержки обратится к вашим данным, чтобы устранить неполадки, защищенное хранилище позволит вам одобрить или отклонить его запрос на доступ. При одобрении запроса, сотрудник получит доступ к этим данным. Каждый запрос имеет срок действия, и как только проблема будет решена, запрос будет закрыт, а право доступа  аннулировано.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Защищенное хранилище включено в план Office 365 корпоративный 5, для любого другого плана Office 365 корпоративный данную подписку можно приобрести отдельно. Подробную информацию см. в статье [Запросы защищенного хранилища Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Расширенная защита от угроз
 

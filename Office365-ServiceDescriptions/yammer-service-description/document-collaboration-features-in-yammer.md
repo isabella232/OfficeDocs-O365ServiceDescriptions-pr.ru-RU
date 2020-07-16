@@ -24,7 +24,7 @@ ms.locfileid: "45132093"
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Функции совместной работы над документами в планах Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+Нужна помощь, чтобы определить, какой план Yammer наилучшим образом отвечает требованиям вашей организации? Используйте следующую таблицу, чтобы изучить функции совместной работы над документами, доступные в каждом плане.
   
 |**Функция**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

@@ -25,13 +25,13 @@ ms.locfileid: "45133013"
 > [!TIP]
 > Дополнительные сведения об ограничении в Exchange Online приведены в статье [Exchange Online Limits](../exchange-online-service-description/exchange-online-limits.md). Ограничения правил транспорта также применимы в случае пользователей отдельных выпусков EOP. Частота получателей и пределы скорости сообщений для Exchange Online неприменимы для отдельных клиентов EOP. 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Ограничение на домены.** Вы можете добавить до 900 доменов для каждого клиента. В это число могут входить поддомены. Возможно также сопоставить поддомены с доменами (в случае, если принимаются все сообщения). Дополнительные сведения см. в статье [Управление обслуживаемыми доменами в EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
 - **Ограничение на размер сообщения** Максимальный размер сообщения для пользователей отдельного выпуска EOP, включая вложения, составляет 150 МБ. 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **Количество исходящих сообщений** Ограничение на количество исходящих сообщений, отправленных через EOP, достаточно высоко, чтобы гарантировать, что обычная электронная почта не будет восприниматься как нежелательная. Если вам нужно выполнять массовые рассылки электронной почты в коммерческих целях вместо отправки сообщений через EOP, мы рекомендуем вам обратиться к стороннему поставщику услуг электронной почты или отправлять их через локальные почтовые серверы. 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **Максимальное число получателей.** Пока узел отправителя может делить сообщение на части, включающие менее 500 получателей, явное ограничение не задается. Тем не менее каждая часть фактически рассматривается как новое сообщение. Слишком много сообщений за короткое время, сообщения от узла с плохой репутацией или сообщения с сомнительным содержимым могут регулироваться или блокироваться. 
     
 - **Ограничение на списки разрешенных или заблокированных IP-адресов** При настройке списков разрешенных или заблокированных IP-адресов в фильтре соединений можно указать максимум 1273 записи, где запись может быть одним IP-адресом или диапазоном CIDR, включающим от 24 до 32 IP-адресов. 
     
@@ -39,7 +39,7 @@ ms.locfileid: "45133013"
     
 - **Период хранения для карантина нежелательной почты** По умолчанию сообщения, отправляемые на карантин, хранятся в течение 30 дней. Администраторы снизить это значение с помощью политик фильтрации содержимого. 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **Уведомления пользователей о нежелательных сообщениях, помещенных в карантин** По умолчанию (если только эта возможность доступна), уведомления пользователей о нежелательных сообщениях, помещенных в карантин, отправляются каждые 3 дня. Этот срок можно изменить, указав от 1 до 15 дней. 
     
 - **Пределы отслеживания отчетов и сообщений** Сведения об ограничении отчетов и трассировке сообщений можно найти в разделе "отчеты и сведения об отслеживании сообщений и задержка" в [отчетах и трассировке сообщений в Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     

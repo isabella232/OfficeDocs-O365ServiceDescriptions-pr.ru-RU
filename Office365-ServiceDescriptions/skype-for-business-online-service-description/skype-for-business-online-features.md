@@ -30,7 +30,7 @@ ms.locfileid: "45132113"
     
 - С мобильными клиентами Skype для бизнеса можно ознакомиться в статье [Установка Skype для бизнеса на мобильное устройство](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- For a detailed comparison of the Skype for Business desktop and web clients, see [Skype for Business Online client comparison tables](https://go.microsoft.com/fwlink/?linkid=829754). For a detailed comparison of the Skype for Business mobile clients, see the [Mobile client comparison tables](https://go.microsoft.com/fwlink/?linkid=846932).
+- Подробное сравнение классических и веб-клиентов Skype для бизнеса см. [здесь](https://go.microsoft.com/fwlink/?linkid=829754). Подробное сравнение мобильных клиентов Skype для бизнеса см. [здесь](https://go.microsoft.com/fwlink/?linkid=846932).
     
 Чтобы скачать клиент для мобильного устройства, ПК или Mac, перейдите к разделу [Загрузка Skype для бизнеса на всех устройствах](https://go.microsoft.com/fwlink/?linkid=846929).
   
@@ -50,7 +50,7 @@ Skype для бизнеса обеспечивает поддержку пере
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Аудио- и видеосвязь, а также передача мультимедиа между абонентами Skype
 
-Skype for Business Online users can make one-to-one computer-based audio and video calls to other Skype for Business users using a PC and a web camera. A Skype for Business Online user can initiate Skype-to-Skype audio and video calls with another user in the same Skype for Business Online organization (within or outside the corporate firewall), or with another Skype for Business user in a Skype for Business federated domain if the two Skype for Business domains are correctly configured, supported, and permitted for federation.
+Пользователи Skype для бизнеса Online могут общаться друг с другом по аудио- и видеосвязи с помощью компьютера и веб-камеры. Пользователь Skype для бизнеса Online может звонить другому пользователю в той же организации Skype для бизнеса Online (в зоне, защищенной корпоративным брандмауэром, или за ее пределами) или федеративном домене Skype для бизнеса при условии, что оба домена настроены соответствующим образом и поддерживают федерацию.
   
 Узнайте, как настроить параметры звукового устройства в Skype для бизнеса, в статье [Настройка параметров аудиоустройств в Skype для бизнеса](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) . 
   
@@ -71,19 +71,19 @@ Skype for Business Online users can make one-to-one computer-based audio and vid
 Дополнительные сведения о собраниях Skype для бизнеса Online можно узнать в статье [Начало работы с Skype для бизнеса для обмена мгновенными сообщениями и онлайн-собраний](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
   
 > [!IMPORTANT]
-> Multiparty Skype for Business audio and video capabilities might not be available in certain countries due to regulatory restrictions. For details, see [About license restrictions](https://go.microsoft.com/fwlink/?LinkId=278963). 
+> Групповые аудио- и видеозвонки в Skype для бизнеса могут быть недоступны в некоторых странах из-за нормативных ограничений. Дополнительные сведения см. в статье [о лицензионных ограничениях](https://go.microsoft.com/fwlink/?LinkId=278963). 
   
 ## <a name="security-and-archiving"></a>Безопасность и архивация
 
 Трафик Microsoft (как сигнала, так и мультимедийного трафика) шифруется с помощью протокола TLS. Любой, кто перехватит сообщение, увидит только зашифрованный текст. Например, если для обмена мгновенными сообщениями, звонков и презентаций Skype для бизнеса Online используется общедоступная сеть Wi-Fi, например в аэропорту, передаваемые данные шифруются для защиты от перехвата анализаторами сетевых пакетов.
   
-Skype for Business provides archiving of peer-to-peer instant messages, multiparty instant messages, and content upload activities in meetings. The archiving capability requires Exchange and is controlled by the user's Exchange mailbox In-Place Hold attribute, which archives both email and Skype for Business contents.
+Skype для бизнеса позволяет архивировать личные мгновенные сообщения, групповые чаты и загрузки содержимого во время собраний. Для архивации требуется Exchange. Архивацией управляет атрибут удержания на месте пользовательского почтового ящика Exchange, отвечающий за архивацию как содержимого Skype для бизнеса, так и содержимого электронной почты.
   
-All archiving in Skype for Business is considered "user-level archiving" because you enable or disable it for one or more specific users or groups of users by creating, configuring, and applying a user-level archiving policy for those users. There is no direct control of archiving settings from within the Skype for Business admin center. 
+Архивация в Skype для бизнеса включается или отключается для отдельных пользователей или групп пользователей путем создания, настройки и применения политики архивации. Управлять настройками архивации в Центре администрирования Skype для бизнеса нельзя. 
   
 ## <a name="exchange-and-sharepoint-interoperability"></a>Взаимодействие между Exchange и SharePoint
 
-Skype for Business Online includes high definition pictures, presence status updates based on Exchange calendar information, unified contact store, archiving, out-of-office messages in Skype for Business, and presence status and click-to-communicate in Outlook. This interoperability requires running the Skype for Business client on the user's desktop.
+Skype для бизнеса Online включает изображение высокой четкости, обновление состояния присутствия на основе информации из календаря Exchange, единое хранилище контактов, возможность архивации, сообщения об отсутствии на рабочем месте в Skype для бизнеса, а также состояние присутствия и "начало беседы одним щелчком" в Outlook. Для такого взаимодействия требуется, чтобы на компьютере пользователя был запущен клиент Skype для бизнеса.
   
 В некоторых планах подписки Skype для бизнеса может интегрироваться с единой системой обмена сообщениями Exchange Online:
   
@@ -91,7 +91,7 @@ Skype for Business Online includes high definition pictures, presence status upd
     
 - Включите Outlook в Интернете, чтобы обеспечить обмен мгновенными сообщениями, присутствие, обновление состояния на основе данных календаря Exchange и планирование собраний Skype для бизнеса.
     
-Skype for Business interoperates with on-premises Microsoft SharePoint Server for presence and click-to-communicate in SharePoint sites. This interoperability requires running the Skype for Business client on the user's desktop. 
+Skype для бизнеса и локальный сервер Microsoft SharePoint Server позволяют обеспечить присутствие и "начало беседы одним щелчком" на сайтах SharePoint. Для такого взаимодействия требуется, чтобы на компьютере пользователя был запущен клиент Skype для бизнеса. 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Администрирование и управление Skype для бизнеса Online
 
@@ -111,13 +111,13 @@ Skype for Business interoperates with on-premises Microsoft SharePoint Server fo
   
 ## <a name="audio-conferencing-in-office-365"></a>Аудиоконференции в Office 365
 
-Audio Conferencing is any conference in which at least one participant dials in to the audio portion by using a phone. The ability to use a phone to access a meeting is useful for individuals who are on the road or otherwise can't attend a meeting using a mobile device or PC. Using a phone also can be a better option in other scenarios, such as when internet connectivity is limited or when a meeting is audio only.
+Аудиоконференция — это любая конференция, в которой по крайней мере один участник использует для подключения телефон. Возможность доступа к собранию по телефону предназначена для тех, кто находится в дороге или не может использовать мобильное устройство или компьютер по другим причинам. Когда интернет-подключение ограничено или собрание проводится в аудио-формате, также лучше использовать телефон.
   
 С помощью голосовых конференций пользователи в вашей организации могут размещать или создавать собрания, содержащие номера телефонов для телефонного подключения. Затем абоненты могут использовать эти телефонные номера для звонка на собрание, использующего телефоны (пользователи, подключающиеся к собранию, будут получать только звуковые файлы, а не мгновенные сообщения, общие рабочие столы или общие для общего доступа файлы. Вам необходимо настроить Конференц-связь с телефонным подключением только для тех пользователей, которые планируют планировать или заинтересовать собрания. Если организатор не заблокировал собрание, любой пользователь, у которого есть номер для телефонного подключения и идентификатор конференции, может присоединиться к собранию. Сведения о том, как [начать работу с голосовыми конференциями](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) и [телефонными звонками для конференц-связи, можно](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)найти в статье Начало работы.
   
 Вы можете включить Конференц-связь с телефонным подключением, используя Microsoft в качестве поставщика конференц-связи с телефонным подключением или с помощью стороннего поставщика конференц-связи с телефонным подключением (также называемого поставщика услуг аудио-и ACP).
   
-Audio Conferencing is not available in all countries or regions. For a list of the countries or regions in which you can purchase Audio Conferencing, see [Where can you get Audio Conferencing?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Аудиоконференции доступны не во всех странах и регионах. Список стран и регионов, в которых можно приобрести Аудиоконференции, см. [здесь](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans"></a>Планы звонков
 
