@@ -1,8 +1,7 @@
 ---
 title: Описание услуги OneDrive
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213931"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131293"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -50,9 +49,9 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 - Приложения Microsoft 365 для предприятий
 - Office 365 для предприятий E1
 - Office 365 для государственных организаций G1
-- Office 365 бизнес базовый для некоммерческих организаций
-- Office 365 бизнес премиум для некоммерческих организаций
-- Office 365 для некоммерческих организаций E1
+- Microsoft 365 бизнес базовый для некоммерческих организаций
+- Microsoft 365 бизнес стандарт для некоммерческих организаций
+- Office 365 E1 для некоммерческих организаций
 - OneDrive для бизнеса (план 1)
 - SharePoint Online (план 1)
 - Microsoft 365 бизнес премиум
@@ -68,8 +67,8 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 для некоммерческих организаций E3
-- Office 365 для некоммерческих организаций E5
+- Office 365 E3 для некоммерческих организаций
+- Office 365 E5 для некоммерческих организаций
 - OneDrive для бизнеса (план 2)
 - SharePoint Online (план 2)
 - Microsoft 365 корпоративный E3
@@ -78,8 +77,8 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 - Microsoft 365 A5
 - Microsoft 365 US Government G3
 - Microsoft 365 US Government G5
-- Microsoft 365 для некоммерческих организаций E3
-- Microsoft 365 для некоммерческих организаций E5
+- Microsoft 365 E3 для некоммерческих организаций
+- Microsoft 365 E5 для некоммерческих организаций
 
 > [!NOTE]
 > Кроме того, предварительно необходимо назначить по крайней мере одну лицензию пользователю. 
