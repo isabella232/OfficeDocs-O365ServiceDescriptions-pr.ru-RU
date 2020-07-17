@@ -18,18 +18,18 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 07/14/2020
 ms.locfileid: "45133063"
 ---
-# <a name="external-network-features-in-yammer"></a><span data-ttu-id="fefa4-103">Возможности по работе с внешними сетями в Yammer</span><span class="sxs-lookup"><span data-stu-id="fefa4-103">External network features in Yammer</span></span>
+# <a name="external-network-features-in-yammer"></a><span data-ttu-id="4d40a-103">Возможности по работе с внешними сетями в Yammer</span><span class="sxs-lookup"><span data-stu-id="4d40a-103">External network features in Yammer</span></span>
 
-<span data-ttu-id="fefa4-104">В Yammer доступны следующие возможности по работе с внешними сетями.</span><span class="sxs-lookup"><span data-stu-id="fefa4-104">The following external network features are available in Yammer.</span></span>
+<span data-ttu-id="4d40a-104">В Yammer доступны следующие возможности по работе с внешними сетями.</span><span class="sxs-lookup"><span data-stu-id="4d40a-104">The following external network features are available in Yammer.</span></span>
   
-## <a name="external-networks"></a><span data-ttu-id="fefa4-105">Внешние сети</span><span class="sxs-lookup"><span data-stu-id="fefa4-105">External networks</span></span>
+## <a name="external-networks"></a><span data-ttu-id="4d40a-105">Внешние сети</span><span class="sxs-lookup"><span data-stu-id="4d40a-105">External networks</span></span>
 
-<span data-ttu-id="fefa4-106">Создайте выделенную электронную рабочую область для совместной работы с бизнес-контактами за пределами сети Yammer в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="fefa4-106">Create a dedicated online workspace to collaborate with business contacts outside of your organization's Yammer network.</span></span>
+<span data-ttu-id="4d40a-106">Создайте выделенную электронную рабочую область для совместной работы с бизнес-контактами за пределами сети Yammer в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="4d40a-106">Create a dedicated online workspace to collaborate with business contacts outside of your organization's Yammer network.</span></span>
   
-## <a name="fast-network-switching"></a><span data-ttu-id="fefa4-107">Быстрое переключение сети</span><span class="sxs-lookup"><span data-stu-id="fefa4-107">Fast network switching</span></span>
+## <a name="fast-network-switching"></a><span data-ttu-id="4d40a-107">Быстрое переключение сети</span><span class="sxs-lookup"><span data-stu-id="4d40a-107">Fast network switching</span></span>
 
-<span data-ttu-id="fefa4-108">Быстро переключайтесь между внутренними и внешними сетями.</span><span class="sxs-lookup"><span data-stu-id="fefa4-108">Seamlessly switch between internal and external networks.</span></span> <span data-ttu-id="fefa4-109">Простой мониторинг бесед во внешних сетях и немедленное совместное использование сведений о внутренней сети Организации.</span><span class="sxs-lookup"><span data-stu-id="fefa4-109">Easily monitor conversations within external networks and immediately share insights with your organization's internal network.</span></span>
+<span data-ttu-id="4d40a-108">Быстро переключайтесь между внутренними и внешними сетями.</span><span class="sxs-lookup"><span data-stu-id="4d40a-108">Seamlessly switch between internal and external networks.</span></span> <span data-ttu-id="4d40a-109">Простой мониторинг бесед во внешних сетях и немедленное совместное использование сведений о внутренней сети Организации.</span><span class="sxs-lookup"><span data-stu-id="4d40a-109">Easily monitor conversations within external networks and immediately share insights with your organization's internal network.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="fefa4-110">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="fefa4-110">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="4d40a-110">Доступность функций</span><span class="sxs-lookup"><span data-stu-id="4d40a-110">Feature availability</span></span>
 
-<span data-ttu-id="fefa4-111">Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="fefa4-111">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="4d40a-111">Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="4d40a-111">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
