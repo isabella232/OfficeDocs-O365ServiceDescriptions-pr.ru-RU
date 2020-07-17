@@ -51,23 +51,23 @@ Microsoft Exchange Online предоставляет разнообразные 
 Функция трассировки сообщений позволяет администратору следить за сообщениями электронной почты по мере их прохождения через службу Exchange Online. Эта функция помогает определить, было ли целевое сообщение электронной почты получено, отклонено, отложено или доставлено службой. Это дает возможность оперативно отвечать на вопросы пользователей и устранять неполадки потока сообщений, а также снижает необходимость обращения за помощью в службу технической поддержки.
   
 > [!IMPORTANT]
-> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
+> Для получения информации по общим вопросам и тенденциям устранения неполадок используйте средства создания отчетов. Для одиночных случаев, в которых требуются сведения о сообщении, используйте средство отслеживания сообщений. 
   
 Дополнительные сведения о функции отслеживания сообщений см. в статье [Отслеживание электронных сообщений](https://go.microsoft.com/fwlink/p/?LinkId=271777).
   
 ### <a name="auditing-reports"></a>Отчеты аудита
 
-You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
+Журнал аудита можно использовать для устранения проблем с конфигурацией и обеспечения соблюдения нормативных и законодательных требований путем отслеживания отдельных изменений, вносимых администраторами. В Exchange Online доступно два способа ведения журнала аудита:
   
-- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
+- Ведение журнала аудита действий администратора записывает любые действия, выполняемые администратором. Это позволяет устранять неполадки конфигурации или выявлять причины проблем безопасности или соответствия требованиям. 
     
-- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
+- В журнале аудита почтовых ящиков записываются все обращения к почтовым ящикам от пользователей, не являющихся их владельцами. Таким образом, можно определить, кто обращался к почтовому ящику, и какие действия были произведены. 
     
 Дополнительные сведения о ведении журнала аудита см. в разделе [Отчеты аудита](https://go.microsoft.com/fwlink/p/?LinkId=271779).
   
 ### <a name="unified-messaging-reports"></a>Отчеты единой системы обмена сообщениями
 
-You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+Такие отчеты можно использовать для мониторинга и устранения неполадок единой системы обмена сообщениями в организации Exchange Online. Дополнительные сведения см. в разделе [Запуск отчетов для вызовов голосовой почты](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>Доступность функций
 

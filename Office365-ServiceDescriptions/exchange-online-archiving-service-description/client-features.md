@@ -27,14 +27,14 @@ ms.locfileid: "45132063"
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook  это полнофункциональная программа электронной почты с поддержкой календарей, контактов и задач. Архивация на базе Exchange Online поддерживает Outlook 2013, Outlook 2010 и Outlook 2007. Ключевые функции:
   
 - **Мобильный Outlook** Мобильный Outlook позволяет пользователям Outlook подключаться к Exchange Server и архивации на базе Exchange Online через Интернет без необходимости подключения VPN. Подключение между Outlook и Архивация на базе Exchange Online выполняется по туннелю, защищенному с помощью протокола SSL, с использованием сетевого компонента Windows "RPC over HTTP".    
 - **Автообнаружение** Служба автообнаружения Exchange автоматически настраивает Outlook для работы с Архивация на базе Exchange Online. Служба автообнаружения позволяет пользователям Outlook получать необходимые параметры профиля непосредственно из Exchange в первый раз (и через определенные интервалы времени), чтобы они были входить с использованием адреса электронной почты и пароля. 
 
 Outlook 2010 и более поздние версии и Outlook в Интернете предоставляют пользователям все функции архива, а также связанные с ними функции, такие как политики хранения и архивирования.
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Outlook 2007 предоставляет базовую поддержку архивов, но не все функции архивирования и обеспечения соответствия доступны в Outlook 2007. Например, в Outlook 2007 пользователи не могут применять политики хранения или архивирования к элементам в своих почтовых ящиках. Вместо этого пользователи должны полагаться на политики, подготовленные администраторами. Для доступа к архивам пользователям Outlook 2007 требуется накопительный пакет обновления Office 2007 за февраль 2011 г.
   
 > [!NOTE]
 > Outlook не предоставляет возможности архивации на базе Exchange Online. Приложения Microsoft 365 для предприятий (включая Microsoft Outlook) включены в некоторые планы и могут быть приобретены в виде отдельной подписки. Дополнительные сведения можно найти в [статье Microsoft 365 Plan](../office-365-platform-service-description/office-365-plan-options.md). Дополнительные сведения о приложениях Microsoft 365 для предприятий можно найти в статье [Описание службы приложений Office](../office-applications-service-description/office-applications-service-description.md). 

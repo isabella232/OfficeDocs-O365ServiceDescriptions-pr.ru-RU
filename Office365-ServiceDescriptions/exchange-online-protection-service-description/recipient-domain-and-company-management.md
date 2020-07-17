@@ -30,7 +30,7 @@ Microsoft Exchange Online Protection (EOP) предлагает нескольк
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+В службе Exchange Online Protection можно настраивать только роли администраторов. Пользователей можно добавить в группы ролей администраторов по умолчанию и удалить из них непосредственно в Центре администрирования Exchange. Настройка RBAC недоступна. Дополнительные сведения см. в статье, посвященной [управлению разрешениями группы ролей администраторов в EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Управление доменами
 
@@ -38,13 +38,13 @@ In EOP, you can configure administrative roles only. Users can be added and remo
   
 ## <a name="match-subdomains"></a>Соответствующие поддомены
 
-In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+В службе EOP можно включить поток почты к поддоменам управляемого домена. Дополнительные сведения см. в статье [Включение потока почты к поддоменам в службе EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Пограничная блокировка на основе каталогов
 
 Функция пограничной блокировки на основе каталогов позволяет отклонять сообщения для недопустимых получателей в сети периметра службы. DBEB позволяет администраторам добавлять получателей с включенной поддержкой почты в корпорацию Майкрософт и блокировать все сообщения, отправленные на адреса электронной почты, которые отсутствуют в корпорации Майкрософт. Если сообщение отправляется на действительный адрес электронной почты в корпорации Майкрософт, сообщение пройдет через остальные слои фильтрации служб (защита от вредоносных программ, защита от нежелательной почты, правила транспорта). Если адрес отсутствует, служба блокирует сообщение еще до фильтрации, а отправителю отправляется отчет о недоставке сообщения. 
   
-Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Включение функции пограничной блокировки на основе каталогов требует настройки доменов и учетных записей пользователей. Дополнительные сведения см. в статье, посвященной [применению пограничной блокировки на основе каталогов для отклонения сообщений, отправленных недопустимым получателям](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Доступность функций
 

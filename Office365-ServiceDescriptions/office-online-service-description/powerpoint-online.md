@@ -124,7 +124,7 @@ PowerPoint для Интернета запускается из веб-брау
   
 ## <a name="picture-cropping"></a>Обрезка рисунков
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+Улучшайте кадрирование изображений с помощью инструмента обрезки. Просто щелкните любой маркер обрезки на краю изображения и перетаскивайте его, пока не получите желаемый результат.
   
 ## <a name="pictures"></a>Изображения
 
@@ -172,7 +172,7 @@ PowerPoint для Интернета сохраняет свою работу к
   
 ## <a name="share"></a>Общий доступ
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+Если презентация сохранена в библиотеке документов SharePoint, она уже находится в сети, и вы можете предоставить к ней общий доступ, просто отправив ссылку на нее вместо вложения в сообщение электронной почты. Пользователи с соответствующими разрешениями могут просматривать ее в веб-браузере или на мобильном устройстве. Узнайте больше об [общем доступе к презентации](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

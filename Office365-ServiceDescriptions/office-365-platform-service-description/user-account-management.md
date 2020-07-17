@@ -140,7 +140,7 @@ ms.locfileid: "45131663"
     
 - Чтобы повысить уровень безопасности, пользователи должны изменить свои пароли при первом доступе к службам Майкрософт. В результате, прежде чем пользователи смогут получить доступ к службам Майкрософт, они должны войти в центр администрирования Microsoft 365, где ему будет предложено изменить свои пароли.
     
-- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Администраторы могут задать политику истечения срока действия пароля. Дополнительные сведения см. в статье [Установка срока действия паролей](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 Существует несколько средств сброса паролей для пользователей с облачными удостоверениями:
   
@@ -172,7 +172,7 @@ ms.locfileid: "45131663"
   
 ## <a name="administrator-roles"></a>Роли администратора
 
-Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+В Office 365: корпоративный применяется модель RBAC: разрешения и возможности определяются ролями управления. Пользователь, который регистрирует свою организацию в Office 365:, автоматически становится глобальным администратором или администратором высшего уровня. Существует пять ролей администратора: глобальный администратор, администратор выставления счетов, администратор паролей, администратор служб и администратор управления пользователями. Дополнительные сведения о ролях администратора в Office 365: корпоративный, в том числе об их применении в Exchange Online, SharePoint Online и Skype для бизнеса Online, см. в статье [Назначение ролей администратора](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Если вы используете план Office 365: под управлением 21Vianet в Китае, см. статью [Назначение ролей администраторов в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Делегированное администрирование и поддержка партнеров
 
@@ -183,7 +183,7 @@ Office 365 Enterprise follows a role-based access control (RBAC) model: permissi
   
 ## <a name="azure-active-directory-services"></a>Службы Azure Active Directory
 
-Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Дополнительные сведения о функциях AD в Office 365 см. в статье [Фирменная символика страницы входа и самостоятельный сброс пароля пользователя облака](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Узнайте больше о [выпусках Free, Basic и Premium службы Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Доступность функций
 

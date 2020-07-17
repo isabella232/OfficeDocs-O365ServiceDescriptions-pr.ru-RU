@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
-description: Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013.
+description: Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013.
 ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,15 +20,15 @@ ms.locfileid: "45132693"
 ---
 # <a name="permissions"></a>Разрешения
 
-Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013. 
+Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013. 
   
-At its highest level, RBAC is made up of management roles, management role groups, and management role assignment policies. The following sections provide more information about each RBAC component.
+На самом высоком уровне RBAC состоит из ролей управления, групп ролей управления и политик назначения ролей управления. В следующих разделах приведены дополнительные сведения о каждом компоненте RBAC.
   
 Дополнительные сведения о модели разрешений RBAC, используемой в Exchange Online, содержатся в разделе [Разрешения](https://go.microsoft.com/fwlink/p/?LinkId=271935).
   
 ## <a name="role-based-permissions"></a>Разрешения на основе ролей
 
-In Exchange Online, the permissions that you grant to administrators and users are based on management roles. A role defines the set of tasks that an administrator or user can perform. For example, a management role called  `Mail Recipients` defines the tasks that someone can perform on a set of mailboxes, contacts, and distribution groups. When a role is assigned to an administrator or user, that person is granted the permissions provided by the role. 
+В Exchange Online разрешения, которые предоставляются администраторам и пользователям, основаны на ролях управления. Роль определяет набор задач, которые может выполнять администратор или пользователь. Например, роль управления под названием  `Mail Recipients` определяет задачи, которые можно выполнять над совокупностью почтовых ящиков, контактов и групп рассылки. Когда роль назначается администратору или пользователю, ему предоставляются разрешения в соответствии с этой ролью. 
   
 Существует два типа ролей  административные роли и роли конечных пользователей.
   
@@ -36,9 +36,9 @@ In Exchange Online, the permissions that you grant to administrators and users a
     
 - **Роли конечных пользователей** Эти роли, назначенные с помощью политик назначения ролей, позволяют пользователям управлять аспектами собственных почтовых ящиков и групп рассылки, которыми они владеют. Роли конечных пользователей начинаются с префикса  `My`.
     
-Roles give administrators and users permissions to perform tasks by making cmdlets available to those who are assigned the roles. Because the Exchange admin center (EAC) and Exchange Management Shell use cmdlets to manage Exchange Online, granting access to a cmdlet gives the administrator or user permission to perform the task in each of the Exchange Online management interfaces.
+Роли дают разрешения администраторам и пользователям на выполнение задач, предоставляя доступ к командлетам лицам с назначенными ролями. Поскольку Центр администрирования Exchange и командная консоль Exchange используют для управления Exchange Online командлеты, предоставление доступа к командлету дает администратору или пользователю разрешение на выполнение задачи в каждом из интерфейсов управления Exchange Online.
   
-The role-based permissions for Microsoft Online Services overlap with those of Exchange Online RBAC in two ways. First, users who are Global Administrators or Service Administrators in Microsoft Online are automatically assigned to the Organization Management role group in Exchange Online. Second, users who are Help Desk Administrators in Microsoft Online are automatically assigned to the Help Desk role group in Exchange Online. Otherwise, the two security models are managed separately.
+Разрешения на основе ролей для службы Microsoft Online пересекаются с разрешениями RBAC Exchange Online по двум направлениям. Во-первых, пользователи, которые являются глобальными администраторами или администраторами служб в Microsoft Online, автоматически присваиваются группе ролей управления организацией в Exchange Online. Во-вторых, пользователи, являющиеся администраторами службы поддержки в Microsoft Online, автоматически присваиваются группе ролей службы поддержки в Exchange Online. В противном случае две модели безопасности управляются отдельно.
   
 > [!IMPORTANT]
 > Некоторые роли, доступные в локальной версии Microsoft Exchange Server 2013, могут быть недоступны в Exchange Online. 
@@ -56,7 +56,7 @@ The role-based permissions for Microsoft Online Services overlap with those of E
   
 ## <a name="role-assignment-policies"></a>Политики назначения роли
 
-Management role assignment policies associate end-user management roles to users. Role assignment policies consist of roles that control what users can do with their mailboxes or distribution groups. These roles don't allow management of features that aren't directly associated with the user. When you create a role assignment policy, you define everything a user can do with his or her mailbox. For example, a role assignment policy might allow a user to set the display name, set up voice mail, and configure Inbox rules. Another role assignment policy might allow a user to change the address, use text messaging, and set up distribution groups. Every user with an Exchange Online mailbox, including administrators, is given a role assignment policy by default. You can decide which role assignment policy should be assigned by default, choose what the default role assignment policy should include, override the default for certain mailboxes, or not assign any role assignment policies by default.
+Политики назначения ролей управления связывают роли управления, предназначенные для пользователей, с пользователями. Политики назначения ролей состоят из ролей, определяющих, что пользователь может делать со своими почтовыми ящиками или группами рассылки. Эти роли не позволяют управлять компонентами, не связанными с пользователем напрямую. При создании политики назначения ролей определяются все действия, которые пользователь может выполнять над своим почтовым ящиком. Например, политика назначения ролей может позволять пользователю задавать отображаемое имя, а также настраивать голосовую почту и правила для папки "Входящие". Другая политика назначения ролей может позволять пользователю менять адрес, использовать текстовые сообщения и настраивать группы рассылки. Каждому пользователю почтового ящика Exchange Online, в том числе администраторам, по умолчанию предоставляется политика назначения ролей. Можно выбрать политику назначения ролей, которая будет предоставляться по умолчанию, указать, какие элементы должны в нее входить, переопределить политику по умолчанию для отдельных почтовых ящиков или полностью отменить предоставление политик назначения ролей по умолчанию.
   
 > [!IMPORTANT]
 > Некоторые политики назначения ролей, доступные в локальной версии Microsoft Exchange Server 2013, могут быть недоступны в Exchange Online. 

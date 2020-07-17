@@ -30,11 +30,11 @@ ms.locfileid: "45131103"
   
 ## <a name="budget-planning"></a>Budget planning
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+Планирование бюджета позволяет сравнивать текущий ход выполнения с базовым планом, заданным при создании проекта. Дополнительные сведения см. в статье об [анализе освоенного объема](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Сравнение версий проекта
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+Сравнивайте две версии проекта. Создается отчет, в котором отображаются изменения, например добавленные новые задачи.
   
 ## <a name="deadlines"></a>Крайние сроки
 

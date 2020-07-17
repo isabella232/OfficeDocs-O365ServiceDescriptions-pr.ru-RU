@@ -34,7 +34,7 @@ ms.locfileid: "45131545"
   
 ## <a name="remote-windows-powershell-access"></a>Удаленный доступ к Windows PowerShell
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Администраторы могут выполнять задачи управления из командной строки с помощью удаленного сеанса Windows PowerShell. Дополнительные сведения об использовании Windows PowerShell, в том числе указания по созданию удаленного сеанса и описания всех командлетов см. в разделе [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>Доступность функций
 

@@ -24,7 +24,7 @@ ms.locfileid: "45132963"
  
 ## <a name="activity-stream-api"></a>API потока действий
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Интегрируйте существующие корпоративные бизнес-приложения, добавив данные в социальный граф. Упростите обнаружение различных видов активности в существующих бизнес-приложениях.
   
 ## <a name="browser-extension"></a>Расширение браузера
 

@@ -24,9 +24,9 @@ Microsoft Exchange Online обеспечивает расширенную под
   
 ## <a name="mailbox-replication-at-data-centers"></a>Репликация почтовых ящиков в центрах обработки данных
 
-Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
+Почтовые ящики Exchange Online постоянно реплицируются с созданием нескольких копий базы данных в географически распределенных центрах обработки данных Майкрософт, чтобы обеспечить возможность восстановления данных в случае локального сбоя инфраструктуры обмена сообщениями. В случае крупномасштабных сбоев инициируются процедуры по управлению непрерывностью обслуживания.
   
-For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Дополнительные сведения о том, как корпорация Майкрософт защищает ваши данные, см. на странице [Центр управления безопасностью Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Если у вас есть план Office 365:, которым управляет 21Vianet, см. страницу [Центр 21Vianet для управления безопасностью](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Восстановление удаленного почтового ящика
 
@@ -38,9 +38,9 @@ Exchange Online позволяет пользователям восстанав
   
 После удаления элемента из папки "Удаленные" он остается в папке "элементы с возможностью восстановления" в течение 14 дней до окончательного удаления, но администраторы могут увеличить это до 30 дней с помощью удаленной оболочки Windows PowerShell. Пользователи могут восстановить элемент в течение этого периода времени с помощью функции восстановления удаленных элементов в Outlook в Интернете или Outlook. Узнайте, как [изменить срок хранения удаленных элементов](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+Если пользователь вручную удалил элемент из папки "Элементы, подлежащие восстановлению", администратор может восстановить элемент в течение такого же срока, используя функцию восстановления одного элемента и удаленного Windows PowerShell. По умолчанию при создании почтового ящика восстановление одного элемента включено. Узнайте, как [активировать восстановление одного элемента почтового ящика](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Для сохранения сообщения в папке "Элементы, подлежащие восстановлению" на период больше 30 дней организации могут внедрить политику долгосрочного хранения почты или временного хранения на месте. Дополнительные сведения см. в разделе, посвященном [удержанию почтовых ящиков на месте](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Доступность функций
 

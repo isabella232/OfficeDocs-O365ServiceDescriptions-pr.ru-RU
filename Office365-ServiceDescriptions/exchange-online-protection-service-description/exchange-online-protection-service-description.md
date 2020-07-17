@@ -22,7 +22,7 @@ ms.locfileid: "45132843"
 
 Узнайте о компонентах и требованиях для Exchange Online Protection. В этот список входят планы, обеспечивающие защиту Exchange Online, а также сравнение функций в этих планах.
 
-Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
+Microsoft Exchange Online Protection (EOP)  это облачная служба фильтрации электронной почты, которая помогает защитить организацию от нежелательной почты и вредоносных программ, передаваемых через электронную почту. К тому же, эта служба обладает функциями для защиты организации от нарушений политик обмена сообщениями. EOP может упростить управление вашей среды обмена сообщениями и облегчить многие тяготы, которые приходят с поддержкой локального аппаратного и программного обеспечения.
 
 В следующем списке описаны основные способы использования EOP для защиты сообщений.
 
@@ -66,7 +66,7 @@ Microsoft Exchange Enterprise CAL со службами предоставляе
 Если у вас есть лицензии на Exchange Enterprise CAL со службами и вы хотите подготовить EOP, следуйте инструкциям в статье [Настройка службы EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Действия по настройке такие же, как при настройке отдельной службы EOP.
 
 > [!NOTE]
-> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
+> Новые функции для клиентской лицензии Exchange Enterprise со службами развертываются одновременно с Exchange Online, а не с изолированной службой EOP. Имейте в виду, что графики развертывания изолированной службы EOP и клиентской лицензии Exchange Online или Exchange Enterprise со службами могут немного отличаться.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Требования для Exchange Online Protection (EOP)
 
@@ -78,7 +78,7 @@ EOP можно использовать с любым агентом перед�
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Доступность функций в планах Exchange Online Protection (EOP)
 
-Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+Каждая функция приведена ниже. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.
 
 |||||
 |:-----|:-----|:-----|:-----|

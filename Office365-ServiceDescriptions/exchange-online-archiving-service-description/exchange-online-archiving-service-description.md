@@ -60,7 +60,7 @@ ms.locfileid: "45131523"
   
 ### <a name="user-subscriptions"></a>Подписки пользователей
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Каждый пользователь, имеющий доступ к Архивация на базе Exchange Online, должен иметь подписку Архивация на базе Exchange Online. Каждая подписка на архив электронной почты может использоваться для хранения данных сообщений только одного пользователя.
   
 ## <a name="unlimited-archive-storage-quota"></a>Неограниченная квота на хранение архивов
 

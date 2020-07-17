@@ -30,7 +30,7 @@ ms.locfileid: "45133073"
 
  **Хотите узнать, какие лицензии необходимо приобрести, чтобы получить определенные функции Skype для бизнеса? Ознакомьтесь с [лицензией на надстройку Skype для бизнеса](https://go.microsoft.com/fwlink/?LinkID=799524).**
   
-Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
+Skype для бизнеса Online  это служба мгновенных сообщений для проведения собраний и разговоров из практически любого места в любое время. Эта служба предоставляет пользователям доступ к сведениям о присутствии, обеспечивает обмен мгновенными сообщениями, аудио- и видеозвонки, полнофункциональные собрания по сети и широкие возможности проведения веб-конференций. 
   
 Служба Skype для бизнеса размещена на мультитенантных серверах, которые поддерживают нескольких клиентов одновременно. Эти серверы размещены в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств из корпоративной сети или через Интернет. 
   
@@ -81,7 +81,7 @@ Skype for Business Online is a communications service that connects people for m
 |Office Communications Server 2007 R2 и Lync Server 2010 (IM, присутствие, аудио, видео, Конференц-связь)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |XMPP (например, используется Google Talk) и федерация Sametime  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 | Федерация со Skype  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|AOL and Yahoo! federation  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|Федерация AOL и Yahoo!  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
 |**[Собрания Skype для бизнеса Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype для бизнеса Server 2015** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
 |Прямое и плановое аудио конференц-связь  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Ad hoc и планирование видеоконференций  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
@@ -230,7 +230,7 @@ Skype for Business Online is a communications service that connects people for m
 |Office Communications Server 2007 R2 и Lync Server 2010 (мгновенные сообщения, передача сведений о присутствии, аудио- и видеозвонки, конференц-связь)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |XMPP (например, используется Google Talk) и федерация Sametime  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 | Федерация со Skype  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|AOL and Yahoo! federation  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
+|Федерация AOL и Yahoo!  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |**[Собрания Skype для бизнеса Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype для бизнеса Server 2015** <br/> |**Skype для бизнеса Online Автономный план 1** <br/> |**Skype для бизнеса Online Автономный план 2** <br/> |
 |Прямое и плановое аудио конференц-связь  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |
 |Ad hoc и планирование видеоконференций  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |

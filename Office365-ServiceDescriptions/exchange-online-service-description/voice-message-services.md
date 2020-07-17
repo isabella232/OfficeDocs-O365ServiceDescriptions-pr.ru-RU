@@ -62,13 +62,13 @@ Microsoft Exchange Online предлагает услуги размещенно
 >
 > Клиент должен предоставить телефонное подключение из телефонной сети общего пользования (PSTN), используя шлюз VoIP и УАТС, IP-УАТС или Skype для бизнеса Server 2015. 
 >
-> The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. 
+> Клиент должен предоставить локальные устройства пограничных контроллеров сеансов (SBC) и обеспечить правильную настройку SBC для подключения к службам голосовой почты в Интернете. Сюда входит настройка соответствующего уровня безопасности с использованием сертификатов, общедоступных и частных интерфейсов IP и подключением соответствующих портов TCP через их локальные брандмауэры. 
 >
 > Размещенная Голосовая почта доступна только для подписчиков Exchange Online (план 2) и Office 365 для предприятий E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Взаимодействие со сторонней голосовой почтой
 
-On-premises voice mail solutions from third-party providers can interoperate with Exchange Online if they can forward voice messages through SMTP or if they support Microsoft Exchange Web Services. If the voice mail system does not natively support forwarding voice messages through SMTP, an email server can be kept on-premises to receive messages from the voice mail system and then forward them to the cloud using SMTP. Because many third-party voice mail systems use MAPI/CDO to interoperate with Exchange Server for advanced UM features, the full capabilities of these systems may not be available when SMTP is used for interoperability with Exchange Online.
+Локальные системы голосовой почты от сторонних провайдеров могут взаимодействовать с Exchange Online, если они способны пересылать голосовые сообщения через SMTP, или если они поддерживают службы Microsoft Exchange Web Services. Если система голосовой почты изначально не поддерживает переадресацию голосовых сообщений через SMTP, сервер электронной почты может быть размещен локально и может получать сообщения из системы голосовой почты, а затем направлять их на облако используя SMTP. Так как многие сторонние системы голосовой почты используют MAPI/CDO для взаимодействия с продвинутой единой системой обмена сообщениями Exchange Server, все возможности этих систем могут быть недоступны при использовании SMTP для совместимости с Exchange Online.
   
 > [!NOTE]
 > Поддержка единой системы обмена сообщениями Exchange Online единой системы обмена сообщениями с непосредственными подключениями от пользователей, истечений с помощью прямых подключений, будет завершаться 2018 июля Дополнительную информацию можно узнать в статье прекращение [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117) . 

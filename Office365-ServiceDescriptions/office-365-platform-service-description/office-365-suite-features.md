@@ -56,7 +56,7 @@ MyAnalytics предоставляет подробные сведения о д
   
 ## <a name="microsoft-planner"></a>Планировщик (Майкрософт)
 
-Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
+"Планировщик" (Майкрософт)  это инструмент, предоставляющий пользователям наглядный способ организации командной работы. Команды могут создавать планы, формировать и назначать задачи, делиться файлами, обсуждать ход выполнения работы, устанавливать сроки выполнения и обновлять статус. Кроме того, "Планировщик" позволяет связывать документы с конкретными задачами, совместно редактировать их и открывать беседы по задачам. Дополнительные сведения см. в статье [Знакомство с приложением "Планировщик" (Майкрософт)](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Это приложение пока не доступно в [Office 365 в Германии](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -92,7 +92,7 @@ Office delve позволяет пользователям искать и на�
   
 ## <a name="office-365-video"></a>Office 365 Видео
 
-Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Видео  это защищенный корпоративный ресурс для размещения, обмена и поиска видео на всех ваших устройствах на базе служб мультимедиа Microsoft Azure. Office 365 Видео поможет вам удержать зрителей, поделиться идеями с широкой аудиторией и обеспечить слаженную работу организации. Дополнительные сведения см. в статье [Знакомство с Office 365 Видео](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Записная книжка OneNote для занятий
 

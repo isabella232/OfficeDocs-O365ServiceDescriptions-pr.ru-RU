@@ -408,7 +408,7 @@ Microsoft 365/A5/A5, совместимость с корпорацией Май
 
 ## <a name="office-365-message-encryption"></a>Шифрование сообщений Office 365
 
-Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
+Шифрование сообщений Office 365 (OME) — это служба, основанная на службе Azure RMS, которая позволяет отправлять шифрованные письма пользователям внутри или за пределами организации независимо от того конечного электронного адреса (Gmail, Yahoo! Mail, Outlook.com и т. д.).
 
 Для просмотра зашифрованных сообщений получатели могут получить одноразовый пароль, войти с учетной записью Майкрософт либо войти с помощью рабочей или учебной учетной записи, связанной с Office 365. Получатели также могут отправлять зашифрованные ответы. Для просмотра зашифрованных сообщений и отправки зашифрованных ответов им не нужна подписка.
 

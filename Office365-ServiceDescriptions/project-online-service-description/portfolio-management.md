@@ -36,19 +36,19 @@ ms.locfileid: "45131233"
   
 ## <a name="financial-management"></a>Управление финансами
 
-Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Используйте финансовый менеджмент, чтобы прогнозировать выгоды от реализации проекта. Отслеживайте эффективность затрат, чтобы каждый проект выполнялся в рамках бюджета, а портфель обеспечивал ожидаемые результаты. Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Участие в рабочем процессе
 
-Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
+Рабочие процессы помогают структурировать прохождение проектами всех необходимых этапов. Рабочий процесс включает определения стадий жизненного цикла, через которые проходит проект, например создание предложения и первоначальное утверждение. Он также задает необходимые или заблокированные сведения на каждом этапе.
   
 ## <a name="portfolio-analytics-and-selection"></a>Аналитика и выбор портфеля
 
-Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Эффективно выявляйте, выбирайте и реализуйте портфели проектов, которые согласуются с бизнес-стратегией вашей организации, и увеличивайте рентабельность инвестиций (ROI). Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Управление программами
 
-In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Каждый проект имеет свои цели, которые в сочетании друг с другом обеспечивают прогнозируемые выгоды программы в целом. Дополнительные сведения см. в статье [Руководство по решениям для управления портфелем проектов (официальный документ)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>План
 

@@ -18,7 +18,7 @@ ms.locfileid: "45131983"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High и DoD
 
-To meet the unique and evolving requirements of the United States Department of Defense, as well as contractors holding or processing DoD controlled unclassified information (CUI) or subject to International Traffic in Arms Regulations (ITAR), Microsoft offers GCC High and DoD environments. Available through Volume Licensing, interested organizations go through a validation process to ensure eligibility before an environment is established. Trials are not available at this time. 
+Среды GCC High и DoD соответствуют уникальным и постоянно меняющимся требованиям Министерства обороны США, а также подрядчиков, которые хранят или обрабатывают контролируемую открытую информацию министерства обороны или подпадают под действие правил международной торговли оружием (ITAR). Корпорация Майкрософт предоставляет эти среды по программе корпоративного лицензирования. Перед созданием среды заинтересованные организации проходят проверку на соответствие требованиям. В настоящее время ознакомительные версии недоступны.  
   
 Чтобы получить дополнительную информацию или начать проверку, обратитесь к специалисту по работе с клиентами или партнеру. Дополнительные сведения о приобретении можно найти в [статье Microsoft 365 государственных учреждений — как приобрести](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
@@ -34,11 +34,11 @@ GCC High и DoD соответствуют требованиям следующ
     
 - Применение средств обеспечения безопасности и соответствие нарастающим требованиям, описанным в руководстве по безопасности облачных вычислений Министерства обороны США (CC SRG), для информации с индексом критичности до 5 (L5).
     
-Department of Defense subscribers to Office 365 will receive services provided from the DOD exclusive environment that meets DOD SRG L5. Non-Department of Defense subscribers will receive services from the US Government Defense environment which is assessed at L5, but uses L4 segmentation.
+Подписчики Office 365 из министерства обороны получают службы из эксклюзивной среды DoD, соответствующей требованиям DoD SRG L5. Остальные подписчики получают службы из среды для оборонной промышленности США, которая классифицируется как L5, но использует сегментацию L4.
   
 ## <a name="background-screening"></a>Проверка биографии 
 
-Office 365 staff do not have standing access to GCC High and DoD production. Any staff who request temporary permission elevation which would grant access to customer content must first have passed the following background checks.
+У сотрудников Office 365 нет постоянного доступа к производственной среде для GCC High и DoD. Прежде чем запросить временный доступ к контенту клиента, сотрудники проходят следующие проверки биографических данных:
   
 |||
 |:-----|:-----|

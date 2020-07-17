@@ -58,7 +58,7 @@ Skype для бизнеса — это клиент обмена мгновен�
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath  это программа, которая позволяет разрабатывать, распространять, заполнять и отправлять электронные формы. Можно добавить веб-часть форм InfoPath для сайтов SharePoint Online. Дополнительные сведения см. в разделе [Веб-часть формы InfoPath](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Чтобы узнать, как PowerApps, последователя в InfoPath, можно повысить продуктивность бизнеса в SharePoint без написания кода, ознакомьтесь [со статьей Настройка SharePoint с PowerApps](https://powerapps.microsoft.com/infopath/).
   

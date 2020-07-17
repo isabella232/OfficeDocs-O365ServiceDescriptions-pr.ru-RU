@@ -22,7 +22,7 @@ ms.locfileid: "45131623"
   
 ## <a name="odata-feeds"></a>Веб-каналы OData
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+Веб-каналы OData позволяют с помощью REST-запросов и множества клиентских библиотек OData выполнять локальные и веб-запросы для экземпляра Project Web App на получение данных отчетов. Например, возможна отправка REST-запросов непосредственно в веб-браузере. Кроме того, можно использовать JavaScript для создания веб-приложений и клиентских приложений для мобильных устройств, планшетов и компьютеров с Windows и Mac OS. Дополнительные сведения см. в статье [Справочник по службе OData для Project 2013](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Встроенные панели мониторинга портфелей
 
@@ -30,5 +30,5 @@ OData feeds enable REST queries and a variety of OData client libraries to make 
   
 ## <a name="project-desktop-reporting"></a>Создание отчетов о проектах для компьютеров
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+В классическом приложении Project можно создавать и настраивать наглядные графические отчеты с любыми данными по проекту без необходимости использовать дополнительное программное обеспечение. Дополнительные сведения см. в статье [Создание отчета о проекте](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

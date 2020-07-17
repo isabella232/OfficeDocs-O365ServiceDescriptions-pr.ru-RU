@@ -36,7 +36,7 @@ ms.locfileid: "45133043"
 
 ## <a name="online-now"></a>Теперь в сети
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+Просмотрите, кто из пользователей подключен к сети, и сразу же начните личную беседу с одним или несколькими сотрудниками. Список контактов автоматически сортируется таким образом, чтобы в его начале находились люди, с которыми вы взаимодействуете чаще всего.
 
 ## <a name="polls"></a>Опросы
 

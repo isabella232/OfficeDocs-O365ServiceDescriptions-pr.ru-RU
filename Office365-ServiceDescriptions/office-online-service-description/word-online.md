@@ -42,7 +42,7 @@ Word для Интернета (ранее Word Web App) расширяет во
   
 ## <a name="autotext"></a>AutoText
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+Вы можете вставлять блоки форматированного текста из коллекции автотекста. Это удобно, если вам нужно несколько раз ввести один большой блок текста, содержащий много элементов форматирования. Чтобы создать автотекст, добавьте выделенный текст в коллекцию автотекста. Дополнительные сведения см. в статье [Автоматическая вставка текста](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
@@ -70,11 +70,11 @@ You can insert blocks of preformatted text using AutoText from your AutoText gal
   
 ## <a name="content-controls"></a>элементы управления контентом;
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+Элементы управления содержимым  это отдельные элементы управления, которые можно добавлять и настраивать для использования в шаблонах, формах и документах. Узнайте больше об [элементах управления содержимым](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>Титульные листы
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+В Microsoft Word есть коллекция готовых титульных страниц. Просто выберите титульную страницу и вставьте свой текст вместо образца.
   
 ## <a name="creation-of-advanced-document-elements"></a>Создание дополнительных элементов документа
 
@@ -86,7 +86,7 @@ Microsoft Word offers a gallery of convenient predesigned cover pages. You can s
   
 ## <a name="document-translation"></a>Перевод документов
 
-Translate documents directly in the browser. Even document comments are translated.
+Перевод документов непосредственно в браузере. Переводятся даже примечания.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -126,7 +126,7 @@ Microsoft Word включает встроенную поддержку ввод
   
 ## <a name="index"></a>Индекс
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+Указатель содержит термины и темы, рассматриваемые в документе, а также страницы, на которых они встречаются. Чтобы создать указатель, отметьте каждый его элемент, указав имя основного элемента и перекрестную ссылку в документе.
   
 ## <a name="ink-editor"></a>Правки от руки
 
@@ -184,7 +184,7 @@ An index lists the terms and topics that are discussed in a document, along with
   
 ## <a name="preformatted-font-and-color-schemes"></a>Форматированные шрифтовые и цветовые схемы
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+Чтобы документы выглядели одинаково и профессионально, можно использовать темы. Темы можно применять к таблицам, диаграммам, фигурам и схемам, чтобы обеспечить единообразие шрифтов, эффектов и цветовых схем.
   
 ## <a name="present-online"></a>Онлайн-презентация
 
@@ -212,7 +212,7 @@ Word для Интернета автоматически проверяет о�
   
 ## <a name="reference-tools"></a>Справочные материалы
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+Функции создания списка литературы, содержания и индексов отображаются в документе в полном объеме в режиме просмотра. В режиме редактирования они появляются в виде заполнителей, которые можно удалять, но невозможно редактировать или обновлять. Расширенные справочные средства (например, создание списка литературы, содержания, индексов или таблицы ссылок) доступны только в классическом приложении Word.
   
 ## <a name="rendering-of-text-boxesshapes"></a>Отображение текстовых полей и фигур
 
@@ -220,7 +220,7 @@ Bibliography, table of contents, and index features display in the document as e
   
 ## <a name="researcher"></a>Помощник исследователя
 
-Researcher helps you find and incorporate reliable sources and content for your document. Researcher uses Bing to pull in the appropriate content from the web. For more information, see [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490).
+Помощник исследователя помогает находить и добавлять в документ достоверные источники и содержимое. Помощник исследователя получает подходящее содержимое из Интернета с помощью Bing. Дополнительные сведения см. в статье [Удобная работа с источниками в Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>Rich media
 
@@ -260,7 +260,7 @@ Researcher helps you find and incorporate reliable sources and content for your 
   
 ## <a name="tap"></a>Тематический поиск
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+Выполняйте поиск и повторно используйте содержимое с помощью функции тематического поиска. Она показывает релевантные файлы, которые вы чаще всего используете, позволяя сосредоточиться на создании документов, а не на поиске файлов и информации. Дополнительные сведения см. в статье [Поиск и использование необходимого содержимого](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>Помощник
 
@@ -284,7 +284,7 @@ Use the Tap feature to find and reuse content. Tap surfaces relevant files that 
   
 ## <a name="watermarks"></a>Водяные знаки
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+Подложки — это текст или изображения, расположенные за текстом в документе, например "Черновик" или "Конфиденциально". В Word есть коллекция готовых подложек. Вы также можете создать собственную подложку, например логотип компании, для своего документа.  
   
 ## <a name="word-count"></a>Статистика
 

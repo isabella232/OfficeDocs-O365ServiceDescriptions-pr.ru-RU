@@ -42,11 +42,11 @@ ms.locfileid: "45131273"
   
 ## <a name="custom-fields"></a>настраиваемые поля;
 
-In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+В дополнение к полям, которые имеются в программе Project, можно настроить собственные поля, которые будут отвечать требованиям вашей организации. Чтобы узнать о полях больше, ознакомьтесь со статьей [Справочник по доступным полям](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
-Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+Для совместной разработки графиков можно копировать и вставлять данные графиков между приложениями Microsoft Office, например Word. Дополнительные сведения о [копировании и вставке из программы Word в Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
@@ -54,7 +54,7 @@ Collaborate on schedule development by copying and pasting schedule details betw
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 
-Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Повышайте эффективность своей работы с помощью ленты, интерфейса на основе вкладок для быстрого поиска и использования функций и элементов управления Project. [Дополнительные сведения о ленте](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -78,15 +78,15 @@ Increase productivity with the ribbon, a tab interface that you can use to quick
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+Если вы не знаете всех сведений, касающихся проекта, вы можете использовать замещающий текст, например "TBD" для ресурсов, дат начала и окончания и т. д. С дополнительными сведениями можно ознакомиться в статье [Нисходящее планирование](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>Шаблоны проектов
 
-You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+Вы можете значительно сэкономить время, создавая проекты на основе других проектов, используя их в качестве шаблона. Ознакомьтесь со статьей [Создание нового проекта из другого проекта или шаблона](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>Начальный опыт
 
-Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
+Вместо того, чтобы предоставить пользователям пустой проект, Project 2013 представляет универсальный центр для создания проектов. Вы можете использовать шаблоны клиентов или встроенное руководство по простому началу работы в четыре шага.
   
 ## <a name="text-wrap"></a>Перенос текста
 

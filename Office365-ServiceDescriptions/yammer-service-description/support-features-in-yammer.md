@@ -29,7 +29,7 @@ ms.locfileid: "45132003"
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Администраторы Yammer Enterprise ответственны за техническую поддержку учетных записей и уполномочены напрямую обращаться к группе поддержки корпорации Майкрософт. Если вы  администратор Yammer Enterprise и вам нужна поддержка, см. статью [Поддержка корпорации Майкрософт](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Служба поддержки клиентов
 
@@ -41,7 +41,7 @@ Yammer Enterprise administrators are responsible for account maintenance and are
 
 ## <a name="support-features-across-yammer-plans"></a>Возможности поддержки в планах Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+Нужна помощь, чтобы определить, какой план Yammer наилучшим образом отвечает требованиям вашей организации? Используйте следующую таблицу, чтобы изучить возможности поддержки, доступные в каждом плане.
   
 |**Функция**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>Работа службы технической поддержки с обращениями
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+Примеры 
   
 |**Степень серьезности**|**Описание**|**Примеры**|
 |:-----|:-----|:-----|

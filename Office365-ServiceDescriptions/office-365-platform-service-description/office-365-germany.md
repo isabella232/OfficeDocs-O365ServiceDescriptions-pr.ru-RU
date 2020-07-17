@@ -20,13 +20,13 @@ ms.locfileid: "45132394"
 
 Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Это помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя наши ведущие отраслевые службы для работы с цифровыми данными, от Германии, с данными размещению в Германии и жесткими мерами доступа к данным и управления с помощью уникальной модели доверенного лица для Германии.
 
-The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
+Куратор данных, T-Systems International, независимая немецкая компания и дочернее подразделение Deutsche Telekom, управляет физическим и логическим доступом к данным клиентов. К ним невозможно получить доступ без утверждения или контроля куратора, деятельность которого регулируется немецким законодательством.
 
 В соответствии с этими развитием потребностей клиентов наша стратегия облачности для Германии будет сосредоточиться на поставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. После этого мы больше не будем принимать новых клиентов или развертывать новые службы в Microsoft Cloud Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с необходимыми обновлениями для системы безопасности. [Узнайте о Office 365 в Германии](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>Доступность служб в каждом плане
 
-Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Каждый план Office 365: Germany включает ряд отдельных служб, таких как Exchange Online и SharePoint Online. В следующей таблице указаны службы, доступные в каждом плане Office 365:.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -538,7 +538,7 @@ Office 365 Германия соответствует стандартам Clou
 
 ## <a name="project-online-features"></a>Функции Project Online
 
-The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -549,7 +549,7 @@ The following table lists the Project Online features that are available across 
 
 ## <a name="sharepoint-online-features"></a>Функции SharePoint Online
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
+Все планы Office 365: включают службу SharePoint Online, но не все из них поддерживают все функции SharePoint. В следующей таблице перечислены функции, доступные в планах Office 365: Germany.
 
 ****
 
@@ -849,7 +849,7 @@ All Office 365 plans include the SharePoint Online service, but not all plans su
 |Office Communications Server 2007 R2 и Lync Server 2010 (мгновенные сообщения, передача сведений о присутствии, аудио- и видеозвонки, конференц-связь)|Да|Нет|Да|Да|Да|Да|Нет|
 |XMPP (например, используется Google Talk) и федерация Sametime|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Федерация со Skype|Нет<sup>6</sup>|Нет|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет<sup>6</sup>|Нет|
-|AOL and Yahoo! federation|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Федерация AOL и Yahoo!|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |**[Собрания Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Прямое и плановое аудио конференц-связь|Да|Да|Да|Да|Да|Да|Нет|
 |Ad hoc и планирование видеоконференций|Да|Да|Да|Да|Да|Да|Нет|

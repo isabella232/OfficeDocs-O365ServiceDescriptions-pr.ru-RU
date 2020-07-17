@@ -30,11 +30,11 @@ ms.locfileid: "45131113"
   
 ## <a name="manage-nonworking-time"></a>Управление нерабочим временем
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Добавляйте отпуск, праздники, больничные и другое нерабочее время в график проекта. Дополнительные сведения о [добавлении праздников и выходных дней в проект](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+Когда пользователи работают одновременно с очень большим количеством заданий, вы можете согласовать их задания автоматически. Это действие известно как выравнивание загрузки ресурсов. Узнайте подробнее о [выравнивании назначений ресурсов](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Представления листа ресурсов и использования ресурсов
 
@@ -50,7 +50,7 @@ When people in your project are working on too many assignments at the same time
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+Добавляйте в проект ресурсы, в том числе трудовые (сотрудники), ролевые (плотники) и материальные (компьютеры, цемент). Ознакомьтесь со статьей [Ввод затрат на оборудование и других затратных ресурсов](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Доступность функций
 

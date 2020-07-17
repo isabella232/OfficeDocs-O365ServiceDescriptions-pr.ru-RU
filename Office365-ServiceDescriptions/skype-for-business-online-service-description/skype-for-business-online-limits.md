@@ -38,7 +38,7 @@ ms.locfileid: "45131023"
 ## <a name="peer-to-peer-limits"></a>Одноранговые ограничения
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Ограничение на передачу файлов.** Максимальный размер файла, который можно передать в чате Skype для бизнеса Online. Сведения о типах файлов, которые нельзя передавать, см. в статье об [отправке и получении файлов или вложений в Skype для бизнеса Online](https://go.microsoft.com/fwlink/?LinkId=398280) на веб-сайте службы поддержки Майкрософт.
     
 - **Ограничение на количество бесед во вкладках** Максимальное количество бесед, одновременно открытых пользователем Skype для бизнеса в отдельных вкладках. 
     

@@ -26,11 +26,11 @@ ms.locfileid: "45132103"
 
 ## <a name="admin-private-content-mode"></a>Частный режим контента администратора
 
-A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
+Проверенный администратор сети Yammer может просматривать личные сообщения и группы в ней.  Администраторы могут просматривать личное содержимое, только временно предоставив себе доступ к личному контенту для изучения проблем.  Дополнительные сведения см. в статье [Мониторинг личного контента в Yammer (проверенные администраторы)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>Аналитика
 
-Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
+Анализируйте данные, передаваемые по сети чтобы узнать, как сотрудники используют Yammer. С помощью различных данных, от метрик использования до статистики участников, вы сможете определить методы повышения эффективности вашей сети.
 
 ## <a name="custom-network-branding"></a>Настраиваемая фирменная символика сети
 

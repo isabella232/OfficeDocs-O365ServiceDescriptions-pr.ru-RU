@@ -38,7 +38,7 @@ Excel для Интернета (прежнее название — Excel Web A
 
 ## <a name="add-hyperlinks"></a>Добавление гиперссылок
 
-Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
+Добавление гиперссылки в ячейку для связи с веб-страницей или открытия файлов в Интернете. Можно ввести веб-адрес непосредственно в ячейку или воспользоваться командой "Добавить гиперссылку".
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Расширенные типы данных: Stocks и geography
 
@@ -46,7 +46,7 @@ Link to web pages or open files on the web by adding a hyperlink in a cell. You 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
+Элемент временной шкалы позволяет фильтровать смоделированные данные. Функция обеспечивает удобный просмотр и возможность изменения непрерывного диапазона дат и фильтрации сводных объектов, например сводных таблиц или сводных диаграмм.  
   
 ## <a name="alignment"></a>Выравнивание
 
@@ -70,11 +70,11 @@ Excel для Интернета может заполнять вводимые �
   
 ## <a name="autosum"></a>Автосумма
 
-Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
+Сведите столбец или строку чисел, выбрав ячейки, которые необходимо суммировать, и дважды щелкните команду "Автосумма". Результат появится в следующей пустой ячейке.
   
 ## <a name="calculations"></a>Вычисления
 
-You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
+Excel можно использовать для выполнения различных автоматических, ручных и итеративных вычислений. Для их выполнения Excel использует функции. Дополнительные сведения см. в статье [Функции Excel по категориям](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Ссылки на ячейки в формулах
 
@@ -137,7 +137,7 @@ Dropbox — служба размещения файлов с облачным 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Внедрение книги на веб-страницу или в блог (OneDrive)
 
-If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+Сохранив книгу Excel в хранилище OneDrive.com, вы сможете внедрить ее непосредственно на странице блога или веб-сайта. Пользователи смогут сортировать, фильтровать и вычислять данные прямо в книге, а если вы обновите книгу в OneDrive, пользователи увидят последние изменения после того, как обновят страницу. Узнайте больше о [внедрении книги Excel в блог](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Внешние ссылки
 
@@ -193,7 +193,7 @@ If you store an Excel workbook on OneDrive.com, you can embed it directly in a b
   
 ## <a name="insert-charts"></a>Insert charts
 
-Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Создание диаграммы для визуального представления данных. Выберите один из нескольких типов диаграмм, например гистограмму, график, круговую или линейчатую диаграмму. Узнайте больше о [доступных типах диаграмм](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -221,7 +221,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="number-formatting"></a>Форматирование чисел
 
-Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
+Изменение формата чисел. Выберите формат из списка, например "Валюта" или "Краткая дата", измените количество десятичных знаков или вставьте разделитель разрядов.
   
 ## <a name="office-add-ins"></a>Надстройки Office
 
@@ -253,7 +253,7 @@ Excel для Интернета позволяет просматривать т
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
-Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
+Несколько пользователей могут одновременно работать с одной электронной таблицей, используя для просмотра веб-браузер, а не классическое приложение Excel. Благодаря обновляемым в реальном времени сведениям о присутствии вы можете видеть, над какой частью документа работают другие авторы (что позволяет избегать конфликтов при редактировании) и какие изменения они вносят. Дополнительные сведения о совместном редактировании в реальном времени см. в видео [Одновременная работа нескольких пользователей над книгами Excel с помощью функции совместного редактирования](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Создание рекомендованных диаграмм и их редактирование с помощью элементов управления форматированием
 
@@ -285,7 +285,7 @@ Two or more people can work in the same spreadsheet at the same time by opening 
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
+Хотите иметь свой экземпляр книги? Используйте команду "Сохранить как" на вкладке "Файл" или щелкните название книги в папке правой кнопкой мыши и используйте команду "Загрузить", чтобы отправить копию на компьютер.
 
 ## <a name="sensitivity-labels"></a>Метки конфиденциальности
 
