@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137565"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201559"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -341,6 +341,26 @@ Office 365 в ~/A5, Microsoft 365 A5/A5, Microsoft 365/A5, Microsoft "/A5", Micr
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применить эту службу только к пользователям в клиенте, у которого есть лицензия на эту службу?
 
 Клиенты могут управлять PAM для отдельных пользователей с помощью групп и политик доступа утверждающего, которые можно применять к лицензированным пользователям. Дополнительные сведения см в статье [Управление привилегированным доступом в Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Шифрование с двойным ключом для Microsoft 365 
+
+Двойное ключевое шифрование Microsoft 365 позволяет защищать конфиденциальные данные для удовлетворения специализированных требований и поддерживать полный контроль над ключом шифрования. Двойное шифрование использует два ключа для защиты данных с одним ключом в элементе управления, а второй ключ — надежной сохраненной Microsoft Azure. Для просмотра данных необходимо иметь доступ к обоим ключам. Так как корпорация Майкрософт может получить доступ только к одному ключу, ваш ключ, а также ваши данные недоступны корпорации Майкрософт, обеспечивая полный контроль над конфиденциальностью и безопасностью данных.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
+
+Пользователи получают преимущества от двойных ключей шифрования, позволяя перенести их зашифрованные данные в облако и предотвратить доступ третьих сторон, пока ключ остается в контроле пользователей. Конечные пользователи могут защищать и использовать двойное зашифрованное содержимое, аналогичное любому другому защищенному содержимому метки чувствительности.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы?
+
+Microsoft 365 в ~/A5, соответствие требованиям корпорации Майкрософт 365 о том, что корпорация Майкрософт 365 Information/A5, Майкрософт Information Protection и управление, Office 365 ~/A5 и Office 365 Advanced соответствие предоставляют права пользователя на преимущества использования двойных ключей шифрования.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Каким образом подготовлена или развернута служба?
+
+Шифрование с двойным ключом поддерживает настольную версию Microsoft Office для Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применить эту службу только к пользователям в клиенте, у которого есть лицензия на эту службу?
+
+Чтобы назначить ключи шифрования для данных в организации Office 365 и/или Microsoft 365 для лицензированных пользователей, следуйте инструкциям по развертыванию двойных ключей шифрования.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Защита от потери данных в Office 365 для Exchange Online, SharePoint Online и OneDrive для бизнеса
 
