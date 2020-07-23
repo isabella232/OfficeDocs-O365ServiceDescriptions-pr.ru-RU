@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте о пределах SharePoint для Microsoft 365 и автономных планов.
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154367"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229645"
 ---
 # <a name="sharepoint-limits"></a>Границы SharePoint
 
@@ -24,7 +24,7 @@ ms.locfileid: "45154367"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Функция** <br/> |**Microsoft 365 бизнес базовый или бизнес премиум** <br/> |**Microsoft 365 E3, Office 365 корпоративный E1, E3, E3 или SharePoint (план 1) или 2** <br/> | **Microsoft 365 F1 или F3, Office 365 корпоративный F3** <br/> |
+|**Функция** <br/> |**Microsoft 365 бизнес базовый, Бизнес Standard или бизнес премиум** <br/> |**Microsoft 365 E3, Office 365 корпоративный E1, E3, E3 или SharePoint (план 1) или 2** <br/> | **Microsoft 365 F1 или F3, Office 365 корпоративный F3** <br/> |
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup>  <br/> |1 ТБ плюс 10 ГБ на каждую приобретенную лицензию<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Максимальное количество хранилищ на сайт (семейство веб-сайтов)<sup>4</sup><br/> |25 ТБ <br/> |25 ТБ <br/> |25 ТБ<sup>5</sup> <br/> |
 |Сайты (семейства веб-сайтов) на организацию  <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<sup>6</sup> <br/> |2 000 000<br/> |
@@ -83,7 +83,7 @@ ms.locfileid: "45154367"
 
 ### <a name="sharepoint-groups"></a>Группы SharePoint
 
-Пользователь может принадлежать к группам 5 000, и каждая группа может иметь до 5 000 пользователей. Можно использовать до 10 000 групп на сайт (семейство веб-сайтов).
+Пользователь может принадлежать к группам 5 000 для каждого сайта (семейство веб-сайтов), а каждая группа может иметь до 5 000 пользователей. Можно использовать до 10 000 групп на сайт (семейство веб-сайтов).
 
 > [!NOTE]
 > Ограничения для групп Azure AD, [а также ограничения для служб Azure AD, которые](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) могут повлиять на управление членством в сайтах общедоступных и частных групп. 
