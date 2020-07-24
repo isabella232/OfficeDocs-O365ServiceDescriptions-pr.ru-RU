@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131993"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388095"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -56,19 +56,18 @@ Microsoft Teams недоступен в качестве автономной с
 |Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
 |Каналы — Standard  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Нет<sup>3</sup>  <br/> |Нет<sup>3</sup>  <br/> |Нет<sup>3</sup>  <br/> |Да  <br/> |
+|Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Нет  <br/> |Нет  <br/> |Нет <br/> |ДА  <br/> |
 |Собрания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Демонстрация экрана PowerPoint Audio/Video Desktop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да  <br/> |
-|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>5</sup>  <br/> |Нет<sup>5</sup>  <br/> |Да  <br/> |
+|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
+|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>4</sup>  <br/> |Нет<sup>4</sup>  <br/> |Да  <br/> |
 
 <sup>1</sup> в Microsoft Teams в GCC, а не в Microsoft Teams поддержка по требованию 2500 членов отдельной команды.<br/>
 <sup>2</sup> планировщик Microsoft сейчас недоступен для доступа в частных каналах.<br/>
-<sup>3</sup> частные каналы в настоящее время недоступны в облаках GCC. Дополнительные обновления сведений о доступности будут опубликованы в центре сообщений.<br/>
-<sup>4</sup> Microsoft OneNote недоступно в облаках с DOD. В настоящее время приложения и публикация приложений недоступны в этих облаках.<br/>
-<sup>5</sup> Live Events в настоящее время недоступно в GCC-High или с вызовом по требованию.<br/>
+<sup>3</sup> Microsoft OneNote недоступно в облаках с DOD. В настоящее время приложения и публикация приложений недоступны в этих облаках.<br/>
+<sup>4</sup> Live Events в настоящее время недоступно в GCC-High или с вызовом по требованию.<br/>
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
