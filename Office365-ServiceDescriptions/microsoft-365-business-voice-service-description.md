@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice — это служба надстройки, которая позволяет использовать Microsoft Teams для звонков по телефону. Это сочетает телефонную систему, план для местных звонков, SMS и голосовые конференции.
-ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
+ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679596"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410218"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Описание службы корпоративной голосовой связи Microsoft 365
 
@@ -33,12 +33,12 @@ Microsoft 365 Business Voice доступна со следующими подп
 - Microsoft 365 F1
 - Microsoft 365 F3
 - Office 365 F3
-- Microsoft и Office 365 корпоративный E1, E3 или "/д"
-- Microsoft 365 и Office 365 для образования a1, A3 и A5
-- Microsoft 365 и Office 365 для государственных учреждений G1, G3 или G5 (только GCC)
+- Microsoft и Office 365 корпоративный E1 или E3
+- Microsoft 365 и Office 365 для образования a1 или a3
+- Microsoft 365 и Office 365 для государственных учреждений G1 или G3
 - Microsoft 365 некоммерческие бизнес-базовые
 - Microsoft 365 некоммерческие бизнес-стандарты
-- Microsoft 365 и Office 365 некоммерческие E1, E3 или в ~
+- Microsoft 365 и Office 365 некоммерческие E1 или E3
 
 ## <a name="microsoft-365-business-voice-features"></a>Функции Microsoft 365 Business Voice
 
