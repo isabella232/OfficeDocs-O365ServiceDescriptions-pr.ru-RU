@@ -1,5 +1,5 @@
 ---
-title: Границы SharePoint
+title: Ограничения SharePoint
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте о пределах SharePoint для Microsoft 365 и автономных планов.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229645"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560084"
 ---
-# <a name="sharepoint-limits"></a>Границы SharePoint
+# <a name="sharepoint-limits"></a>Ограничения SharePoint
 
 Сведения об ограничении служб в SharePoint для Microsoft 365.
   
@@ -99,6 +99,9 @@ ms.locfileid: "45229645"
 ### <a name="subsites"></a>Дочерних сайтов 
 
 2 000 для каждого сайта (семейство веб-сайтов). Мы рекомендуем создавать сайты и упорядочивать их в центрах, а не создавать дочерние сайты. Если вы используете дочерние сайты, рекомендуем ограничить их число (особенно на сильно загруженноеных сайтах).
+
+> [!NOTE] 
+> Организация ограничена до 2 000 центральных сайтов. Для каждой функции может не потребоваться центральный сайт, и перед созданием концентраторов важно выполнить некоторые действия по планированию. Для получения дополнительных сведений перейдите [на страницу планирование сайтов-концентраторов SharePoint](https://docs.microsoft.com/sharepoint/planning-hub-sites).
 
 ### <a name="sharepoint-hosted-applications"></a>Приложения, размещаемые в SharePoint
 
