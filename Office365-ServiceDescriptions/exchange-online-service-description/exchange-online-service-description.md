@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
+ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131553"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "46573977"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -64,6 +64,8 @@ Microsoft 365 доступен в различных планах, чтобы о
 ## <a name="feature-availability"></a>Доступность функций
 
 Если в вашей организации есть подписки на Office 365 для малого бизнеса, Office 365 для малого бизнеса премиум или Office 365 среднего бизнеса, посетите центр сообщений в центре администрирования Microsoft 365 или обратитесь к поставщику за дополнительными сведениями о том, как новый план приложений Microsoft 365 влияет на вас. Чтобы узнать больше о новом семействе приложений Microsoft 365, ознакомьтесь со статьей [новые планы для малых и средних предприятий](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
+
+Сведения о доступности функций в Microsoft 365 Business Premium можно найти в [статье Описание службы microsoft 365 бизнес премиум](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
   
 |**Функция**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -213,7 +215,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
 |**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
-|Архивация сообщений в облаке для локальных почтовых ящиков|Да<sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
+|Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
 |Ручные политики хранения, метки и Теги|Нет|Нет|Да|Да|Да|
 |Шифрование статических данных (BitLocker)|Да,<sup>16</sup>|Да,<sup>16</sup>|Да|Да|Да|
@@ -269,7 +271,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Отчеты единой системы обмена сообщениями|Да|Да|Нет|Да|Нет|
 |**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Федеративный доступ|Да|Да|Да|Да|Да|
-|Почтовые ящики сайта|Да<sup>3</sup>|Да <sup>3</sup>|Да <sup>4</sup>|Да <sup>4</sup>|Да <sup>4</sup>|
+|Почтовые ящики сайта|Да <sup>3</sup>|Да <sup>3</sup>|Да <sup>4</sup>|Да <sup>4</sup>|Да <sup>4</sup>|
 |Общедоступные папки|Да|Да|Да|Да|Нет|
 |**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
 |Microsoft Outlook|Да|Да|Да|Да|Нет|
