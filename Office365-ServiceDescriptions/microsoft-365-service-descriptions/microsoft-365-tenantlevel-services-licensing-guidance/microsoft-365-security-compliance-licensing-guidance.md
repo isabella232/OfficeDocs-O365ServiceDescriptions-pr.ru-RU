@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201559"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798385"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -320,7 +320,7 @@ Office 365/A5/A5/G5, Microsoft 365, A5/A5/G5, Microsoft 365, A5, A5/G5, Microsof
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применить эту службу только к пользователям в клиенте, у которого есть лицензия на эту службу?
 
-Корпорация Майкрософт предоставляет защищенный от клиентов запрос на утверждение для пользователей в вашей организации.
+В настоящее время служба защищенного хранилища не может быть ограничена определенными пользователями. Необходимо лицензировать каждого пользователя, которому планируется использовать преимущества.
 
 ## <a name="privileged-access-management-in-office-365"></a>Управление привилегированным доступом в Office 365
 
