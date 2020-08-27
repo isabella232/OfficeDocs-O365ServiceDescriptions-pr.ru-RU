@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Архивация Microsoft Exchange Online позволяет пользователям подключаться к архивным почтовым ящикам с различных устройств и платформ. Все сетевое подключение к архиву пользователя происходит через Интернет, и подключения к виртуальной частной сети (VPN) не требуются. Организации могут публиковать локальный сервер клиентского доступа, чтобы пользователи могли получать доступ к основному почтовому ящику с помощью мобильного Outlook, не требуя подключения к VPN. Если для доступа к основному почтовому ящику пользователя, расположенному на локальном сервере, требуется VPN-доступ, это требование не изменяется.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132063"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255906"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Функции клиентов в архивации на базе Exchange Online
 
@@ -45,8 +45,9 @@ Outlook 2007 предоставляет базовую поддержку арх
   
 |**Клиент**|**Поддержка EOA**|
 |:-----|:-----|
-|Outlook 2010 и более поздние версии  <br/> |Поддерживает последние функции в Архивация на базе Exchange Online.<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Можно использовать с Архивация на базе Exchange Online.<sup>1,2</sup> <br/> |
+|Outlook 2013 и более поздних версий  <br/> |Поддерживает последние функции в Архивация на базе Exchange Online.<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Поддерживает новейшие функции архивации на базе Exchange Online только до версии Oct. 13, 2020|
+|Outlook 2007  <br/> |Не поддерживается |
 |Outlook 2003  <br/> |Не поддерживается  <br/> |
 |Outlook для Mac 2011  <br/> |Не поддерживается  <br/> |
 |Outlook для Mac  <br/> |Поддерживается для использования архивации на базе Exchange Online. <sup>3</sup> <br/> |
