@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131033"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300513"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -34,7 +34,7 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Чтобы узнать о различиях в функциях SharePoint для облачных пользователей США, ознакомьтесь со статьей [SharePoint для государственных сред США](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Что нового
+## <a name="whats-new"></a>Новые возможности
 
 Сведения о новейших возможностях можно узнать [в статье новые возможности SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -52,7 +52,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 
 OneDrive в Microsoft 365 — это сетевое хранилище для отдельных пользователей в Организации. Это место, где пользователи могут хранить, синхронизировать и совместно использовать свои рабочие файлы на нескольких устройствах с помощью простоты и безопасности. OneDrive включен в SharePoint, и его также можно приобрести в виде автономного плана. Чтобы узнать, какой объем хранилища OneDrive поставляется вместе с каждым планом, ознакомьтесь с [описанием службы OneDrive](../onedrive-for-business-service-description.md).
 
-## <a name="apps"></a>Apps
+## <a name="apps"></a>Приложения
 
 Для синхронизации файлов SharePoint на компьютере пользователи могут использовать [приложение синхронизации OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) для Windows или Mac. Сведения о доступности функций в приложении синхронизации содержатся в [описании службы OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
@@ -97,7 +97,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 - [Миграция: средство миграции SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Миграция: Диспетчер миграции](/sharepointmigration/mm-get-started)
 - [Миграция: средство оценки миграции SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Миграция: Mover.IO](https://mover.io/). В настоящее время доступно только для клиентов в Северной Америке.
+- [Миграция: Mover.IO](https://mover.io/). Теперь вы можете использовать по всему миру.
 - [Multi-Geo (Data размещению)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). С надстройкой, для которой требуется не менее 500 лицензий корпорации Майкрософт. Обратитесь к представителю Майкрософт за дополнительными сведениями.
 - [Программная подготовка сайтов](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Замена корневого сайта](/sharepoint/modern-root-site)
@@ -167,7 +167,7 @@ SharePoint интегрируется с расширенными возможн
 - [Библиотека активов Организации](/sharepoint/organization-assets-library)
 - [Новости Организации](/sharepoint/organization-news-site)
 - [Утверждение страницы](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Страницы](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Управление записями
 - [Корзина](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Мобильное приложение SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

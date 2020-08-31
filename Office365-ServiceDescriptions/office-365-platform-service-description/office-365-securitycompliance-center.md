@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
-ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501708"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300533"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -41,7 +41,7 @@ ms.locfileid: "46501708"
 |[Метки чувствительности для ручных расстановки](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Нет | Нет  |Нет   | Да | Да | Да | Нет  |
 |Автоматические метки чувствительности| Нет | Нет  |Нет  | Нет | Нет | Да,<sup>13</sup> | Нет  |
 |[Информационные барьеры](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет  |
-|[Управление сведениями](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
+|[Управление сведениями](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Да,<sup>11</sup>   |Да,<sup>11</sup>   |Да,<sup>11</sup>   |Да   |Да   |Да   |Да,<sup>11</sup>   |
 |[Расширенное управление информацией](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Поиск контента](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[случаи обнаружения электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
