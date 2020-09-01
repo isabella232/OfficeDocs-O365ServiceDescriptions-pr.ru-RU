@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300523"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315380"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -144,7 +144,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Outlook для Windows <sup>21</sup>|Да|Да|Да|Да|Да|Да|Да| Нет|
 |Outlook в Интернете<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |Outlook для Mac<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да| Нет|
-|Outlook для iOS и Android<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+|Outlook для iOS и Android<sup>21</sup>|Да<sup>25</sup>|Да<sup>25</sup>|Да|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|Да|Да|Да|
 |Общие сведения о мобильности и безопасности для Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |POP и IMAP|Да|Да|Да|Да|Да|Да|Да|Да <sup>12</sup>|
@@ -199,6 +199,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 <sup>22</sup> дополнительные сведения см. [в разделе Шифрование службы с помощью ключа клиента](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> служба единой системы обмена сообщениями Exchange Online для сторонних систем УАТС с прямыми подключениями от пользователя, который управляется с помощью SBCs, будет завершаться 2019 апреля. Более подробную информацию можно узнать в статье, посвященной включению [поддержки пограничных контроллеров сеансов в единой системе обмена сообщениями Exchange Online в](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) блоге группы Exchange. <br/>
 <sup>24</sup> пользователь F3 не может добавлять представителей в свой почтовый ящик, но может получить доступ к другому почтовому ящику (включая общие почтовые ящики) и выполнить все действия, делегированные им.
+<sup>25</sup> подписка на приложения Microsoft 365 для предприятия также необходима для exchange Server 2013 и exchange Server 2016.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Доступность возможностей в автономных планах Exchange Online
 
