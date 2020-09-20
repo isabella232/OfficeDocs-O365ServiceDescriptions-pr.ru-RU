@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat protection (ATP) — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту от вирусов, а также включает функции для защиты Организации от вредоносных ссылок в режиме реального времени.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318946"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134046"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Описание службы Office 365 Advanced Threat Protection
 
@@ -66,7 +66,7 @@ Microsoft Office 365 Advanced Threat protection (ATP) — это облачна�
 
 Мы продолжаем добавлять новые функции в Office 365 ATP. Дополнительные сведения о новых возможностях, поступающих в ATP (или в Microsoft 365 в целом), можно найти в следующих ресурсах:
 
-- [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
 - [Новые возможности Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
@@ -117,7 +117,7 @@ ATP можно использовать с любым агентом перед�
 
 - Office для Интернета (Word для Интернета, Excel для Интернета, PowerPoint для Интернета и OneNote для Интернета)
 
-- Word, Excel, PowerPoint и Visio в Windows, а также приложения Office на устройствах с iOS и Android
+- Word, Excel и PowerPoint в Windows
 
 - Чаты и каналы Microsoft Teams
 
