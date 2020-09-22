@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Информационные сообщения помогают пользователям в большинстве дней. Она определяет возможности для различных элементов и предоставляет своевременные напоминания.
-ms.openlocfilehash: 57d12fa0edd5f91184084c3c6e49e16266ff7bf4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 06509aafad67451fb1f75d15649351ec2101689a
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134036"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170534"
 ---
 # <a name="briefing-email-service-description"></a>Описание службы информационных писем
 
@@ -38,6 +38,6 @@ ms.locfileid: "48134036"
 
 Более подробную информацию о конфиденциальности можно узнать в статье [руководство по конфиденциальности для информационных сообщений](https://docs.microsoft.com/Briefing/be-privacy).
 
-## <a name="prerequisites"></a>Необходимые компоненты
+## <a name="prerequisites"></a>Предварительные требования
 
 Информационные сообщения автоматически предоставляются всем пользователям Exchange Online.

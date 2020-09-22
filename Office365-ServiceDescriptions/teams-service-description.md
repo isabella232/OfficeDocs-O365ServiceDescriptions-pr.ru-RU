@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531212"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175186"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -22,11 +22,10 @@ Skype для бизнеса Online будет выпущен 31 июля 2021 г
 
 Корпорация Майкрософт остается в обеспечении безопасности ваших данных и [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших услуг. Дополнительные сведения можно найти в [центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и [центре специальных возможностей Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Для вашей справочной системы мы включили эту основную таблицу подписок, которые позволяют пользователям Microsoft Teams. Подробная информация о планах приведена [в статье Поиск правильных Microsoft Teams для бизнеса](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Дополнительные сведения о планах Office 365 в государственных планах представлены в статье [office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). В Office 365 с G1 по G5 есть доступ к функциям Teams.
+Для вашей справочной системы мы включили эту основную таблицу подписок, которые позволяют пользователям Microsoft Teams. Подробная информация о планах приведена [в статье Поиск правильных Microsoft Teams для бизнеса](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Дополнительные сведения о планах Office 365 в государственных планах представлены в статье [office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). В Office 365 с G1 по G5 есть доступ к функциям Teams.<br><br>
 
-|||||||||
+| Планы для малого бизнеса | Планы предприятия | Планы образования | Планы для разработчиков |
 |:-----|:-----|:-----|:-----|
-|**Планы для малого бизнеса** <br/> |**Планы предприятия** <br/> |**Планы образования** <br/> |**Планы для разработчиков** <br/> |
 |Microsoft 365 бизнес базовый <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 для разработчиков <br/> |
 |Microsoft 365 бизнес стандарт <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
 |Microsoft 365 бизнес премиум <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
@@ -48,15 +47,14 @@ Microsoft Teams недоступен в качестве автономной с
 
 ## <a name="feature-category-reference"></a>Справочник по категориям компонентов 
 
-В этой таблице перечислены функции Microsoft Teams, доступные в планах лицензирования или облачных экземплярах. Применяются некоторые предостережения. Дополнительные сведения можно найти в сносках. Эта таблица может измениться без предварительного уведомления. Обратитесь к разделу Microsoft 365 Message Center Notifications об изменении основной службы и в [справочную документацию по лицензионным условиям корпорации Майкрософт](https://www.microsoft.com/licensing/product-licensing/products).
+В этой таблице перечислены функции Microsoft Teams, доступные в планах лицензирования или облачных экземплярах. Применяются некоторые предостережения. Дополнительные сведения можно найти в сносках. Эта таблица может измениться без предварительного уведомления. Обратитесь к разделу Microsoft 365 Message Center Notifications об изменении основной службы и в [справочную документацию по лицензионным условиям корпорации Майкрософт](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-|||||||
+| Компонент | Версия для малого бизнеса | Планы предприятия | GCC | GCC — High | DOD | Образование |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Версия для малого бизнеса** <br/> |**Планы предприятия** <br/> |**GCC** <br/> |**GCC — High** <br/> |**ВЫЗОВ** <br/> |**Образование** <br/> |
 |Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
 |Каналы — Standard  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Да <br/> |Нет  <br/> |Нет <br/> |ДА  <br/> |
+|Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Да <br/> |Нет  <br/> |Нет <br/> |Да  <br/> |
 |Собрания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Демонстрация экрана PowerPoint Audio/Video Desktop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -64,10 +62,10 @@ Microsoft Teams недоступен в качестве автономной с
 |Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
 |События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>4</sup>  <br/> |Нет<sup>4</sup>  <br/> |Да  <br/> |
 
-<sup>1</sup> в Microsoft Teams в GCC, а не в Microsoft Teams поддержка по требованию 2500 членов отдельной команды.<br/>
-<sup>2</sup> планировщик Microsoft сейчас недоступен для доступа в частных каналах.<br/>
-<sup>3</sup> Microsoft OneNote недоступно в облаках с DOD. В настоящее время приложения и публикация приложений недоступны в этих облаках.<br/>
-<sup>4</sup> Live Events в настоящее время недоступно в GCC-High или с вызовом по требованию.<br/>
+> <sup>1</sup>  в Microsoft Teams в GCC, а не в Microsoft Teams поддержка по требованию 2500 членов отдельной команды.<br/>
+> <sup>2</sup> планировщик Microsoft сейчас недоступен для доступа в частных каналах.<br/>
+> <sup>3</sup> Microsoft OneNote недоступно в облаках с DOD. В настоящее время приложения и публикация приложений недоступны в этих облаках.<br/>
+> <sup>4</sup> Live Events в настоящее время недоступно в GCC-High или с вызовом по требованию.<br/>
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
