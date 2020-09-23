@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного корпоративного уровня Microsoft 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 и более поздних версий) или подписываться на некоторые планы Exchange Online или Microsoft 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131523"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214308"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -35,9 +35,9 @@ ms.locfileid: "45131523"
   
 ## <a name="exchange-online-archiving-plans"></a>Планы архивации на базе Exchange Online
 
-Служба Архивация на базе Exchange Online доступна в следующих планах.
+Служба Архивация на базе Exchange Online доступна в следующих планах.<br><br>
   
-|**Планирование**|**Описание**|
+| План | Описание |
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик, расположенный на локальном сервере Exchange Server, необходимо настроить гибридное развертывание. Дополнительные сведения о гибридных развертываниях приведены в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный Архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней версии). Дополнительные сведения см. в статье [лицензии на клиентский доступ и управление](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
@@ -50,7 +50,7 @@ ms.locfileid: "45131523"
   
 Ищете сведения обо всех планах Microsoft 365? Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements
 
 Чтобы использовать архивацию на базе Exchange Online для Exchange Server, почтовые ящики пользователей должны находиться на сервере Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange Server 2010 (SP2 или более поздней версии).
   
@@ -75,9 +75,8 @@ ms.locfileid: "45131523"
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
-||||
+| Компонент | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
-|**Функция** <br/> |**Архивация на базе Exchange Online для Exchange Server<sup>1</sup>**          <br/> |**Архивация на базе Exchange Online для Exchange Online<sup>2</sup>** <br/> |
 |**[Функции архивации в архивации на базе Exchange Online](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |
 |Перемещение сообщений с помощью политики архивации  <br/> |Да  <br/> |Да  <br/> |
