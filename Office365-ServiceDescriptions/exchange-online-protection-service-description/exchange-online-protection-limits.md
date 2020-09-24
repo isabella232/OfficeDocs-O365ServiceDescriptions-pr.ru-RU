@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: В настоящее время существуют следующие ограничения для Exchange Online Protection. Эти пределы нельзя настраивать, если не указано иное.
-ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134056"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245704"
 ---
 # <a name="exchange-online-protection-limits"></a>Ограничения Exchange Online Protection
 
@@ -47,9 +47,10 @@ ms.locfileid: "48134056"
     
 ### <a name="limits-across-eop-options"></a>Ограничения на параметры EOP
 
-|**Функция**|****Отдельный выпуск EOP****|****Функции EOP в Exchange Online****|****Клиентская лицензия Exchange Enterprise CAL со службами****|
+| Компонент | Отдельный выпуск EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами |
 |:-----|:-----|:-----|:-----|
 |Ограничения домена  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|Ограничения для удаленных доменов  <br/> |200  <br/> |200  <br/> |200  <br/> |
 |Ограничение на размер сообщений (учитывая вложения)  <br/> |150 МБ  <br/> |150 МБ  <br/> |150 МБ  <br/> |
 |Ограничение числа получателей  <br/> |См. раздел "Максимальное число получателей" выше  <br/> |500 получателей при отправке с размещенного почтового ящика. Другие сценарии см. в разделе "Максимальное число получателей" выше  <br/> |См. раздел "Максимальное число получателей" выше  <br/> |
 |Максимальное количество надежных отправителей  <br/> |1024 записи  <br/> |1024 записи  <br/> ||

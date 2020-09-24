@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337865"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245694"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -67,7 +67,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 
 Сведения о доступности функций в Microsoft 365 Business Premium можно найти в [статье Описание службы microsoft 365 бизнес премиум](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
   
-|**Функция**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
+| Компонент | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](planning-and-deployment.md)**|||||||||
 |Поддерживается гибридное развертывание|Да|Да|Да,<sup>16</sup>|Да,<sup>16</sup>|Да|Да|Да|Да,<sup>16</sup>|
@@ -203,7 +203,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Доступность возможностей в автономных планах Exchange Online
 
-|**Функция**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+| Компонент | Exchange Server 2013 | Exchange Server 2016 | Exchange Online (план &nbsp; 1) | Exchange Online (план &nbsp; 2) | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](planning-and-deployment.md)**||||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Да|Да,<sup>23</sup>|
@@ -214,7 +214,7 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -229,20 +229,20 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Правила транспорта|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|
 |Защита от потери данных|Да<sup>10, 14</sup>|Да<sup>10, 14</sup>|Нет|Да|Нет|
 |Ведение журнала|Да|Да|Да|Да|Да|
-|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Встроенная защита от нежелательной почты|Да <sup>2</sup>|Да <sup>2</sup>|Да|Да|Да|
 |Customize anti-spam policies|Да, но только через PowerShell|Да, но только через PowerShell|Да|Да|Да <sup>8</sup>|
 |Встроенная защита от вредоносных программ|Да <sup>7</sup>|Да <sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|
 |Customize anti-malware policies|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|
-|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|
 |Добавление партнера в список входящих безопасных надежных отправителей|Нет|Нет|Да|Да|Да|
 |Маршрутизация почты в гибридной конфигурации|Да|Да|Да|Да|Да|
-|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Оповещения о доступном объеме|Да|Да|Да|Да|Да|
 |Папка "Несрочные"|Нет|Нет|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|
@@ -263,18 +263,18 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Управление конференц-залами|Да|Да|Да|Да|Да|
 |Ответы об отсутствии на работе|Да|Да|Да|Да|Да|
 |Общий доступ к календарю|Да|Да|Да|Да|Да <sup>18</sup>|
-|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Отчеты центра администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
 |Книга отчетов Excel|Нет|Нет|Да|Да|Да|
 |Отчеты веб-служб|Нет|Нет|Да|Да|Да|
 |Message trace|Нет|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты аудита|Да|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты единой системы обмена сообщениями|Да|Да|Нет|Да|Нет|
-|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Федеративный доступ|Да|Да|Да|Да|Да|
 |Почтовые ящики сайта|Да <sup>3</sup>|Да <sup>3</sup>|Да <sup>4</sup>|Да <sup>4</sup>|Да <sup>4</sup>|
 |Общедоступные папки|Да|Да|Да|Да|Нет|
-|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Microsoft Outlook|Да|Да|Да|Да|Нет|
 |Outlook в Интернете|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|
@@ -283,28 +283,28 @@ Microsoft 365 доступен в различных планах, чтобы о
 |Поддержка приложений EWS|Да|Да|Да|Да|Нет|
 |Outlook для Mac|Да|Да|Да|Да|Нет|
 |Outlook для iOS и Android<sup>21</sup>|Да<sup>25</sup>|Да<sup>25</sup>|Да|Да|Да|
-|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Голосовая почта|Да|Да|Нет|Да|Нет|
 |Взаимодействие с голосовой почтой стороннего производителя|Да|Да|Да|Да|Да|
 |Интеграция со Skype для бизнеса|Да|Да|Да|Да|Да|
-|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Репликация почтовых ящиков в центрах обработки данных|Нет|Нет|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|
 |Восстановление отдельных элементов|Да|Да|Да|Да|Нет|
-|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Присутствие в Skype для бизнеса в OWA и Outlook|Да|Да|Да|Да|Да|
 |Взаимодействие с SharePoint|Да|Да|Да|Да|Да|
 |Поддержка подключения EWS|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|
-|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Доступ к порталу Microsoft Office 365|Нет|Нет|Да|Да|Да|
 |Доступ к центру администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
 |Доступ к Центру администрирования Exchange|Да|Да|Да|Да|Да <sup>8</sup>|
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|
 |Отчеты об использовании|Да|Да|Да|Да|Да|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план 1)**|**Exchange Online (план 2)**|**Базовая подписка на Exchange Online**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (план &nbsp; 1)**|**Exchange Online (план &nbsp; 2)**|**Базовая подписка на Exchange Online**|
 |Веб-части Outlook в Интернете|Да|Да|Да|Да|Да|
 |Надстройки Outlook и Outlook MAPI|Да|Да|Да<sup>21</sup>|Да<sup>21</sup>|Нет|
 

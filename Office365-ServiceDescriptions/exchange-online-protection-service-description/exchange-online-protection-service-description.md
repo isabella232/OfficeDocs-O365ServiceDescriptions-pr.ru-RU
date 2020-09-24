@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. В этот список входят планы, обеспечивающие защиту Exchange Online, а также сравнение функций в этих планах.
-ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d518468f738671980c1d314533b976209d7de124
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132843"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245724"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -45,11 +45,11 @@ Microsoft Exchange Online Protection (EOP)  это облачная служб
 
 ## <a name="exchange-online-protection-eop-plans"></a>Планы Exchange Online Protection (EOP)
 
-EOP предоставляется в рамках подписки на следующие планы:
+EOP предоставляется в рамках подписки на следующие планы:<br><br>
 
-|**План**|**Описание**|
+| План | Описание |
 |:-----|:-----|
-|[Отдельная служба EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|Отдельная облачная служба, защищающая локальную почтовую организацию.|
+|[Изолированная EOP](https://products.office.com/exchange/exchange-email-security-spam-protection)|Отдельная облачная служба, защищающая локальную почтовую организацию.|
 |[Функции EOP в Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Встроенная защита почтовых ящиков в облачной среде Exchange Online.|
 |[Клиентская лицензия Exchange Enterprise CAL со службами](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Лицензии на надстройки, которые вы приобрели для локальной организации Exchange, включающей EOP и другие облачные функции (Дополнительные сведения см. в следующем разделе).|
 
@@ -57,7 +57,7 @@ EOP предоставляется в рамках подписки на сле�
 
 Microsoft Exchange Enterprise CAL со службами предоставляет функции защиты электронной почты EOP и следующие дополнительные облачные функции:
 
-- [Защита от потери данных (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
+- [Предотвращение потери данных (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [Создание отчетов с помощью веб-служб](reporting-and-message-trace.md#reporting-using-web-services)
 
@@ -78,11 +78,10 @@ EOP можно использовать с любым агентом перед�
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Доступность функций в планах Exchange Online Protection (EOP)
 
-Каждая функция приведена ниже. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.
+Каждая функция приведена ниже. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.<br><br>
 
-|||||
+| Компонент | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами|
 |:-----|:-----|:-----|:-----|
-|**Функция**|**Изолированная EOP**|**Функции EOP в <br/> Exchange Online**|**<br/>Клиентская лицензия Exchange Enterprise CAL со службами**|
 |[Получатели почты](recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|Да|
 |[Разрешения для группы ролей администраторов](recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|Да|
 |[Управление доменами](recipient-domain-and-company-management.md#domain-management)|Да,<sup>3</sup>|Да,<sup>3</sup>|Да,<sup>3</sup>|
