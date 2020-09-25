@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300533"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261601"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -25,11 +25,10 @@ ms.locfileid: "47300533"
 
 Чтобы получить сведения о лицензировании пользователей с помощью функций соответствия требованиям Microsoft 365, начиная с 1 апреля 2020 г., скачайте подробное сравнение лицензий на соответствие требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Доступность центра соответствия требованиям безопасности для планов бизнеса и предприятий
 
-|||||||||
+| Компонент | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 для государственных учреждений (США) G1 | Office 365 E3, Office 365 для государственных учреждений (США) G3 | Office 365 E5 | Office 365 F3, Office 365 для государственных учреждений США F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Функция**  |**Microsoft 365 бизнес базовый**  |**Microsoft 365 бизнес стандарт**  |**Microsoft 365 бизнес премиум**  |**Office 365 корпоративный E1**, **Office 365 для государственных учреждений (США) G1**  |**Office 365 корпоративный E3**, **Office 365 для государственных организаций (США) G3**  |**Office 365 корпоративный E5**  |**Office 365 корпоративный F3**  **Office 365 для государственных учреждений США F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет|Нет   |Нет   |Да   |
 |[Возможности управления угрозами](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), такие как фильтрация почты и защита от вредоносных программ |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
@@ -57,7 +56,6 @@ ms.locfileid: "47300533"
 |[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Нет |Да   |Нет   |
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
 |[Ключ клиента](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |
-|||||||||
 
 <sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. Эти функции доступны в E3 и в версии ", только в том числе с ограниченной доступностью в E1. Полный список возможностей, доступных в E1, E3 и в элементе «е», приведен в статье подробное сравнение лицензий на соответствие требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ ms.locfileid: "47300533"
 
 <sup>5</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
 
-<sup>6</sup> Advanced Threat protection доступен в Office 365 корпоративный, а также в качестве автономной службы для Office 365 корпоративный E1 и Office 365 Enterprise E3.
+<sup>6</sup> Advanced Threat protection доступен в Office 365 и в виде автономной службы для Office 365 E1 и Office 365 E3.
 
 <sup>7</sup> включает файлы, хранящиеся в репозиториях Microsoft Teams.
 
@@ -85,11 +83,10 @@ ms.locfileid: "47300533"
 
 <sup>13</sup> не включает метки на основе машинного обучения (классификаторы).
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Доступность центра соответствия требованиям безопасности для автономных планов
 
-|||||||||
+| Компонент | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Возможность**  |**Exchange Online (план 1)**  |**Exchange Online (план 2)**  |**Базовая подписка на Exchange Online**  |**SharePoint Online (план 1)**  |**SharePoint Online (план 2)**  |**OneDrive для бизнеса План 1** |**OneDrive для бизнеса План 2** |**Skype для бизнеса Online (план 1)**  |**Skype для бизнеса Online (план 2)**  |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |
 |[Управление угрозами](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), например фильтрация почты и защита от вредоносных программ   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
@@ -113,7 +110,6 @@ ms.locfileid: "47300533"
 |[Шифрование сообщений Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
-|||||||||
 
 <sup>1</sup> управление информацией позволяет пользователям создавать, публиковать и применять метки к документам вручную; Импорт данных с использованием доставки дисков или по сети. Эти функции доступны в E3 и в версии ", только в том числе с ограниченной доступностью в E1. Полный список возможностей, доступных в E1, E3 и в элементе «е», приведен в статье подробное сравнение лицензий на соответствие требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ ms.locfileid: "47300533"
 
 <sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика.
 
-<sup>5</sup> Advanced eDiscovery требует наличия лицензии на надстройку или Office 365 корпоративный E5.
+<sup>5</sup> для расширенного обнаружения электронных данных требуется Office 365 и лицензия на надстройку.
 
 <sup>6</sup> Архивация Skype находится в почтовом ящике пользователя.
 

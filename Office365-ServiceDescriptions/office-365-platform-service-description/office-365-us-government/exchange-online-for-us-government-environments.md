@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в описании службы Exchange Online.
-ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154417"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261511"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для сред США для государственных организаций
 
@@ -37,20 +37,20 @@ ms.locfileid: "45154417"
 
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
 
-В приведенной ниже таблице указано, доступны ли указанные функции Exchange Online в средах GCC, GCC High и DoD. При наличии нюансов, касающихся оператора поддержки (или его недостает), предоставляется дополнительный контекст.
+В приведенной ниже таблице указано, доступны ли указанные функции Exchange Online в средах GCC, GCC High и DoD. При наличии нюансов, касающихся оператора поддержки (или их отсутствия), предоставляется дополнительный контекст.<br><br>
 
-|**Область функций**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+| Функциональная область | GCC | GCC High | DoD | Ключевые моменты |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../../exchange-online-service-description/planning-and-deployment.md)**|||||
-|Поддерживается гибридное развертывание|Да|Да|Да|Для совместного использования с локальным сервером Exchange Server корпорации Майкрософт требуется установить по крайней мере один сервер клиентского доступа Exchange Server 2013 (или Exchange Server 2016.). Exchange Server 2010 и более ранние версии не поддерживаются.|
+|Поддерживается гибридное развертывание|Да|Да|Да|Для совместной работы с локальным сервером Exchange Server корпорации Майкрософт требуется установить по крайней мере один сервер клиентского доступа Exchange Server 2013 (или Exchange Server 2016.). Exchange Server 2010 и более ранние версии не поддерживаются.|
 |Поддерживается миграция IMAP|Да|Да|Да||
 |Поддержка прямой миграции|Да|Да|Да||
 |Поддерживается поэтапная миграция|Да|Да|Да|Гсуите миграция не поддерживается для GCC High и DoD. Дополнительные сведения см. <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">в статье выполнение гсуите миграции</a>.|
-|**[Разрешения](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Разрешения](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Разрешения на основе ролей|Да|Да|Да||
 |Группы ролей|Да|Да|Да||
 |Политики назначения ролей|Да|Да|Да||
-|**[Политика обработки сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Политика обработки сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да||
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да|Да|Да||
 |Messaging Records Management (MRM) |Да|Да|Да||
@@ -58,7 +58,7 @@ ms.locfileid: "45154417"
 |Шифрование статических данных (BitLocker)|Да|Да|Да||
 |IRM на базе Azure Information Protection|Да|Да|Да|Для получения дополнительных сведений об ограничениях АДМИНИСТРАТИВной установки в GCC High и DoD обратитесь к статье <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Описание службы Azure Information Protection Premium</a>.<br><br>Azure Information Protection не входит в G1/F3, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на доступ к данным (IRM). Некоторые функции Azure Information Protection требуют подписки на Office 365 профессиональный плюс, которые не входят в состав Office 365 для государственных учреждений G1 или Office 365 для государственных учреждений 3.|
 |Управление правами на доступ к данным с помощью AD RMS для Windows Server|Да|Да|Да|Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить поддерживаемые функции IRM.|
-|Шифрование сообщений Office 365|Да|Да|Да|В этой статье описывается [поведение шифрования сообщений в office 365](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) , а также <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">уникальные характеристики шифрования сообщений Office 365 при высоком развертывании GCC</a>, которые задокументированы особенности использования шифрования сообщений Office 365 при отправке сообщений между пользователями GCC High/DOD и не GCC High/DOD.|
+|Шифрование сообщений Office 365|Да|Да|Да|В этой статье описывается [поведение шифрования сообщений в office 365](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) и приводятся <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">уникальные характеристики шифрования сообщений Office 365 при высоком развертывании</a>GCC, которые задокументированы в поведении шифрования сообщений Office 365 при отправке сообщений между пользователями High/DOD и другими GCC.|
 |Ключ клиента|Да|Да|Да|Требуется план обслуживания G5.|
 |S/MIME|Да|Да|Да||
 |Хранение на месте и хранение для судебного разбирательства|Да|Да|Да|Требуется план обслуживания G3 или G5.|
@@ -66,7 +66,7 @@ ms.locfileid: "45154417"
 |Правила потока обработки почты|Да|Да|Да||
 |Защита от потери данных|Да|Да|Да|Требуется план обслуживания G3 или G5.|
 |Ведение журнала|Да|Да|Да||
-|**[Защита от нежелательной почты и вредоносных программ](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Защита от нежелательной почты и вредоносных программ](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Встроенная защита от нежелательной почты|Да|Да|Да||
 |Customize anti-spam policies|Да|Да|Да||
 |Встроенная защита от вредоносных программ|Да|Да|Да||
@@ -74,13 +74,13 @@ ms.locfileid: "45154417"
 |Карантин  управление администраторами|Да|Да|Да||
 |Карантин  самостоятельное управление пользователями|Да|Да|Да||
 |Расширенная защита от угроз|Да|Да|Да|Требуется план обслуживания G5 (или приобрести надстройку).<br><br>Защита от фишинга для олицетворения пользователя и домена и логики подмены пока недоступна в GCC High и DoD.|
-|**[Поток обработки почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Поток обработки почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да||
 |Secure messaging with a trusted partner|Да|Да|Да||
 |Conditional mail routing|Да|Да|Да||
 |Добавление партнера в список входящих безопасных надежных отправителей|Да|Да|Да||
 |Маршрутизация почты в гибридной конфигурации|Да|Да|Да||
-|**[Получатели](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Получатели](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Оповещения о доступном объеме|Да|Да|Да||
 |Папка "Несрочные"|Да|Да|Да||
 |Подсказки|Да|Да|Да||
@@ -100,17 +100,17 @@ ms.locfileid: "45154417"
 |Управление конференц-залами|Да|Да|Да||
 |Ответы об отсутствии на работе|Да|Да|Да||
 |Общий доступ к календарю в Интернете|Да|Нет|Нет|В GCC High публикация и общий доступ к календарю в Интернете работают для входящих подключений к календарям, которые доступны пользователям GCC High, но не для большинства пользователей GCC, подключающихся к общему календарю за предельное значение GCC High.<br><br>В целях DoD — общий доступ к Интернет-календарю не поддерживается из-за того, что требование для входящего и исходящего подключения разрешено для списка в этой среде.|
-|**[Функции создания отчетов и средства устранения неполадок](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Функции создания отчетов и средства устранения неполадок](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Отчеты центра администрирования Microsoft 365|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
 |Отчеты веб-служб|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
 |Message trace|Да|Да|Да||
 |Отчеты аудита|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
 |Отчеты единой системы обмена сообщениями|Да|Нет|Нет||
-|**[Общий доступ и совместная работа](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Общий доступ и совместная работа](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Федеративный общий доступ (включая публикацию календаря)|Да|Да|Да|Существуют ограничения как для GCC High, так и для DoD. В этой статье вы найдете сведения об [Федерации сведений о доступности](#freebusy-federation) .|
 |Почтовые ящики сайта|Да|Да|Да||
 |Общедоступные папки|Да|Да|Да||
-|**[Клиенты и мобильные устройства](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Клиенты и мобильные устройства](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Outlook для Windows|Да|Да|Да|Чтобы удовлетворить требования к высокой и несоответствию требованиям GCC, необходимо использовать по крайней мере 1803 Office 365 профессиональный плюс. Office 365 профессиональный плюс не входит в состав G1 или F3.|
 |Outlook в Интернете|Да|Да|Да||
 |Outlook для Mac|Да|Да|Да|Чтобы удовлетворить требования к высокой и несоответствию требованиям GCC, необходимо использовать по крайней мере 1803 Office 365 профессиональный плюс. Office 365 профессиональный плюс не входит в состав G1 или F3.|
@@ -120,32 +120,32 @@ ms.locfileid: "45154417"
 |POP и IMAP|Да|Да|Да||
 |SMTP|Да|Да|Да||
 |Поддержка приложений EWS|Да|Да|Да||
-|**[Службы голосовых сообщений](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Службы голосовых сообщений](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Голосовая почта|Нет|Нет|Нет|Интеграция локальных систем IP-УАТС с единой системой обмена сообщениями Exchange Online не поддерживается.|
 |Интеграция голосовой почты и стороннего ФАКСа|Нет|Нет|Нет|Интеграция локальных систем IP-УАТС с единой системой обмена сообщениями Exchange Online не поддерживается.|
 |Взаимодействие со сторонней голосовой почтой|Нет|Нет|Нет|Интеграция локальных систем IP-УАТС с единой системой обмена сообщениями Exchange Online не поддерживается.|
 |Интеграция со Skype для бизнеса|Да|Да|Да||
-|**[Высокая доступность и непрерывность бизнес-процессов](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Высокая доступность и непрерывность бизнес-процессов](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Репликация почтовых ящиков в центрах обработки данных|Да|Да|Да||
 |Восстановление удаленного почтового ящика|Да|Да|Да||
 |Восстановление удаленных элементов|Да|Да|Да||
 |Восстановление отдельных элементов|Да|Да|Да||
-|**[Взаимодействие, связь и совместимость](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Взаимодействие, связь и совместимость](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Присутствие в OWA и Outlook|Да|Да|Да||
 |Взаимодействие с SharePoint|Да|Да|Да||
 |Поддержка подключения EWS|Да|Да|Да||
 |Поддержка ретрансляции SMTP|Да|Да|Да||
-|**[Установка и администрирование Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Установка и администрирование Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Доступ к порталу Microsoft Office 365|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
 |Доступ к центру администрирования Microsoft 365|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
 |Доступ к Центру администрирования Exchange|Да|Да|Да||
 |Удаленный доступ к Windows PowerShell|Да|Да|Да||
 |Политики ActiveSync для мобильных устройств|Да|Да|Да||
 |Отчеты об использовании|Да|Да|Нет|Отчеты, недоступные для вызова по требованию. Для получения обновлений и текущей доступности обратитесь к разделу <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">функции платформы</a> в описании службы Office 365 США для государственных организаций.|
-|**[Расширение настройки службы, надстроек и ресурсов](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**Вызов**|**Ключевые моменты**|
+|**[Расширение настройки службы, надстроек и ресурсов](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Надстройки Outlook и Outlook MAPI|Да|Да|Да|Только некоторые надстройки OWA и Outlook доступны в GCC High и DoD. В этой статье представлены надстройки [в Outlook и Outlook Web App](#add-insin-outlook-and-outlook-web-app) .|
 
-## <a name="feature-nuances-within-gcc-high-and-dod-environment"></a>Особенности функций в среде High and DoD
+## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Особенности, которые используются в средах GCC High и DoD
 
 ### <a name="connectivity-with-third-party-services"></a>Связь со сторонними службами  
 
@@ -153,9 +153,9 @@ ms.locfileid: "45154417"
 
 В связи с этими ограничениями функции, зависящие от этого исходящего подключения из сред с поддержкой GCC High и DoD, обычно не поддерживаются, в том числе: 
 
-- Подключенные учетные записи &mdash; Пользователи не могут добавлять или синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
+- Подключенные учетные записи — пользователи не могут добавлять и синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
 
-- Поддержка сторонних поставщиков хранилища файлов для &mdash; учетной записи пользователя в OneDrive для бизнеса с помощью *GCC High/DOD*   можно получить доступ из различных клиентов Outlook в целях присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
+- Поддержка сторонних поставщиков хранилищ файлов — доступ к учетной записи OneDrive для бизнеса пользователя с помощью *GCC High/DOD*   можно получить в различных клиентах Outlook для присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
 
 - Связь с социальными сетями, такими как Facebook и LinkedIn. 
 
@@ -185,7 +185,7 @@ ms.locfileid: "45154417"
     
     - Все получатели, не относящиеся к Microsoft GCC High/DoD, в том числе коммерческие пользователи Office 365, пользователи Outlook.com и другие пользователи других поставщиков электронной почты, получают сообщения программы-оболочки. Эта почтовая оболочка перенаправляет получателя на портал OME, где получатель может прочитать сообщение и ответить на него. 
 
-Дополнительные сведения и последние обновления приведены в статье [Сравнение версий OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide).
+Дополнительные сведения и последние обновления приведены в статье [Сравнение версий OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
 ### <a name="freebusy-federation"></a>Федерация сведений о доступности
 

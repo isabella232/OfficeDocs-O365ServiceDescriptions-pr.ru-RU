@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132133"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261591"
 ---
 # <a name="office-365-plan-options"></a>Планы Office 365
 
@@ -28,16 +28,16 @@ ms.locfileid: "45132133"
   
 ## <a name="office-365-service-families-and-plans"></a>Семьи служб и планы Office 365
 
-В следующей таблице приведены различные семьи служб и планы, в которых доступен Office 365:. Чтобы получить общий обзор функций и сведений о ценах, а также для общения с представителем в Интернете, выберите любую из ссылок в столбце Plans (планы).
+В следующей таблице приведены различные семьи служб и планы, в которых доступен Office 365:. Чтобы получить общий обзор функций и сведений о ценах, а также для общения с представителем в Интернете, выберите любую из ссылок в столбце Plans (планы).<br><br>
   
-|**Семейство служб Office 365**|**Планы**|
+| Семейство служб Office 365 | Планы |
 |:-----|:-----|
 |**Бизнес (максимум 300 пользователей)** <br/> |[Microsoft 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Приложения Microsoft 365 для бизнеса](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 бизнес стандарт](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Предприятие (неограниченное число пользователей)** <br/> |[Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 корпоративный E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 корпоративный F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 для образования](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 для образования E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Правительственные учреждения (неограниченное число пользователей)** <br/> |[Все доступные планы для бизнеса](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные бизнес-планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Узнайте больше о Office 365 Германия](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
+|**Office 365 Germany** <br/> |[Узнайте больше о Office 365 Германия](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Доступность служб в каждой из версий Office 365
 
@@ -46,9 +46,8 @@ ms.locfileid: "45132133"
 > [!IMPORTANT]
 >  Несмотря на то, что служба может быть доступна в планах Office 365, функции, доступные в каждом плане, могут отличаться. Подробные сведения о функциях, доступных в каждом плане, см. в описании отдельных служб либо свяжитесь с торговым представителем или торговым представителем Майкрософт. <br/>  В некоторых планах Office 365 для бизнеса можно приобретать надстройки. Они позволяют расширить возможности подписки. Дополнительные сведения можно найти [в статье покупка или изменение надстройки для Office 365 для бизнеса](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
-|||||||||
+| Служба | Microsoft 365 бизнес базовый | Приложения Microsoft 365 для бизнеса | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3  | Office 365 корпоративный ~<sup>3 –</sup><sup>16</sup> | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Служба** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный ~<sup>3</sup>–<sup>16</sup>** <br/> |**Office 365 корпоративный F3** <br/> |
 |Платформа Office 365  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Exchange Online  <br/> |Да,<sup>6</sup> <br/> |Нет  <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -106,9 +105,9 @@ ms.locfileid: "45132133"
   
 ## <a name="standalone-services"></a>Отдельные службы
 
-Указанные ниже веб-службы доступны в качестве отдельных планов. Их также можно добавлять в планы семейств корпоративных служб и служб для бизнеса (если их там нет). Для получения сведений о ценах или для общения с представителем в Интернете выберите один из планов, перечисленных в следующей таблице.
+Указанные ниже веб-службы доступны в качестве отдельных планов. Их также можно добавлять в планы семейств корпоративных служб и служб для бизнеса (если их там нет). Для получения сведений о ценах или для общения с представителем в Интернете выберите один из планов, перечисленных в следующей таблице.<br><br>
   
-|**Служба**|**Планы**|
+| Служба | Планы |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online (план 1)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online (план 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Exchange Online Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Базовая подписка на Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online (план 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (план 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
