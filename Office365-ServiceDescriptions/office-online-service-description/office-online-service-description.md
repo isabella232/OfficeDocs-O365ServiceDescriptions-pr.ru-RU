@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office Web Apps) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование файлов Office в любом месте с подключением к Интернету практически с любого устройства. Пользователи Microsoft 365 с помощью Word, Excel, OneNote или PowerPoint могут просматривать, создавать и редактировать файлы в дороге.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616925"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276783"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
@@ -26,7 +26,7 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Доступность функций в Office для веб-планов
 
-Нужна помощь, чтобы определить, какое решение Office наилучшим образом подходит вашей организации? В приведенных ниже таблицах сравниваются Office для возможностей веб-функций, чтобы обеспечить широкие возможности для настольных приложений Microsoft Office. Используйте таблицы, чтобы узнать, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другие — только для просмотра и редактирования документов Word и презентаций PowerPoint в Office для Интернета. 
+Нужна помощь по выяснению того, какое решение Office лучше всего подходит для вашей организации? В приведенных ниже таблицах сравниваются Office для возможностей веб-функций, чтобы обеспечить широкие возможности для настольных приложений Microsoft Office. Используйте таблицы, чтобы узнать, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции. Возможно, некоторые сотрудники вашей организации нуждаются в расширенной возможности построения диаграмм для классического приложения Excel, а другие — только для просмотра и редактирования документов Word и презентаций PowerPoint в Office для Интернета. 
   
 > [!NOTE]
 >  Для представления расширенных возможностей Office Desktop Suite выбран ограниченный набор компонентов Office. Таблицы не являются исчерпывающим списком функций Microsoft Office. <br/>  Microsoft Microsoft 365 Apps для предприятий — это месячная подписка на последнее приложение Office Desktop Suite. <br/>  Локальные клиенты Microsoft Office Online Server получают лицензию на веб-редактирование, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или Microsoft 365 Apps для корпоративных лицензий). 
@@ -36,9 +36,8 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ### <a name="word"></a>Word
 
-||||
+| Возможности приложений | Word в Интернете | Классическое приложение Word |
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Веб-приложение Word** <br/> |**Классическое приложение Word** <br/> |
 |[Направляющие выравнивания и динамический макет](word-online.md#alignment-guides-and-live-layout) <br/> |Нет  <br/> |Да  <br/> |
 |[Применение стилей](word-online.md#apply-styles) <br/> |Да  <br/> |Да  <br/> |
 |[Автосохранение](word-online.md#autosave) <br/> |Да  <br/> |Да  <br/> |
@@ -112,9 +111,8 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ### <a name="excel"></a>Excel
 
-||||
+| Возможности приложений | Excel в Интернете | Классическое приложение Excel |
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Веб-приложение Excel** <br/> |**Классическое приложение Excel** <br/> |
 |[Проверка читаемости](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление цвета фона на вкладки листа](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Да  <br/> |Да  <br/> |
 |[Добавление гиперссылок](excel-online.md#add-hyperlinks) <br/> |Да  <br/> |Да  <br/> |
@@ -197,9 +195,8 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| Возможности приложений | OneNote в Интернете | Классическое приложение OneNote |
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Веб-приложение OneNote** <br/> |**Классическое приложение OneNote** <br/> |
 |[Расширенные возможности совместной работы. Отображение нового содержимого как непрочитанного; сведения о присутствии](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Нет  <br/> |Да  <br/> |
 |[Применение тегов](onenote-online.md#apply-tags) <br/> |Да  <br/> |Да  <br/> |
 |[Маркеры и нумерация](onenote-online.md#bullets-and-numbering) <br/> |Да  <br/> |Да  <br/> |
@@ -219,7 +216,7 @@ Office для Интернета (ранее Office Web Apps) открывает
 |[Рукописный ввод: рукописное сообщение в виде текста и математических символов, настраиваемые ручки, средства рисования](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |Нет  <br/> |Да  <br/> |
 |[Просмотр рукописных фрагментов](onenote-online.md#ink-viewing) <br/> |Да  <br/> |Да  <br/> |
 |[Навигация](onenote-online.md#navigation) <br/> |Да  <br/> |Да  <br/> |
-|[Управление записной книжкой. Файловые операции со страницами между разделами и записными книжками, реорганизация разделов, создание и удаление групп разделов](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
+|[Управление записными книжками: сведения о разделах и записях записных книжек, изменение порядка разделов, создание и удаление групп разделов](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
 |[Надстройки Office](onenote-online.md#office-add-ins) <br/> |Да<sup>2</sup> <br/> |Да  <br/> |
 |[Интеграция с Outlook (задачи)](onenote-online.md#outlook-integration-tasks) <br/> |Нет  <br/> |Да  <br/> |
 |[Форматирование абзаца](onenote-online.md#paragraph-formatting) <br/> |Да  <br/> |Да  <br/> |
@@ -246,9 +243,8 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| Возможности приложений | PowerPoint в Интернете | Классическое приложение PowerPoint |
 |:-----|:-----|:-----|
-|**Возможности приложений** <br/> |**Веб-приложение PowerPoint** <br/> |**Классическое приложение PowerPoint** <br/> |
 |[Выравнивание, маркеры, нумерация](powerpoint-online.md#alignment-bullets-numbers) <br/> |Да  <br/> |Да  <br/> |
 |[Применение основных переходов и анимаций](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Да<sup>1</sup> <br/> |Да  <br/> |
 |[Применение форматирования к тексту, фигурам и изображениям](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Нет  <br/> |Да  <br/> |
@@ -302,9 +298,8 @@ Office для Интернета (ранее Office Web Apps) открывает
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Поддерживаемые типы файлов для Office в Интернете
 
-||||
+| Документы Word, созданные в Word 2.0 или более поздней версии | Режим просмотра | Режим редактирования |
 |:-----|:-----|:-----|
-|**Документы Word, созданные в Word 2.0 или более поздней версии** <br/> |**Режим просмотра** <br/> |**Режим редактирования** <br/> |
 |Open XML (DOCX)  <br/> |Да  <br/> |Да  <br/> |
 |Двоичный файл (DOC)  <br/> |Да  <br/> |Преобразованный в формат (DOCX)  <br/> |
 |Макрос (DOCM)  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
