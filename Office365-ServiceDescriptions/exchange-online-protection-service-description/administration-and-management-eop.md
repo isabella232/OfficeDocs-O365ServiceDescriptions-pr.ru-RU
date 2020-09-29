@@ -1,5 +1,5 @@
 ---
-title: Администрирование и управление [EOP]
+title: Администрирование и управление в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: В этом разделе описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131545"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293615"
 ---
-# <a name="administration-and-managementeop"></a>Администрирование и управление [EOP]
+# <a name="administration-and-management-in-exchange-online-protection"></a>Администрирование и управление в Exchange Online Protection
 
-В этом разделе описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
+В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online Protection (EOP).
   
 Ищете сведения обо всех функциях EOP? Ознакомьтесь с [описанием службы Exchange Online Protection](exchange-online-protection-service-description.md).
   

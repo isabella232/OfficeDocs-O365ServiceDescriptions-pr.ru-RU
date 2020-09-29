@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261541"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294135"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -229,7 +229,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business)|Да|Да|Да|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да|Да<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Нет|Нет|Нет|Нет|Нет|Нет|Нет<sup>5</sup>|Нет|Нет|Нет|
 |[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Да|Да|Да|Да|Да|Да|Да|Да|Да|Нет|
-|[Office для Mac в Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Нет|Да|Нет|Нет|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
+|[Office для Mac в Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Нет|Да|Нет|Нет|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
 |Приложение Microsoft Office для Android|Да|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Приложение Microsoft Office для iOS|Да|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Да|Да|Да|Да|Да|Да|Да<sup>5</sup>|Да|Да|Да|
@@ -278,7 +278,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>6</sup> можно установить Office 2011 для Mac, но не активировать.
 <br/><sup>7</sup> Office 365 профессиональный плюс поддерживается для инфраструктуры виртуальных рабочих столов, выделенной пользователем (VDI). Office 365 профессиональный плюс поддерживает только службы удаленных рабочих столов (RDS), приобретенные через программу корпоративного лицензирования.
 <br/><sup>8</sup> Активация корпоративных приложений для Office 365 Enterprise E3 и Office 365 профессиональный плюс ограничены установками в Windows Server 2008 R2 и более поздних версий с включенной ролью RDS или установками Windows to go. В любом случае пользователи, обращающиеся к этим установкам, должны быть лицензированы для пользователей Office 365 корпоративный E3 или Office 365 профессиональный плюс.
-<br/><sup>9</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).
 <br/><sup>10</sup> Visio для Веба в настоящее время находится в предварительной версии для Office 365 под управлением 21vianet. Для получения дополнительных сведений о Visio в Интернете обратитесь к разделу " [Описание веб-службы](../visio-online-service-description/visio-online-service-description.md)" в Visio.
 <br/><sup>11</sup> скоро появятся в Office 365 под управлением 21vianet.
 <br/><sup>15</sup> службы Google Services (включая магазин игр) недоступны в Китае. Существует несколько магазинов приложений, которые поддерживаются крупными производителями телефонов или компаниями поисковых систем, с которых пользователи могут устанавливать мобильные приложения.

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel для Интернета (прежнее название — Excel Web App) расширяет возможности Microsoft Excel в веб-браузере, где вы можете работать с книгами непосредственно на веб-сайте, где хранится книга. Все пользователи могут просматривать и легко редактировать файлы Office с помощью Office для Интернета.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131423"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294107"
 ---
 # <a name="excel-for-the-web"></a>Excel в Интернете
 
@@ -161,7 +161,7 @@ Dropbox — служба размещения файлов с облачным 
   
 ## <a name="formula-tools-advanced"></a>Работа с формулами, дополнительно
 
-Классическое приложение Microsoft Excel предоставляет наиболее совершенные средства для работы с формулами, такие как стиль ссылок 3D. Excel для веб-сайта поддерживает растущее количество расширенных формул Excel, таких как [формулы динамических массивов](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Узнайте больше о [формулах](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
+Классическое приложение Microsoft Excel предоставляет наиболее совершенные средства для работы с формулами, такие как стиль ссылок 3D. Excel для веб-сайта поддерживает растущее количество расширенных формул Excel, таких как [формулы динамических массивов](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Узнайте больше о [формулах](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -189,7 +189,7 @@ Dropbox — служба размещения файлов с облачным 
 
 ## <a name="ideas"></a>Идеи
 
-Идеи в Excel помогают вам разодумать свои данные с помощью высокоуровневого визуальных сводок, тенденций и шаблонов. Просто выберите ячейку в диапазоне данных, а затем нажмите кнопку **идеи** на вкладке **Главная** . идеи в Excel будут анализировать данные и возвращать интересные визуальные элементы в области задач. Узнайте больше о [идеях в Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
+Идеи в Excel помогают вам разодумать свои данные с помощью высокоуровневого визуальных сводок, тенденций и шаблонов. Просто выберите ячейку в диапазоне данных, а затем нажмите кнопку **идеи** на вкладке **Главная** . Идеи в Excel будут анализировать данные и возвращать интересные визуальные элементы в области задач. Узнайте больше о [идеях в Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -291,7 +291,7 @@ Excel для Интернета позволяет просматривать т
 
 Настройте управление доступом и чувствительностью документов, вручную применив метку или используя автоматически Рекомендуемые метки от Майкрософт.
   
-## <a name="share"></a>Общий доступ
+## <a name="share"></a>Поделиться
 
 Одним щелчком мыши отправляйте пользователям ссылку для просмотра и редактирования документа. Узнайте больше об [использовании Office для работы в Интернете для совместной работы в office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

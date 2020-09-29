@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300513"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294115"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -90,7 +90,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 - [Использование приложений и отслеживание ошибок](/sharepoint/monitor-apps)
 - Отчеты об активности и использовании для [SharePoint](/office365/admin/activity-reports/sharepoint-activity) и [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Изменение URL-адреса сайта](/sharepoint/change-site-address)
-- [Параметры хранения и хранения по умолчанию для OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Параметры хранения и хранения по умолчанию для OneDrive](/onedrive/set-default-storage-space)
 - [Гибридная среда для SharePoint Server](/sharepoint/hybrid/hybrid). Для доступа к SharePoint Server для рабочих процессов задействование требуется лицензия клиентского доступа (CAL).
 - [Управление параметрами создания сайтов](/sharepoint/manage-site-creation)
 - [Управление пределами хранения для сайта](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ OneDrive в Microsoft 365 — это сетевое хранилище для о
 - [Восстановление удаленных сайтов](/sharepoint/restore-deleted-site-collection)
 - [Центр администрирования SharePoint](/sharepoint/get-started-new-admin-center). Организациям, у которых есть сотрудники задействование, необходим по крайней мере один корпоративный пользователь для доступа к центру администрирования.
 - [Сканер модернизации SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [Командная консоль SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Организациям, у которых есть сотрудники задействование, необходим по крайней мере один корпоративный пользователь для доступа к центру администрирования.
+- [Командная консоль SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Организациям, у которых есть сотрудники задействование, необходим по крайней мере один корпоративный пользователь для доступа к центру администрирования.
 - [Управление сайтами](/sharepoint/governance-overview) 
 - [Хранение терминов — управляемые метаданные](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ SharePoint интегрируется с расширенными возможн
 - [Библиотека активов Организации](/sharepoint/organization-assets-library)
 - [Новости Организации](/sharepoint/organization-news-site)
 - [Утверждение страницы](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Страницы](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Управление записями
 - [Корзина](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Мобильное приложение SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Корпорация Майкрософт поддерживает следующие методы создания и проверки подлинности пользователей, управления ими и их проверки подлинности.
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261551"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294215"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ ms.locfileid: "48261551"
 
 Справка по: [Вход в](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [установку и удаление Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [Отмена Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-Другие проблемы можно найти в [центре поддержки Майкрософт](https://support.microsoft.com/contactus/). Чтобы получить поддержку по службе Office 365, предоставляемой компанией 21Vianet в Китае, свяжитесь со [группой поддержки 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Если вы используете Office 365 Germany, свяжитесь со [группой поддержки Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
+Другие проблемы можно найти в [центре поддержки Майкрософт](https://support.microsoft.com/contactus/). Чтобы получить поддержку по службе Office 365, предоставляемой компанией 21Vianet в Китае, свяжитесь со [группой поддержки 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Если вы используете Office 365 Germany, свяжитесь со [группой поддержки Office 365 Germany](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9). 
   
 ## <a name="sign-in-options"></a>Параметры входа в систему
 
@@ -87,7 +87,7 @@ ms.locfileid: "48261551"
     
 - **Обычная/прокси-проверка подлинности через SSL** — клиент Outlook передает основные учетные данные проверки подлинности по протоколу SSL в Exchange Online. Exchange Online подает запрос на проверку подлинности платформе идентификации, а затем на локальный сервер федерации Active Directory (для единого входа). 
     
-Чтобы обеспечить правильное обнаружение и проверку подлинности служб Майкрософт, администраторы должны применить набор компонентов и обновлений для каждой рабочей станции, использующей полнофункциональных клиентов (например, Microsoft Office 2010), и подключаться к Office 365. Настройка рабочего стола — это автоматизированное средство для настройки рабочих станций с необходимыми обновлениями. Дополнительные сведения см. в статье [использование моих текущих приложений Office](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US).
+Чтобы обеспечить правильное обнаружение и проверку подлинности служб Майкрософт, администраторы должны применить набор компонентов и обновлений для каждой рабочей станции, использующей полнофункциональных клиентов (например, Microsoft Office 2010), и подключаться к Office 365. Настройка рабочего стола — это автоматизированное средство для настройки рабочих станций с необходимыми обновлениями. Дополнительные сведения см. в статье [использование моих текущих приложений Office](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7).
   
 ### <a name="sign-in-experience"></a>Интерфейс входа
 
@@ -114,7 +114,7 @@ ms.locfileid: "48261551"
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Добавить пользователей можно несколькими способами. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей по отдельности или в справке по массовому администратору](https://docs.microsoft.com/office365/admin/add-users/add-users) , а также [Добавление, удаление и управление пользователями в предварительной версии Microsoft 365 Admin Center](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Если вы используете Office 365 под управлением 21Vianet в Китае, ознакомьтесь со статьей [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Добавить пользователей можно несколькими способами. Чтобы узнать больше, ознакомьтесь со статьей [Добавление пользователей по отдельности или в справке по массовому администратору](https://docs.microsoft.com/office365/admin/add-users/add-users) , а также [Добавление, удаление и управление пользователями в предварительной версии Microsoft 365 Admin Center](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3). Если вы используете Office 365 под управлением 21Vianet в Китае, ознакомьтесь со статьей [Создание или изменение учетных записей пользователей в Office 365 под управлением 21vianet — Справка для администраторов](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Удаление учетных записей пользователей
 
@@ -181,7 +181,7 @@ Office 365 для предприятий соответствует модели
   
 ## <a name="azure-active-directory-services"></a>Службы Azure Active Directory
 
-Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Дополнительные сведения о функциях AD в Office 365 см. в статье [Фирменная символика страницы входа и самостоятельный сброс пароля пользователя облака](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Узнайте больше о [выпусках Free, Basic и Premium службы Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Служба Azure Active Directory (AD) открывает широкие возможности идентификации и управления доступом в Office 365. В ней сочетаются службы каталогов, расширенное управление идентификацией, доступом к приложениям и мощная платформа на основе стандартов для разработчиков. Для получения дополнительных сведений о функциях AD в Office 365, ознакомьтесь со статьей " [Вход в систему фирменного стиля страницы и сброс пароля пользователя в облаке]()" https://go.microsoft.com/fwlink/?linkid=2144147 . Узнайте больше о [бесплатном, базовом и расширенном выпусках Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Доступность функций
 

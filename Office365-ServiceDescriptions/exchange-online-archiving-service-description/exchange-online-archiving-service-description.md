@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Архивация Microsoft Exchange Online — это решение для архивации на основе облачного корпоративного уровня Microsoft 365 для организаций с развернутым Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 и более поздних версий) или подписываться на некоторые планы Exchange Online или Microsoft 365. Архивация на базе Exchange Online помогает организациям при архивации, обнаружении электронных данных и контроле соответствия требованиям и нормативам, таким образом упрощая ИТ-инфраструктуру и снижая затраты.
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: Ознакомьтесь с этой статьей, чтобы узнать больше о архивации на базе Microsoft Exchange Online.
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214308"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293641"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -50,7 +50,7 @@ ms.locfileid: "48214308"
   
 Ищете сведения обо всех планах Microsoft 365? Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе с одного плана на другой, представлены в статье [Office 365 Plan Plans](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Требования
 
 Чтобы использовать архивацию на базе Exchange Online для Exchange Server, почтовые ящики пользователей должны находиться на сервере Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange Server 2010 (SP2 или более поздней версии).
   

@@ -1,5 +1,5 @@
 ---
-title: Процесс обработки почты [EOP]
+title: Почтовый потоки в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Для большинства организаций, в которых используется Office 365, мы размещаем почтовые ящики на своих серверах и обслуживаем поток обработки почты. Это самая простая конфигурация, которая позволяет Майкрософт управлять всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: В этой статье рассказывается о движении почты в Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132823"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293675"
 ---
-# <a name="mail-floweop"></a>Процесс обработки почты [EOP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Почтовый потоки в Exchange Online Protection
 
 Для большинства организаций, использующих Майкрософт, мы размещаем почтовые ящики и позаботитесь о движении почты. Это самая простая конфигурация, которая позволяет Майкрософт управлять всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и обеспечивает обработку антивирусных и нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   

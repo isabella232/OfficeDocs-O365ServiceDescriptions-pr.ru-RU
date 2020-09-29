@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Это помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя наши ведущие отраслевые службы для работы с цифровыми данными, от Германии, с данными размещению в Германии и жесткими мерами доступа к данным и управления с помощью уникальной модели доверенного лица для Германии.
-ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
-ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
+ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48268491"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293855"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -22,7 +22,7 @@ Office 365 Германия — это отличительный вариант
 
 Куратор данных, T-Systems International, независимая немецкая компания и дочернее подразделение Deutsche Telekom, управляет физическим и логическим доступом к данным клиентов. К ним невозможно получить доступ без утверждения или контроля куратора, деятельность которого регулируется немецким законодательством.
 
-В соответствии с этими развитием потребностей клиентов наша стратегия облачности для Германии будет сосредоточиться на поставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. После этого мы больше не будем принимать новых клиентов или развертывать новые службы в Microsoft Cloud Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с необходимыми обновлениями для системы безопасности. [Узнайте о Office 365 в Германии](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+В соответствии с этими развитием потребностей клиентов наша стратегия облачности для Германии будет сосредоточиться на поставке новых облачных регионов в Германии, которые соответствуют нашему глобальному облачному предложению. После этого мы больше не будем принимать новых клиентов или развертывать новые службы в Microsoft Cloud Германии. Существующие клиенты могут продолжать использовать текущие облачные службы, доступные сегодня, которые мы будем поддерживать с необходимыми обновлениями для системы безопасности. [Узнайте о Office 365 в Германии](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
 
 ## <a name="service-availability-for-each-plan"></a>Доступность служб в каждом плане
 
@@ -192,7 +192,7 @@ Office 365 Германия соответствует стандартам Clou
 ## <a name="office-application-features"></a>Функции приложений Office  
 
 > [!NOTE]
-> Планы Office 365: Germany включают клиентские приложения, установленные на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013\* и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить пользователям доступ к веб-службам, которые не являются [веб-службами Германии](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/> \* Для работы Office 2013 для Office 365: Germany необходимо [включить современную проверку подлинности](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Планы Office 365: Germany включают клиентские приложения, установленные на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013\* и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить пользователям доступ к веб-службам, которые не являются [веб-службами Германии](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/> \* Для работы Office 2013 для Office 365: Germany необходимо [включить современную проверку подлинности](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
 
 Воспользуйтесь приведенной ниже таблицей, чтобы сравнить доступность функций в планах Office 365 Germany.<br><br>
 
@@ -209,7 +209,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business)|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да,<sup>6</sup>|Да|Да|Да,<sup>6</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Нет|Нет|Нет|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Да|Да|Да|Да|Да|Да|Да|Нет|
-|[Office для Mac в Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
+|[Office для Mac в Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Да|Нет|Да|Нет<sup>7</sup>|Нет|Да|Да|Нет|
@@ -249,7 +249,7 @@ Office 365 Германия соответствует стандартам Clou
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить доступ к интерактивным службам пользователей, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
-<sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
 <sup>4</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. <br/>
 <sup>5</sup> если у вас есть Office профессиональный плюс 2013 или отдельная версия Excel 2013, вы можете скачать и использовать [Предварительный просмотр Power Map для Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) в качестве неподдерживаемой надстройки. <br/>
@@ -257,7 +257,7 @@ Office 365 Германия соответствует стандартам Clou
 <sup>7</sup> некоторые учебные заведения подходят для образовательных учреждений, в том числе Office 365 профессиональный плюс, а также для студентов, преподавателей и сотрудников — для установки последней версии Office на компьютерах с ПК или Mac, а также на других мобильных устройствах, в том числе на планшетах Windows и iPad. Учебные заведения для образовательных учреждений в Office 365 для образовательных учреждений, а также в каждой организации для образовательных учреждений и сотрудников, исключая регистрацию для решений для образования, открытых значений и договоров учебного заведения. Обратите внимание, что Access и Publisher доступны только на компьютерах с Windows. OneNote для Mac доступен в качестве отдельной загрузки из Mac App Store.<br/>
 <sup>8</sup> Office 2011 для Mac можно установить, но не активировать. <br/>
 <sup>9</sup> многопользовательская активация для Office 365 Германия корпоративный E3 и Office 365 профессиональный плюс ограничена установками в Windows Server 2008 R2 и более поздних версий с включенной ролью RDS или установками Windows to go. В любом случае пользователи, обращающиеся к этим установкам, должны быть лицензированы для пользователей Office 365 Германии Enterprise E3 или Office 365 профессиональный плюс.<br/>
-<sup>10</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+<sup>10</sup> доступ в настоящее время доступен, если вы находитесь на текущем канале или на целевом выпуске для отложенного канала. Если вы находитесь на отложенном канале связи, доступ будет доступен в июне 2017. Для получения дополнительных сведений см [в разделе доступ в составе Office 365 бизнес и бизнес премиум](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
 <sup>11</sup> недоступно для Office 365 Германии, но скоро.
 
 | Компонент | Office Professional Plus 2013 | Office профессиональный плюс 2016 | Office 365 профессиональный плюс<sup>10</sup> |
@@ -273,7 +273,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business)|Да<sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Да|Да|Нет|
 |[Приложения Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Да|Да|Да|
-|[Office для Mac в Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Нет|Да|Да|
+|[Office для Mac в Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Нет|Да|Да|
 |[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Нет|Да|Да|
 |[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Нет|Да|Да|
 |[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Нет|Да|Да|
@@ -313,7 +313,7 @@ Office 365 Германия соответствует стандартам Clou
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Германия Plans содержит клиентские приложения, установленные и выполняемые на устройстве конечного пользователя ("клиентские приложения"), например Office 365 профессиональный плюс, Office 2013 и Office 2016. Клиентские приложения не работают исключительно в центрах обработки данных на немецком языке и могут предоставить доступ к интерактивным службам пользователей, которые не являются веб-службами Германии. В рамках соглашения с корпорацией Майкрософт клиентские приложения не относятся к German Online Services. Обязательства по размещению данных в Германии и контроль доступа немецким куратором относятся только к German Online Services.<br/>
-<sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> для Office 2013 требуется, чтобы [современная проверка подлинности была включена](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> функции архивации и соответствия поддерживаются в этой версии Office, но в планах Exchange Online и SharePoint Online они не включены и должны быть приобретены отдельно или использоваться с поддерживаемыми локальными эквивалентами серверов.<br/> <sup>4</sup> служба Azure Information Protection не включена, но ее можно приобрести в виде отдельной надстройки, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/> <sup>5</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM.<br/>
 <sup>6</sup> если у вас есть Office профессиональный плюс 2013 или отдельная версия Excel 2013, вы можете скачать и использовать [Предварительный просмотр Power Map для Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) в качестве неподдерживаемой надстройки.<br/>
 <sup>7</sup> Skype для бизнеса базовый доступен для всех клиентов. Настольный клиент Skype для бизнеса — это локально установленное приложение, которое предоставляет возможности присутствия, обмена мгновенными сообщениями и конференций для Office 365, которые включают Skype для бизнеса Online. Office 365 профессиональный плюс и Office 365 корпоративный E3 включают полное приложение Skype, включающее дополнительные функции, в том числе расширенную поддержку телефонии, архивацию и функции обеспечения соответствия требованиям. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о основных функциях Lync для [настольных ПК приведены в статье сравнение клиентов для настольных ПК](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
@@ -448,7 +448,7 @@ Office 365 Германия соответствует стандартам Clou
 |Надстройки Outlook и Outlook MAPI|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Да,<sup>16</sup>|Нет|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 поддерживает только минимальное гибридное развертывание. (Полное гибридное развертывание не поддерживается для Exchange 2010.) Дополнительные сведения о минимальном гибридном развертывании можно найти [в статье Использование инструкции Express Migration для переноса почтовых ящиков Exchange в Office 365](https://support.office.com/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+> <sup>1</sup> Exchange 2010 поддерживает только минимальное гибридное развертывание. (Полное гибридное развертывание не поддерживается для Exchange 2010.) Дополнительные сведения о минимальном гибридном развертывании можно найти [в статье Использование инструкции Express Migration для переноса почтовых ящиков Exchange в Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
 <sup>2</sup> Office 365 Германия Business Essentials и Office 365 Германия Business Premium не предоставляют права доступа для использования с локальными серверами. Согласно правилам клиент должен приобрести соответствующие лицензии CAL или перейти на корпоративный план, который предоставляет эти права доступа.<br/>
 <sup>3</sup> недоступно для Office 365 Германии, но скоро.<br/>
 <sup>4</sup> служба Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку (или добавить бесплатно в план Office 365 Германия для образовательных учреждений a1), чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. Шифрование сообщений Office 365 зависит от Azure Information Protection.<br/>
@@ -486,7 +486,7 @@ Office 365 Германия соответствует стандартам Clou
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): управление администраторами|Да|Да|Да|
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|Да|
 |[Расширенное управление данными](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Нет|Да|Да|
-|[Office 365 для аналитики угроз](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|Нет|Да|Да|
+|[Office 365 для аналитики угроз](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|Нет|Да|Да|
 |[Создание отчетов о нежелательной почте в Outlook в Интернете](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Да<sup>8</sup>|Нет<sup>8</sup>|Нет<sup>8</sup>|
 |[Маршрутизация электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|Да|
@@ -531,8 +531,7 @@ Office 365 Германия соответствует стандартам Clou
 
 ## <a name="project-online-features"></a>Функции Project Online
 
-В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).<br><br>
-<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
+В следующей таблице перечислены функции Project Online, доступные в планах Office 365: Germany. Дополнительные сведения о Project Online см. в записи блога [Начало работы с Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
 | План | Описание | Целевая аудитория |
 |:-----|:-----|:-----|

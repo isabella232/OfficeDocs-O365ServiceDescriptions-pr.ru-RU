@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office — это мощная служба, которая поможет вам лучше разобраться с вашими идеями, выполнять действия и оставаться на связи в дороге. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
-ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131433"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294175"
 ---
 # <a name="office-applications"></a>Приложения Office
 
@@ -64,19 +64,19 @@ Microsoft InfoPath  это программа, которая позволяе
   
 ## <a name="windows-10-apps"></a>Приложения Windows 10
 
-В некоторых приложениях Office, таких как Excel и Word, плитки закреплены на начальном экране Windows 10, Windows 8 и Windows 7 по умолчанию. Узнайте больше о [поиске и запуске приложений Office в Windows](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6?ocmsassetID=HA103581103&CTT=1&CorrelationId=03707eae-b946-462a-b3c6-f0fc04f55611&ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Windows_8.1_or_Windows_8).
+В некоторых приложениях Office, таких как Excel и Word, плитки закреплены на начальном экране Windows 10, Windows 8 и Windows 7 по умолчанию. Узнайте больше о [поиске и запуске приложений Office в Windows](https://support.microsoft.com/office/907ce545-6ae8-459b-8d9d-de6764a635d6).
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile для iPad и iPhone включает в себя избранные приложения Office, например Word для iPad/iPhone, Excel для iPad/iPhone и PowerPoint для iPad и iPhone. Приложения можно скачать бесплатно, а с помощью соответствующих планов вы можете создавать и редактировать документы на своем устройстве iPad или iPhone. Дополнительные сведения: [Настройка приложений Office и электронной почты на устройствах с iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile для iPad и iPhone включает в себя избранные приложения Office, например Word для iPad/iPhone, Excel для iPad/iPhone и PowerPoint для iPad и iPhone. Приложения можно скачать бесплатно, а с помощью соответствующих планов вы можете создавать и редактировать документы на своем устройстве iPad или iPhone. Дополнительную информацию можно узнать в статье [Настройка приложений Office и Outlook на устройствах с iOS](https://support.microsoft.com/office/0402b37e-49c4-4419-a030-f34c2013041f).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Office Mobile для Android включает в себя избранные приложения Office, например Word для Android, Excel для Android и PowerPoint для Android. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на устройствах с Android. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile для Android включает в себя избранные приложения Office, например Word для Android, Excel для Android и PowerPoint для Android. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на устройствах с Android. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Android](https://support.office.com/article/6ef2ebf2-fc2d-474a-be4a-5a801365c87f).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile для Windows Phone включает в себя избранные приложения Office, такие как Word для Windows Phone, Excel для Windows Phone и PowerPoint для Windows Phone. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на вашем Windows Phone. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile для Windows Phone включает в себя избранные приложения Office, такие как Word для Windows Phone, Excel для Windows Phone и PowerPoint для Windows Phone. Приложения доступны для бесплатной загрузки и с соответствующими планами можно создавать и редактировать документы на вашем Windows Phone. Дополнительные сведения см. [в статье Настройка приложений Office и электронной почты на Windows Phone](https://support.office.com/article/9bccc8b8-a321-4d0d-a45e-6e06a3438e43).
 
 ## <a name="office-for-windows-10-mobile"></a>Office для Windows 10 Mobile
 

@@ -1,5 +1,5 @@
 ---
-title: Отчеты и трассировка сообщений
+title: Отчеты и трассировка сообщений в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: В Microsoft Exchange Online Protection (EOP) доступно множество различных отчетов, с помощью которых вы сможете определить общее состояние и работоспособность вашей организации. Некоторые отчеты доступны в центре администрирования Microsoft 365, а другие доступны в центре администрирования Exchange.
-ms.openlocfilehash: 0fab453ae50454e9f613c0996b8baacc7081cb97
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: В этой статье представлены сведения об отчетах и трассировке сообщений в Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 6690c246620d4324610213b4968367cff0d30cf9
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132763"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293665"
 ---
-# <a name="reporting-and-message-trace"></a>Отчеты и трассировка сообщений
+# <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Отчеты и трассировка сообщений в Exchange Online Protection
 
 В Microsoft Exchange Online Protection (EOP) доступно множество различных отчетов, с помощью которых вы сможете определить общее состояние и работоспособность вашей организации. Некоторые отчеты доступны в центре администрирования Microsoft 365, а другие доступны в центре администрирования Exchange.
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Сведения о доступности функций SharePoint для клиентов Cloud государственных учреждений США.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175018"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294195"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для государственных сред США
 
@@ -62,7 +62,7 @@ ms.locfileid: "42175018"
 - Защищенное хранилище
 - Защита от потери данных (DLP)
 - Обнаружение электронных данных (поиск контента, удержание, экспорт)
-- Office 365 Advanced Threat protection (ATP)
+- Office 365 Advanced Threat Protection (ATP)
 - Метки конфиденциальности
 
 Сведения о функциях Azure Active Directory для государственных учреждений можно найти в статье [безопасность и документация по удостоверениям Azure](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)Active Directory. 
@@ -95,4 +95,4 @@ ms.locfileid: "42175018"
 
 После настройки организации в облаке Microsoft США следуйте рекомендациям, описанным в [центре ресурсов по внедрению SharePoint](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/). Не забудьте приноситься к внедрению и управлению изменениями лидеров.
 Вы также можете работать с [FastTrack](https://www.microsoft.com/fasttrack) или выбранным партнером, чтобы развернуть службу для пользователей.
-Посетите [центр управления безопасностью Майкрософт](https://www.microsoft.com/en-us/trust-center) , чтобы узнать больше о том, как корпорация Майкрософт применяет безопасность, конфиденциальность и соответствие требованиям, основные принципы, позволяющие организациям обслуживать своих клиентов.
+Посетите [центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) , чтобы узнать больше о том, как корпорация Майкрософт применяет безопасность, конфиденциальность и соответствие требованиям, основные принципы, позволяющие организациям обслуживать своих клиентов.

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать возможного нарушения обслуживания из-за нелицензированного доступа.
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284991"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294165"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения безопасности & соответствие требованиям
 
@@ -315,11 +315,11 @@ Microsoft 365 в ~/A5, соответствие требованиям Microsoft
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>API Microsoft Graph для защиты от потери данных в Teams
 
-Ранее в этом году мы [объявили общедоступную предварительную версию API уведомлений об изменениях Microsoft Graph для сообщений в Teams](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Этот API позволяет разработчикам создавать приложения, которые могут прослушивать сообщения Microsoft Teams почти в режиме реального времени и включать реализации сценариев DLP как для клиентов, так и для независимых поставщиков программного обеспечения. Кроме того, API исправлений Microsoft Graph позволяет применять действия DLP к сообщениям Teams.
+Ранее в этом году мы [объявили общедоступную предварительную версию API уведомлений об изменениях Microsoft Graph для сообщений в Teams](https://go.microsoft.com/fwlink/?linkid=2143888). Этот API позволяет разработчикам создавать приложения, которые могут прослушивать сообщения Microsoft Teams почти в режиме реального времени и включать реализации сценариев DLP как для клиентов, так и для независимых поставщиков программного обеспечения. Кроме того, API исправлений Microsoft Graph позволяет применять действия DLP к сообщениям Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Чем пользователи получают преимущества от службы?
 
-Возможности защиты от [потери данных (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) широко используются в Microsoft Teams, особенно в том случае, когда Организации сдвинуты на удаленную работу. Если в вашей организации используется DLP, можно определить политики, которые не позволяют пользователям обмениваться конфиденциальной информацией в канале Microsoft Teams или сеансе чата.
+Возможности защиты от [потери данных (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) широко используются в Microsoft Teams, особенно в том случае, когда Организации сдвинуты на удаленную работу. Если в вашей организации используется DLP, можно определить политики, которые не позволяют пользователям обмениваться конфиденциальной информацией в канале Microsoft Teams или сеансе чата.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества от службы?
 

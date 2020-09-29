@@ -1,5 +1,5 @@
 ---
-title: Управление получателями, доменами и компаниями
+title: Управление получателями, доменами и компаниями в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) предлагает несколько средств управления сведениями о получателях, доменах и компаниях. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
-ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: В этой статье приводятся сведения об управлении получателями, доменами и компаниями в Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132773"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294125"
 ---
-# <a name="recipient-domain-and-company-management"></a>Управление получателями, доменами и компаниями
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Управление получателями, доменами и компаниями в Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) предлагает несколько средств управления сведениями о получателях, доменах и компаниях. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
   

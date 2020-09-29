@@ -1,5 +1,5 @@
 ---
-title: Политика обмена сообщениями и соответствие требованиям
+title: Политика обмена сообщениями и соответствие требованиям в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: В этой статье рассказывается о политике обмена сообщениями и функциях соответствия требованиям в Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132793"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293805"
 ---
-# <a name="messaging-policy-and-compliance"></a>Политика обмена сообщениями и соответствие требованиям
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Политика обмена сообщениями и соответствие требованиям в Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять своими данными электронной почты.
 
@@ -65,11 +65,11 @@ Microsoft Exchange Online Protection (EOP) предоставляет полит
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 
-|**Функция**|**Изолированная EOP**|**Функции EOP в <br/> Exchange Online**|**<br/>Клиентская лицензия Exchange Enterprise CAL со службами**|
+| Компонент | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange корпоративный <br/> Клиентская лицензия со службами |
 |:-----|:-----|:-----|:-----|
 |Правила потока обработки почты|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>, 1, 3</sup>|
 |Ведение журнала аудита|Да<sup>2</sup>|Да|Да|
-|Защита от потери данных (DLP)|Нет|ДА|Да,<sup>3</sup>|
+|Защита от потери данных (DLP)|Нет|Да|Да,<sup>3</sup>|
 |Шифрование сообщений Office 365|Да<sup>4</sup>|Да|Да<sup>4</sup>|
 
 > [!NOTE]
