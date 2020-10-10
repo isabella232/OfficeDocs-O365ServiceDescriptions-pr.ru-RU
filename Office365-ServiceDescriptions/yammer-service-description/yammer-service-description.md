@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Узнайте, какие функции доступны в различных планах Yammer.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276745"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408255"
 ---
 # <a name="yammer-service-description"></a>Описание службы Yammer
 
 Yammer — это лучшая в своем классе безопасная и частная корпоративная социальная сеть. Yammer позволяет сотрудникам повысить производительность, позволяя им легко работать вместе, быстрее принимать решения, а также самостоятельно организовать группы для решения любой бизнес-задачи. Это новый способ взаимодействия, который улучшает согласованность и гибкость компании, сокращает время рабочих циклов, повышает удовлетворенность сотрудников и улучшает отношения с клиентами и партнерами.
   
-Список планов, включающих Yammer, можно найти в [статье семейства и планы служб Майкрософт](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Список планов, включающих Yammer, можно найти в [статье семейства и планы служб Майкрософт](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
 Чтобы сравнить функции в планах, ознакомьтесь со статьей [мощные средства для поддержки предприятия](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
