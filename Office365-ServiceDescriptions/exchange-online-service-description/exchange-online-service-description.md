@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245694"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661287"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -52,6 +52,9 @@ Microsoft 365 доступен в различных планах, чтобы о
 Каждому пользователю, имеющему доступ к службе Exchange Online, должен быть назначен план подписки. Для каждой подписки пользователя предусмотрен отдельный почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центре обработки данных Майкрософт на компьютере, на котором запущена служба Exchange Server.
   
 Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. У этих специальных почтовых ящиков нет учетных данных для входа. Вместо этого ими через делегирование управляют лицензированные пользователи с соответствующими разрешениями.
+
+**Права на использование почтового ящика пользователя Microsoft 365 F1** <br/>
+Microsoft 365 F1 не включает права доступа к почтовому ящику Exchange. Чтобы обеспечить полноценный интерфейс Teams, лицензии на M365 F1 могут быть включены в план обслуживания Exchange Online K1. Несмотря на то, что план обслуживания Exchange Online K1 предоставит почтовый ящик для пользователя, M365 F1 пользователи не могут использовать этот почтовый ящик. Мы рекомендуем отключить Outlook в Интернете, [выполнив указанные ниже действия](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) и попросите пользователей не получить доступ к почтовому ящику Exchange с помощью других методов.
   
 ## <a name="system-requirements-for-exchange-online"></a>Системные требования для Exchange Online
 

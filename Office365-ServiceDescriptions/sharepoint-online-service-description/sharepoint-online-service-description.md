@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294115"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661267"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -42,7 +42,7 @@ SharePoint в Microsoft 365 помогает организациям делит
 
 Microsoft 365 доступен в различных планах, чтобы обеспечить соответствие потребностям вашей организации. Сведения о различных планах, в том числе сведения о автономных параметрах плана и сведения о переходе от одного плана к другому, представлены в [статье Microsoft 365 Plan](../office-365-platform-service-description/office-365-plan-options.md).
   
-Чтобы получить доступ к SharePoint, пользователям в Организации должна быть назначена лицензия, включающая SharePoint. План задействование не продается как автономное, только в составе [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Чтобы получить доступ к SharePoint, пользователям в Организации должна быть назначена лицензия, включающая SharePoint. План задействование не продается как автономное, только в составе [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) или [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Права гостей
 
