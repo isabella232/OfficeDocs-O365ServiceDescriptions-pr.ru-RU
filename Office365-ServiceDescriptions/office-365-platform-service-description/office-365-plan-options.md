@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408225"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773453"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 и Office 365 — плановые варианты
 
@@ -49,7 +49,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 | Служба | Приложения Microsoft 365 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 в ~/Office 365<sup>3 –</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Платформа Office 365  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Exchange Online  <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да<sup>8</sup> <br/> |Да,<sup>16</sup> <br/> |
+|Exchange Online  <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да,<sup>6</sup> <br/> |Да,<sup>6</sup> <br/> |Да<sup>8</sup> <br/> |Нет<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |
 |OneDrive  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
 |Skype для бизнеса Online <sup>14</sup> <br/> |Нет  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>12</sup> <br/> |Да,<sup>13</sup> <br/> |Да,<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>13</sup> включает Skype для бизнеса Online (план 1).<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. В центре развертывания Office: 1, 2018. новые клиенты с 500 или более не входят в Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, уже использующие Skype для бизнеса Online, могут продолжать делать это (в том числе подготавливать новых пользователей) до завершения перехода на Microsoft Teams.<br>
 <sup>15</sup> включает соответствие Microsoft 365, которое обеспечивает автоматическую классификацию и хранение, ключ клиента, расширенное шифрование сообщений, управление рисками для оценки, соответствие требованиям, барьеры информации, защищенный доступ клиентов, управление привилегированным доступом, Расширенный аудит, управление записями и расширенные возможности обнаружения электронных данных; и Microsoft 365, в том числе безопасность Office 365 Advanced Threat protection (ATP), план 2, защитник Майкрософт, Azure Active Directory, план 2, Azure ATP, Microsoft Cloud App Security и безопасные документы.<br>
-<sup>16</sup> Microsoft 365 F1 пользователи подготавливает план обслуживания Exchange, чтобы включить только календарь Teams, без прав на развертывание почтовых ящиков.<br>
+<sup>16</sup> Microsoft 365 F1 не включает права доступа к почтовому ящику Exchange. Для обеспечения полноценного взаимодействия Teams в M365 могут поступать лицензии на план обслуживания Exchange Online K1. Несмотря на то, что план обслуживания Exchange Online K1 предоставит почтовый ящик для пользователя, M365 F1 пользователи не могут использовать этот почтовый ящик. Мы рекомендуем пользователям отключать Outlook в Интернете, [выполнив указанные ниже действия](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) и попросите пользователей не получить доступ к почтовому ящику Exchange с помощью других методов.<br>
 <sup>17</sup> включает SharePoint Online киоск. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
 <sup>18</sup> Microsoft 365 F1 пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав на создание/редактирование и сохранение. 
   

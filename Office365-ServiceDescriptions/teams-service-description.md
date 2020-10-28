@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175186"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773443"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -35,11 +35,11 @@ Skype для бизнеса Online будет выпущен 31 июля 2021 г
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-Подробные инструкции по реализации функций продукции представлены в [документации для администраторов Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). В этом описании службы описываются основные различия между службами, предоставляемыми для различных облачных установок. Основные функциональные возможности Microsoft Teams не отличаются между собой подписок. Доступность возможностей соответствия зависит от уровня подписки. Чтобы узнать больше, ознакомьтесь со статьей [безопасность и соответствие требованиям в Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Подробный список функций, доступных в каждой подписке, приведен в [статье Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Подробные инструкции по реализации функций продукции представлены в [документации для администраторов Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). В этом описании службы описываются основные различия между службами, предоставляемыми для различных облачных установок. Основные функциональные возможности Microsoft Teams не отличаются между собой подписок. Доступность возможностей соответствия зависит от уровня подписки. Чтобы узнать больше, ознакомьтесь со статьей [безопасность и соответствие требованиям в Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Подробный список функций, доступных в каждой подписке, приведен в [статье Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Функции облачной голосовой связи**: для конференций с аудио-и видеоконференциями в Организации необходимо приобрести и назначить лицензию на голосовую конференцию каждому пользователю, который будет настраивать собрания с телефонным подключением. Для функций Teams, которым требуются планы звонков, каждому пользователю необходима телефонная система, а также план внутреннего или внутреннего звонка. Дополнительные сведения о [лицензиях на надстройки Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Функции облачной голосовой связи** : для конференций с аудио-и видеоконференциями в Организации необходимо приобрести и назначить лицензию на голосовую конференцию каждому пользователю, который будет настраивать собрания с телефонным подключением. Для функций Teams, которым требуются планы звонков, каждому пользователю необходима телефонная система, а также план внутреннего или внутреннего звонка. Дополнительные сведения о [лицензиях на надстройки Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**События Live**: это предложение в Office 365 заменяет отмененное вещание собраний Skype. Возможности Live Events доступны для планов лицензирования, как описано в службе потока. Ознакомьтесь со статьей " [сведения о лицензировании Microsoft Stream](https://docs.microsoft.com/stream/license-overview)". Доступ к службе Live Events можно получить с помощью Stream, Yammer или Microsoft Teams. Чтобы узнать больше о возможностях Live Events, ознакомьтесь со статьями [Live Events в microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**События Live** : это предложение в Office 365 заменяет отмененное вещание собраний Skype. Возможности Live Events доступны для планов лицензирования, как описано в службе потока. Ознакомьтесь со статьей " [сведения о лицензировании Microsoft Stream](https://docs.microsoft.com/stream/license-overview)". Доступ к службе Live Events можно получить с помощью Stream, Yammer или Microsoft Teams. Чтобы узнать больше о возможностях Live Events, ознакомьтесь со статьями [Live Events в microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Все поддерживаемые планы подписки подходят для доступа к веб-клиенту Microsoft Teams, настольным клиентам и мобильным приложениям.
 
@@ -59,13 +59,14 @@ Microsoft Teams недоступен в качестве автономной с
 |Демонстрация экрана PowerPoint Audio/Video Desktop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
-|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>4</sup>  <br/> |Нет<sup>4</sup>  <br/> |Да  <br/> |
+|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да<sup>, 3, 4</sup>  <br/> |Да  <br/> |
+|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>5</sup>  <br/> |Нет<sup>5</sup>  <br/> |Да  <br/> |
 
-> <sup>1</sup>  в Microsoft Teams в GCC, а не в Microsoft Teams поддержка по требованию 2500 членов отдельной команды.<br/>
+> <sup>1</sup>  Microsoft Teams в GCC-High и Microsoft Teams, поддерживающих DOD 2500, в отдельных командах.<br/>
 > <sup>2</sup> планировщик Microsoft сейчас недоступен для доступа в частных каналах.<br/>
-> <sup>3</sup> Microsoft OneNote недоступно в облаках с DOD. В настоящее время приложения и публикация приложений недоступны в этих облаках.<br/>
-> <sup>4</sup> Live Events в настоящее время недоступно в GCC-High или с вызовом по требованию.<br/>
+> <sup>3</sup> Microsoft OneNote недоступно в облаках с DOD.<br/>
+> <sup>4</sup> приложения и публикация приложений в настоящее время недоступны в этих облаках.<br/>
+> <sup>5</sup> Live Events в настоящее время не поддерживаются GCC-High или DOD.<br/>
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
