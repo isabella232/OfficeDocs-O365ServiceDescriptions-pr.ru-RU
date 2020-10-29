@@ -8,20 +8,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в описании службы Exchange Online.
-ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261511"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793657"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для сред США для государственных организаций
 
-В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в [описании службы Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description). Exchange Online доступен для сред, в которых используется облако сообщества для государственных организаций (GCC), GCC High и Department of обороны (DoD).
+В этой статье представлены общие сведения о различиях между функциями Cloud правительства США и коммерческой облаком, указанным в [описании службы Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description). Exchange Online доступен для сред, в которых используется облако сообщества для государственных организаций (GCC), GCC High и Department of обороны (DoD).
 
-Дополнительные сведения о правительственном облаке, включая сведения о приемлемости и приобретении, можно найти [в статье Microsoft 365 государственных учреждений — как приобрести](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Чтобы сравнить планы Office 365 для государственных учреждений, ознакомьтесь с [планами office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Дополнительные сведения о правительственном облаке, включая сведения о приемлемости и приобретении, можно найти [в статье Microsoft 365 государственных учреждений — как приобрести](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Чтобы сравнить планы Office 365 для государственных учреждений, ознакомьтесь с [планами office 365 для государственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Чтобы узнать о необходимых конечных точках при управлении подключением к сети, ознакомьтесь со статьями [office 365 для государственных учреждений GCC gcc High](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business),   а также [конечных точек DOD Office 365 для правительства США](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Чтобы узнать о необходимых конечных точках при управлении подключением к сети, ознакомьтесь со статьями [office 365 для государственных учреждений GCC gcc High](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) , а также [конечных точек DOD Office 365 для правительства США](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 В дополнение к преимуществам функций и возможностей Office 365 организации могут использовать следующие функции, уникальные для облачных сред США:
 
@@ -39,13 +39,13 @@ ms.locfileid: "48261511"
 
 В приведенной ниже таблице указано, доступны ли указанные функции Exchange Online в средах GCC, GCC High и DoD. При наличии нюансов, касающихся оператора поддержки (или их отсутствия), предоставляется дополнительный контекст.<br><br>
 
-| Функциональная область | GCC | GCC High | DoD | Ключевые моменты |
+| Компонент | GCC | GCC High | DoD | Ключевые моменты |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Для совместной работы с локальным сервером Exchange Server корпорации Майкрософт требуется установить по крайней мере один сервер клиентского доступа Exchange Server 2013 (или Exchange Server 2016.). Exchange Server 2010 и более ранние версии не поддерживаются.|
 |Поддерживается миграция IMAP|Да|Да|Да||
 |Поддержка прямой миграции|Да|Да|Да||
-|Поддерживается поэтапная миграция|Да|Да|Да|Гсуите миграция не поддерживается для GCC High и DoD. Дополнительные сведения см. <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">в статье выполнение гсуите миграции</a>.|
+|Поддерживается поэтапная миграция|Да|Да|Да|Гсуите миграция не поддерживается для GCC High и DoD. Дополнительные сведения см. <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">в статье выполнение гсуите миграции</a>.|
 |**[Разрешения](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые моменты**|
 |Разрешения на основе ролей|Да|Да|Да||
 |Группы ролей|Да|Да|Да||
@@ -147,43 +147,43 @@ ms.locfileid: "48261511"
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Особенности, которые используются в средах GCC High и DoD
 
-### <a name="connectivity-with-third-party-services"></a>Связь со сторонними службами  
+### <a name="connectivity-with-third-party-services"></a>Связь со сторонними службами  
 
-Как самые высокие, так и DoD среды используют ограниченные среды, требующие явного утверждения и настройки исходящих подключений. Кроме того, корпорация Майкрософт не может разместить запросы на разрешение исходящего доступа из этих сред в коммерческие облачные службы (коммерческая версия Office 365, Google Гсуите, веб-службы Amazon и т. д.).     
+Как самые высокие, так и DoD среды используют ограниченные среды, требующие явного утверждения и настройки исходящих подключений. Кроме того, корпорация Майкрософт не может разместить запросы на разрешение исходящего доступа из этих сред в коммерческие облачные службы (коммерческая версия Office 365, Google Гсуите, веб-службы Amazon и т. д.).     
 
-В связи с этими ограничениями функции, зависящие от этого исходящего подключения из сред с поддержкой GCC High и DoD, обычно не поддерживаются, в том числе: 
+В связи с этими ограничениями функции, зависящие от этого исходящего подключения из сред с поддержкой GCC High и DoD, обычно не поддерживаются, в том числе: 
 
-- Подключенные учетные записи — пользователи не могут добавлять и синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
+- Подключенные учетные записи — пользователи не могут добавлять и синхронизировать учетные записи (Google, POP/IMAP и т. д.). 
 
-- Поддержка сторонних поставщиков хранилищ файлов — доступ к учетной записи OneDrive для бизнеса пользователя с помощью *GCC High/DOD*   можно получить в различных клиентах Outlook для присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
+- Поддержка сторонних поставщиков хранилищ файлов — доступ к учетной записи OneDrive для бизнеса пользователя с помощью *GCC High/DOD* можно получить в различных клиентах Outlook для присоединения и предоставления общего доступа к файлам. Нельзя добавить сторонние учетные записи хранения (Dropbox, Box, Google Drive). 
 
-- Связь с социальными сетями, такими как Facebook и LinkedIn. 
+- Связь с социальными сетями, такими как Facebook и LinkedIn. 
 
-### <a name="azure-active-directoryb2b-collaboration"></a>Совместная работа Azure Active Directory B2B 
+### <a name="azure-active-directory-b2b-collaboration"></a>Совместная работа Azure Active Directory B2B 
 
 В настоящее время совместная работа Azure Active Directory B2B поддерживается только между организациями, которые находятся в облаке Azure США и поддерживают совместную работу по B2B.
 
-Кроме того, пользователи B2B, являющиеся гостями в группах Office 365, не поддерживаются в средах GCC High и DoD. 
+Кроме того, пользователи B2B, являющиеся гостями в группах Office 365, не поддерживаются в средах GCC High и DoD. 
 
-Дополнительные сведения и последние обновления можно найти в статье [безопасность и удостоверение в Azure для государственных учреждений](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
+Дополнительные сведения и последние обновления можно найти в статье [безопасность и удостоверение в Azure для государственных учреждений](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
 
-### <a name="office-365-message-encryptionbehavior-across-gcc-highdod-boundary"></a>Поведение шифрования сообщений в Office 365 для границ GCC High/DoD 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Поведение шифрования сообщений в Office 365 для границ GCC High/DoD 
 
-Если вы хотите использовать шифрование сообщений Office 365 в среде с большим числом GCC, учитывайте следующие уникальные характеристики взаимодействия с получателем:  
+Если вы хотите использовать шифрование сообщений Office 365 в среде с большим числом GCC, учитывайте следующие уникальные характеристики взаимодействия с получателем:  
 
 - При отправке зашифрованных сообщений электронной почты из GCC High или DoD для получателей в одной и той же среде:
     
-    - Отправители могут вручную зашифровывать сообщения в Outlook для ПК и Mac, а также Outlook в Интернете, а организации могут настраивать политику для шифрования электронных сообщений с помощью правил для почтовых ящиков Exchange. 
+    - Отправители могут вручную зашифровывать сообщения в Outlook для ПК и Mac, а также Outlook в Интернете, а организации могут настраивать политику для шифрования электронных сообщений с помощью правил для почтовых ящиков Exchange. 
     
-    - Получатели в пределах GCC High/DoD получают одинаковый режим чтения в Outlook для компьютеров с Windows и Mac и Outlook в Интернете, как и все остальные пользователи Office 365. 
+    - Получатели в пределах GCC High/DoD получают одинаковый режим чтения в Outlook для компьютеров с Windows и Mac и Outlook в Интернете, как и все остальные пользователи Office 365. 
 
 <!-- end list -->
 
 - При отправке зашифрованных сообщений электронной почты из GCC High или DoD для получателей, не входящих в эту среду (включая GCC и коммерческая версия):
     
-    - Отправители внутри GCC High/DoD могут отправлять зашифрованную электронную почту за пределами границы GCC High/DoD. 
+    - Отправители внутри GCC High/DoD могут отправлять зашифрованную электронную почту за пределами границы GCC High/DoD. 
     
-    - Все получатели, не относящиеся к Microsoft GCC High/DoD, в том числе коммерческие пользователи Office 365, пользователи Outlook.com и другие пользователи других поставщиков электронной почты, получают сообщения программы-оболочки. Эта почтовая оболочка перенаправляет получателя на портал OME, где получатель может прочитать сообщение и ответить на него. 
+    - Все получатели, не относящиеся к Microsoft GCC High/DoD, в том числе коммерческие пользователи Office 365, пользователи Outlook.com и другие пользователи других поставщиков электронной почты, получают сообщения программы-оболочки. Эта почтовая оболочка перенаправляет получателя на портал OME, где получатель может прочитать сообщение и ответить на него. 
 
 Дополнительные сведения и последние обновления приведены в статье [Сравнение версий OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
@@ -201,12 +201,12 @@ ms.locfileid: "48261511"
 
   - Доверие федерации (включая общий доступ к сведениям о доступности) в настоящее время поддерживается только между клиентами в среде DoD. Он не поддерживается между клиентами DoD и коммерческими клиентами GCC или коммерческими клиентами.
 
-### <a name="client-configuration"></a>Настройка клиента 
+### <a name="client-configuration"></a>Настройка клиента 
 
-Дополнительные действия участвуют в развертывании и настройке Office профессиональный плюс (включая Outlook). Подробное описание этих действий приведено [в статье рекомендации по развертыванию приложений Microsoft 365 для предприятий в среде с контрастной или с Microsoft GCC High или DOD ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
+Дополнительные действия участвуют в развертывании и настройке Office профессиональный плюс (включая Outlook). Подробное описание этих действий приведено [в статье рекомендации по развертыванию приложений Microsoft 365 для предприятий в среде с контрастной или с Microsoft GCC High или DOD ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
 Outlook для iOS и Android также доступны в средах GCC High и DoD. Дополнительные сведения об ограничениях функций и управлении в этих средах приведены [в статье Использование Outlook для iOS и Android в облаке сообщества государственных организаций](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud).
 
-### <a name="add-insin-outlook-and-outlook-web-app"></a>Надстройки в Outlook и Outlook Web App  
+### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Надстройки в Outlook и Outlook Web App  
 
 Только некоторые надстройки OWA и Outlook доступны в GCC High и DoD. Мои шаблоны и предлагаемые собрания доступны и должны работать. Поддерживаются только пять надстроек OWA по умолчанию. Однако интеграция с приложениями сторонних производителей возможна, однако эти интеграции не охватываются корпорацией Майкрософт, обещанными корпорацией Майкрософт для GCC High или DoD. Пользователи должны ознакомиться с практическими рекомендациями по управлению данными и соответствием требованиям, прежде чем настраивать надстройку для своей организации.
