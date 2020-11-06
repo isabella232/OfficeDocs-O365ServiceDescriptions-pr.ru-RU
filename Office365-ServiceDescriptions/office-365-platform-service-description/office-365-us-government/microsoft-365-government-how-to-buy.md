@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительством и описываются варианты приобретения.
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818669"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931039"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 для государственных организаций — как приобрести
 
@@ -133,13 +133,16 @@ Microsoft 365 правительственные учреждения досту
 **AOS-G для партнеров GCC и GCC High (на 500 рабочих мест)**
 
 - Гибкость ИТ
-- Примененные сведения СЦиенцес (AIS) 
+- Примененные сведения СЦиенцес (AIS)
 - Интегрированные решения С3
+- карахсофт
 - Докс электроника, Inc.
 - F1 Solutions, Inc.
+- Четыре точки
 - КТЛ Solutions, Inc.
 - Лифтофф, LLC
 - Планеты
+- Тихий специалист
 - Системы для Конференции 7
 
 **Примечание:** Все поставщики решений Майкрософт для лицензирования (Лспс), описанные в предыдущем списке, могут выполнить инструкцию GCC и GCC High and GCC High by Enterprise Agreement для создания прайс-листа клиента (CPS). Организации, которые не соответствуют требованиям EA, могут покупать лицензии GCC с помощью указанной партнерской программы AOS-G или поставщика CSP.
