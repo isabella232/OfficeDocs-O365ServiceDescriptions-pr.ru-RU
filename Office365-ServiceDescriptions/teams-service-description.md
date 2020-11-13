@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams обеспечивает обмен мгновенными сообщениями, совместной работы с файлами и данными, аудио-и видеозвонки, полнофункциональные интерактивные собрания, мобильные взаимодействия и расширенные возможности веб-конференций.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773443"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003952"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -45,7 +45,7 @@ Skype для бизнеса Online будет выпущен 31 июля 2021 г
 
 Microsoft Teams недоступен в качестве автономной службы.
 
-## <a name="feature-category-reference"></a>Справочник по категориям компонентов 
+## <a name="feature-category-reference"></a>Справочник по категориям компонентов
 
 В этой таблице перечислены функции Microsoft Teams, доступные в планах лицензирования или облачных экземплярах. Применяются некоторые предостережения. Дополнительные сведения можно найти в сносках. Эта таблица может измениться без предварительного уведомления. Обратитесь к разделу Microsoft 365 Message Center Notifications об изменении основной службы и в [справочную документацию по лицензионным условиям корпорации Майкрософт](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
@@ -57,16 +57,17 @@ Microsoft Teams недоступен в качестве автономной с
 |Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Да <br/> |Нет  <br/> |Нет <br/> |Да  <br/> |
 |Собрания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Демонстрация экрана PowerPoint Audio/Video Desktop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да<sup>, 3, 4</sup>  <br/> |Да  <br/> |
-|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>5</sup>  <br/> |Нет<sup>5</sup>  <br/> |Да  <br/> |
+|Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
+|Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да,<sup>3</sup>  <br/> |Да,<sup>3</sup>  <br/> |Да  <br/> |
+|Приложения, Боты, соединители &  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup>  <br/> |Да<sup>5</sup>  <br/> |Да<sup>, 4, 5</sup>  <br/> |Да  <br/> |
+|События Live  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет<sup>6</sup>  <br/> |Нет<sup>6</sup>  <br/> |Да  <br/> |
 
 > <sup>1</sup>  Microsoft Teams в GCC-High и Microsoft Teams, поддерживающих DOD 2500, в отдельных командах.<br/>
 > <sup>2</sup> планировщик Microsoft сейчас недоступен для доступа в частных каналах.<br/>
-> <sup>3</sup> Microsoft OneNote недоступно в облаках с DOD.<br/>
-> <sup>4</sup> приложения и публикация приложений в настоящее время недоступны в этих облаках.<br/>
-> <sup>5</sup> Live Events в настоящее время не поддерживаются GCC-High или DOD.<br/>
+> <sup>3</sup> прямая маршрутизация должна быть настроена для работы с голосовыми и голосовыми конференциями Microsoft Teams в Гкч и DOD.<br/>
+> <sup>4</sup> Microsoft OneNote недоступно в облаках с DOD.<br/>
+> <sup>5</sup> приложения и публикация приложений в настоящее время недоступны в этих облаках.<br/>
+> <sup>6</sup> Live Events в настоящее время не поддерживаются GCC-High и DOD.<br/>
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
