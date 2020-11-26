@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: В Project Online доступны следующие основные функциональные возможности.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294045"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411588"
 ---
 # <a name="core-functionality"></a>Основная функциональность
 
@@ -34,7 +34,7 @@ ms.locfileid: "48294045"
   
 ## <a name="click-to-run"></a>Нажми и работай
 
-Быстрая установка Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носители, чтобы убедиться, что вы обновлены до последней версии приложения Project для настольных ПК. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Быстрая установка Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носители, чтобы убедиться в том, что вы обновлены до последней версии приложения Project для настольных ПК. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](https://go.microsoft.com/fwlink/p/?LinkId=271596).
   
 ## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 
@@ -52,13 +52,13 @@ ms.locfileid: "48294045"
 
 Графическое представление данных проекта с использованием диаграмм Ганта, сетевого графика, диаграмм, листов, использования и представлений форм. Ознакомьтесь со статьей [Выбор подходящего представления календарного плана проекта](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>Пользовательский интерфейс, лента
 
-Повышайте эффективность своей работы с помощью ленты, интерфейса на основе вкладок для быстрого поиска и использования функций и элементов управления Project. [Дополнительные сведения о ленте](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Повышайте эффективность своей работы с помощью ленты, интерфейса на основе вкладок для быстрого поиска и использования функций и элементов управления Project.
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Можно отменить сразу несколько изменений с помощью меню "отменить". 
+Можно отменить сразу несколько изменений с помощью меню "отменить".
   
 ## <a name="network-diagram-view"></a>Представление "Сетевой график"
 
@@ -103,5 +103,3 @@ ms.locfileid: "48294045"
 ## <a name="feature-availability"></a>Доступность функций
 
 Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
-  
-

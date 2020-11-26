@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 под управлением 21Vianet разработана в соответствии с потребностями безопасной, надежной и масштабируемой облачной службы в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294135"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411658"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -151,7 +151,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
+|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 Enterprise F3 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, отправляемые в центр сообщений, когда требуется действие, проблема разрешается, развертываются компоненты или изменения службы.|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -295,7 +295,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии.
 > - Microsoft Office Web Apps Server 2013 локальные клиенты получают лицензию на веб-редактирование, если они приобрели лицензию на Office Desktop Suite (например, Office профессиональный плюс, Office Стандартный или лицензия на Office 365 профессиональный плюс).
 
-| Приложение | Office для веб-сайта под управлением 21Vianet | Ссылка на подробные сравнительные характеристики функций |
+| Application | Office для веб-сайта под управлением 21Vianet | Ссылка на подробные сравнительные характеристики функций |
 |:-----|:-----|:-----|
 |Word|Word для веб-сайта под управлением 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel для веб-сайта под управлением 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -520,7 +520,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| План | Описание |
+| План | Description |
 |:-----|:-----|
 |**Архивация на базе Exchange Online для сервера Exchange Server в службе Office 365 под управлением 21Vianet**|Облачный архив для пользователей с основными почтовыми ящиками в Exchange Server 2013 или Exchange 2010 (с пакетом обновления 2 или выше).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Архивация на базе Exchange Online для Exchange Online в службе Office 365 под управлением 21Vianet**| Следующие планы уже включают архивацию, поэтому для них не требуется дополнительный компонент Архивация на базе Exchange Online:  <br/>  Подписка на Office 365 A1, предоставляемая компанией 21Vianet  <br/>  Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet  <br/>  Exchange Online (план 2) для службы Office 365:, предоставляемой 21Vianet  <br/>  Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
@@ -551,10 +551,10 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Аудит|Да|Да|
 
 <sup>1</sup> почтовые ящики пользователей должны располагаться в Exchange 2010 SP2 или более поздней версии. <br/>
-<sup>2</sup> Архив на месте можно использовать только для архивации почты для одного пользователя или сущности, для которых была применена лицензия. Использовать архив на месте для хранения почты нескольких пользователей или организаций запрещено. Например, ИТ-администраторы не могут создавать общие почтовые ящики, а пользователи могут копировать (с помощью поля Копия или Скрытая копия или с помощью правила для почтового процесса) общий почтовый ящик для явного назначения архивации. <br/>
+<sup>2</sup> In-Place Архив можно использовать только для архивации почты одного пользователя или сущности, для которых была применена лицензия. Использовать архив на месте для хранения почты нескольких пользователей или организаций запрещено. Например, ИТ-администраторы не могут создавать общие почтовые ящики, а пользователи могут копировать (с помощью поля Копия или Скрытая копия или с помощью правила для почтового процесса) общий почтовый ящик для явного назначения архивации. <br/>
 <sup>3</sup> для получения списка поддерживаемых версий Microsoft Outlook просмотрите [функции архивации на базе Exchange Online](../exchange-online-archiving-service-description/client-features.md). <br/>
 <sup>4</sup> Windows Server AD RMS — это локальный сервер, который необходимо приобрести отдельно, чтобы включить ПОДДЕРЖИВАЕМЫЕ функции IRM. <br/>
-<sup>5</sup> при помещении почтового ящика на хранение на месте или хранение для судебного разбирательства оно размещается как в основном, так и архивном почтовом ящике.
+<sup>5</sup> при помещении почтового ящика на In-Place хранение или хранение для судебного разбирательства оно размещается как в основном, так и архивном почтовом ящике.
 
 ## <a name="sharepoint-online-features"></a>Функции SharePoint Online
 
@@ -1070,7 +1070,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 - "LinkedIn" & "отчеты" — "данные на карточке людей
 - Избранное
 - Проигрывать мои сообщения
-- Надстройки
+- Add-Ins
 - Интеллектуальный ответ
 - Веб-канал Office
 - Время для выхода
@@ -1099,7 +1099,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Настраиваемые поля](../project-online-service-description/core-functionality.md#custom-fields)|Нет|Да|Да|Да|Нет|
 |[Улучшенная функция копирования и вставки во всех приложениях Microsoft Office](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|Нет|Да|Да|Да|Нет|
 |[Представления диаграммы Ганта, календаря и листа задач](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|Нет|Да|Да|Да|Нет|
-|[Пользовательский интерфейс Microsoft Fluent, лента](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|Нет|Да|Да|Да|Нет|
+|[Пользовательский интерфейс, лента](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|Нет|Да|Да|Да|Нет|
 |[Многоуровневая отмена](../project-online-service-description/core-functionality.md#multiple-level-undo)|Нет|Да|Да|Да|Нет|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|Нет|Да|Да|Да|Нет|
 |[Магазин Office](../project-online-service-description/core-functionality.md#office-store)|Нет|Нет|Нет|Нет|Нет|

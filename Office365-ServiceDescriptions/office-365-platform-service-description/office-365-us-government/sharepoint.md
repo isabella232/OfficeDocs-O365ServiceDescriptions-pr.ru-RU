@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Сведения о доступности функций SharePoint для клиентов Cloud государственных учреждений США.
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294195"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411608"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для государственных сред США
 
@@ -58,16 +58,11 @@ ms.locfileid: "48294195"
 
 Нет известных различий между функциями обеспечения безопасности и соответствием требованиям коммерческих клиентов и клиентов для государственных организаций.
 
-Сведения о следующих возможностях можно найти в статье [Описание службы Office 365 US государственных организаций](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Защищенное хранилище
-- Защита от потери данных (DLP)
-- Обнаружение электронных данных (поиск контента, удержание, экспорт)
-- Office 365 Advanced Threat Protection (ATP)
-- Метки конфиденциальности
+Сведения о функциях обеспечения безопасности и соответствия требованиям можно найти в [центре безопасности & соответствия требованиям](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center).
 
-Сведения о функциях Azure Active Directory для государственных учреждений можно найти в статье [безопасность и документация по удостоверениям Azure](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)Active Directory. 
+Для получения сведений о функциях Azure Active Directory для государственных организаций обратитесь к разделу [безопасность и документация по удостоверениям Azure для государственных](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)организаций. 
 
-Сведения о функциях Azure Information Protection для государственных организаций вы найдете в [описании Azure Information Protection Premium государственных служб](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+Дополнительные сведения о функциях Azure Information Protection для государственных организаций вы найдете в [описании службы Azure Information Protection Premium](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description). 
 
 ## <a name="sites-and-content"></a>Сайты и контент
 
