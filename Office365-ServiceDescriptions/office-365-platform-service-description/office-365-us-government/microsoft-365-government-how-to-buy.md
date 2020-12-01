@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительством и описываются варианты приобретения.
-ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
-ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
+ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48931039"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519140"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 для государственных организаций — как приобрести
 
@@ -89,7 +89,7 @@ Microsoft 365 правительственные учреждения досту
 
 - [Описание службы Office 365 для государственных учреждений](office-365-us-government.md)
 - [Описание службы Enterprise Mobility + Security для государственных учреждений (США)](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Пакет ATP для защитника Майкрософт для государственных организаций США (США) GCC High Customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Защитник Майкрософт для конечных точек для государственных организаций США — самые высокие клиенты](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams для государственных организаций: развертывания GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams для государственных организаций с высоким уровнем развертывания GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams для государственных сред государственных организаций](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
@@ -161,7 +161,7 @@ Microsoft 365 правительственные учреждения досту
 
 - [Описание службы Office 365 для государственных учреждений](office-365-us-government.md)
 - [Описание службы Enterprise Mobility + Security для государственных учреждений (США)](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Пакет ATP для защитника Майкрософт для государственных организаций США (США) GCC High Customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Защитник Майкрософт для конечных точек для государственных организаций США — самые высокие клиенты](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams для государственных организаций: развертывания GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams для государственных организаций с высоким уровнем развертывания GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams для государственных сред государственных организаций](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)

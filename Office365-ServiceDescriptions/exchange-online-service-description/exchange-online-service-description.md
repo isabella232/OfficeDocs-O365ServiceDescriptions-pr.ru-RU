@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Ищете функции, связанные с сравнением подписок, включающих Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661287"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518900"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -104,7 +104,7 @@ Microsoft 365 F1 не включает права доступа к почтов
 |Customize anti-malware policies|Да|Да|Да|Да|Да|Да|Да|Да <sup>7</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>7</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|Да|Да|Да|
-|Расширенная защита от угроз|Нет|Да|Нет|Нет|Нет|Нет|Да|Нет|
+|Microsoft Defender для Office 365|Нет|Да|Нет|Нет|Нет|Нет|Да|Нет|
 |**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|

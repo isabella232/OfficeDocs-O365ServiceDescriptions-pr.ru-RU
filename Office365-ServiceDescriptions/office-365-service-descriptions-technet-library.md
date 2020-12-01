@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 и Office 365 — облачные службы, предназначенные для удовлетворения потребностей Организации в обеспечении надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294185"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518720"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Описание служб Microsoft 365 и Office 365 
 
@@ -47,7 +47,7 @@ Microsoft 365 и Office 365 — облачные службы, предназн�
 
 - [Описание службы архивации на базе Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md)
+- [Описание службы "защитник Майкрософт для Office 365"](office-365-advanced-threat-protection-service-description.md)
 
 - [Описание службы Microsoft Teams](teams-service-description.md)
 

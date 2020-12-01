@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: '&amp;Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.'
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261601"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519120"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -67,7 +67,7 @@ ms.locfileid: "48261601"
 
 <sup>5</sup> расширенные функции обнаружения электронных данных поддерживаются в США и регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
 
-<sup>6</sup> Advanced Threat protection доступен в Office 365 и в виде автономной службы для Office 365 E1 и Office 365 E3.
+<sup>6</sup> защитник Майкрософт для Office 365 доступен в Office 365, а также в качестве автономной службы для Office 365 E1 и Office 365 E3.
 
 <sup>7</sup> включает файлы, хранящиеся в репозиториях Microsoft Teams.
 

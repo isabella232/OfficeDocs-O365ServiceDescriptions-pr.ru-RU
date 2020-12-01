@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это отличительный вариант служб Office 365, уже доступных в Европе. Это помогает удовлетворить потребности самых поднадзорных клиентов в Германии, Европейского союза (ЕС) и Европейской связи (ЕАСТ), предоставляя наши ведущие отраслевые службы для работы с цифровыми данными, от Германии, с данными размещению в Германии и жесткими мерами доступа к данным и управления с помощью уникальной модели доверенного лица для Германии.
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367766"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518830"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -142,7 +142,7 @@ Office 365 Германия соответствует стандартам Clou
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления служб](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Обновления службы](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
 |Roadmap.office.com для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|Да|
@@ -156,7 +156,7 @@ Office 365 Германия соответствует стандартам Clou
 |Протоколы IPv4 и IPv6|Да|Да|Да|Да|Да|Да|Да|Да|
 |**Доверие**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |**[Конфиденциальность, безопасность и прозрачность](privacy-security-and-transparency.md)**|Да|Да|Да|Да|Да|Да|Да|Да|
-|Расширенная защита от угроз|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Microsoft Defender для Office 365|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Защищенное хранилище пользователя|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Advanced eDiscovery|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Оценка безопасности|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
@@ -262,7 +262,7 @@ Office 365 Германия соответствует стандартам Clou
 
 | Компонент | Office Professional Plus 2013 | Office профессиональный плюс 2016 | Office 365 профессиональный плюс<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Приложения Office<sup>1, 2</sup>**||||
+|**Приложения Office <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Да|Да|Да|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Да|Да|Да|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Да|Да|Да|
@@ -375,7 +375,7 @@ Office 365 Германия соответствует стандартам Clou
 |Customize anti-malware policies|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|Да|
-|Расширенная защита от угроз|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
+|Microsoft Defender для Office 365|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
 |**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Настраиваемая маршрутизация исходящей почты|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -520,11 +520,11 @@ Office 365 Германия соответствует стандартам Clou
 <sup>17</sup> доступно в Office 365, Германия E3.<br/>
 <sup>18</sup> доступно как дополнительный компонент для Office 365 Германия.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Функции Exchange Online Advanced Threat Protection
+## <a name="defender-for-office-365-features"></a>Функции защитник для Office 365
 
-В следующей таблице перечислены функции Exchange Online Advanced Threat Protection, доступные в планах Office 365: Germany. Для получения более подробных сведений о функциях EOP выберите ссылки в таблице. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
+В следующей таблице перечислены функции защитник для Office 365, доступные в планах Office 365 Германия. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
 
-| Компонент | Отдельная служба ATP | Функции ATP в Exchange Online |
+| Компонент | Автономный защитник для Office 365 | Защитник для компонентов Office 365 в Exchange Online |
 |:-----|:-----|:-----|
 |Безопасные ссылки|Да|Да|
 |Безопасные вложения|Да|Да|
@@ -755,7 +755,7 @@ Office 365 Германия соответствует стандартам Clou
 |Ask Me About|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Личные блоги|Да,<sup>13</sup>|Нет|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|Да,<sup>13</sup>|
 |Репутация сообществ, награды и контроль|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет<sup>14</sup>|
-|Сообщество|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет|
+|Community|Да,<sup>14</sup>|Нет|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Да,<sup>14</sup>|Нет|
 |Веб-канал компании|Да|Нет|Да|Да|Да|Да|Да|Нет|
 |Беседы с документами в Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Подписаться|Да|Да|Да|Да|Да|Да|Да|Нет|
