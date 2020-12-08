@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel для Интернета (прежнее название — Excel Web App) расширяет возможности Microsoft Excel в веб-браузере, где вы можете работать с книгами непосредственно на веб-сайте, где хранится книга. Все пользователи могут просматривать и легко редактировать файлы Office с помощью Office для Интернета.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294107"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586642"
 ---
 # <a name="excel-for-the-web"></a>Excel в Интернете
 
@@ -54,7 +54,7 @@ Excel для Интернета (прежнее название — Excel Web A
   
 ## <a name="apply-conditional-formatting"></a>Применение условного форматирования
 
-Используйте условное форматирование, которое поможет визуально просматривать и анализировать данные, обнаруживать критические проблемы и определять закономерности и тенденции. Узнайте больше о том, как [использовать условное форматирование в Excel для Интернета](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Используйте условное форматирование, которое поможет визуально просматривать и анализировать данные, обнаруживать критические проблемы и определять закономерности и тенденции. Узнайте больше о том, как [использовать условное форматирование в Excel для Интернета](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -291,7 +291,7 @@ Excel для Интернета позволяет просматривать т
 
 Настройте управление доступом и чувствительностью документов, вручную применив метку или используя автоматически Рекомендуемые метки от Майкрософт.
   
-## <a name="share"></a>Поделиться
+## <a name="share"></a>Общий доступ
 
 Одним щелчком мыши отправляйте пользователям ссылку для просмотра и редактирования документа. Узнайте больше об [использовании Office для работы в Интернете для совместной работы в office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
