@@ -9,20 +9,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice — это служба надстройки, которая позволяет использовать Microsoft Teams для звонков по телефону. Это сочетает телефонную систему, план для местных звонков, SMS и голосовые конференции.
-ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
-ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
+ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410218"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605337"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Описание службы корпоративной голосовой связи Microsoft 365
 
-Microsoft 365 Business Voice это облачное решение для телефонной связи, предоставляющее возможности телефонной системы, такие как парковки вызовов, переадресация вызовов, автосекретарей, очереди звонков, аудио-и видеоконференций. Бизнес-голос можно добавить в подписки на Office 365 и Microsoft 365, включающие Microsoft Teams (до 300 лицензий). Дополнительные сведения о службе деловой голосовой связи можно найти в [статье Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
+Microsoft 365 Business Voice это облачное облачное решение в Microsoft Teams, предоставляющее возможности телефонной системы, такие как парковки вызовов, переадресация звонков, автосекретарей, очереди звонков, аудио-и видеоконференций. Бизнес-голос можно добавить в подписки на Office 365 и Microsoft 365, включающие Microsoft Teams (до 300 лицензий). Дополнительные сведения о службе деловой голосовой связи можно найти в [статье Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
 
 Вы можете выбрать один из двух вариантов Microsoft 365 Business Voice Voice:
 
-- Корпоративная голосовая связь Microsoft 365
+- Голосовая связь Microsoft 365 бизнес
 - Microsoft 365 Business Voice без плана звонков
 
 Microsoft 365 Business Voice доступна со следующими подписками, которые имеют до 300 лицензий:
@@ -42,7 +42,7 @@ Microsoft 365 Business Voice доступна со следующими подп
 
 ## <a name="microsoft-365-business-voice-features"></a>Функции Microsoft 365 Business Voice
 
-| **Функция**                                            | **Корпоративная голосовая связь Microsoft 365** | **Microsoft 365 Business Voice без плана звонков** |
+| **Функция**                                            | **Голосовая связь Microsoft 365 бизнес** | **Microsoft 365 Business Voice без плана звонков** |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Местные номера                                          | Да                              | Да                                                   |
 | Звонок по VoIP                                           | Да                              | Да                                                   |
@@ -62,9 +62,11 @@ Microsoft 365 Business Voice доступна со следующими подп
 | Автосекретарь/передача очереди звонков в общую голосовую почту | Да                              | Да                                                   |
 | Многоязыковой интерактивный ответ (IVR)          | Да                              | Да                                                   |
 | Политика звонков                                         | Да                              | Да                                                   |
-| План внутренних звонков                                  | Да                              | Нет                                                    |
-| Бесплатный набор номера\*                                    | Да                              | Нет                                                    |
-| План международных звонков\*                           | Да                              | Нет                                                    |
-| Аудиоконференции                                     | Да                              | Да                                                   |
- 
-\*Бесплатный набор номера, а план международного звонка доступен по дополнительным затратам, используя [кредиты на связь](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Чтобы узнать больше, ознакомьтесь со статьей бесплатный [набор номера](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) и [международные тарифы](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)на звонки.
+| План внутренних звонков                                  | Да                              | Да                                                    |
+| Бесплатный набор номера\*                                    | Да                              | Да                                                    |
+| План международных звонков\*                           | Да                              | Да                                                    |
+| Аудиоконференции                                     | Да                              | Нет<sup>1</sup>                                                   |
+
+<sup>1</sup> Предоставляется планом звонков стороннего производителя.
+
+\* Бесплатный набор номера, а план международного звонка доступен по дополнительным затратам, используя [кредиты на связь](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Чтобы узнать больше, ознакомьтесь со статьей бесплатный [набор номера](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) и [международные тарифы](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)на звонки.

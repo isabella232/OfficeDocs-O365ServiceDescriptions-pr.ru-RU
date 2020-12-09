@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519150"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605354"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 и Office 365 — плановые варианты
 
@@ -75,7 +75,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>12</sup> включает Skype для бизнеса Online (план 2) с поддержкой голосовой связи и без ограничений клиента.  <br/>
 <sup>13</sup> включает Skype для бизнеса Online (план 1).<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. В центре развертывания Office: 1, 2018. новые клиенты с 500 или более не входят в Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, уже использующие Skype для бизнеса Online, могут продолжать делать это (в том числе подготавливать новых пользователей) до завершения перехода на Microsoft Teams.<br>
-<sup>15</sup> включает соответствие Microsoft 365, которое обеспечивает автоматическую классификацию и хранение, ключ клиента, расширенное шифрование сообщений, управление рисками для оценки, соответствие требованиям, барьеры информации, защищенный доступ клиентов, управление привилегированным доступом, Расширенный аудит, управление записями и расширенные возможности обнаружения электронных данных; и Microsoft 365: безопасность, которая включает защитник Майкрософт для Office 365 (план 2), защитник Ммикрософт для конечной точки, Azure Active Directory (план 2), защитник Майкрософт для удостоверения, Microsoft Cloud App Security и безопасных документов.<br>
+<sup>15</sup> включает соответствие Microsoft 365, которое обеспечивает автоматическую классификацию и хранение, ключ клиента, расширенное шифрование сообщений, управление рисками для оценки, соответствие требованиям, барьеры информации, защищенный доступ клиентов, управление привилегированным доступом, Расширенный аудит, управление записями и расширенные возможности обнаружения электронных данных; и Microsoft 365: безопасность, которая включает защитник Майкрософт для Office 365 (план 2), защитник Майкрософт для конечной точки, Azure Active Directory, план 2, защитник Майкрософт для удостоверения, Microsoft Cloud App Security и безопасные документы.<br>
 <sup>16</sup> Microsoft 365 F1 не включает права доступа к почтовому ящику Exchange. Для обеспечения полноценного взаимодействия Teams в M365 могут поступать лицензии на план обслуживания Exchange Online K1. Несмотря на то, что план обслуживания Exchange Online K1 предоставит почтовый ящик для пользователя, M365 F1 пользователи не могут использовать этот почтовый ящик. Мы рекомендуем пользователям отключать Outlook в Интернете, [выполнив указанные ниже действия](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) и попросите пользователей не получить доступ к почтовому ящику Exchange с помощью других методов.<br>
 <sup>17</sup> включает SharePoint Online киоск. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
 <sup>18</sup> Microsoft 365 F1 пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав на создание/редактирование и сохранение. 
@@ -110,7 +110,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
   
 | Служба | Планы |
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online (план 1)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online (план 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Microsoft Defender для Office 365](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Базовая подписка на Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
+|Exchange Online  <br/> |[Exchange Online (план 1)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online (план 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Защитник Майкрософт для Office 365](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Базовая подписка на Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online (план 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (план 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive для бизнеса  <br/> |[OneDrive для бизнеса (план 1)](https://onedrive.live.com/about/business/) <br/> [OneDrive для бизнеса План 2](https://onedrive.live.com/about/business/) <br/> |
 |Приложения Office  <br/> |[Приложения Microsoft 365 для предприятий](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Приложения Microsoft 365 для бизнеса](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> |
