@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям &amp; в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730727"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740970"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,21 +30,19 @@ ms.locfileid: "49730727"
 | Возможность | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 для государственных служб США G1 | Office 365 E3, Office 365 для государственных служб США G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
-|[Предотвращение потери данных в Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |Нет   |Да  |Да   |Нет   |Да   |Да   |Нет   |
-|[Метки конфиденциальности вручную](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | Нет | Нет  |Нет   | Да | Да | Да | Нет  |
+|[Предотвращение потери данных в Exchange Online, SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | Нет | Нет  |Нет   | Да | Да | Да | Нет  |
+|[Метки конфиденциальности вручную](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | Нет | Нет  |Нет   | Да | Да | Да | Нет  |
 |[Дела eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Операции eDiscovery (включая запросы на основании электронных данных)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Нет   |Нет   |Нет  |Нет   |Да   |Да   |Нет   |
 |[Экспорт при обнаружении электронных данных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Нет   |Нет   |Нет   |Нет   |Да   |Да   |Нет   |
-|[Базовый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Да   |Да   |Да|Да   |Да   |Да   |Да   |
+|[Базовый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Да   |Да   |Да|Да   |Да   |Да   |Да   |
 |[Office 365 Message Encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Да  |Да   |Нет   |
 
-<sup>1</sup> Включает файлы, хранимые в репозиториях Microsoft Teams.
+<sup>1 журналы</sup> аудита для всех планов, которые включают базовый аудит (за исключением E5), сохраняются в течение 90 дней. Так как E5 включает расширенный аудит, журналы аудита сохраняются в течение одного года. Кроме того, вы можете использовать API действий управления [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита.
 
-<sup>2</sup> журнала аудита для всех планов, включая базовый аудит (за исключением E5), сохраняются в течение 90 дней. Так как E5 включает расширенный аудит, журналы аудита сохраняются в течение одного года. Кроме того, вы можете использовать API действий управления [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита.
+<sup>2.</sup> Требуется надстройка Office 365 для защиты от потери данных.
 
-<sup>3.</sup> Требуется надстройка Office 365 для защиты от потери данных.
-
-<sup>4</sup> метки конфиденциальности также включены в Azure Information Protection P1 и P2.
+<sup>3</sup> метки конфиденциальности также включены в Azure Information Protection P1 и P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Доступность &amp; Центра соответствия требованиям безопасности для автономных планов
 
@@ -78,7 +76,7 @@ ms.locfileid: "49730727"
 
 <sup>2</sup> Требует приобретения надстройки Exchange Online Archiving.
 
-<sup>3.</sup> Расширенные системы управления информацией позволяют хранить важные сведения и удалять важные сведения путем классификации информации на основе политики хранения или удаления или и того, и другое. Он включает интеллектуальные и автоматизированные действия, такие как рекомендации политик, автоматическое применение меток к данным, применение меток на основе типов конфиденциальных данных или запросов, проверка расположения и использование интеллектуальных фильтров импорта. Он также включает функцию контроля для проверки коммуникаций сотрудников в целях обеспечения безопасности и соответствия требованиям.
+<sup>3.</sup> Расширенные системы управления информацией позволяют хранить важные сведения и удалять важные сведения путем классификации информации на основе политики хранения или удаления или и того, и другое. К ним относятся интеллектуальные и автоматизированные действия, такие как рекомендации политик, автоматическое применение меток к данным, применение меток на основе типов конфиденциальных данных или запросов, проверка расположения и использование интеллектуальных фильтров импорта. Он также включает функцию контроля для проверки коммуникаций сотрудников в целях обеспечения безопасности и соответствия требованиям.
 
 <sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика.
 

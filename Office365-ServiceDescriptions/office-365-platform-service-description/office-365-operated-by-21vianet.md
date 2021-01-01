@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Служба Office 365 под управлением 21Vianet отвечает требованиям к защищенным, надежным и масштабируемым облачным службам в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709757"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740990"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -68,7 +68,7 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
+| Возможность | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Возможности администрирования Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
 |Администрирование Office 365 с помощью Центра администрирования Microsoft 365 или Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|
@@ -199,16 +199,16 @@ ms.locfileid: "49709757"
 <sup>За 6</sup> мест, приобретенных со скидкой на термины, может быть налагаться плата за досрочную расторжение. Это не относится к подпискам, оплачиваемым помесячно.<br/>
 <sup>7.</sup> Планы Office 365 для образования не поддерживают изменения лицензий в Центре администрирования Microsoft 365.<br/>
 <sup>8</sup> Microsoft Sway в настоящее время не доступен для клиентов в определенных географических регионах. Некоторые устаревшие планы Office 365, которые больше не появились на рынке с августа 2015 г., также могут не иметь доступа к Microsoft Sway. <br/>
-<sup>9</sup> Для Службы Office 365 под управлением 21Vianet см. здесь соглашение об уровне [обслуживания.](https://www.21vbluecloud.com/office365/O365-SLA/)<br/>
+<sup>9</sup> Для службы Office 365 под управлением 21Vianet см. здесь соглашение об уровне [обслуживания.](https://www.21vbluecloud.com/office365/O365-SLA/)<br/>
 <sup>10</sup> For Office 365 operated by 21Vianet, see 21Vianet's [Online Services Standard Agreement for Office 365](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
 <br/>
 <sup>11 Политика</sup> соответствия требованиям Интернета для Китая требует, чтобы вы получите номер поставщика интернет-содержимого (ICP) для открытого веб-сайта. Дополнительные сведения см. в соответствующей теме ICP. <br/>
-<sup>12</sup> Некоторые материалы могут не применяться к службе Office 365, под управлением 21Vianet.<br/>
+<sup>12</sup> Некоторое содержимое может не применяться к office 365 под управлением 21Vianet.<br/>
 <sup>13.</sup> Снижение опыта. Если ваша организация зависит от Internet Explorer 8 или Internet Explorer 9 для доступа к старым веб-приложениям и службам, может потребоваться обновление до Internet Explorer 11 и оценка режима предприятия для Internet Explorer 11. Это обновление обеспечивает лучшую обратную совместимость с устаревшими веб-приложениями. <br/>
 <sup>14</sup> Многофакторная проверка подлинности в настоящее время не поддерживается в Outlook Mobile (iOS и Android). <br/>
 <sup>15</sup> Записная книжка OneNote для занятий доступна через 21Vianet, но панель инструментов "Записная книжка OneNote для занятий" недоступна для приложений для Windows 10, iPad или OneNote в Интернете. <br/>
 <sup>16</sup> Office 365 под управлением 21Vianet поддерживает только политики хранения. Метки хранения или политики хранения для местоположений Yammer и Teams не поддерживаются. Дополнительные сведения [см. в сведениях о том, как начать работу с политиками хранения.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention) <br/>
-<sup>17</sup> Аудит в Microsoft 365 обеспечивает организациям видимость различных типов проверенных действий в различных службах Microsoft 365. Используйте поиск [в &amp; журнале](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) аудита Центра соответствия требованиям безопасности для просмотра действий пользователей и администраторов в организации. Вы также можете использовать API действий управления [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. Когда пользователь или администратор выполняет аудит действий, запись аудита создается и сохраняется в журнале аудита для организации клиента. Продолжительность сохранения записи аудита (и возможность поиска в журнале аудита) зависит от подписки клиента на Office 365 или Microsoft 365 корпоративный и типа лицензии, назначенной определенным пользователям.
+<sup>17</sup> Аудит в Microsoft 365 обеспечивает организациям видимость различных типов проверенных действий в различных службах Microsoft 365. Используйте поиск [в &amp; журнале](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) аудита Центра соответствия требованиям безопасности для просмотра действий пользователей и администраторов в организации. Вы также можете использовать API действий управления [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) для получения событий из единого журнала аудита. Когда пользователь или администратор выполняет аудит действий, записи аудита создаются и сохраняются в журнале аудита для организации клиента. Продолжительность сохранения записи аудита (и возможность поиска в журнале аудита) зависит от подписки клиента на Office 365 или Microsoft 365 корпоративный и типа лицензии, назначенной определенным пользователям.
 
 ## <a name="office-365-application-features"></a>Функции приложений Office 365
 
@@ -217,7 +217,7 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Office профессиональный плюс 2013 под управлением 21Vianet | Office профессиональный плюс 2016 под управлением 21Vianet | Office 365 профессиональный плюс под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес базовый под управлением 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
+| Возможность | Office профессиональный плюс 2013 под управлением 21Vianet | Office профессиональный плюс 2016 под управлением 21Vianet | Office 365 профессиональный плюс под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес базовый под управлением 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Приложения Office**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Да|Да|Да|Да|Нет|Да|Нет<sup>5</sup>|Нет|Да|Нет|
@@ -262,7 +262,7 @@ ms.locfileid: "49709757"
 |Телеметрия Office|Да|Да|Да|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Поддержка автономного режима для клиентских приложений|Да|Да|Да|Да|Да|Да|Нет|Нет|Да|Нет|
 |Оптимизированная параллельная установка клиентов|Нет|Да|Да|Да|Да|Да|Нет|Нет|Да|Нет|
-|Power Map для Excel|Нет<sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|Power Map для Excel|No<sup>3</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |PowerPivot для Excel|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Power Query для Excel|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
 |Power View для Excel|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
@@ -282,7 +282,7 @@ ms.locfileid: "49709757"
 <br/><sup>Активация</sup> корпоративных 8 для Office 365 корпоративный E3 и Office 365 профессиональныйplus ограничена установками на Windows Server 2008 R2 и более новых версиях с включенной ролью RDS или установками Windows To Go. В любом случае пользователи, которые имеют доступ к этим установкам, должны быть лицензированными пользователями Office 365 корпоративный E3 или Office 365 профессиональныйplus.
 <br/><sup>9</sup> Access в настоящее время доступен, если вы работаете в Current Channel или в выпуске Targeted для Deferred Channel. Если вы на deferred Channel, Access станет доступен в июне 2017 г. Дополнительные сведения см. в access в составе [Office 365 бизнес и Office 365 бизнес премиум.](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)
 <br/><sup>10</sup> Visio для Интернета в настоящее время находится в предварительной версии для Office 365 под управлением 21Vianet. Дополнительные сведения о Visio в Интернете см. в [описании веб-службы Visio.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>11 В ближайшее</sup> время появится служба Office 365 под управлением 21Vianet.
+<br/><sup>11 Скоро появится</sup> в Office 365 под управлением 21Vianet.
 <br/><sup>15 служб</sup> Google (включая Play Store) недоступны в Китае. Существует несколько магазинов приложений, поддерживаемых основными производителями телефонов или компаниями поисковой системы, из которые пользователи могут устанавливать мобильные приложения.
 
 ## <a name="office-for-the-web-features"></a>Веб-функции Office
@@ -290,14 +290,14 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-В следующей таблице представлены ссылки на сравнение возможностей office для веб-функций с возможностями Microsoft Office классических приложений. Используйте сравнение, чтобы узнать, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции.
+В следующей таблице представлены ссылки на сравнение возможностей Office для веб-функций с возможностями Microsoft Office классических приложений. Используйте сравнение, чтобы узнать, какие функции доступны в Office для Интернета, а затем выберите имя функции, чтобы прочитать краткое описание работы этой функции.
 
 > [!NOTE]
 > - Для представления расширенных возможностей набора Office для настольных ПК выбран ограниченный набор функций Office. Таблицы сравнения не являются полным списком Microsoft Office функций.
 > - Microsoft Office 365 профессиональный плюс — это предложение, включающее ежемесячную подписку на классический набор Office последней версии.
 > - Microsoft Office web Apps Server 2013 локально получают лицензию office для веб-редактирования, если они приобрели лицензию на набор office для настольных ПК (например, Office профессиональный плюс, Office Стандартный или Office 365 профессиональныйplus).
 
-| Приложение | Office для Интернета под управлением 21Vianet | Ссылка на подробные сравнительные характеристики функций |
+| Приложение | Служба Office в Интернете под управлением 21Vianet | Ссылка на подробные сравнительные характеристики функций |
 |:-----|:-----|:-----|
 |Word|Word для Интернета под управлением 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel для Интернета под управлением 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -311,7 +311,7 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
+| Возможность | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../exchange-online-service-description/planning-and-deployment.md)**||||||||
 |Поддерживается гибридное развертывание|Да<sup>9, 10</sup>|Да<sup>10</sup>|Да<sup>9, 10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|Да<sup>10</sup>|
@@ -401,7 +401,7 @@ ms.locfileid: "49709757"
 |Восстановление отдельных элементов|Да|Да|Да|Да|Да|Да|Нет||
 |**[Взаимодействие, связь и совместимость](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F3 под управлением 21Vianet**|
 |Присутствие Skype для бизнеса в OWA и Outlook|Да|Да|Да|Да|Да|Да|Нет|
-|SharePoint interoperability|Да|Да|Да|Да|Да|Да|Да|
+|Возможности совместной работы SharePoint|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка подключения EWS|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|Да|Да|
 |**[Установка и администрирование Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F3 под управлением 21Vianet**|
@@ -416,7 +416,7 @@ ms.locfileid: "49709757"
 
 <sup>1</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны.
 <br/><sup>2</sup> Windows Server AD RMS — это локального сервера, который необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM.
-<br/><sup>3</sup> Правила потока почты (также известные как правила транспорта) составляют гибкие критерии, позволяющие определять условия, исключения и действия, которые необходимо принять на основе этих условий. Доступные условия, исключения и действия отличаются в exchange Online и Microsoft Exchange Server. Дополнительные сведения см. в соответствующих темах по каждому продукту.
+<br/><sup>3</sup> Правила потока почты (также известные как правила транспорта) составляют гибкие критерии, позволяющие определять условия, исключения и действия, которые необходимо принять на основе этих условий. Доступные условия, исключения и действия для Exchange Online и Microsoft Exchange Server. Дополнительные сведения см. в соответствующих темах по каждому продукту.
 <br/><sup>4</sup> Доступно только через прямой доступ к интерфейсу управления Центра администрирования Exchange (EAC).
 <br/><sup>5</sup> Exchange Server 2013 использует только антивредоносный механизм Майкрософт. Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ.
 <br/><sup>6</sup> Подписку на EOA можно приобрести отдельно для каждого почтового ящика, для использования функции неактивного почтового ящика.
@@ -469,7 +469,7 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Автономная служба EOP для Office 365 под управлением 21Vianet | Функции EOP в Exchange Online для Office 365 под управлением 21Vianet |
+| Возможность | Автономная служба EOP для Office 365 под управлением 21Vianet | Функции EOP в Exchange Online для Office 365 под управлением 21Vianet |
 |:-----|:-----|:-----|
 |[Получатели почты](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|
 |[Разрешения для группы ролей администраторов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|
@@ -488,7 +488,7 @@ ms.locfileid: "49709757"
 |[Карантин](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): самостоятельное управление пользователями|Да|Да|
 |[Надстройка Report Message для Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Да|Да|
 |[Отчеты о нежелательной почте в Outlook в Интернете](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|No<sup>7</sup>|No<sup>7</sup>|
-|[Маршрутка электронной почты между корпорацией Майкрософт и вашими почтовыми серверами](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|
+|[Маршруты электронной почты между Корпорацией Майкрософт и вашими почтовыми серверами](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Да|Да|
 |[Защищенный обмен сообщениями с доверенным партнером](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Да|Да|
 |[Добавление IP-адреса партнера в список надежных отправителей](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Да|Да|
 |[Условная маршрутизация почты](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Да|Да|
@@ -500,13 +500,13 @@ ms.locfileid: "49709757"
 |[Доступ в Центр администрирования Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)|Да|Да|
 |[Удаленный доступ к Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|Да<sup>2</sup>|Да|
 
-<sup>1</sup> Почтовые пользователи определяются как "Почтовые ящики", и, наряду с внешними почтовыми контактами, могут добавляться, удаляться и иным образом управляться непосредственно в Центре администрирования Exchange (EAC). <br/>
+<sup>1</sup> Почтовые пользователи определяются как "Почтовые ящики" и, наряду с внешними почтовыми контактами, могут добавляться, удаляться и иным образом управляться непосредственно в Центре администрирования Exchange (EAC). <br/>
 <sup>2</sup> Без настройки RBAC. Только роли администратора. <br/>
-<sup>3</sup> Управляемые домены можно просматривать, а типы доменов можно редактировать в EAC. Управление всеми другими доменами должно быть сделано в Центре администрирования Microsoft 365. <br/>
-<sup>4</sup> Правила потока почты (также известные как правила транспорта) в EOP описаны в правилах потока почты [(правилах транспорта) в Exchange Online Protection.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Доступные условия, исключения и действия правил потока почты немного отличаются в разных EOP и Exchange Online. Эти различия отмечаются в условиях и исключениях [(предикатах)](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) правил потока почты в Exchange Online и действиях правил потока почты [в Exchange Online.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
+<sup>3</sup> Управляемые домены можно просмотреть, а типы доменов можно редактировать в EAC. Управление всеми другими доменами должно быть сделано в Центре администрирования Microsoft 365. <br/>
+<sup>4</sup> Правила потока почты (также известные как правила транспорта) в EOP описаны в правилах потока почты [(правила транспорта) в Exchange Online Protection.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Доступные условия, исключения и действия правил потока почты немного отличаются в разных EOP и Exchange Online. Эти различия отмечаются в условиях и исключениях правил потока почты [(предикатах)](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) в Exchange Online и действиях правил потока почты [в Exchange Online.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
 <sup>5</sup> отчетов аудита EOP — это подмножество отчетов аудита Exchange Online, которые исключают сведения о почтовых ящиках. <br/>
 <sup>5</sup> отчетов аудита EOP — это подмножество отчетов аудита Exchange Online, которые исключают сведения о почтовых ящиках.<br/>
-<sup>6</sup> Действие по умолчанию фильтрации содержимого — перемещение нежелательных сообщений в папку нежелательной почты получателей. Чтобы это работало с почтовыми ящиками локальной организации Exchange, необходимо также настроить два правила транспорта в локальной организации Exchange для обнаружения нежелательных сообщений, добавленных EOP. Дополнительные сведения см. в этой теме, чтобы убедиться, что нежелаемая почта маршрутится в папку нежелательной [почты каждого пользователя.](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
+<sup>6</sup> Действие фильтра содержимого по умолчанию — перемещение нежелательных сообщений в папку нежелательной почты получателей. Чтобы это работало с почтовыми ящиками локальной организации Exchange, необходимо также настроить два правила транспорта в локальной организации Exchange для обнаружения нежелательных сообщений, добавленных EOP. Дополнительные сведения см. в записи "Убедитесь, что нежелаая почта маршрутит в папку нежелательной [почты каждого пользователя".](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
 <sup>7</sup> Эта функция доступна Exchange Server 2013 Пакет обновления 1 (SP1), почтовые ящики которых фильтруются с помощью EOP и скоро станут доступны пользователям Exchange Online. <br/>
 <sup>8</sup> отчетов EOP — это подмножество отчетов Exchange Online, которые исключают сведения о почтовых ящиках. <br/>
 <sup>9</sup> Включает отчеты DLP. <br/>
@@ -529,7 +529,7 @@ ms.locfileid: "49709757"
 
 В следующей таблице показаны функции Архивация на базе Exchange Online, доступные в планах Office 365: под управлением 21Vianet.<br><br>
 
-| Компонент | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
+| Возможность | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[Функции архива в архивация на базе Exchange Online](../exchange-online-archiving-service-description/archive-features.md)**|||
 |Архивный почтовый ящик|Нет|Да|
@@ -823,10 +823,10 @@ ms.locfileid: "49709757"
 В следующей таблице перечислены функции Skype для бизнеса Online, доступные в планах Office 365: под управлением 21Vianet.
 
 > [!NOTE]
-> - В этой таблице указаны доступность клиентов и служб в различных вариантах Office 365. If you want to compare individual features among the various Skype for Business desktop clients, web clients, and mobile clients, see [Desktop client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) and Mobile Client Comparison [Tables.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
+> - В этой таблице указаны доступность клиентов и служб в различных вариантах Office 365. Если вы хотите сравнить отдельные функции между различными классическими клиентами [](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) Skype для бизнеса, веб-клиентами и мобильными клиентами, см. таблицы сравнения клиентов для настольных компьютеров и таблицы сравнения мобильных [клиентов.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 > - Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
+| Возможность | Office 365 бизнес базовый под управлением 21Vianet | Подписка на Office 365 бизнес, предоставляемая 21Vianet | Office 365 бизнес премиум под управлением 21Vianet | Подписка на Office 365 A1, предоставляемая компанией 21Vianet | Office 365 для предприятий E1 под управлением 21Vianet | Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet | Office 365 корпоративный F3 под управлением 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype для бизнеса|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1, 4</sup>|Да<sup>1, 4</sup>|Да|Нет|
@@ -932,7 +932,7 @@ ms.locfileid: "49709757"
 |Управление версиями клиентов|Да|Да|Да|Да|Да|Да|Нет|
 |Архивка содержимого для im|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Нет|Нет|
 |Архивы контента конференций|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Нет|Нет|
-|Архивы общего доступа к приложениям и рабочего стола|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
+|Совместное использование приложений и совместное использование рабочего стола архива|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Конфигурация архивации на уровне пользователя|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Нет|Нет|
 |Файлы трассировки входа|Да|Да|Да|Да|Да|Да|Нет|
 |**[Взаимодействие между Exchange и SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F3 под управлением 21Vianet**|
@@ -966,7 +966,7 @@ ms.locfileid: "49709757"
 > - Версия Office 365: под управлением 21Vianet доступна только в Китае.
 > - Пользователи с лицензией Skype для бизнеса Online (автономный план 2) получают клиент Skype для бизнеса базовый, а не полную версию клиента Skype для бизнеса. Если у пользователей должен быть клиент Skype для бизнеса, необходимо будет выполнить обновление до лицензии, которая включает этот клиент, например корпоративной лицензии. Сведения о том, как развернуть клиент Skype для бизнеса для пользователей, см. в статье [Развертывание клиента Skype для бизнеса в Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
-| Компонент | Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet | Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet |
+| Возможность | Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet | Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet |
 |:-----|:-----|:-----|
 |**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**|||
 |Skype для бизнеса|No<sup>1</sup>|No<sup>1</sup>|
@@ -1034,7 +1034,7 @@ ms.locfileid: "49709757"
 |Архивка содержимого для im|No<sup>3</sup>|No<sup>3</sup>|
 |Архивы контента конференций|No<sup>3</sup>|No<sup>3</sup>|
 |Совместное использование приложений и совместное использование рабочего стола архива|Нет|Нет|
-|Конфигурация архивации на уровне пользователя|Нет<sup>3</sup>|Нет<sup>3</sup>|
+|Конфигурация архивации на уровне пользователя|No<sup>3</sup>|No<sup>3</sup>|
 |Файлы трассировки входа|Да|Да|
 |**[Взаимодействие между Exchange и SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Skype для бизнеса Online (отдельный план 1) для Office 365 под управлением 21Vianet**|**Skype для бизнеса Online (отдельный план 2) для Office 365 под управлением 21Vianet**|
 |Возможности обеспечения связи присутствия с Exchange Server|Да|Да|
@@ -1053,7 +1053,7 @@ ms.locfileid: "49709757"
 |Windows PowerShell|Да|Да|
 |Отчеты Skype для бизнеса Online в Центре администрирования Microsoft 365|Нет<sup>4</sup>|Нет<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о функции Lync Basic см. в таблицах сравнения клиентов для [настольных пк.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 профессиональный плюс и Office 365 корпоративный E3 включают полное приложение Skype для бизнеса (Lync), которое включает дополнительные функции, включая дополнительную поддержку телефонии, функции архивного соответствия &amp; требованиям. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о функции Lync Basic см. в таблицах сравнения клиентов для [настольных пк.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1067,7 +1067,7 @@ ms.locfileid: "49709757"
 
 - OneDrive для бизнеса (поддерживается только для Android)
 - Поиск & календаря
-- Резервирование для поиска & конференц-залов
+- Поиск в конференц-& Резервирование
 - Карточка "Места"
 - "LinkedIn" & "Reports To" Data on People Card
 - Избранное
@@ -1076,7 +1076,6 @@ ms.locfileid: "49709757"
 - Интеллектуальный ответ
 - Веб-канал Office
 - Время для отпуска
-- Метки конфиденциальности Microsoft Information Protection
 - Dropbox Storage
 - Хранилище Google Диск
 - Хранилище Box
@@ -1091,7 +1090,7 @@ ms.locfileid: "49709757"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Компонент | Project Online базовый для Office 365 под управлением 21Vianet | Project Online профессиональный для Office 365 под управлением 21Vianet | Project Online расширенный для Office 365 под управлением 21Vianet | Project профессиональный 2016 для Office 365 под управлением 21Vianet | Project Server 2016 для Office 365 под управлением 21Vianet |
+| Возможность | Project Online базовый для Office 365 под управлением 21Vianet | Project Online профессиональный для Office 365 под управлением 21Vianet | Project Online расширенный для Office 365 под управлением 21Vianet | Project профессиональный 2016 для Office 365 под управлением 21Vianet | Project Server 2016 для Office 365 под управлением 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Основные возможности (клиент для настольных ПК)**||||||
 |[Добавление столбцов](../project-online-service-description/core-functionality.md#add-columns)|Нет|Да|Да|Да|Нет|
