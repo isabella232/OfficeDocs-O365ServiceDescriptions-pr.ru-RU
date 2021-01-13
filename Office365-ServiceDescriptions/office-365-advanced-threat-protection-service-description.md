@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender для Office 365 — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня, а также включает функции для защиты организации от вредоносных ссылок в режиме реального времени.
-ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
+ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794965"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49799408"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Описание службы Microsoft Defender для Office 365
 
 Microsoft Defender для Office 365 — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня, а также включает функции для защиты организации от вредоносных ссылок в режиме реального времени. Защитник Office 365 имеет богатые возможности отчетов и трассировки URL-адресов, которые дают администраторам представление о типах атак, происходящих в вашей организации.
 
-Ниже основных способов использования Защитника Для Office 365 для защиты сообщений:
+Ниже основных способов использования Защитника Office 365 для защиты сообщений:
 
 - В сценарии "Защитник только для фильтрации Office 365" Защитник Office 365 обеспечивает облачную защиту электронной почты для локальной среды Exchange Server или любого другого локального решения электронной почты SMTP.
 
 - Защитник Office 365 можно включить для защиты почтовых ящиков, которые можно защитить в облаке Exchange Online. Дополнительные информацию об Exchange Online см. в описании [службы Exchange Online.](exchange-online-service-description/exchange-online-service-description.md)
 
-- В гибридном развертывании Защитник Для Office 365 можно настроить для защиты среды обмена сообщениями и управления маршрутиза почты, если у вас есть сочетание локального и облачного почтовых ящиков с Exchange Online Protection для фильтрации входящих сообщений электронной почты.
+- В гибридном развертывании Защитник Office 365 можно настроить для защиты среды обмена сообщениями и управления маршрутидой почты при наборе локального и облачного почтовых ящиков с Exchange Online Protection для фильтрации входящих сообщений электронной почты.
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Доступность Microsoft Defender для Office 365
 
 Microsoft Defender для Office 365 (план 2) входит в состав Office 365 E5, Office 365 A5, Microsoft 365 E5 Security и Microsoft 365 E5, как указано [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) здесь: Защитник Office 365 (план 1) входит в состав Microsoft 365 бизнес премиум.
 
-Вы можете добавить Защитник для Office 365 в следующие планы подписки На Exchange и Microsoft 365:
+Вы можете добавить Защитник для Office 365 в следующие планы подписки Exchange и Microsoft 365:
 
 - Exchange Online (план 1)
 
@@ -58,9 +58,9 @@ Microsoft Defender для Office 365 (план 2) входит в состав O
 
 - Office 365 A3
 
-Чтобы приобрести Microsoft Defender для Office 365, см. [microsoft Defender для Office 365.](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)
+Чтобы приобрести Microsoft Defender для Office 365, см. ["Microsoft Defender для Office 365".](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)
 
-Чтобы сравнить функции в разных планах, см. ["Мощные](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) инструменты для поддержки вашего предприятия" и "Преобразование предприятия [с помощью Microsoft 365".](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)
+Чтобы сравнить функции в разных планах, см. мощные инструменты для [поддержки вашего](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) предприятия и преобразование предприятия с помощью [Microsoft 365.](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Новые возможности Microsoft Defender для Office 365
 
@@ -92,12 +92,12 @@ Microsoft Defender для Office 365 (план 2) входит в состав O
 |*Автоматизация, исследование, исправление и образование*|
 |[Трекеры угроз](#threat-trackers)|Нет|Да|Да|
 |Исследование угроз (advanced threat investigation)|[Обнаружение в режиме реального времени](#real-time-detections)|[Обозреватель](#explorer)|[Обозреватель](#explorer)|
-|[Автоматическое реагирование на инциденты](#automated-incident-response)|Нет|Да|Да|
+|[Автоматизированное реагирование на инциденты](#automated-incident-response)|Нет|Да|Да|
 |[Эмулятор атак](#attack-simulator)|Нет|Да|Да|
 |*Интеграция [с Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Нет|Да|Да|
 
 > [!NOTE]
-> Если у вашего клиента есть только пробная лицензия Office ATP P2 или пробная лицензия Office 365 E5 без другой лицензии, подходящей для защиты от угроз (Майкрософт), вы не сможете получить доступ к службе Защиты от угроз (Майкрософт). Дополнительные узнать о лицензии MTP см. в <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
+> Если у вашего клиента есть только пробная лицензия Microsoft Defender на план Office P2 или пробная лицензия Office 365 E5 без другой лицензии на Microsoft 365 Defender, вы не сможете получить доступ к Microsoft 365 Defender. Дополнительные информацию о лицензии MTP см. в требованиях [к Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Защитник возможностей Office 365
 
@@ -125,7 +125,7 @@ Microsoft Defender для Office 365 (план 2) входит в состав O
 > [!NOTE]
 > Пользователи должны иметь лицензию на Защитник для Office 365, должны быть включены в политики безопасных ссылок и должны быть вошли на своих устройствах для обеспечения <sup>\*</sup> защиты.
 >
-> <sup>\*</sup> Для лицензий на Office 365 для всей организации (например, ATP_ENTERPRISE_FACULTY) не нужно назначать лицензии "Защитник для Office 365" отдельным пользователям.
+> <sup>\*</sup> Для лицензий На Office 365 для всей организации (например, ATP_ENTERPRISE_FACULTY) не нужно назначать лицензии Защитника для Office 365 отдельным пользователям.
 >
 > Дополнительные сведения о защите безопасных ссылок см. в веб-сайте ["Безопасные ссылки" в Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
 
@@ -172,7 +172,7 @@ Microsoft Defender для Office 365 (план 2) входит в состав O
 
 Обнаружение в режиме реального времени — это отчет в режиме реального времени, который позволяет авторизованным пользователям определить и проанализировать последние угрозы. Как и в проводнике, по умолчанию в этом отчете показаны данные за последние семь дней.
 
-Обнаружение в режиме реального времени содержит представления, такие как вредоносные программы (для электронной почты и содержимого), отправки и фишинг. Чтобы узнать, как обнаружения в режиме реального времени сравнивают с Explorer, [скачайте этот PDF-файл.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
+Обнаружение в режиме реального времени содержит представления, такие как вредоносные программы (для электронной почты и содержимого), отправки и фишинг. Чтобы узнать, как обнаружения в режиме реального времени сравнивают с Проводником, [скачайте этот PDF-файл.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
 Дополнительные сведения о проводнике (в Microsoft Defender для Office 365 (план 2) и обнаружениях в режиме реального времени (в Microsoft Defender для Office 365 (план 1) см. в обозревателе угроз (и обнаружениях в режиме реального [времени).](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
@@ -180,10 +180,10 @@ Microsoft Defender для Office 365 (план 2) входит в состав O
 
 [Отслеживание угроз — это](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) информационные виджеты и представления, которые предоставляют авторизованным пользователям аналитику по вопросам кибербезопасности, которые могут повлиять на вашу организацию.
 
-### <a name="automated-incident-response"></a>Автоматическое реагирование на инциденты
+### <a name="automated-incident-response"></a>Автоматизированное реагирование на инциденты
 
 [Функции автоматического](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) реагирования на инциденты (AIR), доступные в Защитнике office 365 (план 2), могут позволить вам запускать процессы автоматического расследования в ответ на известные угрозы, которые существуют на сегодняшний день. Автоматизированные задачи исследования могут быть более эффективными и эффективными. Действия по исправлению, например удаление вредоносных сообщений электронной почты, принимаются после утверждения вашей командой операций безопасности. Дополнительные узнать, как [AIR работает в Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
 
 ### <a name="attack-simulator"></a>Эмулятор атак
 
-[Имитатор](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) атак позволяет авторизованным пользователям запускать реалистичные сценарии атак в вашей организации. Доступно несколько различных видов атак, в том числе атака с именем на экране, атака с распылением пароля и атака с помощью атак
+[Имитатор](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) атак позволяет авторизованным пользователям запускать реалистичные сценарии атак в вашей организации. Доступно несколько различных видов атак, в том числе атаки с именем на экране, атаки путем распыления пароля и атаки с помощью атак
