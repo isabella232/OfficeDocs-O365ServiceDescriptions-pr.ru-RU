@@ -13,16 +13,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 и Office 365 доступны в различных планах, чтобы наилучшим образом удовлетворить потребности вашей организации. Если вы ищете различия между планами, в том числе планами Exchange Online, в этой статье покажем, какие функции включены в каждый из них.
-ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683523"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871152"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Описание служб платформы Microsoft 365 и Office 365
 
-Microsoft 365 и Office 365 доступны в различных планах, чтобы наилучшим образом удовлетворить потребности вашей организации. Если вы ищете различия между планами, в том числе планами Exchange Online, в этой статье покажем, какие функции включены в каждый из них.
+Microsoft 365 и Office 365 доступны в различных планах, чтобы наилучшим образом удовлетворить потребности вашей организации. Если вы ищете отличия между планами, в том числе планами Exchange Online, в этой статье покажем, какие функции включены в каждый из них.
   
 Microsoft 365 и Office 365 обеспечивают эффективность облачной производительности для предприятий любого размера, помогая сэкономить время, деньги и освободить ценные ресурсы. Планы Microsoft 365 и Office 365 объединяют знакомый набор классических приложений Microsoft Office с облачными версиями служб связи и совместной работы нового поколения Майкрософт, включая Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям эффективно работать практически из любого места в Интернете.
   
@@ -56,7 +56,7 @@ Microsoft 365 и Office 365 обеспечивают эффективность 
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Дополнительные сведения о Центре соответствия требованиям безопасности и ссылки на дополнительные сведения и доступность см. в &amp; [Центре соответствия требованиям &amp; безопасности.](office-365-securitycompliance-center.md)
+Дополнительные сведения о Центре соответствия требованиям безопасности и ссылки на дополнительные сведения и сведения о доступности см. в &amp; [Центре соответствия требованиям &amp; безопасности.](office-365-securitycompliance-center.md)
   
 ## <a name="data-storage-location"></a>Место хранения данных
 
@@ -76,7 +76,7 @@ Microsoft 365 и Office 365 обеспечивают эффективность 
   
 Конкретные сведения о ценах и функциях планов для различных типов организаций см. на следующих страницах:
   
-- Бизнес: [планы и цены Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=827896)
+- Бизнес: планы и цены [Microsoft 365 для бизнеса](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - Для образования: [Office 365 для образования: планы и цены](https://go.microsoft.com/fwlink/?LinkID=827897)
     
@@ -86,10 +86,10 @@ Microsoft 365 и Office 365 обеспечивают эффективность 
 
 - Office 365 Germany: [Планы Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
-В некоторых планах Microsoft 365 для бизнеса есть надстройки, которые можно приобрести для подписки. Они позволяют расширить возможности подписки. Дополнительные сведения см. в подстройки "Надстройки, доступные для разных версий Microsoft 365 для бизнеса" в этой [теме.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)
+В некоторых планах Microsoft 365 для бизнеса есть надстройки, которые можно приобрести для подписки. Они позволяют расширить возможности подписки. Дополнительные сведения см. в [сведениях о покупке надстройки или управлении ими.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 <br><br>
   
-| Компонент | Microsoft 365 бизнес базовый | Приложения Microsoft 365 для бизнеса | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
+| Возможность | Microsoft 365 бизнес базовый | Приложения Microsoft 365 для бизнеса | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Администрирование Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
 |Администрирование Office 365 с помощью Центра администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
@@ -103,7 +103,7 @@ Microsoft 365 и Office 365 обеспечивают эффективность 
 |Microsoft MyAnalytics<sup>18</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
 |Планировщик Microsoft  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft PowerApps  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> | 
-|Microsoft Project для Интернета <sup>21</sup> <br/> |Да <br/> |Нет <br/>|Да <br/> |Да <br/> |Да <br/> |Да <br/> | Да <br/> |
+|Microsoft Project в Интернете <sup>21</sup> <br/> |Да <br/> |Нет <br/>|Да <br/> |Да <br/> |Да <br/> |Да <br/> | Да <br/> |
 |Microsoft StaffHub  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Stream  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
@@ -211,20 +211,20 @@ Microsoft 365 и Office 365 обеспечивают эффективность 
 > Microsoft 365 и Office 365 <sup>1</sup> не поддерживают операционную систему, которая не поддерживается ее производителем. 
 <br/><sup>2</sup> Azure Information Protection не включена, но ее можно приобрести как отдельную надстройку и включить поддерживаемые функции управления правами на данные (IRM). Для некоторых функций Azure Information Protection требуется подписка на приложения Microsoft 365 для предприятий, которая не входит в состав Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Office 365 корпоративный E1, Office 365 для образования или Office 365 корпоративный F3. Клиентские приложения Office, которые вместе с приложениями Microsoft 365 для бизнеса также поддерживают все функции Azure Information Protection (план 1).
 <br/><sup>3</sup> При использовании синхронизации службы каталогов с локальной службой Active Directory необходимо удалить учетные записи или изменить пароли с помощью локальной службы Active Directory, а не портала Microsoft 365 с помощью модуля Azure Active Directory для Windows PowerShell. 
-<br/><sup>4</sup> Чтобы узнать, как настроить политики самостоятельного управления паролями для пользователей, см. сведения о сбросе пароля для работы или учебного заведения с помощью данных [безопасности.](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/) 
+<br/><sup>4.</sup> Сведения о том, как настроить политики самостоятельного управления паролями для пользователей, см. в записи "Сброс пароля для работы или учебного заведения с помощью данных [безопасности".](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/) 
 <br/><sup>За 6</sup> мест, приобретенных со скидкой на термины, может быть налагаться плата за досрочную расторжение. Это не относится к подпискам, оплачиваемым помесячно. 
 <br/><sup>7</sup> Доступно на странице ["Оценка безопасности (Майкрософт)".](https://securescore.office.com) Требуются разрешения администратора. Дополнительные сведения см. в [оценке безопасности (Майкрософт).](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) 
 <br/><sup>8</sup> Microsoft Sway в настоящее время не доступен для клиентов в определенных географических регионах. Некоторые устаревшие планы Office 365, которые больше не появились на рынке с августа 2015 г., также могут не иметь доступа к Microsoft Sway. 
 <br/><sup>9.</sup> Снижение опыта. Если ваша организация зависит от Internet Explorer 8 или Internet Explorer 9 для доступа к старым веб-приложениям и службам, может потребоваться обновление до Internet Explorer 11 и оценка режима предприятия для Internet Explorer 11. Это обновление обеспечивает лучшую обратную совместимость с устаревшими веб-приложениями. 
 <br/><sup>10</sup> Microsoft Teams доступны в планах Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Office 365 корпоративный (E1, E3, E5, F3) и Office 365 для образования. 
 <br/><sup>11</sup> В Office 365 корпоративный F3 office 365 Видео ограничено только просмотром (без публикации или общего доступа). 
-<br/><sup>12</sup> В Office 365 корпоративный F3 поток ограничен только потреблением, а число запусков ограничено 750 на пользователя в месяц. 
+<br/><sup>12</sup> В Office 365 корпоративный F3 flow ограничен только потреблением, а запуски ограничены 750 на пользователя в месяц. 
 <br/><sup>13</sup> Доступно только в планах Office 365 для образования, включая Office 365 E5 для образования. Он не доступен в Office 365 корпоративный E5. 
-<br/><sup>14</sup> Дополнительные сведения см. в сообщении [о шифровании службы с помощью ключа клиента.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697) 
+<br/><sup>14</sup> Дополнительные сведения см. в [сообщении о шифровании службы с помощью ключа клиента.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697) 
 <br/><sup>15</sup> Advanced eDiscovery поддерживается в США и в регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды).
 <br/><sup>16</sup> Потребление только для Microsoft Stream: нет публикации или общего доступа.
 <br/><sup>17</sup> Начиная с мая 2019 г. существующие подходящие для office 365 и Microsoft 365 выпуски будут возвращаться в Kaizala Pro. С 1 июня 2019 г. Kaizala Pro будет включена во все подходящие для Office 365 и Microsoft 365 skUs.
-<br/><sup>18.</sup> Дополнительные сведения см. в [планах и средах MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)
+<br/><sup>18.</sup> Дополнительные сведения см. в планах и средах [MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)
 <br/><sup>19</sup> Включает функции Azure Active Directory, описанные в столбце **"Приложения Office 365"** на странице цен [Azure Active Directory.](https://azure.microsoft.com/pricing/details/active-directory/) Чтобы получить премиум-функции Azure AD, необходимо добавить Azure Active Directory (план 1 или план 2), Enterprise Mobile Security или Microsoft 365 E3 или E5.<br/>
 <sup>20</sup> Сообщение с кратким сообщением автоматически предоставляется всем пользователям Exchange Online. Дополнительные сведения см. в [электронной почте "Настройка сводки".](https://docs.microsoft.com/Briefing/be-admin)<br>
 <sup>21</sup> Пользователи имеют доступ к Project в Интернете только для просмотра. Эти права ограничены для использования только с Project для веб-приложения и только для клиентов с лицензией на Project (план 1), Project (план 3) или Project (план 5). Эти права не предоставляет доступ к приложениям Power Platform и другим наборам данных, настольному клиенту Project Online или Project Online. Подробные сведения о функциях см. в [описании службы Microsoft Project.](../project-online-service-description/project-online-service-description.md)<br/>
