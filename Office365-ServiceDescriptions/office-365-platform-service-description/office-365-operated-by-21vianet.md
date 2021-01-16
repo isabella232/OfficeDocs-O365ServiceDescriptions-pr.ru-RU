@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Служба Office 365 под управлением 21Vianet отвечает требованиям к защищенным, надежным и масштабируемым облачным службам в Китае. В ее основе лежат технологии, лицензии на которые корпорация Майкрософт предоставила 21Vianet.
-ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: c1c6eba5c7778e11a13abf716bd51f3068f61696
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740990"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878712"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Служба Office 365, предоставляемая 21Vianet
 
@@ -60,6 +60,17 @@ ms.locfileid: "49740990"
 ## <a name="system-requirements"></a>Требования к системе
 
 Требования к системе для Office 365: см. в разделе [Требования к системе для Office](https://products.office.com/office-system-requirements/#Office365forBEG) на сайте [office.com](https://www.office.com).
+
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
+Центр соответствия требованиям Microsoft 365 предоставляет простой доступ к средствам, которые необходимы для управления соответствием требованиям вашей организации. В Центре соответствия требованиям доступны следующие решения для планов под управлением 21Vianet:
+
+- Защита от потери данных (DLP)
+- Хранение
+- Аудит
+- Microsoft Information Protection (MIP) и метка конфиденциальности для клиентов Office и Outlook.
+
+> [!NOTE]
+> Метка конфиденциальности для SharePoint Online и Office в Интернете в настоящее время не поддерживается.
 
 ## <a name="platform-features"></a>Функции платформы 
 
@@ -147,7 +158,7 @@ ms.locfileid: "49740990"
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с помощью веб-служб отчетов Microsoft 365|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления службы](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F3 под управлением 21Vianet**|
+|**[Обновления служб](service-updates.md)**|**Office 365 бизнес базовый под управлением 21Vianet**|**Office 365 бизнес под управлением 21Vianet**|**Office 365 бизнес премиум под управлением 21Vianet**|**Подписка на Office 365 A1, предоставляемая 21Vianet**|**Office 365 для предприятий E1 под управлением 21Vianet**|**Office 365 для предприятий E3 под управлением 21Vianet**|**Office 365 корпоративный F3 под управлением 21Vianet**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления, от отправленные в Центр сообщений, когда требуется действие, устранена проблема, развернуты функции или внесены изменения в службу|Да|Да|Да|Да|Да|Да|Да|
 |[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|
@@ -522,7 +533,7 @@ ms.locfileid: "49740990"
 > [!NOTE]
 > Версия Office 365: под управлением 21Vianet доступна только в Китае.
 
-| Планирование | Описание |
+| План | Описание |
 |:-----|:-----|
 |**Архивация на базе Exchange Online для сервера Exchange Server в службе Office 365 под управлением 21Vianet**|Облачный архив для пользователей с основными почтовыми ящиками в Exchange Server 2013 или Exchange 2010 (с пакетом обновления 2 или выше).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик на локальном сервере Exchange, необходимо настроить гибридную среду. Дополнительные сведения см. в статье [Гибридные развертывания Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Архивация на базе Exchange Online для Exchange Online в службе Office 365 под управлением 21Vianet**| Следующие планы уже включают архивацию, поэтому для них не требуется дополнительный компонент Архивация на базе Exchange Online:  <br/>  Подписка на Office 365 A1, предоставляемая компанией 21Vianet  <br/>  Подписка на Office 365 для предприятий E3, предоставляемая 21Vianet  <br/>  Exchange Online (план 2) для службы Office 365:, предоставляемой 21Vianet  <br/>  Больше о возможностях архивации для почтовых ящиков Exchange Online можно узнать в статье [Архивные почтовые ящики в Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
