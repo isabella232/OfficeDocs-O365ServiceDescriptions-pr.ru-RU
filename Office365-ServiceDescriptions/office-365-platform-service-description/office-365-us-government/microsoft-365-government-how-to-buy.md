@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 для государственных служб и описаны варианты покупки.
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878672"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919762"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 для государственных органов : как приобрести
 
@@ -132,18 +132,32 @@ Microsoft 365 для государственных организаций до�
 
 **Партнеры AOS-G G G: GCC и GCC High (до 500 мест)**
 
-- Гибкие ИТ-процессы
-- Applied Information Sciences (AIS)
+- Accenture Federal Services, LLC
+- Agile IT, Inc.
+- Applied Information Sciences, Inc.
 - Интегрированные решения C3
+- CACI
 - Carahsoft
-- Dox Electronics, Inc.
-- F1 Solutions, Inc.
-- Четыре точки
+- CGI Federal Inc.
+- Dox Electronics Inc.
+- F1 Solutions Inc.
+- Four Points Technology, LLC
+- General Dynamics Information Technology, Inc.
+- Программное обеспечение для изображений, Inc. d.b.a ISC
+- Jackpine
+- Jasper
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- Технологии "Планета"
-- Специалисты по безуговью
-- Системы "Вершина 7"
+- Northrop
+- Novnovnov
+- Технологии "Планета", Inc.
+- Quiet Professionals, LLC
+- Красная речка
+- SAIC
+- Smartronix
+- Службы "Вершина 7"
+- TechTrend, Inc.
+- Vexcel
 
 **Примечание.** Все поставщики решений майкрософт по лицензированию (LSP) в предыдущем списке могут с помощью GCC и GCC High through Соглашение Enterprise (EA) создать ценовую таблицу клиента (CPS). Организации, которые не имеют права на EA, могут приобрести лицензии GCC с помощью перечисленных партнеров AOS-G или партнерской программы CSP.
 
