@@ -1,7 +1,7 @@
 
 # [Описание служб Microsoft 365 и Office 365](office-365-service-descriptions-technet-library.md)
 ## [Описание служб платформы Microsoft 365 и Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Планы Office 365](office-365-platform-service-description/office-365-plan-options.md)
+### [Планы Microsoft 365 и Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Требования к системе для Office 365](office-365-platform-service-description/office-365-system-requirements.md)
 ### [Центр безопасности и соответствия требованиям](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Компоненты набора Microsoft 365](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [Описание службы OneDrive](onedrive-for-business-service-description.md)
 ## [Описание службы SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Границы SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [Описание службы SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [Компоненты SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Функции Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Ограничения Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)

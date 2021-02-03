@@ -1,5 +1,5 @@
 ---
-title: Описание службы синтексов SharePoint
+title: Описание службы SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,30 +7,30 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Синтаксис SharePoint в Microsoft 365 использует расширенный искусственной аналитики (AI) и машинное обучение для усиления опыта человека, автоматизации обработки контента и преобразования контента в знания.
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072459"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084732"
 ---
-# <a name="sharepoint-syntex-service-description"></a>Описание службы синтексов SharePoint 
+# <a name="sharepoint-syntex-service-description"></a>Описание службы SharePoint Syntex 
 
 Синтаксис SharePoint в Microsoft 365 использует расширенный искусственной аналитики (AI) и машинное обучение для усиления опыта человека, автоматизации обработки контента и преобразования контента в знания.
 
-Синтаксис построен на SharePoint, обеспечивая возможности высокой объемной обработки контента, извлечения метаданных для автоматизации процессов, а также повышения безопасности и соответствия требованиям. Кроме того, он построен на аналитике Поиска (Майкрософт) со ссылками на [соединители Microsoft Graph.](/microsoftsearch/connectors-overview)
+Синтаксис построен на SharePoint для предоставления высококачественных возможностей для обработки контента большого объема, извлечения метаданных для автоматизации процессов, а также повышения безопасности и соответствия требованиям. Кроме того, он построен на аналитике Поиска (Майкрософт) со ссылками на [соединители Microsoft Graph.](/microsoftsearch/connectors-overview)
 
 Подробный обзор и дополнительные сведения о продукте см. на странице продуктов ["Синтаксис SharePoint".](https://aka.ms/sharepointsyntex)
 
 ## <a name="available-plans"></a>Доступные планы
 
-Syntex is available through multiple subscriptions plans to best meet the needs of your organization. Каждый план предоставляет одинаковый набор возможностей
+Syntex is available through multiple subscription plans to best meet the needs of your organization. Каждый план предоставляет одинаковый набор возможностей
 
 У пользователей должна быть действительная лицензия на Office 365, Microsoft 365 или SharePoint Online, чтобы иметь право на использование syntex с лицензией syntex.
 
 Для обработки форм построитель AI Microsoft PowerApps клиенты с 300 или более лицензированными пользователями Syntex будут ежемесячно получать кредиты построитель ИИ 1M, а также доступ к Microsoft Dataverse. Эти кредиты выделяются для каждого клиента, а не для каждого пользователя, поэтому они не будут масштабироваться по мере увеличения числа пользователей.
 
-В следующей таблице показаны планы, в которые можно добавить синтаксис. Дополнительные сведения о плане см. в параметрах планов [Microsoft 365 и Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)<br><br>
+В следующей таблице показаны планы, в которые можно добавить синтекс. Дополнительные сведения о плане см. в параметрах плана [Microsoft 365 и Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)<br><br>
 
 
 | Планы для малого бизнеса            | Корпоративные планы         | Планы для образования     |
@@ -62,9 +62,9 @@ Syntex is available through multiple subscriptions plans to best meet the needs 
 
 ## <a name="learn-more"></a>Дополнительные сведения
 
-Дополнительные сведения о syntex можно получить из следующих ресурсов:
+Дополнительные сведения о Syntex можно получить на следующих ресурсах:
 
-  - Чтобы приступить к планированию развертывания syntex, посетите страницу ["Синтаксис SharePoint"](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) в Центре ресурсов сообщества Майкрософт.
+  - Чтобы приступить к планированию развертывания syntex, посетите страницу ["Синтаксис SharePoint"](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) в Центре ресурсов microsoft Tech Community.
 
   - Дополнительные информацию о синтаксисе и его использовании см. в документации по [продукту "Синтаксис SharePoint".](/microsoft-365/contentunderstanding/)
 
@@ -78,7 +78,7 @@ Syntex is available through multiple subscriptions plans to best meet the needs 
 
 ### <a name="messaging"></a>Обмен сообщениями 
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите [Центр сообщений.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Дополнительные сведения см. [в центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы быть в курсе предстоящих изменений, включая новые и измененные функции, запланированное обслуживание и другие важные объявления, посетите [Центр сообщений.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Дополнительные сведения см. [в центре сообщений.](/microsoft-365/admin/manage/message-center)
 
 ### <a name="accessibility"></a>Специальные возможности
 
