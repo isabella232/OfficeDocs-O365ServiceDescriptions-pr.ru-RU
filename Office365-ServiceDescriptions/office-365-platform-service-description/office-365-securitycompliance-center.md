@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям &amp; в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: 0116ecf3f46c2d870d88a5d1ef53e18452a53e7b
+ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740970"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50122199"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -47,7 +47,7 @@ ms.locfileid: "49740970"
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Доступность &amp; Центра соответствия требованиям безопасности для автономных планов
 
 | Возможность | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |
 |[Управление угрозами,](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)такими как фильтрация почты и антивредоносная программа   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
@@ -68,7 +68,7 @@ ms.locfileid: "49740970"
 |[Базовый аудит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Да|Да|Да|Да|Да|Да<sup>10</sup>|Да<sup>10</sup>|Нет|Нет|
 |Расширенный аудит|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |[Соответствие коммуникациям (политики контроля)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |
-|[Шифрование сообщений Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
+|[Шифрование сообщений Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Нет   |Да   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Расширенное шифрование сообщений Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Управление привилегированным доступом](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 
