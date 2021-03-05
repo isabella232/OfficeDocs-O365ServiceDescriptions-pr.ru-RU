@@ -1,7 +1,8 @@
 ---
-title: Руководство по лицензированию Microsoft 365 для обеспечения соответствия & безопасности
+title: Руководство по лицензированию Microsoft 365 для обеспечения соответствия требованиям & безопасности
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -10,526 +11,551 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: В этой статье содержится руководство по лицензированию для обеспечения соответствия требованиям Microsoft 365, чтобы избежать потенциальных сбоев в обслуживании из-за нелицензирования доступа.
-ms.openlocfilehash: bceb0f3648aac36f5e748886240ae3594eac7617
-ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
+description: В этой статье содержится руководство по лицензированию соответствия требованиям Microsoft 365, чтобы избежать возможных сбоев в работе служб из-за нелицензионного доступа.
+ms.openlocfilehash: f21b4f5651a79e4cc890090406694ffea4d03e2f
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080285"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460258"
 ---
-# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения соответствия & безопасности
+# <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Руководство по лицензированию Microsoft 365 для обеспечения соответствия &amp; требованиям безопасности
 
-В рамках этой статьи служба на уровне клиента — это веб-служба, которая при покупке для любого пользователя в клиенте (в составе планов &mdash; Office 365 или Microsoft 365) активируется частично или полностью для всех пользователей в клиенте. &mdash; Хотя некоторые пользователи без лицензий могут получить доступ к службе технически, лицензия необходима для любого пользователя, который будет пользоваться этой службой.
+Для целей этой статьи служба на уровне клиента — это служба, которая при покупке для любого пользователя в клиенте (автономный или в составе планов &mdash; Office 365 или Microsoft 365) активируется частично или полностью для всех пользователей в &mdash; клиенте. Хотя некоторые нелицензные пользователи могут технически иметь доступ к службе, для любого пользователя, который будет получать выгоду от этой службы, требуется лицензия.
 
 > [!NOTE]
-> Некоторые службы клиента в настоящее время не могут ограничивать преимущества определенными пользователями. Следует принять меры, чтобы ограничить преимущества службы лицензированными пользователями. Это позволит избежать потенциального нарушения работы службы в организации после того, как станут доступны целевые возможности.
+> Некоторые службы клиентов в настоящее время не могут ограничивать преимущества для определенных пользователей. Необходимо принять меры для ограничения преимуществ службы для лицензированных пользователей. Это поможет избежать потенциальных сбоев служб в организации после того, как будут доступны возможности таргетинга.
 
-Чтобы увидеть варианты лицензирования пользователей для получения преимуществ от функций соответствия требованиям Microsoft 365 с 1 апреля 2020 г., скачайте подробное сравнение лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Чтобы узнать о вариантах лицензирования пользователей с 1 апреля 2020 г. для получения преимуществ от функций соответствия требованиям Microsoft 365, скачайте подробные сравнения лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Защита идентификации Azure Active Directory
 
-Защита идентификации Azure Active Directory — это функция плана Azure Active Directory Premium P2, которая позволяет обнаруживать потенциальные уязвимости, влияющие на удостоверения организации, настраивать автоматические ответы на обнаруженные подозрительные действия, связанные с удостоверениями вашей организации, а также исследовать подозрительные инциденты и принять соответствующие меры для их устранения.
+Azure Active Directory Identity Protection — это функция плана Azure Active Directory Premium P2, который позволяет обнаруживать потенциальные уязвимости, влияющие на удостоверения организации, настраивать автоматические ответы на обнаруженные подозрительные действия, связанные с удостоверениями организации, а также расследовать подозрительные инциденты и принимать соответствующие меры для их устранения.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Аналитики SecOps и специалисты по безопасности получают преимущества от объединения представлений помеченных пользователей и событий риска на основе алгоритмов машинного обучения. Конечные пользователи получают преимущества от автоматической защиты, предоставляемой условным доступом на основе рисков, и повышенной безопасности, предоставляемой с помощью уязвимостей.
+Аналитики и специалисты по безопасности SecOps извлекли выгоду из консолидированных представлений о помеченных пользователях и событиях риска на основе алгоритмов машинного обучения. Конечные пользователи пользуются автоматической защитой, предоставляемой с помощью условного доступа на основе риска, и улучшенной безопасностью, предоставляемой с помощью защиты от уязвимостей.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security и Azure Active Directory Premium (план 2) предоставляют пользователям права на защиту удостоверений Azure Active Directory.
+Корпоративная мобильность и безопасность E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security и Azure Active Directory Premium Plan 2 предоставляют пользователям права на защиту удостоверений Azure Active Directory.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции защиты идентификации Azure AD включены на уровне клиента для всех пользователей в клиенте. Сведения о защите идентификации Azure AD см. в этой [теме.](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+По умолчанию функции Azure AD Identity Protection включены на уровне клиента для всех пользователей в клиенте. Сведения о защите удостоверений Azure AD см. в видеоролике [Что такое защита удостоверений?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут определять область защиты идентификации Azure AD, назначая политики риска, определяющие уровень сброса паролей и разрешая доступ только лицензированным пользователям. Инструкции по области развертывания Azure AD Identity Protection см. в инструкциях по настройке и [встроению политик риска.](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)
+Администраторы могут расширить область Azure AD Identity Protection, назначив политики риска, определяющие уровень сброса паролей и разрешающие доступ только лицензированным пользователям. Инструкции по развертыванию Azure AD Identity Protection см. в инструкции по настройке и [встройке политик риска.](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)
 
 ## <a name="azure-active-directory-identity-governance"></a>Управление удостоверением Azure Active Directory
 
-Управление удостоверениями Azure Active Directory позволяет сбалансировать потребности организации в безопасности и производительности сотрудников с правильными процессами и видимостью. В нем используются управление правами, проверки доступа, управление привилегированным удостоверением и политики использования, чтобы гарантировать, что нужные люди имеют правильный доступ к нужным ресурсам.
+Управление удостоверениями Azure Active Directory позволяет сбалансировать потребности организации в безопасности и производительности сотрудников с правильными процессами и наглядностью. Он использует правила управления правами, обзоры доступа, привилегированное управление удостоверениями и политики использования терминов для обеспечения правильного доступа нужных людей к нужным ресурсам.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Управление удостоверениями Azure Active Directory повышает производительность пользователей, упрощая запрос доступа к приложениям, группам и Microsoft Teams в одном пакете доступа. Пользователи также могут быть настроены в качестве администраторов без участия администраторов. Для проверки доступа пользователи могут просмотреть членство в группах с интеллектуальными рекомендациями для регулярных действий.
+Управление удостоверениями Azure Active Directory повышает производительность пользователей, упрощая запрос доступа к приложениям, группам и microsoft Teams в одном пакете доступа. Пользователи также могут быть настроены в качестве одобрений, без привлечения администраторов. Для отзывов о доступе пользователи могут просмотреть членство групп с интеллектуальными рекомендациями, чтобы действовать регулярно.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security и Azure Active Directory Premium (план 2) предоставляют пользователям права на управление удостоверением Azure Active Directory.
+Корпоративная мобильность и безопасность E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security и Azure Active Directory Premium Plan 2 предоставляют пользователям права на использование управления удостоверением Azure Active Directory.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Функции управления удостоверением Azure AD включены на уровне клиента, но реализуются для каждого пользователя. Сведения об управлении удостоверением Azure AD см. в сведениях об управлении [удостоверением Azure AD?](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
+Функции управления удостоверением Azure AD включены на уровне клиента, но реализуются для каждого пользователя. Сведения об управлении удостоверением Azure AD см. в см. в [нем. Что такое управление удостоверением Azure AD?](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут назначать области управления удостоверениями Azure AD, назначая пакеты доступа, проверки доступа или привилегированное управление удостоверениями только лицензированным пользователям. Инструкции по области развертывания управления удостоверениями Azure AD см. в:
+Администраторы могут расширить область управления удостоверениями Azure AD, назначив пакеты доступа, обзоры доступа или привилегированное управление удостоверениями только для лицензированных пользователей. Инструкции по развертыванию служб управления удостоверениями Azure AD см. в этой инструкции:
 
-- [Требования к лицензиям на управление правами Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
-- [Требования к лицензиям на проверку доступа Azure AD](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
-- [Требования к лицензиям для использования privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
+- [Требования к лицензии на управление правами Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
+- [Требования лицензии на проверку доступа к Azure AD](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
+- [Требования лицензии для использования привилегированного управления удостоверениями](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
 
 ## <a name="microsoft-defender-for-identity"></a>Microsoft Defender для удостоверений
 
-Microsoft Defender for Identity (прежнее имя Azure Advanced Threat Protection) — это облачная служба, которая помогает защитить корпоративные гибридные среды от различных типов сложных целевых кибератак и угроз внутри организации.
+Microsoft Defender for Identity (ранее Azure Advanced Threat Protection) — это облачная служба, которая помогает защитить корпоративные гибридные среды от нескольких типов расширенных целевых кибератак и инсайдерских угроз.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Аналитики SecOp и специалисты по безопасности получают преимущества от возможности Microsoft Defender для удостоверений обнаруживать и исследовать сложные угрозы, скомпрометировать удостоверения и вредоносные действия внутри компании. Конечные пользователи получают преимущества, отслеживая свои данные с помощью Microsoft Defender для удостоверений.
+Аналитики и специалисты по безопасности SecOp получают преимущество от возможности Microsoft Defender for Identity обнаруживать и исследовать расширенные угрозы, скомпрометировать удостоверения и вредоносные действия инсайдеров. Конечные пользователи получают выгоду, если их данные отслеживаются в Microsoft Defender для identity.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security и Microsoft Defender for Identity для пользователей предоставляют пользователям права на доступ к удостоверениям в Microsoft Defender.
+Корпоративная мобильность + безопасность E5/A5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security и Microsoft Defender for Identity для пользователей предоставляют права на преимущества Microsoft Defender для identity.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции Microsoft Defender для удостоверений включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке Azure ATP см. в записи ["Создание экземпляра Microsoft Defender для удостоверений".](https://docs.microsoft.com/defender-for-identity/install-step1)
+По умолчанию функции Microsoft Defender для удостоверений включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке Azure ATP см. в примере [Create your Microsoft Defender for Identity.](https://docs.microsoft.com/defender-for-identity/install-step1)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-В настоящее время Microsoft Defender для служб идентификации не может ограничить возможности определенными пользователями. Необходимо лицензировать всех пользователей, которые вы собираетесь использовать.
+Microsoft Defender для служб удостоверений в настоящее время не способен ограничить возможности для определенных пользователей. Необходимо лицензировать каждого пользователя, который будет получать выгоду.
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender для Office 365
 
-Microsoft Defender для Office 365 (ранее Office 365 Advanced Threat Protection) помогает защитить организации от сложных атак, таких как фишинг и вредоносные программы нулевого дня. Microsoft Defender для Office 365 также предоставляет сведения о действиях, сопоставляет сигналы из широкого диапазона данных, помогая определять, определять приоритеты и предоставлять рекомендации по устранению потенциальных угроз.
+Microsoft Defender for Office 365 (ранее Office 365 Advanced Threat Protection) помогает защитить организации от сложных атак, таких как фишинг и вредоносные программы нулевого дня. Microsoft Defender для Office 365 также предоставляет сведения, которые можно использовать для действий, сопоставляют сигналы из широкого спектра данных, чтобы помочь определить, приоритизировать и дать рекомендации по устранению потенциальных угроз.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Microsoft Defender для Office 365 защищает пользователей от сложных атак, таких как фишинг и вредоносные программы нулевого дня. Полный список служб, предоставляемых в планах 1 и 2, см. в [Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+Microsoft Defender для Office 365 защищает пользователей от сложных атак, таких как фишинг и вредоносные программы нулевого дня. Полный список служб, предоставляемых в Плане 1 и Плане 2, см. в [веб-сайте Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы? 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы? 
 
-Microsoft Defender для Office 365 планов 1 и 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security и Microsoft 365 бизнес премиум предоставляют пользователю права на преимущества Microsoft Defender для Office 365.
+Microsoft Defender для Office 365 Plans 1 и 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security и Microsoft 365 Business Premium предоставляют пользователям права на выгоду от Microsoft Defender для Office 365.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции Microsoft Defender для Office 365 включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик Microsoft Defender для Office 365 для лицензированных пользователей см. в microsoft [Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+По умолчанию функции Microsoft Defender для Office 365 включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик Microsoft Defender для Office 365 для лицензированных пользователей см. в [веб-сайте Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Чтобы расширить область действия Microsoft Defender для Office 365, следуйте политикам развертывания безопасных ссылок и безопасных вложений:
+Чтобы расширить область Microsoft Defender для Office 365, следуйте политикам развертывания безопасных ссылок и безопасных вложений:
 
-- Сведения о настройке безопасных ссылок для лицензированных пользователей см. в подсети ["Безопасные ссылки" в Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
+- Сведения о настройке безопасных ссылок для лицензированных пользователей см. в [веб-сайте Safe Links in Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
 
-- Сведения о настройке безопасных вложений для лицензированных пользователей см. в подсети "Безопасные вложения" в [Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)
+- Сведения о настройке безопасных вложений для лицензированных пользователей см. в приложении [Safe Attachments in Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
-Office 365 Cloud App Security (OCAS) — это подмножество Microsoft Cloud App Security с функциями, которые ограничены Office 365 и не имеют дополнительной безопасности для сторонних облачных приложений и служб IaaS.
+Office 365 Cloud App Security (OCAS) — это подмножество microsoft Cloud App Security с функциями, ограниченными для Office 365 и без дополнительной безопасности для сторонних облачных приложений и служб IaaS.
 
-OCAS позволяет организациям получить доступ к облачным приложениям и службам для повышения производительности, предоставляет сложную аналитику для выявления и борьбы с киберугрозами, а также позволяет контролировать передачу данных в &mdash; Office 365.
+OCAS предоставляет организациям доступ к облачным приложениям и службам производительности, предоставляет сложную аналитику для выявления и борьбы с киберугрозами, а также позволяет им управлять перемещениями данных по &mdash; Office 365.
 
-Сравнение функций см. в различиях [между Microsoft Cloud App Security и Office 365 Cloud App Security.](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)
+Чтобы сравнить функции, см. в руб. Различия между [безопасностью облачных приложений Microsoft и безопасностью облачных приложений Office 365.](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-OCAS обнаруживает теневые ИТ-службы, обеспечивает защиту от угроз в Office 365 и может контролировать, какие приложения имеют разрешение на доступ к данным.
+OCAS обнаруживает shadow IT, обеспечивает защиту от угроз в Office 365 и может управлять, какие приложения имеют разрешение на доступ к данным.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Office 365 E5/A3/A5/G5 предоставляет пользователю права на преимущества OCAS.
-Дополнительные сведения см. в таблице [лицензирования Microsoft Cloud App Security.](https://www.aka.ms/mcaslicensing)
+Office 365 E5/A3/A5/G5 предоставляет пользователю права на выгоду от OCAS.
+Дополнительные сведения см. в таблице лицензирования лицензий microsoft [Cloud App Security Datasheet.](https://www.aka.ms/mcaslicensing)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
 По умолчанию функции OCAS включены на уровне клиента для всех пользователей в клиенте.
 
-Сведения о настройке службы см. в базовой настройке [Cloud App Security.](https://docs.microsoft.com/cloud-app-security/general-setup)
+Сведения о настройке службы см. в элементе [Basic setup for Cloud App Security.](https://docs.microsoft.com/cloud-app-security/general-setup)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут ограничить развертывания OCAS, чтобы обеспечить доступ к определенным приложениям и ограничить группы пользователей, отслеживаемую Office 365 Cloud App Security. Дополнительные сведения см. в [области развертывания.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
+Администраторы могут использовать развертывание OCAS для обеспечения доступа к определенным приложениям и ограничения групп пользователей, отслеживаемых службой безопасности облачных приложений Office 365. Дополнительные сведения см. в [дополнительных сведениях.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) — это решение брокера безопасности облачного доступа (CASB), которое позволяет организациям получать доступ к своим облачным приложениям и службам, предоставляет сложную аналитику для выявления и борьбы с киберугрозами, а также позволяет контролировать передачу данных между любым облачным &mdash; приложением.
+Microsoft Cloud App Security (MCAS) — это решение брокера безопасности облачного доступа (CASB), которое предоставляет организациям видимость в своих облачных приложениях и службах, предоставляет сложную аналитику для выявления и борьбы с киберугрозами, а также позволяет им управлять перемещениями данных по любому облачному &mdash; приложению.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-MCAS обнаруживает и оценивает теневые ИТ-технологии, обеспечивает защиту от угроз в облачных приложениях от первого и третьего поставщиков, а также защищает информацию в облачных приложениях от первого и третьего поставщиков.
+MCAS обнаруживает и оценивает ИТ-системы Shadow, обеспечивает защиту от угроз для первых и сторонних облачных приложений и защищает информацию в облачных приложениях первой и третьей сторонней группы.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-McAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 E5/A5 Compliance, and Microsoft 365 Information Protection and Governance предоставляют пользователям права на преимущества MCAS.
+McAS, Корпоративная мобильность + Безопасность E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 Information Protection and Governance предоставляют пользователям права на преимущества MCAS.
 
 Azure AD P1 предоставляет пользователям права на использование возможностей обнаружения в MCAS.
 
-Чтобы воспользоваться возможностями управления приложениями условного доступа в MCAS, пользователям также необходимо иметь лицензию на Azure Active Directory P1, которая входит в состав Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/ G3, Microsoft 365 E5/A5/G5 и Microsoft 365 E5/A5/G5 Security.
+Чтобы воспользоваться возможностями управления приложениями условного доступа в MCAS, пользователям также необходимо иметь лицензию на Azure Active Directory P1, который входит в корпоративную мобильность + безопасность E3/A3/G3, корпоративную мобильность + безопасность E5/A5/G5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 Security.
 
-Чтобы воспользоваться преимуществами автоматического маркировки на стороне клиента, пользователям необходимо иметь лицензию на Azure Information Protection P2, которая входит в состав Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance и Microsoft 365 Information Protection и управление.
+Чтобы воспользоваться автоматической маркировкой на стороне клиента, пользователям необходимо иметь лицензию на Azure Information Protection P2, которая входит в корпоративную мобильность + безопасность E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 Information Protection and Governance.
 
 > [!NOTE]
-> Автоматическое маркировка на стороне сервера требует защиты информации для лицензий Office 365 премиум `MIP_S_CLP2` `efb0351d-3b08-4503-993d-383af8de41e3` (или). Для справки [см. названия продуктов и идентификаторы планов обслуживания для лицензирования.](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference)
+> Автоматическая маркировка на сервере требует защиты информации для Office 365 — лицензии `MIP_S_CLP2` премиум-класса `efb0351d-3b08-4503-993d-383af8de41e3` (или). Для справки см. имена продуктов и идентификаторы плана обслуживания [для лицензирования.](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference)
 
-Дополнительные сведения см. в таблице [лицензирования Microsoft Cloud App Security.](https://www.aka.ms/mcaslicensing)
+Дополнительные сведения см. в таблице лицензирования лицензий microsoft [Cloud App Security Datasheet.](https://www.aka.ms/mcaslicensing)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
 По умолчанию функции MCAS включены на уровне клиента для всех пользователей в клиенте.
 
-Сведения о настройке политик Microsoft Cloud App Security для лицензированных пользователей см. в обзоре [Microsoft Cloud App Security.](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)
+Сведения о настройке политик безопасности microsoft Cloud App для лицензированных пользователей см. в обзоре [microsoft Cloud App Security.](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут область развертывания MCAS для лицензированных пользователей с помощью возможностей развертывания в области, доступных в службе. Дополнительные сведения см. в [области развертывания.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
+Администраторы могут использовать развертывание MCAS для лицензированных пользователей с помощью возможностей развертывания с охватом, доступных в службе. Дополнительные сведения см. в [дополнительных сведениях.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
 
 ## <a name="compliance-manager"></a>Диспетчер соответствия требованиям
 
-Упростите соответствие требованиям и уменьшите риски с помощью диспетчера соответствия требованиям. Диспетчер соответствия требованиям помогает организациям соответствовать требованиям нормативных требований, стандартов, политик компании или других необходимых структур контроля.
+Упрощение соответствия требованиям и снижение риска с помощью диспетчера соответствия требованиям. Диспетчер соответствия требованиям помогает организациям соответствовать требованиям нормативных положений, стандартов, политик компании или других необходимых рамок управления.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Ниже следующую пользу для пользователей из службы диспетчера соответствия требованиям:
+Ниже следующую выгоду для пользователей из службы Диспетчер соответствия требованиям:
 
-- Перевод сложных нормативов, стандартов, политик компании или других нужных структур контроля на простой язык
-- Предоставляет доступ к большой библиотеке заметивных оценок и пользовательских оценок для удовлетворения уникальных потребностей в соответствии с соответствием требованиям
-- Сопопока нормативных мер с рекомендуемой деятельностью по улучшению
-- Предоставляет пошаговую инструкцию по реализации решений для удовлетворения нормативных требований
-- Помогает пользователям определить приоритеты действий, которые будут иметь наивысшее влияние на их соответствие организации, связывая оценку с каждым действием
+- Перевод сложных правил, стандартов, политик компании или других нужных рамок управления на простой язык
+- Предоставляет доступ к обширной библиотеке нестандартных оценок и пользовательских оценок для удовлетворения уникальных потребностей в соответствии с требованиям.
+- Maps regulatory controls to recommended improvement actions
+- Пошаговая инструкция по внедрению решений для выполнения нормативных требований
+- Помогает пользователям определить приоритеты действий, которые будут иметь самое большое влияние на их соответствие требованиям организации, связывая оценку с каждым действием
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Клиенты с лицензиями E1 и E3 смогут получить доступ только к базовой оценке защиты данных по умолчанию. Клиенты с лицензиями Office 365 E5/A5 и Microsoft 365 E5/A5 (включены в них для обеспечения соответствия требованиям, управления информационной защитой, а также для EDiscovery и аудита) смогут получить доступ к оценке базовых параметров защиты &amp; данных, GDPR, NIST 800-53 и ISO 27001. Настраиваемая функция оценки и аттестации уровня премиум зарезервированы для клиентов Office 365 E5/A5 и Microsoft 365 E5/A5. Дополнительные оценки будут доступны для приобретения в первом полугодии 2021 г. с помощью VL, CSP и WebDirect. 
+Клиенты с лицензиями E1 и E3/G3 смогут получить доступ только к базовой оценке защиты данных по умолчанию. Клиенты с лицензиями Office 365 E5/A5 и Microsoft 365 E5/A5 (соответствие требованиям, защита информации & управление, а также СКУ по обнаружению электронных данных и аудиту) смогут получить доступ к базовым оценкам защиты данных, GDPR, NIST 800-53 и ISO 27001. Клиенты с Office 365 G5 и Microsoft 365 G5 смогут получить доступ к базовым уровням защиты данных, GDPR, NIST 800-53, ISO 27001 и сертификации моделей зрелости кибербезопасности (CMMC) с 1 по 5 внештатных оценок. Функция настраиваемой оценки и оценки премиум-класса зарезервированы для клиентов Office 365 E5/A5/G5 и Microsoft 365 E5/A5/G5. Премиум-оценки, такие как FedRAMP Moderate, FedRAMP High и другие, будут доступны для покупки клиентам с лицензиями E5/A5/G5 в первой половине 2021 г. через VL, CSP и WebDirect. Обратитесь к продавцу Майкрософт или партнеру Майкрософт для покупки по каналам VL или CSP соответственно. Чтобы приобрести через WebDirect, см. [в webDirect](https://aka.ms/ComplianceManager/WebDirect).
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Диспетчер соответствия требованиям по умолчанию предусмотрен для вашего клиента. Администраторы устанавливают разрешения пользователей и назначают роли таким образом, чтобы пользователи, не использующие администраторов в организации, могли приступить к использованию диспетчера соответствия требованиям. Дополнительные сведения см. в [подстройки "Начало работы](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)с диспетчером соответствия требованиям": настройка разрешений пользователей и назначение ролей.
-
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
-
-Доступ к диспетчеру соответствия требованиям управляется путем настройки разрешений пользователя и назначения ролей. Дополнительные сведения см. в [подстройки "Начало работы](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)с диспетчером соответствия требованиям": настройка разрешений пользователей и назначение ролей.
+Диспетчер соответствия требованиям по умолчанию предусмотрен для клиента. Администраторы устанавливают разрешения пользователей и назначают роли, чтобы пользователи, не использующие администрирование в организации, могли приступить к использованию Диспетчер соответствия требованиям. Дополнительные сведения см. в рублях Начало работы с диспетчером соответствия [требованиям: Установите разрешения пользователей и назначьте роли.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender для конечной точки
 
-Microsoft Defender для конечной точки (ранее ATP в Microsoft Defender) — это решение для обеспечения безопасности конечных точек, которое включает управление и оценку уязвимостей на основе рисков; возможности уменьшения поверхности атаки; защита нового поколения на основе поведения и на основе облака; обнаружение конечных точек и реагирование на них (EDR); автоматическое исследование и исправление; и службы управляемой охоты. Дополнительные [узнать см. на](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) странице "Microsoft Defender for Endpoint".
+Microsoft Defender for Endpoint (бывшая ATP Microsoft Defender) — это решение безопасности конечной точки, которое включает управление и оценку уязвимостей на основе риска; возможности уменьшения поверхности атаки; поведенческая и облачная защита следующего поколения; обнаружение конечной точки и реагирование (EDR); автоматическое расследование и исправление; и управляемые службы охоты. Дополнительные дополнительные информации см. на странице [Microsoft Defender for Endpoint.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 
-### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают преимущества от службы?
+### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Windows 10 Корпоративная E5, Windows 10 для образовательных служб A5, Microsoft 365 E5 (M365 E5), в том числе Windows 10 Корпоративная E5, Microsoft 365 E5 Security, Microsoft 365 A5 (M365 A5), могут воспользоваться преимуществами Microsoft Defender для конечной точки.
+Лицензированные пользователи Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5/G5, в которую входят Windows 10 Enterprise E5, Microsoft 365 E5/A5/G5 Security, могут воспользоваться преимуществами Microsoft Defender для конечной точки.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Аналитики SecOps и специалисты по безопасности получают преимущества от возможностей безопасности конечных точек в Microsoft Defender для конечной точки для профилактической защиты, обнаружения после нарушения безопасности, автоматического расследования и реагирования на сложные угрозы. Конечным пользователям полезно отслеживать вредоносные события в Microsoft Defender для конечной точки.
+Аналитики и специалисты по безопасности SecOps могут воспользоваться возможностями безопасности конечной точки Microsoft Defender для Конечной точки, чтобы сделать профилактическую защиту, обнаружение после нарушения, автоматическое расследование и реагирование на расширенные угрозы. Конечные пользователи получают выгоду от вредоносных событий, отслеживаемой Microsoft Defender для конечной точки.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции Microsoft Defender для конечных точек включены на уровне клиента для всех пользователей в клиенте. Сведения о развертывании [см. в подупоке "Этапы развертывания".](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)
+По умолчанию функции Microsoft Defender для конечной точки включены на уровне клиента для всех пользователей в клиенте. Сведения о развертывании см. в [сведениях о фазах развертывания.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Microsoft Defender for Endpoint administrators can use role-based access control (RBAC) to create roles and groups within the security operations team to grant appropriate access to the Microsoft Defender Security Center. Дополнительные сведения см. в под [управлением доступом на портале с помощью управления доступом на основе ролей.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)
+Администраторы Microsoft Defender для конечных точек могут использовать управление доступом на основе ролей (RBAC) для создания ролей и групп в группе операций безопасности для предоставления соответствующего доступа к Центру безопасности Защитника Майкрософт. Дополнительные сведения см. в [ссылке Управление доступом к порталу с помощью управления доступом на основе ролей.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)
+
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Аналитика классификации данных Microsoft 365: Обозреватель активности &amp; контента  
+
+Аналитические возможности классификации данных доступны в центре соответствия требованиям Microsoft 365. Обзор показывает расположение цифрового контента и наиболее распространенных типов и меток конфиденциальной информации. Обозреватель контента обеспечивает видимость количества и типов конфиденциальных данных и позволяет пользователям фильтровать по метке или типу чувствительности, чтобы получить подробное представление о местах хранения конфиденциальных данных. Обозреватель действий показывает действия, связанные с конфиденциальными данными и метами, такими как понижение оценки или внешнее совместное использование, которое может подвергнуть ваш контент риску.
+
+Обозреватель действий предоставляет администраторам единую стеклянную области, чтобы получить видимость действий, связанных с конфиденциальной информацией, используемой конечными пользователями. Эти данные включают действия меток, журналы предотвращения потери данных, автозаметку, DLP конечной точки и другие.
+
+Обозреватель контента предоставляет администраторам возможность индексировать конфиденциальные документы, хранимые в поддерживаемых рабочих нагрузках Microsoft 365, и определять конфиденциальные сведения, которые они хранят. Кроме того, Обозреватель контента помогает определить документы, классифицируются с метами конфиденциальности и хранения.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
+
+Администраторы защиты информации и соответствия требованиям могут получить доступ к службе, чтобы получить доступ к этим журналам и индексным данным, чтобы понять, где хранятся конфиденциальные данные и какие действия связаны с этими данными и выполняются конечными пользователями.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
+
+Лицензированные пользователи microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection Governance and Office 365 E5 могут воспользоваться аналитикой классификации данных &amp; Microsoft 365. 
+
+Microsoft 365 E3/A3/G3 и Office 365 E3/A3/G3 позволяют пользователям использовать только агрегацию данных Content Explorer.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
+
+По умолчанию функции Обзор контента и обозревателя действий включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке аналитики классификации данных для лицензированных пользователей см.:
+
+- **Обозреватель** контента. [Начало работы с проводником контента — Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/data-classification-content-explorer).
+- **Обозреватель действий.** Начало работы [с проводником действий — Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer).
+- **Примечания к выпуску** классификации данных: заметки о выпуске классификации данных [- Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/data-classification-pub-preview-relnotes).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
+
+Эта функция должна быть масштабной для пользователей, которые активно используют решение на портале соответствия требованиям Microsoft 365.
 
 ## <a name="information-protection"></a>Защита информации
 
-Защита информации помогает организациям обнаруживировать, классифицировать, пометить и защитить конфиденциальные документы и сообщения электронной почты. Администраторы могут определять правила и условия для автоматического применения меток, пользователи могут применять метки вручную или использовать сочетание этих двух меток, где пользователям даются рекомендации по их использованию.
+Защита информации помогает организациям обнаруживть, классифицировать, маркировать и защищать конфиденциальные документы и электронные письма. Администраторы могут определять правила и условия автоматического применения меток, пользователи могут применять метки вручную или использовать сочетание этих двух меток, где пользователям даются рекомендации по использованию меток.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователям полезно иметь возможность вручную применять метки конфиденциальности к своему содержимому или автоматически классифицировать их содержимое.
+Пользователи получают выгоду, имея возможность вручную применять метки конфиденциальности к своему содержимому или автоматически классифицировать их содержимое.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP (план 1) и план 2 AIP предоставляют пользователю права на ручное маркировку конфиденциальности.
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 и AIP Plan 2 предоставляют пользователю права на выгоду от ручной маркировки чувствительности.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP (план 1) и AIP (план 2) предоставляют пользователю права на применение и просмотр меток конфиденциальности в Power BI и защиту данных при экспорте из Power BI в Excel, PowerPoint или PDF. 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 и AIP Plan 2 предоставляют пользователю права на применение меток конфиденциальности и просмотр в Power BI и защиту данных при экспорте из Power BI в Excel, PowerPoint или PDF. 
 
 > [!NOTE]
-> Power BI входит в состав Microsoft 365 E5/A5/G5; Во всех остальных планах power BI должна лицензироваться отдельно.
+> Power BI включен в Microsoft 365 E5/A5/G5; во всех остальных планах Power BI должна быть лицензирована отдельно.
 
-Microsoft 365 E5/A5/G5, соответствие требованиям Microsoft 365 E5/A5/G5, Защита информации Microsoft 365 и управление, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 и AIP (план 2) предоставляют пользователям права на автоматическое маркировку конфиденциальности.
+Соответствие требованиям Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Information Protection and Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 и AIP Plan 2 предоставляют пользователю права на автоматическую маркировку чувствительности.
 
-Конкретные права по лицензии см. в подробном сравнении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Не включает права на автоматическую классификацию на основе машинного обучения (обучаемые классификаторы).
+Подробные сведения о правах по лицензии см. в подробном сопоставлении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Не включает права на автоматическую классификацию на основе машинного обучения (обучаемые классификаторы).
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции защиты информации включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик для лицензированных пользователей см. в подсети "Активация службы управления правами Azure".
+По умолчанию функции защиты информации включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик для лицензированных пользователей см. в руководстве по управлению правами Azure.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-За исключением случаев, когда используется функция сканера AIP, политики могут быть отредактированы для определенных групп или пользователей и реестров, чтобы запретить пользователям без лицензий запускать функции классификации или маркировки. Инструкции по области развертывания AIP см. в настройке политики [Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/configure-policy)
+Кроме использования функции сканера AIP, политики могут быть распределены по определенным группам, пользователям и реестрам, чтобы не допустить запуска функций классификации или маркировки нелицензионных пользователей. Инструкции по развертыванию AIP см. в инструкции по настройке политики [защиты информации Azure.](https://docs.microsoft.com/azure/information-protection/configure-policy)
 
-Для функции сканера AIP корпорация Майкрософт не обязуется предоставлять возможности классификации файлов, маркировки и защиты пользователям, у которых нет лицензии.
+Для функции сканера AIP Корпорация Майкрософт не обязуется предоставлять возможности классификации файлов, маркировки или защиты пользователям, которые не имеют лицензии.
 
 ## <a name="information-governance"></a>Управление информацией
 
-Управление информацией помогает организациям управлять рисками путем обнаружения, классификации, маркировки и управления их данными. Управление информацией позволяет организациям соответствовать бизнес-требованиям и нормативным требованиям, а также уменьшить риск атаки, предоставляя возможности хранения и удаления данных Microsoft 365 и сторонних организаций.
+Управление информацией помогает организациям управлять рисками путем обнаружения, классификации, маркировки и управления своими данными. Управление информацией позволяет организациям удовлетворять бизнес-и нормативным требованиям, а также уменьшать поверхность атак, предоставляя возможности хранения и удаления данных Microsoft 365 и сторонних пользователей.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи могут классифицировать данные в целях хранения, чтобы подкрепить определенные политики и нормативы.
+Пользователи могут классифицировать данные для целей хранения для поддержки определенных политик и правил.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 и автономные планы Exchange предоставляют пользователю права на ручное применение меток хранения без записей к данным почтовых ящиков.
+Планы Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 и автономные планы Exchange предоставляют пользователю права на ручное применение меток хранения без записей к данным почтовых ящиков.
 
-Планы Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 и автономные планы SharePoint предоставляют пользователю право вручную применять метки хранения, не записи, к файлам в SharePoint или OneDrive. 
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 и автономные планы SharePoint предоставляют пользователю право вручную применять метки хранения без записей к файлам в SharePoint или OneDrive. 
 
-Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange (план 2) и архивация на базе Exchange Online предоставляют пользователю права на получение преимуществ базовой политики хранения почтовых ящиков на всей организации или в масштабе расположения и(или) ручное применение меток хранения к данным почтовых ящиков.
+Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/E5/E3/A3, Exchange Plan 2 и архивация на базе Exchange Online предоставляют пользователю права на получение преимуществ от базовой политики хранения почтовых ящиков на всей организации или в разных местах и/или вручную применять метку хранения без записи к данным почтовых ящиков.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3 и SharePoint (план 2) предоставляют пользователю права на получение преимуществ базовой политики хранения SharePoint или OneDrive и(или) ручное применение меток хранения, не записей, к файлам в SharePoint или OneDrive.
+Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 и SharePoint Plan 2 предоставляют пользователю права на получение преимуществ от базовой политики хранения SharePoint или OneDrive и/или вручную применять метку хранения без записи к файлам в SharePoint или OneDrive.
 
-Microsoft 365 E5/A5/E3/A3 и Office 365 E5/A5/E3/A3 предоставляют пользователю права на преимущества политики хранения Teams.
+Microsoft 365 E5/A5/G5/E3/A3 и Office 365 E5/A5/G5/E3/A3 предоставляют пользователю права на выгоду от политики хранения Teams.
 
-Microsoft 365 E5/A5, соответствие требованиям Microsoft 365 E5/A5, Защита информации и управление Microsoft 365, Office 365 E5/A5, и Office 365 Advanced Compliance предоставляет пользователю права на автоматическое применение меток или политик хранения, применение меток или политик хранения по умолчанию, начало периода хранения метки хранения на основе настраиваемого события, запуск проверки выровненности вручную в конце срока хранения метки, импорт сторонних данных через собственные соединители данных, объявление файла записи, обнаружение помеченного содержимого и отслеживание действий с меткой.
+Соответствие требованиям Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance E5/A5/G5, и Office 365 E5/A5 предоставляет пользователю права на автоматическое применение меток или политик хранения, применение меток или политик хранения по умолчанию, начало периода хранения метки хранения на основе настраиваемого события, запуск ручной проверки дислокации по окончании периода хранения метки, импорт сторонних данных через собственные соединители данных, объявление записи файла, обнаружение помеченного контента и отслеживание действий по метке.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection и Управление предоставляют пользователю права на автоматическое применение меток хранения на основе обучаемых классификаторов.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance предоставляют пользователю права на автоматическое применение меток хранения на основе обучаемых классификаторов.
 
-Конкретные права по лицензии см. в подробном сравнении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Подробные сведения о правах по лицензии см. в подробном сопоставлении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции управления сведениями включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке управления сведениями для применения автозавершение и политики для лицензированных пользователей см. в microsoft [365](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+По умолчанию функции управления информацией включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке управления информацией для применения автолабелинга и политик для лицензированных пользователей см. в [веб-сайте Microsoft Information Governance в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Функции управления сведениями могут применяться к лицензированным пользователям в определенных расположениях (сайтах групп, сайтах групп и т. д.). Сведения о настройке управления сведениями для применения автоматической настройки и политик для лицензированных пользователей см. в подсети [Microsoft Information Governance в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
+Функции управления информацией могут применяться к лицензированным пользователям в определенных расположениях (сайты групп, сайты групп и т.д.). Сведения о настройке управления информацией для применения автолабелинга и политик для лицензированных пользователей см. в [веб-сайте Microsoft Information Governance в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
 ## <a name="records-management"></a>Управление записями
 
-Управление записями помогает организациям выполнять свои бизнес-и нормативные обязательства по хранении записей путем обнаружения, классификации, маркировки, хранения и defensible удаления в своих данных Microsoft 365 и сторонних данных.
+Управление записями помогает организациям выполнять свои бизнес-и нормативные обязательства по хранению записей путем обнаружения, классификации, маркировки, хранения и допустимого удаления в своих данных Microsoft 365 и сторонних пользователей.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Соответствие Требованиям Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance, Office 365 E5/A5/G5, Office 365 Advanced Compliance предоставляют пользователю права на получение преимуществ управления записями, включая объявление элементов в качестве записей или нормативных записей, автоматическое применение меток хранения или записей и выполнение процессов проверки перед удалением (за исключением автоматического применения меток хранения на основе обучаемых классификаторов).
+Соответствие требованиям Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance E5/A5/G5 и Office 365 E5/A5/G5 предоставляют пользователю права на получение выгоды от управления записями, включая объявление элементов в качестве записей или нормативных записей, автоматическое применение меток хранения или записей и выполнение процессов проверки диспозиции (за исключением автоматического применения метки хранения на основе обучаемых классификаторов).
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance и Microsoft 365 Information Protection and Governance предоставляют пользователю права на автоматическое применение меток хранения или записей на основе обучаемых классификаторов.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 Information Protection and Governance предоставляют пользователю права на автоматическое применение меток хранения или записей на основе обучаемых классификаторов.
 
-Конкретные права по лицензии см. в подробном сравнении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Подробные сведения о правах по лицензии см. в подробном сопоставлении лицензирования соответствия требованиям Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи могут объявлять контент как запись и управлять полным процессом записей из определения и объявления политики посредством допустимого удаления.
+Пользователи могут объявить контент записью и управлять процессом полных записей из определения политики и объявления с помощью допустимого удаления.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции управления записями включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке управления записями для применения к лицензированным пользователям см. в сведениях об управлении записями [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/records-management)
+По умолчанию функции управления записями включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке управления записями для применения к лицензированным пользователям см. в руб. Сведения об управлении записями [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/records-management)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Функции управления записями можно применять к лицензированным пользователям в определенных расположениях (сайтах групп, сайтах групп и т. д.). Сведения о настройке управления записями для применения к лицензированным пользователям см. в сведениях об управлении записями [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/records-management)
+Функции управления записями можно применять к лицензированным пользователям в определенных местах (сайты групп, сайты групп и т.д.). Сведения о настройке управления записями для применения к лицензированным пользователям см. в руб. Сведения об управлении записями [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/records-management)
 
 ## <a name="data-connectors"></a>Соединители данных 
 
-Корпорация Майкрософт предоставляет сторонние соединители данных, которые можно настроить в Центре соответствия требованиям Microsoft 365. Список соединитений данных, предоставляемых корпорацией Майкрософт, см. в таблице сторонних [соединитений данных.](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) В этой таблице также скомплены решения для обеспечения соответствия требованиям, которые можно применить к сторонним данным после импорта и архива данных в Microsoft 365, а также ссылки на пошаговых инструкций для каждого соединитела.
+Корпорация Майкрософт предоставляет сторонние соединители данных, которые можно настроить в центре соответствия требованиям Microsoft 365. Список соединители данных, предоставляемый Корпорацией Майкрософт, см. в таблице [сторонних соединители](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) данных. В этой таблице также кратко излагаются решения, которые можно применить к сторонним данным после импорта и архива данных в Microsoft 365, а также ссылки на пошаговых инструкций для каждого соединитела.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Основное преимущество использования соединители данных для импорта и архива сторонних данных в Microsoft 365 — возможность применения различных решений для обеспечения соответствия требованиям Microsoft 365 к данным после их импорта. Это гарантирует, что данные вашей организации, не относясь к Майкрософт, будут обеспечивать соответствие нормативным требованиям и стандартам, влияющим на вашу организацию.
+Основное преимущество использования соединители данных для импорта и архива сторонних данных в Microsoft 365 в том, что вы можете применить различные решения для соответствия требованиям Microsoft 365 к данным после их импорта. Это позволяет убедиться, что данные организации, не в microsoft, не соответствует требованиям и стандартам, влияющим на организацию.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Следующие лицензии предоставляют пользователю права на преимущества соединители данных:
+Следующие лицензии предоставляют пользователю права на выгоду от соединители данных:
 
-- Microsoft 365 E5/A5
-- Защита информации и управление данными в Microsoft 365 E5 или A5
-- Соответствие требованиям Microsoft 365 E5 или A5
-- Управление рисками для программы внутренней оценки Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 eDiscovery и аудит
-- Office 365 E5/A5
-- Office 365 Advanced Compliance
+- Microsoft 365 E5/A5/G5
+- Управление информационной защитой Майкрософт 365 E5/A5/G5 &amp;
+- Соответствие требованиям Microsoft 365 E5/A5/G5
+- Управление рисками для инсайдеров Microsoft 365 E5/A5/G5
+- Microsoft 365 E5/A5/G5 eDiscovery and Audit
+- Office 365 E5/A5/G5
 
-Для соединители данных в Центре безопасности и & соответствия требованиям M365, предоставляемые партнером Майкрософт, вашей организации потребуется деловые отношения с партнером, прежде чем вы сможете развернуть эти соединители.
+Для соединители данных в Центре соответствия требованиям безопасности Microsoft 365, предоставляемые партнером Майкрософт, вашей организации необходимо иметь деловые отношения с партнером, прежде чем развернуть &amp; эти соединители.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Соединители настраиваются с помощью Центра безопасности & соответствия требованиям и каталога соединитеев.
+Соединители настраиваются с помощью Центра соответствия требованиям безопасности &amp; и каталога соединители.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Службы соединители данных — это значение на уровне клиента. Каждый пользователь, который хочет воспользоваться этой службой, должен иметь лицензию.
+Службы соединители данных — это значение на уровне клиента. Каждый пользователь, предназначенный для использования этой службы, должен иметь лицензию.
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>API Microsoft Graph для защиты от потери данных Teams (DLP)
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>API Microsoft Graph для групп по предотвращению потери данных (DLP)
 
-Ранее в этом году мы объявили об общедоступных предварительных версиях API уведомлений об изменениях [Microsoft Graph для сообщений в Teams.](https://go.microsoft.com/fwlink/?linkid=2143888) Этот API позволяет разработчикам создавать приложения, которые могут прослушивать сообщения Microsoft Teams практически в режиме реального времени, и включить реализации сценариев DLP как для клиентов, так и для программных продуктов. Кроме того, API исправлений Microsoft Graph позволяет применять действия DLP к сообщениям Teams.
+В начале этого года мы анонсировали общедоступный предварительный просмотр API уведомлений об изменениях [Microsoft Graph для сообщений в Teams.](https://go.microsoft.com/fwlink/?linkid=2143888) Этот API позволяет разработчикам создавать приложения, которые могут прослушивать сообщения Microsoft Teams в режиме почти реального времени и включить реализацию сценариев DLP как для клиентов, так и для isVs. Кроме того, API патчей Microsoft Graph позволяет применять действия DLP к сообщениям Teams.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-[Возможности защиты от потери данных (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) широко используются в Microsoft Teams, особенно по мере перехода организаций на удаленную работу. Если в вашей организации имеется политика DLP, вы можете определить политики, которые препятствуют обмену конфиденциальной информацией в канале Microsoft Teams или сеансе чата.
+[Возможности предотвращения потери данных широко](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) используются в Microsoft Teams, особенно в связи с переходом организаций на удаленную работу. Если в организации есть DLP, теперь можно определить политики, которые мешают людям делиться конфиденциальной информацией в канале Microsoft Teams или сеансе чата.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Чтобы получить поддержку защиты от DLP в чате Teams, вам потребуется одна из следующих лицензий E5:
+Вам потребуется одна из следующих лицензий, чтобы получить поддержку защиты DLP в командной чате:
 
-- Microsoft 365 E5/A5
-- Соответствие требованиям Microsoft 365 E5 или A5
-- Защита информации и управление Microsoft 365 E5/A5
-- Office 365 E5/A5 
+- Microsoft 365 E5/A5/G5
+- Соответствие требованиям Microsoft 365 E5/A5/G5
+- Microsoft 365 E5/A5/G5 Information Protection and Governance
+- Office 365 E5/A5/G5 
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Доступ к API настраивается на уровне клиента.
+Доступ к API настроен на уровне клиента.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-API Microsoft Graph для DLP Teams — это значение на уровне клиента. Каждый пользователь, который хочет воспользоваться этой службой, должен иметь лицензию.
+API Microsoft Graph для команд DLP — это значение на уровне клиента. Каждый пользователь, предназначенный для использования этой службы, должен иметь лицензию.
 
 ## <a name="ediscovery"></a>Обнаружение электронных данных
 
-EDiscovery предоставляет решения по анализу и обнаружению электронных данных для ИТ-отделов и юридических отделов корпораций для выявления, сбора, сохранения, сокращения и просмотра контента, связанного с расследованием или судебным процессом, перед экспортом из системы Microsoft 365.
+eDiscovery предоставляет решения по расследованию и обнаружению электронных данных для ИТ-отделов и юридических отделов корпораций для выявления, сбора, сохранения, сокращения и просмотра контента, связанного с расследованием или судебным разбирательством, перед экспортом из системы Microsoft 365.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Advanced eDiscovery дает пользователю преимущества, когда он выбирается в качестве хранителя данных (лицо, у которого есть административный контроль над документом или электронным файлом) для дела.
+Если пользователь выбран в качестве хранителя данных (лицо, у которого административный контроль над документом или электронным файлом) для дела, пользователь получает выгоду от предварительного анализа электронных данных.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/E3/A3/G3 и Office 365 Advanced Compliance предоставляют пользователю права на основные функции eDiscovery.
+Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 предоставляют пользователю права на выгоду от core eDiscovery.
 
-Microsoft 365 E5/A5/G5, Соответствие требованиям Microsoft 365 E5/A5/G5, eDiscovery и аудит Microsoft 365 E5/A5, Office 365 E5/A5/G5 и Office 365 Advanced Compliance предоставляют пользователям права на расширенные eDiscovery.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 eDiscovery and Audit и Office 365 E5/A5/G5 предоставляют пользователю права на выгоду от расширенных электронных данных.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции Advanced eDiscovery включены на уровне клиента для всех пользователей в клиенте, когда администраторы назначают разрешения на eDiscovery в Центре безопасности & соответствия требованиям.
+По умолчанию функции advanced eDiscovery включены на уровне клиента для всех пользователей в клиенте, когда администраторы назначают разрешения на открытие электронных данных в Центре соответствия &amp; требованиям безопасности.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы eDiscovery могут выбирать определенных пользователей в качестве хранителей данных для дела с помощью встроенного средства управления хранителями в Advanced eDiscovery, как описано в описании добавления хранителей в дело [Advanced eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case)
+Администраторы по обнаружению электронных данных могут выбирать конкретных пользователей в качестве хранителей данных для дела с помощью встроенного средства управления хранением в advanced eDiscovery, как описано в описании Добавление хранителей к делу [Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case).
 
 ## <a name="office-365-customer-key"></a>Ключ клиента Office 365
 
-С помощью ключа клиента вы управляете ключами шифрования вашей организации и настраивает Office 365 так, чтобы они использовались для шифрования неавтовых данных в центрах обработки данных Майкрософт. Другими словами, ключ клиента позволяет добавить уровень шифрования, принадлежащий вам, используя собственные ключи. Неавтомтные данные включают данные из Exchange Online и Skype для бизнеса, которые хранятся в почтовых ящиках и файлах в SharePoint Online и OneDrive для бизнеса.
+С помощью ключа клиента вы управляете ключами шифрования организации и настраивает Office 365, чтобы использовать их для шифрования данных в центрах обработки данных Майкрософт. Другими словами, ключ клиента позволяет добавлять уровень шифрования, который принадлежит вам, с помощью собственных ключей. Данные в остальное время включают данные Exchange Online и Skype для бизнеса, которые хранятся в почтовых ящиках и файлах в SharePoint Online и OneDrive для бизнеса.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи получают преимущества ключа клиента, шифруя свои неавтные данные на уровне приложения с помощью ключей шифрования, предоставляемых, контролируемых и управляемых собственной организацией.
+Клиентский ключ позволяет пользователям шифровать данные на уровне приложений с помощью ключей шифрования, предоставляемых, управляемых и управляемых собственной организацией.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 и Office 365 Advanced Compliance предоставляют пользователю права на преимущества ключа клиента. Чтобы получить все преимущества ключа клиента, необходимо также иметь подписку на Azure Key Vault.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance и Office 365 E5/A5/G5 предоставляют пользователю права на выгоду от ключа клиента. Чтобы получить полное преимущество ключа клиента, необходимо также иметь подписку на Хранилище ключей Azure.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Ключи шифрования ключа клиента Office 365 можно включить для всех данных, хранимых в почтовых ящиках Exchange Online и Skype для бизнеса, а также в файлах SharePoint Online, OneDrive для бизнеса и Teams. Дополнительные сведения о ключе клиента Office 365, в том числе о том, как начать работу, см. в сообщении о шифровании [службы с помощью ключа клиента.](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)
+Ключи шифрования ключей клиента Office 365 можно включить для всех данных, хранимых в почтовых ящиках Exchange Online и Skype для бизнеса, а также файлах SharePoint Online, OneDrive для бизнеса и Teams. Дополнительные сведения о ключе клиента Office 365, в том числе о том, как начать работу, см. в сообщении [Service encryption with Customer Key.](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-В Exchange Online и Skype для бизнеса почтовые ящики можно шифровать с помощью ключа клиента. Прежде чем использовать ключ клиента для Office 365, необходимо настроить Azure. Действия [по созданию](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) и настройке необходимых ресурсов Azure, а также по настройке ключа клиента в Office 365 см. в подстройке ключа клиента. После завершения настройки Azure определите, какую политику и, следовательно, какие ключи следует назначить почтовым ящикам и файлам в организации. Почтовые ящики и файлы, для которых вы не назначите политику, будут использовать политики шифрования, контролируемые и управляемые корпорацией Майкрософт. Дополнительные сведения о ключе клиента или общие сведения см. в сообщении о шифровании [службы с помощью ключа клиента.](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)
+Для Exchange Online и Skype для бизнеса почтовые ящики можно шифровать с помощью ключа клиента. Прежде чем использовать ключ клиента для Office 365, необходимо настроить Azure. Дополнительные [действия](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) по созданию и настройке необходимых ресурсов Azure см. в примере Настройка ключа клиента в Office 365. После завершения установки Azure определите, какую политику и, следовательно, какие ключи назначить почтовым ящикам и файлам в организации. Почтовые ящики и файлы, для которых не назначается политика, будут использовать политики шифрования, контролируемые и управляемые Корпорацией Майкрософт. Дополнительные сведения о ключе клиента или общем обзоре см. в сообщении [Service encryption with Customer Key.](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)
 
 ## <a name="office-365-customer-lockbox"></a>Защищенное хранилище пользователя в Office 365
 
-Блокировка клиентов обеспечивает дополнительный уровень контроля, предлагая клиентам возможность явной авторизации доступа для операций службы. Демонстрация того, что для явной авторизации доступа к данным имеются процедуры, служба блокировки клиентов также может помочь организациям выполнить определенные обязательства по обеспечению соответствия требованиям, такие как HIPAA и FEDRAMP.
+Lockbox клиента предоставляет дополнительный уровень управления, предлагая клиентам возможность предоставления явной авторизации доступа для операций службы. Демонстрируя, что для явного разрешения доступа к данным есть процедуры, клиент lockbox также может помочь организациям выполнить определенные обязательства по соблюдению, такие как HIPAA и FedRAMP.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Блокировка клиентов гарантирует, что никто в корпорации Майкрософт не сможет получить доступ к содержимому клиента для выполнения операции обслуживания без явного утверждения клиента. Клиентский блокировок позволяет клиенту в процесс утверждения запросов на доступ к его содержимому. Иногда инженеры Майкрософт участвуют в процессе поддержки для устранения неполадок и устранения проблем, о проблемах, о которые сообщили клиенты. В большинстве случаев проблемы устранены с помощью обширных средств телеметрии и отладки, доступных корпорации Майкрософт для своих служб. Однако в некоторых случаях инженеру майкрософт может потребоваться доступ к содержимому клиента для определения основной причины и устранения проблемы. Служба блокировки клиентов требует, чтобы инженер запрашивал доступ у клиента в качестве последнего шага в рабочий процесс утверждения. Это дает организациям возможность утверждать или отоать эти запросы, что дает им прямой контроль над тем, может ли инженер корпорации Майкрософт получать доступ к данным конечных пользователей организации.
+Lockbox клиента гарантирует, что никто в Корпорации Майкрософт не может получить доступ к содержимому клиента для выполнения операции службы без явного утверждения клиента. Lockbox клиента приводит клиента в рабочий процесс утверждения запросов для доступа к их содержимому. Иногда инженеры Майкрософт участвуют в процессе поддержки для устранения неполадок и устранения проблем, о чем сообщили клиенты. В большинстве случаев проблемы устранены с помощью обширных средств телеметрии и отладки, которые корпорация Майкрософт имеет для своих служб. Однако могут быть случаи, когда инженеру Корпорации Майкрософт требуется доступ к содержимому клиента для определения первопричины и устранения проблемы. Клиент lockbox требует от инженера запрашивать доступ у клиента в качестве последнего шага в рабочий процесс утверждения. Это дает организациям возможность утверждать или отказывать в этих запросах, что дает им прямой контроль над тем, может ли инженер Майкрософт получать доступ к данным конечных пользователей организации.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, соответствие требованиям Microsoft 365 E5/A5/G5, Управление рисками для предварительной оценки Microsoft 365 и office 365 Advanced Compliance предоставляют пользователю права на преимущества пользовательского lockbox.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 Insider Risk Management предоставляют пользователю права на выгоду от блокировки клиентов.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Администраторы могут включить блокировку клиентов в Центре администрирования Microsoft 365. Дополнительные сведения [см. в подзагоке "Блокировка клиента" в Office 365.](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) Если блок-система клиента включена, корпорация Майкрософт должна получить утверждение организации перед доступом к контенту.
+Администраторы могут включить блокировку клиента в центре администрирования Microsoft 365. Дополнительные сведения см. [в сообщении Customer Lockbox в Office 365.](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) При включенной блокировке клиента корпорация Майкрософт должна получить одобрение организации перед доступом к любому их содержимому.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-В настоящее время служба клиентского почтового ящика не может быть ограничена определенными пользователями. Необходимо лицензировать всех пользователей, которые вы собираетесь использовать.
+В настоящее время служба блокировки клиентов не может ограничиваться конкретными пользователями. Необходимо лицензировать каждого пользователя, который будет получать выгоду.
 
 ## <a name="privileged-access-management-in-office-365"></a>Управление привилегированным доступом в Office 365
 
-[Управление привилегированным доступом (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) обеспечивает детальное управление доступом к привилегированным задачам администратора в Office 365. После включения PAM, чтобы выполнить задачи с повышенными привилегиями, пользователям потребуется запросить прямой доступ через рабочий процесс утверждения с высокой областью действия и временем.
+[Управление привилегированным доступом (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) обеспечивает контроль над привилегированными задачами администратора в Office 365. После включения PAM для выполнения повышенных и привилегированных задач пользователям необходимо запросить доступ вовремя с помощью рабочего процесса утверждения, который имеет большой объем и зависит от времени.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Включение PAM позволяет организациям работать без постоянных привилегий. Пользователи получают преимущества от дополнительного уровня защиты от уязвимостей, возникающих из-за постоянного административного доступа, который обеспечивает неподтвержденный доступ к своим данным.
+Включение PAM позволяет организациям работать с нулевыми привилегиями. Пользователи получают пользу от дополнительного уровня защиты от уязвимостей, возникающих из-за постоянного административного доступа, который обеспечивает беспознанный доступ к своим данным.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы? 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы? 
 
-Office 365 E5/A5, Microsoft 365 E5/A5, соответствие требованиям Microsoft 365 E5/A5 и Защита информации Microsoft 365 E5/A5 предоставляют пользователю права на преимущества PAM.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance и Microsoft 365 E5/A5 Information Protection and Governance предоставляют пользователю права на преимущества PAM.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции PAM включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик PAM см. в руководстве ["Начало работы с управлением привилегированным доступом".](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)
+По умолчанию функции PAM включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке политик PAM см. в ссылке [Начало работы с управлением привилегированным доступом.](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Клиенты могут управлять PAM для каждого пользователя с помощью групп утвержденных и политик доступа, которые могут применяться к лицензированным пользователям. Дополнительные сведения [см. в руководстве по управлению привилегированным доступом в Office 365.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)
+Клиенты могут управлять PAM на основе каждого пользователя с помощью политик группы утверждения и доступа, которые могут применяться к лицензированным пользователям. Дополнительные сведения см. в [руководстве привилегированным доступом в Office 365.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)
 
-## <a name="double-key-encryption-for-microsoft-365"></a>Шифрование с двойным ключом для Microsoft 365 
+## <a name="double-key-encryption-for-microsoft-365"></a>Шифрование двойных ключей для Microsoft 365 
 
-Двойное шифрование ключей для Microsoft 365 позволяет защитить высококонфиденциальную информацию в удовлетворении специальных требований и обеспечить полный контроль над ключом шифрования. В службе двойного шифрования ключей используются два ключа для защиты данных: один ключ в вашем элементе управления и второй ключ надежно хранится в Microsoft Azure. Для просмотра данных необходимо иметь доступ к обоим ключам. Так как корпорация Майкрософт может получить доступ только к одному ключу, ваш ключ и ваши данные недоступны корпорации Майкрософт, обеспечивая полный контроль над конфиденциальностью и безопасностью ваших данных.
+Двойное шифрование ключей для Microsoft 365 позволяет защитить высокочувствительные данные для удовлетворения специализированных требований и поддерживать полный контроль над ключом шифрования. Для защиты данных используется два ключа шифрования с одним ключом в элементе управления и вторым ключом, надежно хранимым Microsoft Azure. Чтобы просмотреть данные, необходимо иметь доступ к обоим ключам. Так как Microsoft может получить доступ только к одному ключу, ваш ключ, а также данные недоступны Для Корпорации Майкрософт, обеспечивая полный контроль над конфиденциальностью и безопасностью данных.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи получают преимущества шифрования с помощью двойного ключа, так как могут перенести свои зашифрованные данные в облако, что препятствует доступу сторонних поставщиков, если ключ остается под контролем пользователей. Пользователи могут защищать и использовать содержимое, зашифрованное с помощью двойного ключа, аналогично любому другому защищенному содержимому с меткой конфиденциальности.
+Пользователи получают выгоду от шифрования двойных ключей, так как могут перенести зашифрованные данные в облако, что препятствует доступу сторонних пользователей до тех пор, пока ключ остается под контролем пользователей. Пользователи могут защищать и потреблять зашифрованное содержимое Double Key, аналогичное любому другому защищенному содержимому метки конфиденциальности.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/A5 и Office 365 Advanced Compliance предоставляют пользователям права на шифрование с двойным ключом.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance и Office 365 E5/A5/G5 предоставляют пользователю права на преимущества шифрования двойных ключей.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Двойное шифрование ключей поддерживает классические версии Microsoft Office для Windows.
+Двухместное шифрование ключей поддерживает десктопную версию Microsoft Office для Windows.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Чтобы назначить ключи шифрования данным в организации Office 365 и (или) Microsoft 365 лицензированным пользователям, следуйте инструкциям по развертыванию шифрования с двойным ключом.
+Чтобы назначить ключи шифрования данным в организации Office 365 и/или Microsoft 365 для лицензированных пользователей, следуйте инструкциям по развертыванию double Key Encryption.
 
-## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Предотвращение потери данных в Office 365 для Exchange Online, SharePoint Online и OneDrive для бизнеса
+## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Предотвращение потери данных Office 365 для Exchange Online, SharePoint Online и OneDrive для бизнеса
 
-Благодаря office 365 data loss prevention (DLP) для Exchange Online, SharePoint Online и OneDrive для бизнеса организации могут идентифицировать, отслеживать и автоматически защищать конфиденциальную информацию в электронных письмах и файлах (включая файлы, хранимые в хранилищах файлов Microsoft Teams).
+С помощью Office 365 по предотвращению потери данных (DLP) для Exchange Online, SharePoint Online и OneDrive для бизнеса организации могут идентифицировать, отслеживать и автоматически защищать конфиденциальные сведения в электронных письмах и файлах (включая файлы, хранимые в хранилищах файлов Microsoft Teams).
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи получают преимущества DLP для Exchange Online, SharePoint Online и OneDrive для бизнеса, когда их сообщения электронной почты и файлы проверяются на конфиденциальные сведения, настроенные в политике DLP организации.
+Пользователи получают преимущества от DLP для Exchange Online, SharePoint Online и OneDrive для бизнеса, когда их электронные почты и файлы проверяются для получения конфиденциальной информации, как это установлено в политике DLP организации.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 и Office 365 Data Loss Prevention предоставляют пользователю права на защиту от потери данных Office 365 для Exchange Online, SharePoint Online и OneDrive для бизнеса.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 и Office 365 Data Loss Prevention предоставляют пользователю права на доступ к DLP Office 365 для Exchange Online, SharePoint Online и OneDrive для бизнеса.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию сообщения электронной почты Exchange Online, сайты SharePoint и учетные записи OneDrive включены в расположения *(рабочие нагрузки)* для этих функций DLP для всех пользователей в клиенте. Дополнительные сведения об использовании политик защиты от потери данных см. в обзоре защиты [от потери данных.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+По умолчанию электронные почты Exchange Online, сайты SharePoint и учетные записи OneDrive включены в расположения *(рабочие нагрузки)* для этих функций DLP для всех пользователей в клиенте. Дополнительные сведения об использовании политик DLP см. в [обзоре предотвращения потери данных.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут настраивать расположения (рабочие нагрузки), включенных пользователей и исключенных пользователей в Центре безопасности & соответствия требованиям, в расположениях для защиты от **потери**  >  **данных.**
+Администраторы могут настраивать расположения (рабочие нагрузки), включаемые пользователи и исключенные пользователи в Центре обеспечения соответствия требованиям безопасности в соответствии с положениями о предотвращении потери &amp;   >  **данных.**
 
-## <a name="communication-data-loss-prevention-for-teams"></a>Предотвращение потери данных для Teams
+## <a name="communication-data-loss-prevention-for-teams"></a>Предотвращение потери данных для групп
 
-С помощью защиты от личных данных для Teams организации могут блокировать чаты и сообщения каналов, содержащие конфиденциальную информацию, например финансовые сведения, личные сведения, сведения о здоровье и другую конфиденциальную информацию.
+С помощью службы DLP-связи для teams организации могут блокировать чаты и сообщения каналов, содержащие конфиденциальные сведения, такие как финансовая информация, персональные данные, сведения, связанные со здоровьем, или другие конфиденциальные сведения.
 
-### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают преимущества от службы?
+### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 Information Protection и управления, а также Office 365 Advanced Compliance могут воспользоваться преимуществами защиты от lp для связи для Teams.
+Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5 и Microsoft 365 E5/A5/G5 Information Protection and Governance могут воспользоваться средствами защиты и управления данными для команд.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Преимущество отправителей — наличие конфиденциальной информации в исходях чатах и сообщениях каналов, проверяемых на наличие конфиденциальной информации, в зависимости от политики DLP организации.
+Отправители извлекают пользу из-за того, что конфиденциальные сведения в исходяющих чатах и сообщениях каналов проверяются на наличие конфиденциальной информации, как это было настроено в политике DLP организации.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию сообщения чата и канала Teams являются включенным *расположением (рабочей нагрузкой)* для этих функций DLP для всех пользователей в клиенте. Дополнительные сведения об использовании политик защиты от потери данных см. в обзоре защиты [от потери данных.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+По умолчанию сообщения чата и канала Teams являются включенной функцией Location *(workload)* для этих функций DLP для всех пользователей в клиенте. Дополнительные сведения об использовании политик DLP см. в [обзоре предотвращения потери данных.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут настраивать расположения (рабочие нагрузки), включенных пользователей и исключенных пользователей в Центре безопасности & соответствия требованиям, в расположениях для защиты от **потери**  >  **данных.**
+Администраторы могут настраивать расположения (рабочие нагрузки), включаемые пользователи и исключенные пользователи в Центре обеспечения соответствия требованиям безопасности в соответствии с положениями о предотвращении потери &amp;   >  **данных.**
 
 ## <a name="information-barriers"></a>Информационные барьеры
 
-Информационные барьеры — это политики, которые администратор может настроить, чтобы запретить отдельным лицам или группам общаться друг с другом. Это полезно, если, например, один отдел занимается сведениями, которые не должны быть общими для других отделов, или если группе необходимо запретить общение с внешними контактами. Политики информационных барьеров также препятствуют подыском и обнаружению. Это означает, что если вы попытаетесь связаться с кем-то, с кем не следует взаимодействовать, вы не найдете этого пользователя в средстве "Выбор людей".
+Информационные барьеры — это политики, которые администратор может настроить, чтобы запретить отдельным лицам или группам общаться друг с другом. Это полезно, если, например, один отдел занимается обработкой сведений, которые не следует делиться с другими отделами, или группе необходимо запретить общаться с внешними контактами. Политики информационного барьера также препятствуют обнаружению и обнаружению. Это означает, что если вы попытаетесь связаться с кем-то, с кем не следует общаться, этот пользователь не будет находиться в средстве поиска людей.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи получают преимущества расширенных возможностей соответствия требованиям информационных барьеров, когда им запрещено общаться с другими пользователями. Например:<br><br>
+Пользователи получают выгоду от расширенных возможностей обеспечения соответствия требованиям информационных барьеров, когда им запрещено общаться с другими пользователями. Политики информационных барьеров можно определить, чтобы предотвратить связь определенных сегментов пользователей с каждым или разрешить определенным сегментам общаться только с определенными другими сегментами. Дополнительные сведения о определении политик информационного барьера см. в дополнительных сведениях [о политике "Определение политик информационного барьера".](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies) Для сценариев, в которых две группы не могут общаться друг с другом, пользователям обеих групп требуется лицензия для получения выгоды от службы (см. ниже пример).<br><br>
 
-| Сценарий | Кому требуется лицензия? |
-|:------|:------|:------|
-| Две группы (группа 1 и группа 2) не могут взаимодействовать друг с другом (то есть пользователям группы 1 запрещено взаимодействовать с пользователями группы 2, а пользователям группы 2 запрещено взаимодействовать с пользователями группы &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1). | Пользователи в группах &nbsp; 1 и &nbsp; 2 |
+| Сценарий | Кому нужна лицензия? |
+|:------|:------|
+| Две группы (группа 1 и группа 2) не могут общаться друг с другом (то есть пользователи группы 1 не могут общаться с пользователями группы 2, а пользователи группы 2 не могут общаться с пользователями группы &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. | Пользователи в группе &nbsp; 1 и группе &nbsp; 2 |
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management, Office 365 E5/A5 и Office 365 Advanced Compliance предоставляют пользователям права на преимущества информационных барьеров.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Insider Risk Management и Office 365 E5/A5/G5 предоставляют пользователям права на защиту от информационных барьеров.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Администраторы создают политики информационных барьеров и управляют ими с помощью рабочихлетов PowerShell в Центре безопасности & соответствия требованиям. Чтобы создать политику информационных барьеров, администраторы должны быть назначены глобальному администратору Microsoft 365 корпоративный, глобальному администратору Office 365 или администратору соответствия требованиям. По умолчанию эти политики применяются к всем пользователям в клиенте. Дополнительные сведения о информационных барьерах см. в информационных [барьерах в Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
+Администраторы создают и управляют политиками информационного барьера с помощью cmdlets PowerShell в Центре соответствия &amp; требованиям безопасности. Администраторы должны быть назначены глобальному администратору Microsoft 365, глобальному администратору Office 365 или администратору соответствия требованиям для создания политики информационного барьера. По умолчанию эти политики применяются к всем пользователям в клиенте. Дополнительные сведения о информационных барьерах см. в дополнительных сведениях [о информационных барьерах в Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы могут настраивать расположения (рабочие нагрузки), включенных пользователей и исключенных пользователей в Центре безопасности & соответствия требованиям. Например, если у всех пользователей есть лицензия на Office 365 E3 и ни у одного из них нет лицензий на Office 365 Advanced Compliance/E5, им не потребуется создавать политики информационных барьеров для организации. Дополнительные сведения [см. в информационных барьерах в Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
+Администраторы могут настраивать расположения (рабочие нагрузки), включаемые пользователи и исключенные пользователи в Центре соответствия &amp; требованиям безопасности. Например, если все пользователи имеют лицензию на Office 365 E3, а для Office 365 Advanced Compliance/E5 нет лицензии, им не потребуется создавать политики информационного барьера для организации. Дополнительные сведения см. в [дополнительных сведениях о информационных барьерах в Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
 
 ## <a name="office-365-message-encryption"></a>Шифрование сообщений Office 365
 
@@ -537,126 +563,126 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk 
 
 Для просмотра зашифрованных сообщений получатели могут получить одноразовый пароль, войти с учетной записью Майкрософт либо войти с помощью рабочей или учебной учетной записи, связанной с Office 365. Получатели также могут отправлять зашифрованные ответы. Им не нужна подписка для просмотра зашифрованных сообщений или отправки зашифрованных ответов.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Отправителю сообщений предоставляется дополнительный контроль над конфиденциальными сообщениями, предоставляемыми службой шифрования сообщений Office 365.
+Отправители сообщений получают дополнительный контроль над конфиденциальными электронными сообщениями, предоставляемыми шифрованием сообщений Office 365.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E3/A3, Office 365 E3/A3 и Azure Information Protection (план 1) предоставляют пользователю права на использование шифрования сообщений Office 365.
+Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 и Azure Information Protection Plan 1 предоставляют пользователю права на использование шифрования сообщений Office 365.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Администраторы создают политики шифрования сообщений Office 365 и управляют ими в Центре администрирования Exchange в соответствии с **правилами потока обработки**  >  **почты.** По умолчанию эти правила применяются к всем пользователям в клиенте. Дополнительные сведения о настройке новых возможностей шифрования сообщений Office 365 см. в дополнительных сведениях о настройке новых возможностей [шифрования сообщений.](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)
+Администраторы создают и управляют политиками шифрования сообщений Office 365 в центре администрирования Exchange в соответствии **с правилами потока**  >  **почты.** По умолчанию эти правила применяются для всех пользователей в клиенте. Дополнительные сведения о настройке новых возможностей шифрования сообщений Office 365 см. в дополнительных сведениях о новых возможностях [шифрования сообщений.](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы должны применять правила потока почты для шифрования сообщений Office 365 только к лицензированным пользователям. Дополнительные сведения об определении правил потока почты см. в подпишитесь на определение правил потока почты [для шифрования сообщений электронной почты.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
+Администраторы должны применять правила потока почты для шифрования сообщений Office 365 только к лицензированным пользователям. Дополнительные сведения о определении правил потока почты см. в тексте Определение правил потока почты [для шифрования сообщений электронной почты.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
 
 ## <a name="office-365-advanced-message-encryption"></a>Расширенное шифрование сообщений Office 365
 
-Расширенные возможности шифрования сообщений Office 365 помогают клиентам выполнять обязательства по обеспечению соответствия требованиям, которые требуют более гибкого контроля над внешними получателями и их доступом к зашифрованным электронным письмам. С помощью расширенного шифрования сообщений администраторы могут управлять конфиденциальными сообщениями электронной почты, общими за пределами организации, с помощью автоматических политик, которые могут обнаруживать типы конфиденциальной информации (например, персональные данные, финансовые или медицинские коды) или использовать ключевые слова для повышения защиты путем применения настраиваемой шаблонов электронной почты и истечения срока доступа к зашифрованным электронным письмам через безопасный веб-портал. Кроме того, администраторы могут дополнительно контролировать зашифрованные сообщения электронной почты, к которых был доступ через безопасный веб-портал, отменив доступ в любое время.
+Шифрование расширенных сообщений Office 365 помогает клиентам выполнять обязательства по обеспечению соответствия требованиям, которые требуют более гибкого контроля над внешними получателями и доступа к зашифрованным электронным письмам. С помощью расширенного шифрования сообщений администраторы могут управлять конфиденциальными электронными сообщениями, общими за пределами организации, с помощью автоматических политик, которые могут обнаруживать типы конфиденциальной информации (например, персональные идентификации информации или финансовые или медицинские идентификации), или они могут использовать ключевые слова для повышения защиты, применяя настраиваемые шаблоны электронной почты и истекая доступ к зашифрованным электронным письмам через защищенный веб-портал. Кроме того, администраторы могут дополнительно управлять зашифрованными электронными письмами, к которых можно получить доступ извне через безопасный веб-портал, отменив доступ в любое время.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Отправителю сообщений предоставляется дополнительный контроль над конфиденциальными сообщениями электронной почты, предоставляемый расширенным шифрованием сообщений.
+Отправители сообщений получают дополнительный контроль над конфиденциальными электронными сообщениями, предоставляемыми расширенным шифрованием сообщений.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Office 365 E5/A5, Microsoft 365 E5/A5, соответствие требованиям Microsoft 365 E5/A5, Защита информации и управление Microsoft 365, а также office 365 Advanced Compliance предоставляют пользователям права на расширенные шифрования сообщений.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 Information Protection and Governance предоставляют пользователям права на защиту и управление расширенным шифрованием сообщений.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Администраторы создают и управляют политиками шифрования расширенных сообщений в Центре администрирования Exchange в соответствии **с правилами потока обработки**  >  **почты.** По умолчанию эти правила применяются к всем пользователям в клиенте. Дополнительные сведения о настройке новых возможностей шифрования сообщений см. в дополнительных сведениях о настройке новых возможностей шифрования [сообщений Office 365.](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)
+Администраторы создают и управляют политиками шифрования расширенных сообщений в центре администрирования Exchange в соответствии **с правилами потока**  >  **почты.** По умолчанию эти правила применяются для всех пользователей в клиенте. Дополнительные сведения о создании новых возможностей шифрования сообщений см. в дополнительных сведениях о настройке новых возможностей шифрования [сообщений Office 365.](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы должны применять правила потока почты для advanced Message Encryption только к лицензированным пользователям. Дополнительные сведения об определении правил потока почты см. в подпишитесь на определение правил потока почты для шифрования сообщений электронной почты [в Office 365.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
+Администраторы должны применять правила потока почты для предварительного шифрования сообщений только к лицензированным пользователям. Дополнительные сведения о определении правил потока почты см. в тексте Определение правил потока почты для шифрования сообщений электронной почты [в Office 365.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
 
 ## <a name="communication-compliance"></a>Соответствие требованиям к обмену данными
 
-Соответствие коммуникации в Microsoft 365 помогает свести к минимуму риски для связи, помогая обнаруживать, захватывать и принимать меры по исправлению недопустимых сообщений в организации. Вы можете определить определенные политики, которые захватывают внутреннюю и внешнюю электронную почту, Microsoft Teams или сторонние коммуникации в вашей организации. Проверяющие могут принять соответствующие меры по исправлению, чтобы убедиться, что они соответствуют стандартам сообщений вашей организации.
+Соответствие требованиям к коммуникации в Microsoft 365 помогает свести к минимуму риски для связи, помогая обнаруживать, захватывать и принимать меры по исправлению неподобающего сообщения в организации. Можно определить определенные политики, которые захватывают внутреннюю и внешнюю электронную почту, Microsoft Teams или сторонние сообщения в организации. Проверяющие могут принимать соответствующие меры по исправлению, чтобы убедиться, что они соответствуют стандартам сообщений организации.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Специалисты по обеспечению соответствия требованиям получают преимущества от этой службы, отслеживая коммуникации организации с помощью политик соответствия требованиям к коммуникациям.
+Специалисты по обеспечению соответствия требованиям получают преимущество от службы, контролируя связи организации политиками соответствия требованиям.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance и Microsoft 365 Insider Risk Management предоставляют пользователю права на соответствие требованиям к данным.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 Insider Risk Management предоставляют пользователю права на соблюдение требований к связи.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-Администраторы и специалисты по обеспечению соответствия требованиям создают политики соответствия требованиям в Центре соответствия требованиям Microsoft 365. Эти политики определяют, какие сообщения и пользователи подлежат проверке в организации, определяют настраиваемые условия, которые должны соответствовать коммуникациям, и указывают, кто должен выполнять проверки.
+Администраторы и специалисты по обеспечению соответствия требованиям создают политики соответствия требованиям в центре соответствия требованиям Microsoft 365. Эти политики определяют, какие сообщения и пользователи подлежат проверке в организации, определяют настраиваемые условия, которые должны соответствовать коммуникациям, и определяют, кто должен выполнять обзоры.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Администраторы выбирают определенных пользователей или группы, которые необходимо включить в политику соответствия требованиям к коммуникациям. При выборе группы они также могут выбрать определенных пользователей в группе, которые будут исключены из политики соответствия требованиям к коммуникациям. Дополнительные сведения о политиках соответствия требованиям к коммуникациям см. в сведениях о том, как начать работу с соответствием требованиям в Отношении связи [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+Администраторы выбирают определенных пользователей или групп, чтобы включить их в политику соответствия требованиям. При выборе группы они также могут выбрать определенных пользователей в группе, чтобы исключить их из политики соответствия требованиям. Дополнительные сведения о политиках соответствия требованиям к коммуникациям см. в ссылке Начало работы с соблюдением требований к связи [в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
 ## <a name="insider-risk-management"></a>Управление внутренними рисками
 
-Управление внутренними рисками — это решение в Microsoft 365, которое помогает свести к минимуму внутренние риски, позволяя обнаруживать, исследовать и принимать меры в отношении рискованных действий в организации.
+Управление рисками изнутри — это решение в Microsoft 365, которое помогает свести к минимуму внутренние риски, позволяя обнаруживать, исследовать и принимать меры по рискованным действиям в организации.
 
-Настраиваемые политики позволяют обнаруживать вредоносные и непреднамеренные рискованные действия в организации, в том числе при необходимости переадружать дела в службу Microsoft Advanced eDiscovery. Аналитики рисков в организации могут быстро принять соответствующие меры, чтобы убедиться, что пользователи соответствуют стандартам соответствия вашей организации.
+Настраиваемые политики позволяют обнаруживать и принимать меры по вредоносным и непреднамеренно рискованным действиям в вашей организации, в том числе при необходимости переадружать дела в Microsoft Advanced eDiscovery. Аналитики рисков в вашей организации могут быстро принять соответствующие меры, чтобы убедиться, что пользователи соответствуют стандартам соответствия требованиям организации.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Пользователи получают преимущества, отслеживая свою деятельность на наличие риска.
+Пользователи получают выгоду от мониторинга их действий на риск.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на преимущества службы?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance и Microsoft 365 Insider Risk Management предоставляют пользователю права на преимущества управления рисками для программы оценки.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 Insider Risk Management предоставляют пользователю права на преимущества управления рисками.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-В Центре соответствия требованиям Microsoft 365 должны быть созданы и назначены пользователям политики управления рисками для участников программы.
+Политики управления рисками изнутри должны быть созданы в центре соответствия требованиям Microsoft 365 и назначены пользователям.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-При создании политики в Центре соответствия требованиям Microsoft 365 на  странице "Выбор пользователей и групп" выберите "Выбрать пользователей или группы", чтобы  выбрать только лицензированных пользователей, или, если у всех пользователей есть лицензии, вы можете выбрать "Все пользователи и группы с включенной поддержкой почты".  Дополнительные сведения см. в руководстве ["Начало работы с управлением рисками внутри организации".](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)
+При создании политики в центре соответствия требованиям Microsoft 365 на  странице Выбор пользователей и групп выберите Выберите пользователей или группы, чтобы выбрать только  лицензированных пользователей, или, если у всех пользователей есть лицензия, вы можете выбрать контрольный окне Все пользователи и группы с поддержкой почты.  Дополнительные сведения см. в [дополнительных сведениях, связанных с управлением рисками изнутри.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)
 
 ## <a name="conditional-access-policies"></a>Политики условного доступа
 
-Условный доступ — это средство, используемое Azure Active Directory для совместной работы сигналов, принятия решений и применения политик организации. Условный доступ находится в основе управления на основе удостоверений. Политики условного доступа — это, по крайней мере, простые, утверждения if-then. Если пользователь хочет получить доступ к ресурсу, ему необходимо выполнить действие. Пример: менеджер по зарплате хочет получить доступ к приложению для ведомости и должен выполнить многофакторную проверку подлинности для доступа к нему.
+Условный доступ — это средство, используемое Azure Active Directory для слаживки сигналов, принятия решений и применения организационных политик. Условный доступ находится в центре управления, управляемого удостоверением. Политики условного доступа в простейшем случае — это утверждения if-then. Если пользователь хочет получить доступ к ресурсу, ему необходимо выполнить действие. Пример: менеджер по заработной плате хочет получить доступ к приложению заработной платы и должен выполнить многофакторную проверку подлинности, чтобы получить к нему доступ.
 
-### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают преимущества от службы?
+### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3/Business Premium и Azure Active Directory Premium (план 1) могут воспользоваться политиками условного доступа. Лицензированные пользователи Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security и Azure Active Directory Premium (план 2) могут воспользоваться преимуществами защиты идентификации (политики условного доступа на основе рисков).
+Лицензированные пользователи корпоративной мобильности и безопасности E3/A3, Microsoft 365 F3/E3/A3/Business Premium и Azure Active Directory Premium Plan 1 могут воспользоваться политиками условного доступа. Лицензированные пользователи корпоративной мобильности и безопасности E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5/G5 Security и Azure Active Directory Premium Plan 2 могут воспользоваться преимуществами защиты удостоверений (политики условного доступа на основе риска).
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Аналитики операций безопасности и специалисты по безопасности получают преимущество благодаря возможности применять политики организации к пользователям, требуя от них выполнения определенных критериев перед предоставлением доступа к корпоративному контенту. Конечные пользователи получают доступ к своей работе везде и по своему выбору, защищая ресурсы организации.
+Аналитики операций безопасности и специалисты по безопасности получают преимущество, имея возможность применять организационные политики для пользователей, требуя от них соблюдения определенных критериев перед предоставлением доступа к корпоративному контенту. Конечные пользователи получают выгоду от возможности получать доступ к своей работе везде и по своему выбору, защищая при этом активы организации.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
 По умолчанию функции условного доступа включены на уровне клиента для всех пользователей в клиенте.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-В частности, для защиты идентификации и условного доступа пользователь должен быть включен в группу или добавлен в политику условного доступа. Условие пользователей и групп является обязательным в политике условного доступа. В политике можно выбрать либо всех пользователей, **либо** определенных пользователей и группы. Следует выбирать только соответствующих лицензированных пользователей и группы. Дополнительные сведения см. в [условном доступе: условия.](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)
+В частности, для защиты удостоверений и условного доступа пользователь должен быть включен в группу или добавлен в политику условного доступа. Условие пользователей и групп является обязательным в политике условного доступа. В политике можно выбрать всех пользователей **или** определенных пользователей и групп. Следует выбирать только соответствующих лицензированных пользователей и групп. Дополнительные сведения см. в [условном доступе.](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)
 
 ## <a name="advanced-audit"></a>Расширенный аудит
 
-Расширенный аудит в Microsoft 365 обеспечивает однолетний срок хранения журналов аудита для действий пользователей и администраторов и позволяет создавать настраиваемые политики хранения журнала аудита для управления хранением журнала аудита для других служб Microsoft 365. Кроме того, он предоставляет доступ к важным событиям для расследований и доступ к API действий управления Office 365 с высокой пропускной способностью. Дополнительные сведения [см. в дополнительных сведениях об аудите в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
+Расширенный аудит в Microsoft 365 предоставляет однолетнее хранение журналов аудита для действий пользователя и администратора и предоставляет возможность создавать настраиваемые политики хранения журналов аудита для управления хранением журналов аудита для других служб Microsoft 365. Он также предоставляет доступ к важнейшим событиям для расследований и высокой пропускной способности к API управления Office 365. Дополнительные сведения см. в [расширенных аудитах в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
 
-Вы также можете включить срок хранения в 10 лет с помощью SKU надстройки. SKU надстройки потребуется с начала 2021 г.
+Кроме того, можно включить срок хранения в 10 лет с помощью надстройки SKU. Надстройка SKU потребуется с начала 2021 г.
 
-### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают преимущества от службы?
+### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Office 365 E5, Microsoft 365 E5, соответствия требованиям Microsoft 365 E5 и службы eDiscovery и аудита Microsoft 365 могут воспользоваться расширенным аудитом.
+Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 eDiscovery and Audit могут воспользоваться расширенным аудитом.
 
-Лицензированные пользователи с расширенным аудитом и 10-летней надстройой хранения журнала аудита могут воспользоваться преимуществами 10-летнего хранения журнала аудита.
+Лицензированные пользователи с расширенным аудитом и надстройка хранения журналов аудита сроком на 10 лет могут воспользоваться 10-летней возможностью хранения журналов аудита.
 
-### <a name="how-do-users-benefit-from-the-service"></a>Преимущества службы для пользователей
+### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-Расширенный аудит дает пользователям преимущества, так как записи аудита, связанные с действиями пользователей в службах Microsoft 365, могут храниться в течение одного года. Кроме того, занося в журнал события аудита с высоким значением, такие как доступ или чтение элементов в почтовом ящике пользователя. Дополнительные сведения см. в [дополнительных сведениях об аудите в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
+Пользователи могут использовать расширенный аудит, так как записи аудита, связанные с активностью пользователей в службах Microsoft 365, могут храниться до одного года. Кроме того, регистрируются события аудита с высокой ценностью, например при доступе или прочтение элементов в почтовом ящике пользователя. Дополнительные сведения см. в [расширенных аудитах в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>Как служба была размещена или развернута?
+### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию расширенный аудит включен на уровне клиента для всех организаций с подпиской на Office 365 или Microsoft 365 E5 и автоматически предоставляет однолетний срок хранения журналов аудита для действий (выполняемых пользователями с соответствующей лицензией) в Azure Active Directory, Exchange и SharePoint. Кроме того, организации могут использовать политики хранения журнала аудита для управления периодом хранения записей аудита, созданных действиями в других службах Microsoft 365. 10-летнее хранение журнала аудита также включено с помощью тех же политик хранения. Дополнительные сведения см. в статье [Управление политиками хранения журнала аудита](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+По умолчанию расширенный аудит включен на уровне клиента для всех организаций, которые имеют подписку Office 365 или Microsoft 365 E5/A5/G5 и автоматически предоставляет однолетнее хранение журналов аудита для действий (выполняемых пользователями с соответствующей лицензией) в Azure Active Directory, Exchange и SharePoint. Кроме того, организации могут использовать политики хранения журналов аудита для управления периодом хранения записей аудита, созданных в результате действий в других службах Microsoft 365. 10-летняя функция хранения журналов аудита также включена с помощью тех же политик хранения. Дополнительные сведения см. в статье [Управление политиками хранения журнала аудита](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям клиента, у которых есть лицензия на службу?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Однолетний срок хранения журналов аудита и аудит важных событий применяется только к пользователям с соответствующей лицензией. Кроме того, администраторы могут использовать политики хранения журнала аудита, чтобы указать более короткие сроки хранения для журналов аудита определенных пользователей.
+Однолетнее хранение журналов аудита и аудит важных событий применяются только к пользователям с соответствующей лицензией. Кроме того, администраторы могут использовать политики хранения журналов аудита, чтобы указать более короткие сроки хранения журналов аудита определенных пользователей.
 
-10-летнее хранение журналов аудита применяется только к пользователям с соответствующей лицензией на надстройки. SKU надстройки потребуется с начала 2021 г.
+10-летнее хранение журналов аудита применяется только к пользователям с соответствующей лицензией надстройки. Надстройка SKU потребуется с начала 2021 г.
