@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: 4949989b9c5f7b46e53e8958e88d466f58dd216f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460268"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572715"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
 
@@ -112,7 +112,7 @@ Microsoft 365 Government уникально разработан для соот
 
 Выполните следующие действия, чтобы приобрести государственные лицензии Microsoft 365:
 
-1. Заполните и отправьте форму [для GCC](https://azure.microsoft.com/global-infrastructure/government/request/) или [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) для проверки прав организации.
+1. Заполните и отправьте форму [для GCC](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) или [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) для проверки прав организации.
 2. Работа с командой учетных записей Майкрософт или квалифицированным партнером, чтобы разместить заказ. Клиенты могут приобретать Microsoft 365 для государственных лицензий США только через выбранных партнеров.
 
 **LSPs GCC и GCC High (+500 мест)**
