@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726704"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901940"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -30,11 +30,11 @@ SharePoint в Microsoft 365 помогает организациям обмен
 
 Краткий обзор см. [в раздел Что такое SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Чтобы узнать, какие планы включают SharePoint, [мощные средства для поддержки вашего предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans) Требования к системе Microsoft 365 см. в [веб-сайте Microsoft 365 и Office Resources.](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4) 
+Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Требования к системе Microsoft 365 см. в [веб-сайте Microsoft 365 и Office Resources.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 Подробнее о различиях функций SharePoint для государственных облачных клиентов США см. в [разделе SharePoint для правительственных сред США.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
   
-## <a name="whats-new"></a>Что нового
+## <a name="whats-new"></a>Новые возможности
 
 Сведения о последних выпусках функций см. в раздел [Что нового в SharePoint.](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
   
