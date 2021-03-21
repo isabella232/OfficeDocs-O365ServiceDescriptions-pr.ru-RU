@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154407"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901954"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -26,7 +26,7 @@ OneDrive для рабочих и школьных учетных записей
   
 OneDrive включен в планы Microsoft 365 и Office 365, в планы SharePoint, а также может быть приобретен как самостоятельный план. 
     
-Для сравнения планов см. разделы [Мощные инструменты поддержки вашего предприятия](https://go.microsoft.com/fwlink/?linkid=799177) и [Сравнить планы OneDrive для бизнеса](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Подробные сведения о планах, позволяющих использовать OneDrive, см. в [полной таблице сравнения подписок](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) и в разделе [Сравнение планов OneDrive для бизнеса](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Автономные планы OneDrive включают Office для Интернета. 
@@ -133,7 +133,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 Если не указано иное, следующие функции доступны во всех планах, включая OneDrive и все автономные планы OneDrive:
 
 - [Запросы доступа](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Ссылки "Все"](/Office365/Enterprise/best-practices-anonymous-sharing) (для которых можно настроить обязательный срок действия) 
+- [Ссылки "Все"](/Office365/Enterprise/best-practices-anonymous-sharing) (для которых можно настроить обязательный срок действия) 
 - [В упоминании в комментариях](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Требуется план, включающий Office 365 для Интернета или настольные приложения Office 365.
 - [Запросы файлов](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Управление ссылкой для обмена по умолчанию ([на уровне организации](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) и [для каждого сайта](/sharepoint/change-default-sharing-link))
