@@ -10,22 +10,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
-description: Администраторы Майкрософт могут просматривать отчеты о том, как ваша организация использует службы Майкрософт. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Вы также можете создавать собственные отчеты с помощью веб-служб отчетов Microsoft 365. Администраторы Exchange Online и Exchange Online Protection (EOP) могут использовать отчеты о защите почты для просмотра данных о вредоносных и нежелательных сообщениях, а также об обнаружении правил.
-ms.openlocfilehash: e013a38446af676534043529ad285b7042c6ee34
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Администраторы Корпорации Майкрософт могут просматривать отчеты, показывающие, как ваша организация использует службы Майкрософт. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Вы также можете создавать собственные отчеты с помощью веб-служб microsoft 365 отчетов. Администраторы Exchange Online и Exchange Online Protection (EOP) могут использовать отчеты о защите почты для просмотра данных об обнаружении вредоносных программ, нежелательной почты и правил.
+ms.openlocfilehash: b3a83bf310c3cec7fed4ebd36bacc2202ff8ec79
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131853"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172834"
 ---
 # <a name="reports"></a>Отчеты
 
-Администраторы Майкрософт могут просматривать отчеты о том, как ваша организация использует службы Майкрософт. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Вы также можете создавать собственные отчеты с помощью веб-служб отчетов Microsoft 365. Администраторы Exchange Online и Exchange Online Protection (EOP) могут [использовать отчеты о защите почты для просмотра данных о вредоносных и нежелательных сообщениях, а также об обнаружении правил](https://go.microsoft.com/fwlink/p/?LinkId=401102).
+Администраторы Корпорации Майкрософт могут просматривать отчеты, показывающие, как ваша организация использует службы Майкрософт. С помощью этих отчетов можно выявлять проблемы, фильтровать данные и загружать данные в Microsoft Excel. Вы также можете создавать собственные отчеты с помощью веб-служб microsoft 365 отчетов. Администраторы Exchange Online и Exchange Online Protection (EOP) могут использовать отчеты о защите почты для просмотра данных об обнаружении вредоносных программ, нежелательной почты [и правил.](/exchange/monitoring/use-mail-protection-reports)
   
-Дополнительные сведения см. в статье [Просмотр и загрузка отчетов об использовании службы](https://go.microsoft.com/fwlink/p/?LinkID=270182). Для Office 365 под управлением 21Vianet обратитесь к разделу [Просмотр и скачивание отчетов для office 365 под управлением 21vianet](https://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409).
+Дополнительные сведения см. в [обзоре и загрузке отчетов об использовании службы.](/microsoft-365/admin/activity-reports/activity-reports) Для Office 365, выполняемой 21Vianet, см. отчеты о просмотре и загрузке [Office 365, выполняемые 21Vianet.](/microsoft-365/admin/activity-reports/activity-reports)
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть сведения о доступности функций в планах, ознакомьтесь со статьей [Microsoft 365 и Office 365 Platform Service Description](office-365-platform-service-description.md).
-  
-
+Чтобы просмотреть доступность функций в планах, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)

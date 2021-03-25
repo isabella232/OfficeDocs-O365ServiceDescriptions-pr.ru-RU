@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901954"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172734"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -85,7 +85,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 > [!NOTE]
 > Кроме того, предварительно необходимо назначить по крайней мере одну лицензию пользователю. 
   
-Если для отдельных пользователей требуется облачное хранилище с размером, превышающим начальные 5 ТБ, администраторы могут [зарегистрировать обращение в службу технической поддержки Майкрософт](https://go.microsoft.com/fwlink/?linkid=869559), чтобы запросить его. Предоставление дополнительного пространства в облачном хранилище происходит следующим образом: 
+Если для отдельных пользователей требуется облачное хранилище с размером, превышающим начальные 5 ТБ, администраторы могут [зарегистрировать обращение в службу технической поддержки Майкрософт](/microsoft-365/admin/contact-support-for-business-products), чтобы запросить его. Предоставление дополнительного пространства в облачном хранилище происходит следующим образом: 
   
 - Когда по меньшей мере 90 % пространства из доступных 5 ТБ в хранилище OneDrive использованы, корпорация Майкрософт увеличивает его объем до 25 ТБ на каждого пользователя. При необходимости администраторы могут устанавливать собственные ограничения для каждого пользователя. 
     
@@ -101,7 +101,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
   
 ## <a name="onedrive-limits"></a>Ограничения OneDrive
 
-Чтобы узнать об ограничениях файлов и синхронизации, см. [Ограничения SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) и [Неверные имена файлов и типы файлов](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+Чтобы узнать об ограничениях файлов и синхронизации, см. [Ограничения SharePoint](./sharepoint-online-service-description/sharepoint-online-limits.md) и [Неверные имена файлов и типы файлов](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Для планов, которые включают неограниченное облачное хранилище для отдельных пользователей, обратите внимание, что ограничения могут применяться к функциям, не связанным с хранением. 
 
@@ -185,5 +185,4 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 ## <a name="it-admin-security-and-compliance-features"></a>Функции ИТ-администратора, безопасности и соответствия
 
-Для получения информации об этих функциях см. [Описание службы SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
-
+Для получения информации об этих функциях см. [Описание службы SharePoint](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572715"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173004"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
 
@@ -88,14 +88,14 @@ Microsoft 365 Government уникально разработан для соот
 Дополнительные данные о службах, доступных в Microsoft 365 Government, см. в следующих ресурсах:
 
 - [Описание правительственной службы Office 365](office-365-us-government.md)
-- [Описание корпоративной мобильности и безопасности для государственных служб США](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender для конечной точки для государственных клиентов США](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Развертывание команд для правительства и GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Группы для развертывания правительственных служб и doD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook для iOS и Android в облаке правительственных сообществ](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps правительство США](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender для конечной точки для государственных клиентов США](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook для iOS и Android в облаке правительственных сообществ](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
 - [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -103,7 +103,7 @@ Microsoft 365 Government уникально разработан для соот
 
 В следующей таблице показаны параметры, которые могут учитывать потребности каждого сегмента.<br><br> 
 
-| Элемент | GCC | GCC High | DoD |
+| Item | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |Gov для правительства, GOVCON для коммерческих |GCC High |DOD | 
 |**Канал** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |
@@ -173,14 +173,14 @@ Microsoft 365 Government уникально разработан для соот
 Дополнительные информацию о Microsoft 365 Government см. в следующих ресурсах.
 
 - [Описание правительственной службы Office 365](office-365-us-government.md)
-- [Описание корпоративной мобильности и безопасности для государственных служб США](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender для конечной точки для государственных клиентов США](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Развертывание команд для правительства и GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Группы для развертывания правительственных служб и doD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook для iOS и Android в облаке правительственных сообществ](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps правительство США](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender для конечной точки для государственных клиентов США](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook для iOS и Android в облаке правительственных сообществ](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 - [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
 - [Страница Microsoft Government Industry](https://www.microsoft.com/enterprise/government)

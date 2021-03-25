@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности функций SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902029"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172934"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для государственных сред США
 
-В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании [службы SharePoint.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint доступен для сред правительственных сообществ (GCC), GCC High и DoD. 
+В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании [службы SharePoint.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) SharePoint доступен для сред правительственных сообществ (GCC), GCC High и DoD. 
 
-Дополнительные сведения о правительственном облаке, в том числе о правах и покупке, см. в сайте [Microsoft 365 Government — как покупать.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) Чтобы сопоставить планы правительства Office 365, см. в [этой информации.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Дополнительные сведения о правительственном облаке, в том числе о правах и покупке, см. в сайте [Microsoft 365 Government — как покупать.](./microsoft-365-government-how-to-buy.md) Чтобы сопоставить планы правительства Office 365, см. в [этой информации.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 Чтобы узнать о необходимых конечных точках при управлении сетевыми подключениями, см. в рублях [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) или [Office 365 U.S. Government DoD endpoints.](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)
 
@@ -52,13 +52,13 @@ ms.locfileid: "50902029"
 - Mover.io еще не поддерживается
 - Multi-geo не доступен для всех клиентов правительственных облаков
 
-Сведения о миграции FastTrack см. в описании [службы правительства США Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
+Сведения о миграции FastTrack см. в описании [службы правительства США Office 365.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Функции безопасности и соответствия требованиям
 
 Не существует известных различий между функциями безопасности и соответствия требованиям для коммерческих клиентов и функциями для государственных облачных клиентов.
 
-Сведения об особенностях безопасности и соответствия требованиям см. в центре [& соответствия](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)требованиям.
+Сведения об особенностях безопасности и соответствия требованиям см. в центре [& соответствия](../office-365-securitycompliance-center.md)требованиям.
 
 Сведения о правительственных функциях Azure Active Directory см. в документации [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
@@ -83,7 +83,7 @@ ms.locfileid: "50902029"
 
 ## <a name="sharing-and-sync"></a>Совместное использование и синхронизация
 
-О различиях между коммерческим облаком и облачной средой правительства см. в разделе [Файлообме-](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
+О различиях между коммерческим облаком и облачной средой правительства см. в разделе [Файлообме-](./gcc-high-and-dod.md#file-sharing)
 
 ## <a name="plan-for-governance"></a>Планирование управления
 

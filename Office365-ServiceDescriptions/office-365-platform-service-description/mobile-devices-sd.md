@@ -10,26 +10,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
-description: С Microsoft Office 365 можно использовать множество мобильных телефонов, планшетов и других мобильных устройств.
-ms.openlocfilehash: 78a58d7c394ef7ea871873570cac419d92fc5ceb
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Многие мобильные телефоны, планшеты и другие мобильные устройства можно использовать с Microsoft Office 365.
+ms.openlocfilehash: 8de2154581f81285fe0058822b4316cf2f53d974
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294087"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173504"
 ---
 # <a name="mobile-devices-service-description"></a>Описание службы мобильных устройств
 
-С Microsoft Office 365 можно использовать множество мобильных телефонов, планшетов и других мобильных устройств. 
+Многие мобильные телефоны, планшеты и другие мобильные устройства можно использовать с Microsoft Office 365. 
   
 - Сведения касательно конкретных мобильных устройств см. в статье [Сравнение работы Office 365 на различных мобильных устройствах](https://go.microsoft.com/fwlink/p/?LinkId=282337).
     
-- Сведения об использовании электронной почты на мобильных устройствах можно найти в статье [clients and Mobile Devices](../exchange-online-service-description/clients-and-mobile-devices.md) Service Description. 
+- Сведения об использовании электронной почты на мобильных устройствах см. в описании [службы клиенты и мобильные](../exchange-online-service-description/clients-and-mobile-devices.md) устройства. 
     
-- Сведения об основных возможностях мобильной работы и безопасности для Microsoft 365 приведены в [статье обзор базовых сведений о мобильности и безопасности для microsoft 365](https://go.microsoft.com/fwlink/?linkid=808602).
+- Сведения о базовой мобильности и безопасности для Microsoft 365 см. в обзоре базовой мобильности и безопасности [для Microsoft 365.](/microsoft-365/admin/basic-mobility-security/overview)
     
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Microsoft 365 и Office 365, ознакомьтесь со статьей [microsoft 365 и служба office 365 Platform Description](office-365-platform-service-description.md).
-  
-
+Чтобы просмотреть доступность функций в планах Microsoft 365 и Office 365, см. в описании служб платформ [Microsoft 365 и Office 365.](office-365-platform-service-description.md)

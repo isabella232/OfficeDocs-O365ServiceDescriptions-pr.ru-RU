@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: В Project Online доступны следующие основные функциональные возможности.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Следующие основные функции доступны в Project Online.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411588"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172714"
 ---
 # <a name="core-functionality"></a>Основная функциональность
 
-В Project Online доступны следующие основные функциональные возможности.
+Следующие основные функции доступны в Project Online.
   
-Сведения обо всех функциях Project Online см. Ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
+Сведения обо всех функциях Project Online см. Описание [службы Project Online.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Добавление столбцов
 
@@ -30,11 +30,11 @@ ms.locfileid: "49411588"
   
 ## <a name="backstage"></a>Backstage
 
-Выберите **файл** , чтобы использовать функции в Backstage, где можно управлять файлами проекта и данными о них. С помощью Backstage вы можете выполнить над файлами проекта действия, которые невозможно осуществить в этом файле,  создание, сохранение, просмотр скрытых метаданных или персональной информации и параметры настроек. 
+Выберите **Файл** для использования функций в закулисье, где можно управлять файлами проекта и данными о них. С помощью Backstage вы можете выполнить над файлами проекта действия, которые невозможно осуществить в этом файле,  создание, сохранение, просмотр скрытых метаданных или персональной информации и параметры настроек. 
   
 ## <a name="click-to-run"></a>Нажми и работай
 
-Быстрая установка Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носители, чтобы убедиться в том, что вы обновлены до последней версии приложения Project для настольных ПК. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Быстро установите Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носитли, чтобы убедиться, что вы в курсе последней версии настольного приложения Project. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 
@@ -50,7 +50,7 @@ ms.locfileid: "49411588"
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
-Графическое представление данных проекта с использованием диаграмм Ганта, сетевого графика, диаграмм, листов, использования и представлений форм. Ознакомьтесь со статьей [Выбор подходящего представления календарного плана проекта](https://go.microsoft.com/fwlink/?LinkId=402905).
+Представляем сведения о проекте графически с помощью диаграммы Gantt, сетевой диаграммы, графа, листа, использования и представлений форм. Ознакомьтесь со статьей [Выбор подходящего представления календарного плана проекта](https://go.microsoft.com/fwlink/?LinkId=402905).
   
 ## <a name="user-interface-the-ribbon"></a>Пользовательский интерфейс, лента
 
@@ -58,7 +58,7 @@ ms.locfileid: "49411588"
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Можно отменить сразу несколько изменений с помощью меню "отменить".
+Вы можете отменить несколько изменений одновременно с помощью меню Undo.
   
 ## <a name="network-diagram-view"></a>Представление "Сетевой график"
 
@@ -70,11 +70,11 @@ ms.locfileid: "49411588"
   
 ## <a name="online-help"></a>Интерактивная справка
 
-Справка по проекту доступна в Office.com или в руководстве Приступая к началу работы непосредственно в Project (выберите **файл** \> **создать**). [Эти видео помогут вам перейти на Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Справка по проекту доступна в Office.com или в руководстве по началу работы непосредственно в Project (выберите **Файл** \> **Новый).** [Эти видео помогут вам перейти на Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Сохраните файл проекта в формате PDF или XPS. Ознакомьтесь со статьей [Сохранение файла проекта в формате PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Сохраните файл Project в формате PDF или XPS-файла. Ознакомьтесь со статьей [Сохранение файла проекта в формате PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -102,4 +102,4 @@ ms.locfileid: "49411588"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Project Online.](project-online-service-description.md)

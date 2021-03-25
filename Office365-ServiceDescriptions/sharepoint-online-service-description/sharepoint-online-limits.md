@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте ограничения SharePoint для Microsoft 365 и автономные планы.
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726764"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172614"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -72,7 +72,7 @@ ms.locfileid: "50726764"
 Пользователь может принадлежать к 5000 группам на один сайт (коллекция сайтов), и каждая группа может иметь до 5000 пользователей. Вы можете иметь до 10 000 групп на сайт (коллекцию сайтов).
 
 > [!NOTE]
-> Для групп Azure AD ограничения и ограничения служб [Azure AD](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) см. в том, что такие ограничения могут повлиять на управление членством на сайтах государственных и частных групп.
+> Для групп Azure AD ограничения и ограничения служб [Azure AD](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) см. в том, что такие ограничения могут повлиять на управление членством на сайтах государственных и частных групп.
 
 ### <a name="managed-metadata"></a>Управляемые метаданные
 
@@ -87,19 +87,19 @@ ms.locfileid: "50726764"
 2 000 на сайт (коллекция сайтов). Мы рекомендуем создавать сайты и организовывать их в концентраторы, а не создавать подвиды. Если вы используете подвиды, рекомендуем ограничить их число (особенно на сайтах с интенсивной торговлей).
 
 > [!NOTE]
-> Ваша организация ограничена 2000 сайтов-концентраторов. Возможно, для каждой функции может не понадобиться веб-узел концентратора, и перед созданием концентраторов необходимо некоторое планирование. Дополнительные сведения можно получить на [сайте Planning your SharePoint hub sites.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
+> Ваша организация ограничена 2000 сайтов-концентраторов. Возможно, для каждой функции может не понадобиться веб-узел концентратора, и перед созданием концентраторов необходимо некоторое планирование. Дополнительные сведения можно получить на [сайте Planning your SharePoint hub sites.](/sharepoint/planning-hub-sites)
 
 ### <a name="sharepoint-hosted-applications"></a>Хост-приложения SharePoint
 
 20 000 экземпляров для организации.
 
-### <a name="users"></a>Пользователи
+### <a name="users"></a>Users
 
 2 миллиона на коллекцию сайтов.
 
 > [!NOTE]
-> Количество гостей, которые можно пригласить на сайты SharePoint, не является явным ограничением. Дополнительные сведения о внешнем совместном доступе см. в [разделе Внешний общий доступ.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+> Количество гостей, которые можно пригласить на сайты SharePoint, не является явным ограничением. Дополнительные сведения о внешнем совместном доступе см. в [разделе Внешний общий доступ.](/sharepoint/external-sharing-overview)
 
 ## <a name="see-also"></a>См. также
 
-[Ограничения поиска для SharePoint](https://docs.microsoft.com/sharepoint/search-limits)
+[Ограничения поиска для SharePoint](/sharepoint/search-limits)

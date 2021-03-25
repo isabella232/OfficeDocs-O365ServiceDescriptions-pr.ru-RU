@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901940"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174104"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -32,7 +32,7 @@ SharePoint в Microsoft 365 помогает организациям обмен
   
 Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Требования к системе Microsoft 365 см. в [веб-сайте Microsoft 365 и Office Resources.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-Подробнее о различиях функций SharePoint для государственных облачных клиентов США см. в [разделе SharePoint для правительственных сред США.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
+Подробнее о различиях функций SharePoint для государственных облачных клиентов США см. в [разделе SharePoint для правительственных сред США.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
 ## <a name="whats-new"></a>Новые возможности
 
@@ -54,7 +54,7 @@ OneDrive в Microsoft 365 — это хранилище для отдельны�
 
 ## <a name="apps"></a>Приложения
 
-Чтобы синхронизировать файлы SharePoint на компьютере, пользователи могут использовать приложение [синхронизации OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) для Windows или Mac. Сведения о доступности функций в приложении синхронизации см. в описании [службы OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description) 
+Чтобы синхронизировать файлы SharePoint на компьютере, пользователи могут использовать приложение [синхронизации OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) для Windows или Mac. Сведения о доступности функций в приложении синхронизации см. в описании [службы OneDrive.](../onedrive-for-business-service-description.md) 
 
 Чтобы работать с сайтами SharePoint на мобильном устройстве, они могут установить мобильное приложение SharePoint для [iOS, Android или Windows.](https://products.office.com/sharepoint/mobile-app) 
   
@@ -81,7 +81,7 @@ OneDrive в Microsoft 365 — это хранилище для отдельны�
 
 Дополнительные новости о доступности приложений Microsoft Power и Power Automate см. в [faqs.ru.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Дополнительные данные о доступности Microsoft Graph см. в описании служб платформ [Microsoft 365 и Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Дополнительные данные о доступности Microsoft Graph см. в описании служб платформ [Microsoft 365 и Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
 
 ## <a name="it-admin-features"></a>Функции ИТ-администрирования
 
@@ -110,7 +110,7 @@ OneDrive в Microsoft 365 — это хранилище для отдельны�
 
 Сведения о доступности служб миграции FastTrack можно найти в соответствующих службах [и планах.](/fasttrack/m365-eligible-services-and-plans) 
 
-Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](../onedrive-for-business-service-description.md)
 
 Справку об администраторе для SharePoint см. в [разделе Администратор SharePoint Online.](/sharepoint/sharepoint-online)
 
@@ -127,9 +127,9 @@ OneDrive в Microsoft 365 — это хранилище для отдельны�
 - [Восстановление библиотеки документов до предыдущей точки времени](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Сканирование вирусов](/office365/securitycompliance/virus-detection-in-spo)
 
-Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](../onedrive-for-business-service-description.md)
 
-SharePoint интегрируется с расширенными возможностями безопасности и соответствия требованиям Microsoft 365. Сведения о доступности следующих функций см. в описании [службы & безопасности:](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+SharePoint интегрируется с расширенными возможностями безопасности и соответствия требованиям Microsoft 365. Сведения о доступности следующих функций см. в описании [службы & безопасности:](../office-365-platform-service-description/office-365-securitycompliance-center.md)
 
 - [Защищенное хранилище пользователя](/microsoft-365/compliance/customer-lockbox-requests)
 - [Защита от потери данных (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ SharePoint интегрируется с расширенными возможн
 
 Дополнительные новости о доступности приложений Microsoft Power и Power Automate см. в [faqs.ru.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)
+Сведения об особенностях, связанных с совместной работой, см. в описании [службы OneDrive.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
 
 ## <a name="search-features"></a>Функции поиска
 
@@ -202,6 +202,4 @@ SharePoint интегрируется с расширенными возможн
 - [Центр поиска (классический поиск)](/sharepoint/manage-search-center)
 - [Схема поиска (классический и современный поиск)](/sharepoint/manage-search-schema)
 
-Сведения о delve см. в описании служб платформ [Microsoft 365 и Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description) 
-
-
+Сведения о delve см. в описании служб платформ [Microsoft 365 и Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md)
