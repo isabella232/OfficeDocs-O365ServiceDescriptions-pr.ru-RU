@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Ознакомьтесь с этой статьей, чтобы узнать Microsoft Exchange Online архива.
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173374"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215772"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -30,7 +30,7 @@ Microsoft Exchange Online архива — это облачное решени�
   
 ## <a name="available-plans"></a>Доступные планы
 
-Подробные сведения о планах подписки, которые позволяют пользователям архивация на базе Exchange Online, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Подробные сведения о планах подписки, которые позволяют пользователям архивация на базе Exchange Online, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 > [!TIP]
 > В описаниях служб можно экспортировать, сохранять и печатать страницы. Узнайте, как [экспортировать результаты поиска контента.](/office365/securitycompliance/export-search-results) 
@@ -77,7 +77,7 @@ Microsoft Exchange Online архива — это облачное решени�
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
-| Функция | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
+| Возможность | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[Функции архива в архивация на базе Exchange Online](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |

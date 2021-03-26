@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие функции SharePoint доступны в каких планах.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174104"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215742"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -30,7 +30,7 @@ SharePoint в Microsoft 365 помогает организациям обмен
 
 Краткий обзор см. [в раздел Что такое SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Требования к системе Microsoft 365 см. в [веб-сайте Microsoft 365 и Office Resources.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Требования к системе Microsoft 365 см. в [веб-сайте Microsoft 365 и Office Resources.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 Подробнее о различиях функций SharePoint для государственных облачных клиентов США см. в [разделе SharePoint для правительственных сред США.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
@@ -81,7 +81,7 @@ OneDrive в Microsoft 365 — это хранилище для отдельны�
 
 Дополнительные новости о доступности приложений Microsoft Power и Power Automate см. в [faqs.ru.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Дополнительные данные о доступности Microsoft Graph см. в описании служб платформ [Microsoft 365 и Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
+Дополнительные данные о доступности Microsoft Graph см. в описании служб платформ [Microsoft 365 и Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 ## <a name="it-admin-features"></a>Функции ИТ-администрирования
 

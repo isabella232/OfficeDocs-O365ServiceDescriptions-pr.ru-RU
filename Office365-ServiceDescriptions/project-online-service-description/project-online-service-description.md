@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online — это гибкое онлайн-решение для управления портфелями проектов (PPM) и повседневной работы. Поставляясь через Office 365, Project Online предоставляет мощные возможности управления проектами для планирования, приоритетов и управления проектами и инвестициями в портфель проектов практически из любой точки на любом устройстве. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172684"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215812"
 ---
 # <a name="microsoft-project-service-description"></a>Описание службы Microsoft Project
 
@@ -57,7 +57,7 @@ Project Online доступен по двум подпискам: Project Plan 3
 - Отправка расписаний
 - Совместное участие в работе с документами и совместное взаимодействие с пользователями Microsoft Teams или Skype для бизнеса
 
-Project Online Essentials не включает Project for the Web. Project Plan 1 включает Project for the web.
+Project Online Essentials не включает Project for the Web. Project Plan 1 включает в себя как Project for the web, так и Project Online Essentials.
 
 ### <a name="project-online-desktop-client"></a>Клиент для настольных компьютеров Project Online
 
@@ -128,7 +128,7 @@ Microsoft Project доступен через три различных подп
 
 ### <a name="project-online-features"></a>Функции Project Online
 
-Функции, перечисленные в этом разделе, взаимодействуют только с данными в хранилище данных Project Online SharePoint.<br><br>
+Функции, перечисленные в этом разделе, взаимодействуют только с данными в хранилище данных Project Online SharePoint. Члены группы с подписками Project Online Essentials или Project Plan 1 могут выполнять некоторые функции Project Online. Дополнительные сведения см. в [описании службы Microsoft Project . Описание службы | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
 
 |Возможность | Описание | Project Plan 3 | Project Plan 5 |
 |--------|-------------|-----------------------------|------------------------|

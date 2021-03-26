@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 и Office 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Если вы ищете различия между планами, включая планы Exchange Online, в этой статье покажут, какие функции включены в каждый из них.
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174014"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215858"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Описание служб платформы Microsoft 365 и Office 365
 
@@ -26,7 +26,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
   
 Microsoft 365 и Office 365 обеспечивают производительность облачных технологий для предприятий всех размеров, что позволяет сэкономить время, деньги и освободить ценные ресурсы. Планы Microsoft 365 и Office 365 объединяют знакомый набор настольных компьютеров Microsoft Office с облачными версиями служб связи и совместной работы нового поколения Майкрософт, в том числе Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям продуктивно работать практически из любой точки интернета.
   
-Подробные сведения о планах подписки, которые позволяют пользователям для платформ Microsoft 365 и Office 365, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Дополнительный список функций см. в описании соответствующей службы в [описаниях служб Microsoft 365 и Office 365.](../office-365-service-descriptions-technet-library.md)
+Подробные сведения о планах подписки, которые позволяют пользователям для платформ Microsoft 365 и Office 365, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Дополнительный список функций см. в описании соответствующей службы в [описаниях служб Microsoft 365 и Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)
   
 - Если вас интересуют планы Office 365 для образования, начните со страницы [Office 365 для образования](office-365-education.md). 
     

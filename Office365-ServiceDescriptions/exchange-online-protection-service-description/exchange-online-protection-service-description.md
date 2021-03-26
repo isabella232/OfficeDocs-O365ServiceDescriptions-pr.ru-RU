@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. Включен список планов, которые предоставляют Exchange Online Protection, а также сравнение функций в этих планах.
-ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173814"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215782"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -34,7 +34,7 @@ Microsoft Exchange Online Protection (EOP)  это облачная служб
 
 ## <a name="available-plans"></a>Доступные планы
 
-Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online Protection, см. в полной таблице [сравнения подписки.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online Protection, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 Сведения о покупке Exchange Online Protection см. на странице [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -82,7 +82,7 @@ EOP можно использовать с любым агентом перед�
 
 Каждая функция приведена ниже. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.<br><br>
 
-| Функция | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами|
+| Возможность | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами|
 |:-----|:-----|:-----|:-----|
 |[Получатели почты](recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|Да|
 |[Разрешения для группы ролей администраторов](recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|Да|
