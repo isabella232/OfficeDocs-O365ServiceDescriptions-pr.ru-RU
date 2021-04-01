@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium — это комплексное решение, объединив лучшую производительность в своем классе с расширенными возможностями безопасности и управления устройствами для защиты бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173544"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484822"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Описание службы Microsoft 365 бизнес премиум
 
@@ -43,7 +43,7 @@ Microsoft 365 Business Premium включает практически все ф
 |Microsoft Stream  <br/> |Да<sup>6</sup>  <br/> |Да<sup>6</sup>  <br/> |
 |[Администрирование Microsoft 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Средство синхронизации Azure AD Connect<br/> |Да  <br/> |Да  <br/> |
-|Shared computer activation <br/> |Нет <br/> |Да  <br/> |
+|[Активация совместно используемого компьютера](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Нет <br/> |Да  <br/> |
 |[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Microsoft 365 бизнес премиум** <br/> |
 |Долгосрочная архивативка почтовых ящиков Exchange Online  <br/> |Нет  <br/> |Да<sup>3</sup> <br/> |
 |Azure Information Protection (план 1) |Нет <br/>|Да<sup>2</sup> </br>|
@@ -100,7 +100,7 @@ Microsoft 365 Business Premium включает практически все ф
 |Защитить папки от угроз, таких как программы-шантажисты <br/> |Да  <br/> |
 |Помощь в защите файлов и папок на ПК от несанкционированного доступа с помощью Bitlocker <br/> |Да  <br/> |
 
-### <a name="notes"></a>Заметки
+### <a name="notes"></a>Примечания
 <sup>1</sup> Включает Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) включает поддерживаемые функции управления правами на информацию (IRM). AIP Plan 1 включен в Microsoft 365 Business Premium. <br/>
 <sup>3</sup> Microsoft 365 Бизнес Премиум включает архивация на базе Exchange Online подписку. Каждый подписчик на архивацию на базе Exchange Online изначально получает 100 ГБ в архивном почтовом ящике. Если включен автоматически расширяющийся архив, то по достижении объема в 100 ГБ автоматически добавляется место. Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации](/office365/securitycompliance/unlimited-archiving). <br/>

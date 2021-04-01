@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности служб и функций Microsoft Teams в планах Microsoft 365 и Office 365.
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215732"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484862"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -50,15 +50,14 @@ Microsoft Teams недоступна в качестве автономных с
 |Screen sharing PowerPoint Audio/Video Desktop <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>3</sup>  <br/> |Да<sup>3</sup>  <br/> |Да  <br/> |
 |Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>3</sup>  <br/> |Да<sup>3</sup>  <br/> |Да  <br/> |
-|Приложения, боты, & соединители  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup>  <br/> |Да<sup>5</sup>  <br/> |Да<sup>4,5</sup>  <br/> |Да  <br/> |
-|События в прямом эфире  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |Да  <br/> |
+|Приложения, боты, & соединители  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да<sup>4</sup>  <br/> |Да  <br/> |
+|События в прямом эфире  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |No<sup>5</sup>  <br/> |No<sup>5</sup>  <br/> |Да  <br/> |
 
 <sup>1</sup> Microsoft Teams в GCC-High и doD поддерживают 2500 членов в отдельной команде.<br/>
 <sup>2</sup> Microsoft Planner в настоящее время не доступен для доступа в частных каналах.<br/>
 <sup>3</sup> Прямая маршрутная маршрутия должна быть настроена для голосовых и аудиоконференций Microsoft Teams для работы в GCCH и DoD.<br/>
-<sup>4</sup> Microsoft OneNote недоступна в облаках DOD.<br/>
-<sup>В настоящее</sup> время в этих облаках недоступны 5 сторонних приложений и публикаций приложений.<br/>
-<sup>6</sup> Live Events в настоящее время недоступны GCC-High или DoD.<br/>
+<sup>В настоящее</sup> время в этих облаках недоступны 4 сторонних приложения и публикации приложений.<br/>
+<sup>5</sup> Live Events в настоящее время GCC-High или в DoD.<br/>
 
 ### <a name="cloud-voice-features"></a>Функции облачного голосового голоса
 
@@ -68,7 +67,7 @@ Microsoft Teams недоступна в качестве автономных с
 
 Это предложение в Office 365 заменяет отмененную трансляцию собраний Skype. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Дополнительные сведения можно получить в обзоре [лицензирования Microsoft Stream.](/stream/license-overview) К службе событий в прямом эфире можно получить доступ через Stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях живых событий см. в [live-событиях в Microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365)
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 Дополнительные сведения о Teams ознакомьтесь со следующими ресурсами:
  

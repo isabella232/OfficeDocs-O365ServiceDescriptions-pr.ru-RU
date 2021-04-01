@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте ограничения SharePoint для Microsoft 365 и автономные планы.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172614"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484782"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -22,14 +22,14 @@ ms.locfileid: "51172614"
   
 ## <a name="limits-by-plan"></a>Ограничения по плану 
 
-| Функция | Microsoft 365 Business Basic, Business Standard или Business Premium | Microsoft 365 E3 или E5, Office 365 E1, E3, E5 или SharePoint Plan 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
+| Возможность | Microsoft 365 Business Basic, Business Standard или Business Premium | Microsoft 365 E3 или E5, Office 365 E1, E3, E5 или SharePoint Plan 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup>  <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Max storage per site (site collection)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Сайты (коллекции сайтов) для организации  <br/> |2 миллиона<sup>6</sup> <br/> |2 миллиона<sup>6</sup> <br/> |2 миллиона<br/> |
 |Количество пользователей  <br/> |До 300  <br/> |1-500 000<sup>7</sup> <br/> |1-500 000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Узнайте, как найти общее и доступное хранилище для вашей организации.](/sharepoint/manage-site-collection-storage-limits) Вы можете приобрести неограниченное количество дополнительного хранилища SharePoint. См. [в журнале Change storage space for your subscription.](/office365/admin/subscriptions-and-billing/add-storage-space) 
+<sup>1</sup> [Узнайте, как найти общее и доступное хранилище для вашей организации.](/sharepoint/manage-site-collection-storage-limits) Вы можете приобрести неограниченное количество дополнительного хранилища SharePoint. См. [в журнале Add Storage space for your subscription.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Мы рекомендуем регулярно следить за корзиной и регулярно ее опустеть. Пространство хранилища, в нем используется, является частью общего ограничения для хранения в организации. 
 <br/> <sup>3</sup> Если у вас есть подписка на Microsoft 365 и надстройка Для хранения дополнительных файлов Office 365, добавляются суммы хранения. 
 <br/> <sup>4</sup> Это ограничение хранилища *для* одного сайта (ранее называемое "коллекцией сайтов"), а не объем хранилища, *предоставляемого* для каждого сайта. Это ограничение распространяется на все типы сайтов, включая сайты групп Office 365 и OneDrive. Администраторы SharePoint могут [вручную устанавливать более низкие ограничения хранения.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
@@ -93,7 +93,7 @@ ms.locfileid: "51172614"
 
 20 000 экземпляров для организации.
 
-### <a name="users"></a>Users
+### <a name="users"></a>Пользователи
 
 2 миллиона на коллекцию сайтов.
 
