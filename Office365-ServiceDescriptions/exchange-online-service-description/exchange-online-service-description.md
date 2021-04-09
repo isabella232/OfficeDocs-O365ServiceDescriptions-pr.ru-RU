@@ -2,6 +2,7 @@
 title: Описание службы Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, включаемой в Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173664"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653361"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 

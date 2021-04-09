@@ -2,6 +2,7 @@
 title: Ограничения SharePoint
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте ограничения SharePoint для Microsoft 365 и автономные планы.
-ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484782"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653411"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -22,7 +23,7 @@ ms.locfileid: "51484782"
   
 ## <a name="limits-by-plan"></a>Ограничения по плану 
 
-| Возможность | Microsoft 365 Business Basic, Business Standard или Business Premium | Microsoft 365 E3 или E5, Office 365 E1, E3, E5 или SharePoint Plan 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
+| Функция | Microsoft 365 Business Basic, Business Standard или Business Premium | Microsoft 365 E3 или E5, Office 365 E1, E3, E5 или SharePoint Plan 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup>  <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Max storage per site (site collection)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |

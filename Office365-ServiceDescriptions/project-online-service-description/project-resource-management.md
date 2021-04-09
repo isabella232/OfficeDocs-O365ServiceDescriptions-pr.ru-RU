@@ -2,6 +2,7 @@
 title: Управление ресурсами проектов
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: В Project Online доступны следующие функции управления ресурсами.
-ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Следующие функции управления ресурсами доступны в Project Online.
+ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131113"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651209"
 ---
 # <a name="project-resource-management"></a>Управление ресурсами проектов
 
-В Project Online доступны следующие функции управления ресурсами.
+Следующие функции управления ресурсами доступны в Project Online.
   
-Сведения обо всех функциях Project Online см. Ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
+Сведения обо всех функциях Project Online см. Описание [службы Project Online.](project-online-service-description.md)
   
 ## <a name="cost-resources"></a>Затратные ресурсы
 
@@ -54,6 +55,6 @@ ms.locfileid: "45131113"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Project Online](project-online-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Project Online.](project-online-service-description.md)
   
 

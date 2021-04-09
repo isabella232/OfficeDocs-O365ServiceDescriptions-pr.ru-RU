@@ -2,6 +2,7 @@
 title: Office 365 для образования
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия между планами образования Office 365, в этой статье покажут, какие функции включены в каждый из них. Office 365 сочетает в себе знакомый Microsoft Office настольный набор с облачными версиями служб связи и совместной работы нового поколения Майкрософт, включая &mdash; Microsoft Exchange Online, Microsoft SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям быть продуктивными практически из любой точки &mdash; интернета.
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173854"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653221"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -292,7 +293,7 @@ ms.locfileid: "51173854"
 > - Microsoft Microsoft 365 Apps для предприятия — это ежемесячное предложение по подписке последнего настольного пакета Office. <br/>
 > - Microsoft Office клиенты на локальном сервере получают лицензию Office для веб-редактирования, если приобрели лицензию на настольный набор Office (например, лицензию на настольные компьютеры Office Office профессиональный плюс, Office Standard или Microsoft 365 Apps для корпоративной лицензии). 
   
-| Для приложений | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
+| Приложение | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
 |:-----|:-----|:-----|
 |Word  <br/> |Word в Интернете <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel в Интернете <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |

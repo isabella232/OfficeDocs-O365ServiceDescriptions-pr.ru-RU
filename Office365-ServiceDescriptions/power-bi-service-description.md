@@ -2,6 +2,7 @@
 title: Описание службы Power BI
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI — это облачный набор средств бизнес-аналитики, который позволяет любому пользователю подключаться, визуализировать и анализировать данные с большей скоростью, эффективностью и пониманием. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
-ms.openlocfilehash: 5b676088256645db856a6bff70e11c6c2a256a82
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1f66fd645c7075278c7f8c13e8694f5797f8550a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215878"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652313"
 ---
 # <a name="power-bi-service-description"></a>Описание службы Power BI
 

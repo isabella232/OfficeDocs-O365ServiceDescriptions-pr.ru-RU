@@ -2,18 +2,19 @@
 title: Планирование соответствия требованиям Microsoft 365 — GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Это руководство для ИТ-специалистов, которые являются движущей силой развертывания Office 365 в федеральных, штатных, локальных, племенных или территориальных правительственных учреждениях или других субъектах, которые обрабатывают данные, соответствующие государственным требованиям и требованиям, в которых использование Microsoft 365 Government - GCC подходит для удовлетворения этих требований.
-ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf5a5caa5cf0793141e7498006aff1224fbcc659
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173514"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652633"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Планирование соответствия требованиям Microsoft 365 — GCC
 

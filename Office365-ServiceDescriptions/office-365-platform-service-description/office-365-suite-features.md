@@ -2,6 +2,7 @@
 title: Компоненты набора Microsoft 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Перечисленные в этом разделе функции — это коллекция веб-средств, которые помогают вам сотрудничать и безопасно общаться на многих устройствах и нескольких службах Office 365. Эти функции помогают налаживать новые связи в вашей организации, объединяя создание цифрового контента, хранилище и управление со средствами социальных сетей для поиска информации и обмена нею между пользователями.
-ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599051"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653181"
 ---
 # <a name="microsoft-365-suite-features"></a>Компоненты набора Microsoft 365
 

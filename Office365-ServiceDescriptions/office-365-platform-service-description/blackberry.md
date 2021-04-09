@@ -2,6 +2,7 @@
 title: BlackBerry
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Смартфоны BlackBerry® могут получать доступ к электронной почте и документам в Office 365:.
-ms.openlocfilehash: df7c477a64da2d2460f869f8a45e5a9697b41a0d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 4c76e00364351b601a7566446b040ac5bd461535
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132366"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653391"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -33,7 +34,7 @@ ms.locfileid: "45132366"
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>Смартфоны BlackBerry® 7 и более ранних версий с Microsoft Exchange Online
 
-С помощью BlackBerry® Internet Service (BIS) вы можете подключить смартфоны BlackBerry 7 и более ранних версий к Exchange Online. BIS позволяет пользователям BlackBerry получать доступ к своим учетным записям электронной почты через Интернет через IMAP или POP.
+С помощью BlackBerry® Internet Service (BIS) вы можете подключить смартфоны BlackBerry 7 и более ранних версий к Exchange Online. BIS позволяет пользователям BlackBerry получать доступ к учетным записям электронной почты через Интернет через IMAP или POP.
   
 Служба BIS предоставляется большинством мобильных операторов, поэтому пользователям потребуется настроить синхронизацию электронной почты, календаря и контактов, следуя инструкциям в указанных ниже статьях базы знаний.
   
@@ -48,9 +49,9 @@ ms.locfileid: "45132366"
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Смартфоны BlackBerry с SharePoint Online
 
-Для доступа к Microsoft SharePoint Online пользователи Blackberry могут использовать встроенный браузер смартфона BlackBerry на сайтах SharePoint Online. Пользователи BlackBerry могут просматривать документы Word, Excel и PowerPoint с помощью Office для веб-отрисовки в браузере мобильного устройства.
+Для доступа к Microsoft SharePoint Online пользователи Blackberry могут использовать встроенный браузер смартфона BlackBerry на сайтах SharePoint Online. Пользователи BlackBerry могут просматривать документы Word, Excel и PowerPoint с помощью Office для веб-визуализации в мобильном браузере.
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, ознакомьтесь с [описанием службы платформы microsoft 365 и Office 365](office-365-platform-service-description.md).
+Чтобы просмотреть доступность функций в планах Office 365, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)
   

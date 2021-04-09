@@ -2,18 +2,19 @@
 title: Планирование соответствия требованиям Microsoft 365 — развертывания DoD
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Это руководство для ИТ-специалистов, которые являются движущей силой развертывания Office 365 в субъектах федерального правительства США или других субъектах, которые обрабатывают данные, которые подчиняются требованиям правительства и требованиям, в которых использование Microsoft 365 Government — DoD подходит для удовлетворения этих требований.
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173534"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652623"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Планирование соответствия требованиям Microsoft 365 — развертывания DoD
 

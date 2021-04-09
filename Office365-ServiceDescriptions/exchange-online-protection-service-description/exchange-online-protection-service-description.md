@@ -2,6 +2,7 @@
 title: Описание службы Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Узнайте о компонентах и требованиях для Exchange Online Protection. Включен список планов, которые предоставляют Exchange Online Protection, а также сравнение функций в этих планах.
-ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 172e07db12590e51720c2446974418244f3234e4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215782"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653041"
 ---
 # <a name="exchange-online-protection-service-description"></a>Описание службы Exchange Online Protection
 
@@ -82,7 +83,7 @@ EOP можно использовать с любым агентом перед�
 
 Каждая функция приведена ниже. Более подробные сведения о функциях EOP доступны по ссылкам в таблице. Exchange Online обычно относится к семейству служб Office 365 корпоративный.<br><br>
 
-| Возможность | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами|
+| Функция | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами|
 |:-----|:-----|:-----|:-----|
 |[Получатели почты](recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|Да|
 |[Разрешения для группы ролей администраторов](recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|Да|

@@ -2,6 +2,7 @@
 title: Описание службы Microsoft 365 бизнес премиум
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium — это комплексное решение, объединив лучшую производительность в своем классе с расширенными возможностями безопасности и управления устройствами для защиты бизнеса. В этом описании службы рассматриваются варианты и возможности планов.
-ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484822"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652673"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Описание службы Microsoft 365 бизнес премиум
 

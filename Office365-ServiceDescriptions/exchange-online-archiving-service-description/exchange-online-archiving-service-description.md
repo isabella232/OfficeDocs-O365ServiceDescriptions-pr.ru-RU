@@ -2,6 +2,7 @@
 title: Описание службы архивации на базе Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Ознакомьтесь с этой статьей, чтобы узнать Microsoft Exchange Online архива.
-ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215772"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653081"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -77,7 +78,7 @@ Microsoft Exchange Online архива — это облачное решени�
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
-| Возможность | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
+| Функция | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[Функции архива в архивация на базе Exchange Online](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |

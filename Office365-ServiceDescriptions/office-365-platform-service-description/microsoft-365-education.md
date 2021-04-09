@@ -2,6 +2,7 @@
 title: Microsoft 365 для образования
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Узнайте о различиях между планами образования Microsoft 365 и Office 365.
-ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902048"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652587"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
@@ -30,13 +31,13 @@ Microsoft 365 представляет собой полноценную сис�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Платформа Office 365|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Office в Интернете|Да|Да|Да|Да|Да|Да|Да|Да|Да|
-|Приложения Microsoft 365 для предприятий|Нет|Да|Да|Да|Да|Да|Да|Да|Да|
+|Приложения Microsoft 365 для предприятий|Нет|Да|Да|Да|Да|Да|Да|Да|Да|
 |Exchange Online|Да<sup>1</sup>|Да<sup>2</sup>|Да<sup>2</sup>|Да<sup>2</sup>|Да<sup>2</sup>|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1</sup>|
 |SharePoint Online|Да<sup>3</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|
 |OneDrive для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Microsoft Teams|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Skype для бизнеса Online|Да|Да|Да|Да|Да|Да|Да|Да|Да|
-|Проект|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|
+|Project|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|
 |Yammer для образования|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Microsoft Stream|Да|Да|Да|Да|Да|Да|Да|Да|Да|
 |Планировщик Microsoft|Да|Да|Да|Да|Да|Да|Да|Да|Да|

@@ -2,17 +2,18 @@
 title: Описание службы Microsoft Bookings
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о параметрах и особенностях плана, доступных в Microsoft Bookings.
-ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173034"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653381"
 ---
 # <a name="microsoft-bookings-service-description"></a>Описание службы Microsoft Bookings
 
@@ -42,7 +43,7 @@ Microsoft Bookings упрощает процесс планирования и �
 <sup>1</sup> Собрания в Интернете требуют, чтобы у сотрудника, забронрованного, была лицензия Microsoft Teams или Skype для бизнеса, позволяющая создавать собрания.
 <br/><sup>2 SMS-уведомления</sup> в настоящее время находятся в бета-версии и доступны только в Северной Америке.
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 Дополнительные технические сведения о резервированиях Майкрософт ознакомьтесь со следующими ресурсами:
 

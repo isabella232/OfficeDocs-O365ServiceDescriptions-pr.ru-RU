@@ -2,17 +2,18 @@
 title: Описание службы SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex в Microsoft 365 использует расширенный искусственный интеллект (AI) и машинное обучение для усиления знаний человека, автоматизации обработки контента и преобразования контента в знания.
-ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174094"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653401"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Описание службы SharePoint Syntex 
 
@@ -60,7 +61,7 @@ Syntex доступен с помощью нескольких планов по
 | [Соединители контента Microsoft Graph](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Да | Да | Да |
 | [Расширенные службы таксономии](sharepoint-syntex-features.md#advanced-taxonomy-services) | Да | Да | Да |
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 Дополнительные сведения о Syntex можно получить в следующих ресурсах:
 

@@ -2,6 +2,7 @@
 title: Возможности платформы Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,39 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Следующие возможности Yammer доступны в платформе Yammer.
-ms.openlocfilehash: 63d96e638a60fc4533478e28e901cc38c3082cf3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ba5b499972f6b4c6e13d0ce08ca60214ed2241de
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132963"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653591"
 ---
 # <a name="yammer-platform-features"></a>Возможности платформы Yammer
 
 Следующие возможности Yammer доступны в платформе Yammer.
  
-## <a name="activity-stream-api"></a>API потока действий
+## <a name="activity-stream-api"></a>API потока активности
 
 Интегрируйте существующие корпоративные бизнес-приложения, добавив данные в социальный граф. Упростите обнаружение различных видов активности в существующих бизнес-приложениях.
   
 ## <a name="browser-extension"></a>Расширение браузера
 
-Добавляет вкладку Yammer в меню браузера и позволяет быстро открыть доступ к любой просматриваемой веб-странице, выбрав значок Yammer, выбрав группу, в которую вы хотите опубликовать сообщение, и поделиться своими комментариями со ссылкой на эту страницу. Расширение также уведомляет о наличии разговора о странице в Yammer. 
+Добавляет вкладку Yammer в меню браузера и позволяет быстро обмениваться всеми просматриваемой веб-страницей, выбрав значок Yammer, выбрав группу, в которую вы хотите разместить свое сообщение, и поделившись своими комментариями со ссылкой на страницу. Расширение также уведомляет о наличии разговора о странице в Yammer. 
 
-## <a name="embeddable-feeds"></a>Внедряемые веб-каналы
+## <a name="embeddable-feeds"></a>Встраимываемые каналы
 
 Простой фрагмент кода позволяет легко встраивать любые каналы Yammer в бизнес-приложения.
   
-## <a name="like-and-follow-buttons"></a>Нравится и следовать за кнопками
+## <a name="like-and-follow-buttons"></a>Like and Follow buttons
 
 Добавьте кнопки "Нравится" и "Подписаться" в ваши бизнес-приложения, чтобы сотрудники могли взаимодействовать с объектами вне сети Yammer.
   
-## <a name="yammer-connect-login"></a>Вход в Yammer Connect
+## <a name="yammer-connect-login"></a>Вход подключения Yammer
 
-Добавьте кнопку Вход в бизнес-приложение, чтобы пользователи могли легко зарегистрироваться и войти в нее с помощью учетных записей Yammer.
+Добавьте кнопку Login в бизнес-приложения, чтобы пользователи могли легко зарегистрировать и войти в свои учетные записи Yammer.
 
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, отдельных параметрах и локальных решениях, ознакомьтесь с [описанием службы Yammer](yammer-service-description.md).
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Yammer.](yammer-service-description.md)
   
 

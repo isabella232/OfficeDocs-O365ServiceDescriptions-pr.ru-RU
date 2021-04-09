@@ -2,6 +2,7 @@
 title: PowerPoint в Интернете
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint для веб-сайта (ранее PowerPoint Web App) расширяет ваш опыт Microsoft PowerPoint на веб-браузер, где вы можете работать с презентациями непосредственно на веб-сайте, где хранится презентация. Клиенты Microsoft 365 с Office для интернета могут просматривать, создавать и редактировать файлы в режиме go.
-ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e0ab38fd633e44be01f38da0398affbf81e01e7b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172744"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652343"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint в Интернете
 

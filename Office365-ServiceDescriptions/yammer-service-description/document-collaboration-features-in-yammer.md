@@ -2,6 +2,7 @@
 title: Возможности совместной работы с документами в Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Следующие возможности совместной работы доступны в Yammer.
-ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132093"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653541"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Возможности совместной работы с документами в Yammer
 
@@ -30,17 +31,17 @@ ms.locfileid: "45132093"
 |:-----|:-----|:-----|
 |[Файлы](document-collaboration-features-in-yammer.md#files) <br/> |Да  <br/> |Да  <br/> |
 |[Официальный контент](document-collaboration-features-in-yammer.md#official-content) <br/> |Нет  <br/> |Да  <br/> |
-|[Последние изменения](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Да  <br/> |Да  <br/> |
+|[Недавние изменения](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Да  <br/> |Да  <br/> |
 
 ## <a name="files"></a>Файлы
 
-Совместное использование документов Microsoft Office, PDF-файлов, изображений и видеороликов в Teams и обратная связь сразу. Отправляйте новые версии, чтобы все могли увидеть последнюю версию, а также старые версии проекта.
+Поделитесь Microsoft Office документами, PDF, изображениями и видео в разных командах и получите обратную связь сразу. Отправляйте новые версии, чтобы все могли увидеть последнюю версию, а также старые версии проекта.
   
 ## <a name="official-content"></a>Официальный контент
 
-Пометка файлов как официальных и только для чтения. Официальный контент отображается в результатах поиска и каталогах содержимого для упрощения доступа.
+Пометить файлы как официальные и только для чтения. Официальный контент отображается выше в каталогах результатов поиска и контента для простого доступа.
 
-## <a name="recent-changes"></a>Последние изменения
+## <a name="recent-changes"></a>Недавние изменения
 
-С первого взгляда просмотрите все изменения, внесенные в документ каждым участником, в области **недавние изменения** . В любое время вы сможете восстановить предыдущую версию документа.
+С первого взгляда просмотреть все изменения, внесенные в документ каждым сотрудником в области **Недавние** изменения. В любое время вы сможете восстановить предыдущую версию документа.
   

@@ -2,18 +2,19 @@
 title: Как купить Microsoft 365 для государственных организаций
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173004"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653451"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
 
@@ -89,7 +90,7 @@ Microsoft 365 Government уникально разработан для соот
 
 - [Описание правительственной службы Office 365](office-365-us-government.md)
 - [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender для конечной точки для государственных клиентов США](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
@@ -97,7 +98,7 @@ Microsoft 365 Government уникально разработан для соот
 - [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate US Government](/flow/us-govt)
 - [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
-- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
 ## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Какие каналы продаж доступны для правительства Microsoft 365?
 
@@ -174,14 +175,14 @@ Microsoft 365 Government уникально разработан для соот
 
 - [Описание правительственной службы Office 365](office-365-us-government.md)
 - [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender для конечной точки для государственных клиентов США](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
 - [Outlook для iOS и Android в облаке правительственных сообществ](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate US Government](/flow/us-govt)
-- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 - [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
 - [Страница Microsoft Government Industry](https://www.microsoft.com/enterprise/government)
 - [Сообщество ИТ-технологий Майкрософт — государственный сектор](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)

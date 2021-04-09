@@ -2,17 +2,18 @@
 title: Описание службы Microsoft Teams
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности служб и функций Microsoft Teams в планах Microsoft 365 и Office 365.
-ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484862"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653571"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -40,7 +41,7 @@ Microsoft Teams недоступна в качестве автономных с
 
 Полный список функций Teams в планах Microsoft 365 и Office 365 см. в списке Найти правильные microsoft [Teams для бизнеса.](https://www.microsoft.com/microsoft-teams/compare-microsoft-teams-options)<br><br>
 
-| Возможность | Планы малого бизнеса | Корпоративные планы | GCC | GCC - High | DOD | Планы образования |
+| Функция | Планы малого бизнеса | Корпоративные планы | GCC | GCC - High | DOD | Планы образования |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |

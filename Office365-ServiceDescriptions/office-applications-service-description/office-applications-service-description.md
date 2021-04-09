@@ -2,6 +2,7 @@
 title: Описание службы приложений Office
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 — это служба подписки, которая предоставляет вам последнюю версию уже знакомых вам настольных приложений Office, таких как Word, Excel и PowerPoint.
-ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: 95d80a0850b33b58774cdf2616c0f58bb6dadb9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599061"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652403"
 ---
 # <a name="office-applications-service-description"></a>Описание службы приложений Office
 
