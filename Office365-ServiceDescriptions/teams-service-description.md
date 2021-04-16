@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности служб и функций Microsoft Teams в планах Microsoft 365 и Office 365.
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653571"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767459"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -22,6 +22,8 @@ Microsoft Teams — это центр командной работы в Microso
 Skype для бизнеса Online завершится 31 июля 2021 г., о котором было объявлено 30 июля 2019 г. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams — это совершенно новая служба, созданная для облака с нуля, используя Azure и другие инновации службы от Корпорации Майкрософт. Microsoft Teams построена на группах Microsoft 365, Microsoft Graph и с той же безопасностью, соответствием требованиям и управляемостью, что и остальная часть Office 365. Teams использует удостоверения, хранимые в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет. Дополнительные сведения см. в [плакатах microsoft Teams ИТ-архитектуры](/microsoftteams/teams-architecture-solutions-posters)и решений для телефонии.
 
 В этом описании службы описаны основные различия между службами, предоставляемыми в различных облачных установках. Основные функциональные возможности Microsoft Teams не отличаются между подписками. Доступность возможностей соответствия требованиям зависит от уровня подписки. Дополнительные информацию о безопасности и соответствии требованиям Teams см. в веб-сайте [Безопасность и соответствие требованиям в Microsoft Teams.](/microsoftteams/security-compliance-overview)
+
+Если пользователи были перенесены полностью в Интернете, они должны иметь лицензии команд и Skype для бизнеса Online для полноправных функций Teams, даже если Skype для бизнеса Online не будет использоваться.
 
 ## <a name="available-plans"></a>Доступные планы
 

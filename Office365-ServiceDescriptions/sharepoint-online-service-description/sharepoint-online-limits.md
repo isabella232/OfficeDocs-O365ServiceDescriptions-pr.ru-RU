@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте ограничения SharePoint для Microsoft 365 и автономные планы.
-ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653411"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767479"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -77,7 +77,7 @@ ms.locfileid: "51653411"
 
 ### <a name="managed-metadata"></a>Управляемые метаданные
 
-200 000 терминов в Магазине терминов, 1000 глобальных наборов терминов, 1000 групп.
+1 миллион суммарных терминов, имеющих в общей сложности 2 миллиона терминов и 1 миллион терминов свойств (эти ограничения для глобальных & уровней сайта вместе взятые). 1000 глобальных наборов терминов и 1000 глобальных групп.
 
 ### <a name="overall-site-metadata"></a>Общие метаданные сайта
 
