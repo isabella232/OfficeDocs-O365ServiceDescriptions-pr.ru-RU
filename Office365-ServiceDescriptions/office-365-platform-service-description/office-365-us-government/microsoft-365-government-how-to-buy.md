@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
+ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653451"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51874979"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
 
@@ -48,7 +48,7 @@ Microsoft 365 Government уникально разработан для соот
 
 | Предложения | Обязательства |
 |:----------|:----------------------------------|
-|GCC правительства Microsoft 365  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|GCC правительства Microsoft 365  <br/> |FedRamp High, DFARS, CJIS, IRS 1075, DISA SRG L2 <br/> |
 |Microsoft 365 правительственный GCC High  <br/> |Управление FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
