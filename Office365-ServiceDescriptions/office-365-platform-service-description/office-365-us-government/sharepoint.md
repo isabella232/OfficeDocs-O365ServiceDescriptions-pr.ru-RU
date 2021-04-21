@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности функций SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653151"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900779"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для государственных сред США
 
@@ -75,6 +75,7 @@ ms.locfileid: "51653151"
 - Функция Graph в SharePoint Online для GCC High в настоящее время отключена. Любая служба, которая опирается на Microsoft Graph, может быть недоступна в настоящее время
 - Функции, которые зависят от подключений к интернет-службам, например вкладке образы акций, будут работать не так, как ожидалось.
 - Уведомления для действий на файле и сайте недоступны
+- Веб-часть новостей будет извлекать новости только с текущего сайта. Новости с выбранных сайтов или откатов новостей концентраторов с связанных сайтов недоступны для клиентов GCC High и DoD
 
 ## <a name="search-features"></a>Функции поиска
 
