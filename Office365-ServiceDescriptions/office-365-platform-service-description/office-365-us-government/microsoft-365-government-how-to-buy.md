@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
-ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
+ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51874979"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074470"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
 
@@ -113,7 +113,7 @@ Microsoft 365 Government уникально разработан для соот
 
 Выполните следующие действия, чтобы приобрести государственные лицензии Microsoft 365:
 
-1. Заполните и отправьте форму [для GCC](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) или [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) для проверки прав организации.
+1. Заполните и отправьте форму [для GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) или [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) для проверки прав организации.
 2. Работа с командой учетных записей Майкрософт или квалифицированным партнером, чтобы разместить заказ. Клиенты могут приобретать Microsoft 365 для государственных лицензий США только через выбранных партнеров.
 
 **LSPs GCC и GCC High (+500 мест)**
@@ -166,7 +166,7 @@ Microsoft 365 Government уникально разработан для соот
 ## <a name="what-trials-are-available"></a>Какие пробные испытания доступны?
 
 - [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой верхней части страницы EMS, чтобы пройти закрытый процесс регистрации на портале коммерции Office, который передает их на портал Azure Active Directory (AAD).
-- [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
+- [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
 - Корпорация Майкрософт не предлагает пробные испытания Office 365 GCC коммерческим клиентам, а также не существует пробных испытаний GCC High или DoD.
 
 ## <a name="where-can-i-learn-more"></a>Где ознакомиться с дополнительной информацией?

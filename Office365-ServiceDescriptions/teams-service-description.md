@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности служб и функций Microsoft Teams в планах Microsoft 365 и Office 365.
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767459"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074490"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -59,7 +59,7 @@ Microsoft Teams недоступна в качестве автономных с
 <sup>1</sup> Microsoft Teams в GCC-High и doD поддерживают 2500 членов в отдельной команде.<br/>
 <sup>2</sup> Microsoft Planner в настоящее время не доступен для доступа в частных каналах.<br/>
 <sup>3</sup> Прямая маршрутная маршрутия должна быть настроена для голосовых и аудиоконференций Microsoft Teams для работы в GCCH и DoD.<br/>
-<sup>В настоящее</sup> время в этих облаках недоступны 4 сторонних приложения и публикации приложений.<br/>
+<sup>В настоящее</sup> время в этих облаках недоступны 4 сторонних приложения и публикации приложений. Соединители не поддерживаются в GCCH и DOD.<br/>
 <sup>5</sup> Live Events в настоящее время GCC-High или в DoD.<br/>
 
 ### <a name="cloud-voice-features"></a>Функции облачного голосового голоса
@@ -68,9 +68,9 @@ Microsoft Teams недоступна в качестве автономных с
 
 ### <a name="live-events"></a>Трансляции
 
-Это предложение в Office 365 заменяет отмененную трансляцию собраний Skype. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Дополнительные сведения можно получить в обзоре [лицензирования Microsoft Stream.](/stream/license-overview) К службе событий в прямом эфире можно получить доступ через Stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях живых событий см. в [live-событиях в Microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365)
+Это предложение в Office 365 заменяет отмененную трансляцию собраний Skype. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Дополнительные сведения можно получить в обзоре [лицензирования Microsoft Stream.](/stream/license-overview) К службе событий в прямом эфире можно получить доступ через Stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях живых событий см. в [live-событиях в Microsoft 365 в Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365) Дополнительные новости о планировании живых событий, включая требования к лицензиям, см. в руб. [Plan for live events in Microsoft Teams.](/microsoftteams/teams-live-events/plan-for-teams-live-events)
 
-## <a name="learn-more"></a>Подробнее
+## <a name="learn-more"></a>Дополнительная информация
 
 Дополнительные сведения о Teams ознакомьтесь со следующими ресурсами:
  
