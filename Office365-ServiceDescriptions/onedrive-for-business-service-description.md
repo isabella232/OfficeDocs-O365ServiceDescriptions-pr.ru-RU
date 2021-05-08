@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652323"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264797"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -50,6 +50,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 - Приложения Microsoft 365 для бизнеса
 - Microsoft 365 бизнес стандарт
 - Приложения Microsoft 365 для предприятий
+- Office 365 A1
 - Office 365 для предприятий E1
 - Office 365 для государственных организаций G1
 - Microsoft 365 бизнес базовый для некоммерческих организаций
@@ -65,7 +66,6 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 - Office 365 корпоративный E3
 - Office 365 корпоративный E5
-- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
