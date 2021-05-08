@@ -10,30 +10,38 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Голосовая связь Microsoft 365 бизнес — это служба надстройки, которая позволяет использовать Microsoft Teams для телефонных звонков. Это сочетает в себе телефонную систему, внутренний план звонков, SMS и аудиоконференцию.
-ms.openlocfilehash: cbb8834dc2eebda535151d0042fa158469a0aa20
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: d5c2f0f8eb027bfc5ef6a9c55a53aa9b7a647f68
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264787"
+ms.locfileid: "52266359"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Описание службы корпоративной голосовой связи Microsoft 365
 
 Голосовая связь Microsoft 365 бизнес является облачным решением телефонии в Microsoft Teams, которое предлагает возможности телефонной системы, такие как парк вызовов, переадпорт вызовов, автоответницы, очереди на вызовы, аудиоконференция и планы звонков. Бизнес-голос можно добавить в Office 365 и Microsoft 365, которые включают Microsoft Teams (до 300 лицензий). Дополнительные сведения о службе голосового голоса бизнеса см. в [Голосовая связь Microsoft 365 бизнес.](/MicrosoftTeams/business-voice/whats-business-voice)
 
-## <a name="available-plans"></a>Доступные планы
+Вы можете выбрать из двух Голосовая связь Microsoft 365 бизнес:
 
-В следующей таблице показаны планы, Голосовая связь Microsoft 365 бизнес, чтобы вы могли выбрать решение, которое наилучшим образом отвечает потребностям вашей организации. Подробные сведения о планах [см. в Голосовая связь Microsoft 365 бизнес.](/microsoftteams/business-voice/whats-business-voice)
+- Голосовая связь Microsoft 365 бизнес
+- Голосовая связь Microsoft 365 бизнес Без плана вызова
 
-| Планы малого бизнеса | Enterprise планы |
-|--------------------------------------------------------|------------------------------|
-| Microsoft 365 бизнес базовый | Microsoft 365 корпоративный E1 |
-| Microsoft 365 бизнес стандарт | Microsoft 365 корпоративный E3 |
-| Microsoft 365 бизнес премиум |  |
+Голосовая связь Microsoft 365 бизнес доступны следующие подписки с до 300 лицензиями:
 
-## <a name="feature-availability"></a>Доступность функций
+- Microsoft 365 бизнес базовый
+- Microsoft 365 бизнес стандарт
+- Microsoft 365 бизнес премиум
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft и Office 365 корпоративный E1 или E3
+- Microsoft 365 и Office 365 для образования A1 или A3
+- Microsoft 365 и Office 365 для государственных организаций G1 или G3
+- Microsoft 365 Некоммерческий бизнес Basic
+- Microsoft 365 Некоммерческий стандарт бизнеса
+- Microsoft 365 и Office 365 для некоммерческих организаций E1 или E3
 
-В следующей таблице перечислены основные Голосовая связь Microsoft 365 бизнес, доступные в планах. Применяются определенные оговорки. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций см. в . [https://www.microsoft.com/microsoft-teams/voice-calling](https://www.microsoft.com/microsoft-teams/voice-calling)
+## <a name="microsoft-365-business-voice-features"></a>Голосовая связь Microsoft 365 бизнес функций
 
 | Функция | Голосовая связь Microsoft 365 бизнес | Голосовая связь Microsoft 365 бизнес Без плана вызова |
 |--------------------------------------------------------|------------------------------|---------------------------------------------------|
@@ -63,23 +71,3 @@ ms.locfileid: "52264787"
 <sup>*</sup> Доступно с сторонним планом вызова.
 
 <sup>**</sup>Бесплатный звонок и международный план звонков доступны за дополнительную плату с помощью [кредитов на связь.](/microsoftteams/what-are-communications-credits) Дополнительные дополнительные информации см. [в бесплатных номерах и](/microsoftteams/toll-free-dialing-limitations-and-restrictions) [международных номерах звонков.](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)
-
-## <a name="learn-more"></a>Дополнительные сведения
-
-Технические сведения о Голосовая связь Microsoft 365 бизнес ознакомьтесь со следующими ресурсами:
-
-- [Microsoft 365 Обзор продукта](/MicrosoftTeams/business-voice/whats-business-voice)
-- [Описание службы корпоративной голосовой связи Microsoft 365](/office365/servicedescriptions/microsoft-365-business-voice-service-description)
-- [Голосовая связь Microsoft 365 бизнес центра документации](/MicrosoftTeams/business-voice/)
-
-## <a name="licensing-terms"></a>Условия лицензирования
-
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
-
-## <a name="messaging"></a>Обмен сообщениями 
-
-Чтобы отслеживать предстоящие изменения, в том числе новые и измененные функции, запланированное обслуживание или другие важные объявления, посетите Центр сообщений. Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
-
-## <a name="accessibility"></a>Специальные возможности
-
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
