@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: В этой статье представлен обзор microsoft 365 Government и описаны варианты покупки.
-ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+description: В этой статье представлен обзор Microsoft 365 правительства и описаны варианты покупки.
+ms.openlocfilehash: 0d054441cede496c18b9b8a526e0967e1ee85113
+ms.sourcegitcommit: 15f8d2eb34dab74bbe4f888f6700336143ab6cf7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074470"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52286528"
 ---
-# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство - как купить
+# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство — как покупать
 
-В ответ на уникальные и меняющиеся требования государственного сектора США Корпорация Майкрософт создала специальные правительственные среды Microsoft 365 для клиентов государственного сектора США. В этом описании службы представлен обзор сред и дополнительные сведения о покупке. Рекомендуется прочитать это описание службы наряду с другими описаниями служб [Microsoft 365 и Office 365.](../../office-365-service-descriptions-technet-library.md)
+В ответ на уникальные и меняющиеся требования государственного сектора США Корпорация Майкрософт создала специальные Microsoft 365 среды для клиентов государственного сектора США. В этом описании службы представлен обзор сред и дополнительные сведения о покупке. Рекомендуется прочитать это описание службы наряду с другими описаниями Microsoft 365 [и Office 365 службы.](../../office-365-service-descriptions-technet-library.md)
   
-## <a name="whats-microsoft-365-government"></a>Что такое Microsoft 365 government?
+## <a name="whats-microsoft-365-government"></a>Что Microsoft 365 правительство?
 
-Microsoft 365 Government — это набор возможностей облачного программного обеспечения для обеспечения производительности, безопасности и мобильности, предназначенный для государственных учреждений и подрядчиков США, спонсируемых для получения контролируемых и несекретных сведений. Поставляемая в уникальных средах, которые соответствуют самым строгим требованиям соответствия требованиям, Microsoft 365 Government — это облачное предложение для государственных клиентов США, которое максимально соответствует возможностям и возможностям корпоративных предложений корпорации Майкрософт для коммерческих облачных предприятий.
+Microsoft 365 Government — это набор возможностей облачного программного обеспечения производительности, безопасности и мобильности, предназначенный для государственных учреждений и подрядчиков США, спонсируемых для получения контролируемой и неклассифицированной информации. Поставляемая с помощью уникальных сред, которые соответствуют самым строгим требованиям соответствия требованиям, Microsoft 365 правительство — это облачное предложение для государственных клиентов США, которое максимально соответствует возможностям и возможностям корпоративных предложений корпорации Майкрософт для коммерческих облачных предприятий.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Какое значение имеет правительство Microsoft 365?
 
-Правительство Microsoft 365 помогает государственным руководителям и работникам США продуктивно работать в любом месте, в любое время, обеспечивая производительность мобильных устройств и обеспечивая безопасность совместной работы с соблюдением, помогая учреждениям эффективно управлять нормативными требованиями к соответствия данным. В следующей таблице приводится примеры ключевых ролей правительства.<br><br>
+Microsoft 365 Правительство помогает государственным руководителям и работникам США быть продуктивными в любом месте, в любое время, обеспечивая производительность мобильных устройств и обеспечивая безопасность совместной работы с соответствием требованиям, помогая учреждениям эффективно управлять нормативными требованиями к соблюдению данных. В следующей таблице приводится примеры ключевых ролей правительства.<br><br>
  
 | Руководители правительств могут... | Государственные служащие могут... | Персонал поля может... |
 |:-----|:-----|:-----|
@@ -35,30 +35,30 @@ Microsoft 365 Government — это набор возможностей обла
 |Будьте в курсе и на связи с сотрудниками и гражданами, в офисе или на дороге  <br/> |Создание более глубокого взаимодействия с государственными служащими, чтобы повысить уровень хранения сотрудников  <br/> | Создание более сильного чувства сообщества в разных расположениях агентств  <br/> |
 |Обеспечение совместимого решения правительства США, которое помогает снизить затраты и повысить гибкость  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Чем Microsoft 365 отличается от Microsoft 365 для корпоративных предложений?
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Чем Microsoft 365 правительство отличается от Microsoft 365 корпоративных предложений?
 
-Microsoft 365 Government уникально разработан для соответствия требованиям правительственных учреждений США в четырех ключевых областях:
+Microsoft 365 Правительство уникально разработано для соответствия требованиям правительственных учреждений США в четырех ключевых областях:
 
 **Эксклюзивное сообщество.** Правительственные центры обработки данных доступны только правительственным учреждениям или департаментам или коммерческим компаниям, которые уполномочены удерживать и контролировать процессы от имени правительства США.
 
 **Просмотр персонала.** Доступ к контенту клиентов организации ограничен для проверяемого персонала Майкрософт, которые являются гражданами США и прошли необходимые проверки.
 Сторонние аудиты. Вся инфраструктура проверяется сертифицированным сторонним аудитором, который предоставляет отчет об оценке безопасности или письмо-аттестацию, используемую федеральными учреждениями для выдачи разрешения на работу (АТО). 
 
-**Хранение контента.** Данные хранятся в континентальной части США с соответствующими требованиям инфраструктурой. В следующей таблице подводятся итоги Microsoft 365 для государственных сред и обязательств.<br><br>
+**Хранение контента.** Данные хранятся в континентальной части США с соответствующими требованиям инфраструктурой. В следующей таблице Microsoft 365 правительственных сред и обязательств.<br><br>
 
 | Предложения | Обязательства |
 |:----------|:----------------------------------|
-|GCC правительства Microsoft 365  <br/> |FedRamp High, DFARS, CJIS, IRS 1075, DISA SRG L2 <br/> |
-|Microsoft 365 правительственный GCC High  <br/> |Управление FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
-|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
+|Microsoft 365 Правительство GCC  <br/> |FedRamp High, DFARS, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 Высокая GCC  <br/> |Управление FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
+|Microsoft 365 DoD правительства  <br/> |DISA SRG L5  <br/> |
 
 Дополнительные сведения об аккредитации безопасности и соответствия требованиям Майкрософт можно получить в [Центре доверия Майкрософт. ](https://www.microsoft.com/trustcenter/default.aspx)  
 
 ## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 Правительственные права и проверки
 
-Правительство Microsoft 365 доступно для государственных клиентов и неправительственных организаций, спонсируемых для удержания или обработки контролируемых сведений. Критерии приемлемости для этих двух категорий клиентов согласуются в облаке Microsoft Government Cloud.
+Microsoft 365 Правительство доступно для государственных клиентов и неправительственных организаций, спонсируемых для получения или обработки контролируемых сведений. Критерии приемлемости для этих двух категорий клиентов согласуются в облаке Microsoft Government Cloud.
 
-Предложения GCC и GCC High доступны любому клиенту, который имеет право на использование облачного microsoft government cloud, а среда DoD — для исключительного использования Министерства обороны США. Доступность и цена служб отличаются, и GCC остается героем, предлагая всем клиентам, которые не держат неуправляемую неклассифицированную информацию FedRAMP Или DoD.
+Как GCC, так и GCC high предлагаются любому клиенту, который имеет право на использование облака microsoft Government Cloud, а среда DoD — для исключительного использования Министерства обороны США. Доступность службы и цена отличаются, и GCC остается героем, предлагая всем клиентам, которые не держат неподконтрольную неклассифицированную информацию FedRAMP или DoD.
 
 Подходящий правительственный клиент определяется одним из следующих:
 
@@ -78,48 +78,49 @@ Microsoft 365 Government уникально разработан для соот
 - Департамент энергетики (DoE) UCNI
 - Сведения об уголовном правосудии (CJI)
 - Данные уровня воздействия на оборону
-- Другие типы данных, которые требуют microsoft 365 Government
+- Другие типы данных, которые требуют Microsoft 365 правительства
 
 Международное коммерческое лицо может иметь право, хотя для покупки службы через дочернюю компанию США могут потребоваться регулируемые данные.
 
-Для доступа к правительственным предложениям Microsoft 365 потребуется подтверждение членства в одной из перечисленных выше групп.
+Для доступа к предложениям правительства для доступа к Microsoft 365 требуется подтверждение членства в одной из перечисленных выше групп.
 
-## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Какие службы и функции доступны в облачной облачной среде Microsoft 365?
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Какие службы и функции доступны в Microsoft 365 облачных средах правительства?
 
-Дополнительные данные о службах, доступных в Microsoft 365 Government, см. в следующих ресурсах:
+Дополнительные данные о службах, доступных в Microsoft 365 правительстве, см. в следующих ресурсах:
 
-- [Описание правительственной службы Office 365](office-365-us-government.md)
-- [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Office 365 для государственных организаций службы](office-365-us-government.md)
+- [Enterprise Mobility + Security для описания службы правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
-- [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
-- [Outlook для iOS и Android в облаке правительственных сообществ](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](/flow/us-govt)
-- [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
+- [Teams для правительственных GCC развертывания](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams для правительства — GCC высокой развертывания](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams для развертывания DoD для правительства](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook для iOS и Android в облако сообщества для государственных организаций](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps Правительство США](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate правительства США](/flow/us-govt)
+- [Microsoft 365 Страница правительственных продуктов](https://www.microsoft.com/microsoft-365/government)
 - [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Какие каналы продаж доступны для правительства Microsoft 365?
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Какие каналы продаж доступны для Microsoft 365 правительства?
 
 В следующей таблице показаны параметры, которые могут учитывать потребности каждого сегмента.<br><br> 
 
-| Item | GCC | GCC High | DoD |
+| Элемент | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |Gov для правительства, GOVCON для коммерческих |GCC High |DOD | 
 |**Канал** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |
 
-## <a name="how-do-i-buy-microsoft-365-government"></a>Как купить Microsoft 365 Government?
+## <a name="how-do-i-buy-microsoft-365-government"></a>Как купить Microsoft 365 правительство?
 
-Выполните следующие действия, чтобы приобрести государственные лицензии Microsoft 365:
+Выполните следующие действия по приобретаемой Microsoft 365 государственных лицензий:
 
-1. Заполните и отправьте форму [для GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) или [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) для проверки прав организации.
+1. Заполните и отправьте форму для [GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) [или GCC-High,](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) чтобы проверить соответствие требованиям организации.
 2. Работа с командой учетных записей Майкрософт или квалифицированным партнером, чтобы разместить заказ. Клиенты могут приобретать Microsoft 365 для государственных лицензий США только через выбранных партнеров.
 
-**LSPs GCC и GCC High (+500 мест)**
+**LSPs GCC и GCC (+500 мест)**
 
 - CDW
 - Подключение (ранее подключение к ПК)
+- Пастель
 - Dell
 - Hewlett Packard
 - Insight
@@ -130,7 +131,7 @@ Microsoft 365 Government уникально разработан для соот
 - Softchoice
 - Зоны International
 
-**AOS-G partners GCC и GCC High (менее 500 мест)**
+**Партнеры AOS-G GCC и GCC (до 500 мест)**
 
 - Accenture Federal Services, LLC
 - Agile IT, Inc.
@@ -159,31 +160,31 @@ Microsoft 365 Government уникально разработан для соот
 - TechTrend, Inc.
 - Vexcel
 
-**Примечание:** Все поставщики решений для лицензирования Майкрософт (LSP) в предыдущем списке могут действовать как в GCC, так и в GCC High через Соглашение Enterprise (EA) для создания клиентского ценового листа (CPS). Организации, которые не имеют права на участие в EA, могут приобретать лицензии GCC с помощью перечисленных партнеров AOS-G или партнерской программы CSP.
+**Примечание:** Все поставщики решений для лицензирования Майкрософт (LSP) в предыдущем списке могут GCC и GCC high through Соглашение Enterprise (EA) для создания листа цен клиента (CPS). Организации, которые не имеют права на ea, могут приобретать GCC лицензии через перечисленные партнеры AOS-G или партнерской программы CSP.
 
 **Если вы работаете с партнером CSP, свяжитесь с ними или [найдите CSP.](https://www.microsoft.com/solution-providers/home)**
 
 ## <a name="what-trials-are-available"></a>Какие пробные испытания доступны?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой верхней части страницы EMS, чтобы пройти закрытый процесс регистрации на портале коммерции Office, который передает их на портал Azure Active Directory (AAD).
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой правой части страницы EMS, чтобы пройти закрытый процесс регистрации на портале Office коммерции, который передает их на портал Azure Active Directory (AAD).
 - [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
-- Корпорация Майкрософт не предлагает пробные испытания Office 365 GCC коммерческим клиентам, а также не существует пробных испытаний GCC High или DoD.
+- Корпорация Майкрософт не предлагает пробные Office 365 GCC коммерческим клиентам, а также не GCC или DoD.
 
 ## <a name="where-can-i-learn-more"></a>Где ознакомиться с дополнительной информацией?
 
-Дополнительные информацию о Microsoft 365 Government см. в следующих ресурсах.
+Дополнительные ресурсы см. в следующих ресурсах, Microsoft 365 правительства.
 
-- [Описание правительственной службы Office 365](office-365-us-government.md)
-- [Описание корпоративной мобильности и безопасности для государственных служб США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Office 365 для государственных организаций службы](office-365-us-government.md)
+- [Enterprise Mobility + Security для описания службы правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Развертывание команд для правительства и GCC](/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
-- [Группы для развертывания правительственных служб и doD](/MicrosoftTeams/plan-for-government-dod)
-- [Outlook для iOS и Android в облаке правительственных сообществ](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps правительство США](/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](/flow/us-govt)
+- [Teams для правительственных GCC развертывания](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams для правительства — GCC высокой развертывания](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams для развертывания DoD для правительства](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook для iOS и Android в облако сообщества для государственных организаций](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps Правительство США](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate правительства США](/flow/us-govt)
 - [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
-- [Страница правительственных продуктов Microsoft 365](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft 365 Страница правительственных продуктов](https://www.microsoft.com/microsoft-365/government)
 - [Страница Microsoft Government Industry](https://www.microsoft.com/enterprise/government)
-- [Сообщество ИТ-технологий Майкрософт — государственный сектор](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
+- [Microsoft IT-Community - государственный сектор](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
 - [Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
