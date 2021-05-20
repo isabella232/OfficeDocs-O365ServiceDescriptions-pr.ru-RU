@@ -66,6 +66,7 @@
 ### [Функции контроля соответствия требованиям и безопасности](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Описание службы Microsoft Defender для Office 365](office-365-advanced-threat-protection-service-description.md)
 ## [Описание службы Microsoft Teams](teams-service-description.md)
+### [Описание службы голосовой связи Microsoft 365 бизнес](microsoft-365-business-voice-service-description.md)
 ## [Описание службы OneDrive](onedrive-for-business-service-description.md)
 ## [Описание службы SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Границы SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -103,7 +104,6 @@
 ### [Функции администрирования и безопасности в Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Возможности поддержки в Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Описание служб Microsoft 365
-### [Описание службы корпоративной голосовой связи Microsoft 365](microsoft-365-business-voice-service-description.md)
 ### [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
