@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264797"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625626"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -38,26 +38,25 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
   
 ## <a name="storage-space-per-user"></a>Размер хранилища на пользователя
 
-**2 ГБ**
+**2 ГБ**
 
 - Office 365 корпоративный F3
-- Microsoft 365 F1
+- Microsoft 365 F1
 - Microsoft 365 F3
 
-**1 ТБ**
+**1 ТБ**
 
 - Microsoft 365 бизнес базовый
 - Приложения Microsoft 365 для бизнеса
 - Microsoft 365 бизнес стандарт
 - Приложения Microsoft 365 для предприятий
-- Office 365 A1
 - Office 365 для предприятий E1
 - Office 365 для государственных организаций G1
 - Microsoft 365 бизнес базовый для некоммерческих организаций
 - Microsoft 365 бизнес стандарт для некоммерческих организаций
 - Office 365 E1 для некоммерческих организаций
 - OneDrive для бизнеса (план 1)
-- SharePoint Online (план 1)
+- SharePoint Online (план 1)
 - Microsoft 365 бизнес премиум
 
 **От 1 ТБ до неограниченного размера**
@@ -66,14 +65,15 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 - Office 365 корпоративный E3
 - Office 365 корпоративный E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
 - Office 365 E3 для некоммерческих организаций
 - Office 365 E5 для некоммерческих организаций
-- OneDrive для бизнеса (план 2)
-- SharePoint Online (план 2)
+- OneDrive для бизнеса (план 2)
+- SharePoint Online (план 2)
 - Microsoft 365 корпоративный E3
 - Microsoft 365 корпоративный E5
 - Microsoft 365 A3
@@ -88,9 +88,9 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
   
 Если для отдельных пользователей требуется облачное хранилище с размером, превышающим начальные 5 ТБ, администраторы могут [зарегистрировать обращение в службу технической поддержки Майкрософт](/microsoft-365/admin/contact-support-for-business-products), чтобы запросить его. Предоставление дополнительного пространства в облачном хранилище происходит следующим образом: 
   
-- Когда по меньшей мере 90 % пространства из доступных 5 ТБ в хранилище OneDrive использованы, корпорация Майкрософт увеличивает его объем до 25 ТБ на каждого пользователя. При необходимости администраторы могут устанавливать собственные ограничения для каждого пользователя. 
+- Когда по меньшей мере 90 % пространства из доступных 5 ТБ в хранилище OneDrive использованы, корпорация Майкрософт увеличивает его объем до 25 ТБ на каждого пользователя. При необходимости администраторы могут устанавливать собственные ограничения для каждого пользователя. 
     
-- Пользователям, у которых 25 ТБ места в хранилище OneDrive заполнено по крайней мере на 90 %, в качестве дополнительного облачного хранилища предоставляется 25 ТБ на сайтах групп для отдельных пользователей SharePoint. Обратитесь за помощью и информацией в службу технической поддержки Майкрософт.
+- Пользователям, у которых 25 ТБ места в хранилище OneDrive заполнено по крайней мере на 90 %, в качестве дополнительного облачного хранилища предоставляется 25 ТБ на сайтах групп для отдельных пользователей SharePoint. Обратитесь за помощью и информацией в службу технической поддержки Майкрософт.
     
 Чтобы просмотреть объем и использование хранилища для отдельного пользователя, перейдите в раздел [Управление хранилищем](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) в приложении синхронизации OneDrive. Чтобы просмотреть, какой объем хранилища используют пользователи в организации, перейдите к [отчету об использовании OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) в Центре администрирования Microsoft 365. 
    
@@ -135,13 +135,13 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 
 - [Запросы доступа](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - [Ссылки "Все"](/Office365/Enterprise/best-practices-anonymous-sharing) (для которых можно настроить обязательный срок действия) 
-- [В упоминании в комментариях](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Требуется план, включающий Office 365 для Интернета или настольные приложения Office 365.
+- [Упоминания в комментариях](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Требуется план, включающий Office 365 в Интернете или классические приложения Office 365.
 - [Запросы файлов](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Управление ссылкой для обмена по умолчанию ([на уровне организации](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) и [для каждого сайта](/sharepoint/change-default-sharing-link))
 - Управление внешним доступом ([на уровне организации](/sharepoint/turn-external-sharing-on-or-off) и [на сайте](/sharepoint/change-external-sharing-site) или [OneDrive](/onedrive/user-external-sharing-settings))
 - [Управление разрешениями для общих элементов](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Интеграция Microsoft Teams](/MicrosoftTeams/sharepoint-onedrive-interact) для файлов, отправляемых в чатах. Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
-- [Современные вложения](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). Требуется план, включающий Outlook в Интернете или настольное приложение Outlook.
+- [Современные вложения.](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC) Требуется план, включающий Outlook в Интернете или классическое приложение Outlook.
 - [Ограничение общего доступа](/sharepoint/restricted-domains-sharing) по доменам на уровне организации или сайта
 - [Предоставление общего доступа к отчетам](/sharepoint/sharing-reports)
 - [Коды проверки](/sharepoint/external-sharing-overview#what-happens-when-users-share)
