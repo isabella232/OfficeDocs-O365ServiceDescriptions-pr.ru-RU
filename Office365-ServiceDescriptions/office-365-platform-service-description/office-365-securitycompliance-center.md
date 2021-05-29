@@ -9,26 +9,26 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям &amp; в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям во всех Office 365 &amp; организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653481"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699105"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Центр [соответствия &amp; требованиям безопасности](https://protection.office.com/) предназначен для управления функциями соответствия требованиям в Office 365 для вашей организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+Центр [соответствия &amp; требованиям безопасности](https://protection.office.com/) предназначен для управления функциями соответствия требованиям Office 365 организации. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-Чтобы узнать о вариантах лицензирования пользователей с 1 апреля 2020 г. для получения преимуществ от функций соответствия требованиям Microsoft 365, скачайте подробные сравнения лицензирования соответствия требованиям Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+Чтобы увидеть варианты лицензирования пользователей, чтобы воспользоваться преимуществами Microsoft 365 соответствия требованиям, скачайте таблицу [Microsoft 365 Сравнение](https://go.microsoft.com/fwlink/?linkid=2139145).
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Доступность &amp; Центра обеспечения соответствия требованиям безопасности для бизнес-планов и корпоративных планов
 
-| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 правительства США | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
+| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 правительства США | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 F3 правительства США|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | Нет | Нет |Нет | Нет | Нет | Да | Да  |   |
@@ -53,14 +53,14 @@ ms.locfileid: "51653481"
 |[Основной аудит](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Да |Да |Да |Да |Да |Да |Да |Да |
 |[Расширенный аудит](/microsoft-365/compliance/advanced-audit) |Нет |Нет |Нет |Нет |Нет |Да |Да |Нет |
 |[Соответствие требованиям связи (политики надзора)](/microsoft-365/compliance/supervision-policies) |Нет |Нет |Нет |Нет |Нет |Да |Да |Нет |
-|[Office 365 Шифрование сообщений (OME) Basic](/microsoft-365/compliance/ome)  |Нет |Нет |Нет |Нет |Да |Да |Да |Нет |
+|[шифрование сообщений Office 365 (OME) Basic](/microsoft-365/compliance/ome)  |Нет |Нет |Нет |Нет |Да |Да |Да |Нет |
 |[Расширенное шифрование сообщений Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет |Нет |Нет |Нет |Нет |Да |Да |Нет |
 |[Управление привилегированным доступом](/microsoft-365/compliance/privileged-access-management-overview)  |Нет |Нет |Нет |Нет |Нет |Да |Нет |Нет |
 |[Ключ клиента](/microsoft-365/compliance/customer-key-overview)  |Нет |Нет |Нет |Нет |Нет |Да |Нет |Нет |
 
-<sup>1</sup> Журналы аудита для всех планов, включаю базовый аудит (за исключением E5), сохраняются в течение 90 дней. Так как E5 включает расширенный аудит, журналы аудита сохраняются на срок до одного года. Кроме того, для получения событий из единого журнала аудита можно использовать API управления [Office 365.](/office/office-365-management-api/office-365-management-activity-api-reference)
+<sup>1</sup> Журналы аудита для всех планов, включаю базовый аудит (за исключением E5), сохраняются в течение 90 дней. Так как E5 включает расширенный аудит, журналы аудита сохраняются на срок до одного года. Кроме того, вы можете использовать [API Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) управления для получения событий из единого журнала аудита.
 
-<sup>2</sup> Требуется надстройка для предотвращения потери данных Office 365.
+<sup>2</sup> Требуется Office 365 надстройка для предотвращения потери данных.
 
 <sup>3</sup> Метки конфиденциальности также включены в Azure Information Protection P1 и P2.
 
@@ -92,7 +92,7 @@ ms.locfileid: "51653481"
 |[Расширенное шифрование сообщений Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Управление привилегированным доступом](/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 
-<sup>1</sup> Управление информацией позволяет пользователям создавать, публиковать и вручную применять метки к документам; импорт данных с помощью доставки диска или по сети. Эти функции доступны в E3 и E5, а в E1 их доступность ограничена. Полный список функций, доступных в E1, E3 и E5, см. в подробном сравнении лицензирования соответствия требованиям Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> Управление информацией позволяет пользователям создавать, публиковать и вручную применять метки к документам; импорт данных с помощью доставки диска или по сети. Эти функции доступны в E3 и E5, а в E1 их доступность ограничена. Полный список функций, доступных в E1, E3 и E5, см. в подробном Microsoft 365 сравнение лицензирования соответствия требованиям. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Требует приобретения надстройки Exchange Online Archiving.
 
@@ -100,24 +100,24 @@ ms.locfileid: "51653481"
 
 <sup>4</sup> Беседы Skype хранятся как часть содержимого почтового ящика.
 
-<sup>5</sup> Расширенный eDiscovery требует Office 365 E5 или надстройки лицензии.
+<sup>5</sup> Advanced eDiscovery требует Office 365 E5 или надстройки лицензии.
 
-<sup>Архивативная</sup> запись Skype находится в почтовом ящике пользователя.
+<sup>6</sup> Skype архива находится в почтовом ящике пользователя.
 
-<sup>7</sup> Включает файлы, хранимые в репозиториях Microsoft Teams.
+<sup>7</sup> Включает файлы, хранимые в Microsoft Teams репозиториях.
 
-<sup>8</sup> журналов аудита для всех планов, в том числе Basic Audit, сохраняются в течение 90 дней. Кроме того, для получения событий из единого журнала аудита можно использовать API управления [Office 365.](/office/office-365-management-api/office-365-management-activity-api-reference)
+<sup>8</sup> журналов аудита для всех планов, в том числе Basic Audit, сохраняются в течение 90 дней. Кроме того, вы можете использовать [API Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) управления для получения событий из единого журнала аудита.
 
-<sup>9</sup> Требуется надстройка для предотвращения потери данных Office 365.
+<sup>9</sup> Требуется Office 365 надстройка для предотвращения потери данных.
 
 <sup>10</sup> Ограничивается файлами, хранимыми в OneDrive для бизнеса.
 
-<sup>11</sup> Требуется лицензия Exchange Online Plan 2 или архивация на базе Exchange Online для удержания почтового ящика пользователя с помощью политики хранения.
+<sup>11</sup> Для Exchange Online плана 2 или Exchange Online Archiving требуется лицензия на удержание почтового ящика пользователя с помощью политики хранения.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-Центр соответствия требованиям доступен в плане E3 для Office 365, выполняемом 21Vianet.
+Центр соответствия требованиям доступен в плане E3 для Office 365 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Центр & безопасности доступен для Office 365 Germany. Сведения о Office 365 в Германии см. в [office 365 Germany.](office-365-germany.md)
+Центр & безопасности доступен для Office 365 Германии. Сведения о Office 365 Германии см. [в Office 365 Германии.](office-365-germany.md)

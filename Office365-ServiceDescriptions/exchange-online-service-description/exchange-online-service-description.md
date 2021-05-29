@@ -13,63 +13,63 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
-description: "Вы ищете сравнение функций подписки, включаемой в Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
+ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653361"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699095"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
-Вы ищете сравнение функций подписки, включаемой в Exchange Online? Тогда статья с описанием службы Exchange Online  это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей.
+Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online  это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей.
   
 > [!NOTE]
 > Если вам нужна помощь с задачей или устранение неполадок, вы можете найти следующие ресурсы полезными: <br/>
 [Электронная](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) почта для создания и отправки электронной почты. <br/> 
 [Управление электронной почтой и календарями](/office365/admin/email/email)<br/> 
-[О помощнике по поддержке и восстановлению Майкрософт](https://diagnostics.office.com/)<br/> 
+[О microsoft помощник по поддержке и восстановлению](https://diagnostics.office.com/)<br/> 
 [Отчеты о невывозе электронной почты в Exchange Online](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
-[Справка Exchange Online](/exchange/exchange-online)
+[Exchange Online Справка](/exchange/exchange-online)
   
 Microsoft Exchange Online  это размещенное решение для обмена сообщениями с возможностями Microsoft Exchange Server в виде облачной службы. Оно предоставляет пользователям доступ к электронной почте, календарю, контактам и задачам с ПК, мобильных устройств и через Интернет. Оно полностью интегрируется с Active Directory, позволяя администраторам с помощью групповых политик и других средств администрирования управлять функциями Exchange Online в своей среде.
   
 Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы находятся в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет.
   
-Чтобы сравнить функции в планах, см. [в нем Мощные средства поддержки предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans) Чтобы сравнить планы для Office 365 в Германии, см. в [журнале Office 365 Germany subscription plans.](https://go.microsoft.com/fwlink/?linkid=839016)
+Чтобы сравнить функции в планах, см. [в нем Мощные средства поддержки предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans) Чтобы сравнить планы Office 365 Германии, [см. Office 365 планы подписки в Германии.](https://go.microsoft.com/fwlink/?linkid=839016)
   
 > [!TIP]
 > В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [экспортировать результаты поиска контента.](/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Новые возможности Центра администрирования Exchange
 
-Сведения о новых функциях в центре администрирования Exchange см. в рублях [What's new in Exchange admin center.](/exchange/whats-new)
+Сведения о новых функциях в центре администрирования Exchange см. в Exchange [центре администрирования.](/exchange/whats-new)
   
-## <a name="plans-for-exchange-online"></a>Планы для Exchange Online
+## <a name="plans-for-exchange-online"></a>Планы Exchange Online
 
-Microsoft 365 доступен в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online, см. в полной [таблице сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 Каждому пользователю, имеющему доступ к службе Exchange Online, должен быть назначен план подписки. Для каждой подписки пользователя предусмотрен отдельный почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центре обработки данных Майкрософт на компьютере, на котором запущена служба Exchange Server.
   
 Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. У этих специальных почтовых ящиков нет учетных данных для входа. Вместо этого ими через делегирование управляют лицензированные пользователи с соответствующими разрешениями.
 
-**Права на использование почтовых ящиков пользователей Microsoft 365 F1** <br/>
-Microsoft 365 F1 не включает права на почтовый ящик Exchange. Чтобы обеспечить полное обслуживание Teams, лицензии M365 F1 могут быть включены с включенной службой Exchange Online K1. Несмотря на то, что в плане службы Exchange Online K1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем отключить Outlook в Интернете [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) с помощью этих действий и попросить пользователей не получать доступ к почтовому ящику Exchange с помощью других методов.
+**Microsoft 365 F1 Права использования почтовых ящиков пользователей** <br/>
+Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы обеспечить полное Teams, лицензии M365 F1 могут иметь включенную Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем отключить Outlook в Интернете с [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) помощью этих действий и попросить пользователей не получать доступ к почтовому Exchange с помощью других методов.
   
 ## <a name="system-requirements-for-exchange-online"></a>Системные требования для Exchange Online
 
-Для системных требований ежемесячная служба на основе подписки, доступная для бизнес-, образовательных и государственных организаций, см. в веб-сайте [Microsoft 365 и Office Resources.](https://products.office.com/office-system-requirements/#Office365forBEG)
+Для системных требований ежемесячная служба на основе подписки, доступная для бизнеса, образования и государственных организаций, см. в Microsoft 365 и [Office Resources.](https://products.office.com/office-system-requirements/#Office365forBEG)
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Ограничения для хранения и получателей для Exchange Online
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>служба хранилища и ограничения получателей для Exchange Online
 
-Сведения о ограничениях хранения и получателей, доступных в планах подписки Exchange Online, см. в [журнале Exchange Online limits.](exchange-online-limits.md)
+Сведения о ограничениях хранения и получателей, доступных в Exchange Online подписки, см. в Exchange Online [ограничения.](exchange-online-limits.md)
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Если в организации в настоящее время есть подписки на Office 365 Для малого бизнеса, Office 365 Small Business Premium или Office 365 среднего бизнеса, посетите центр сообщений в центре администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новый план приложений Microsoft 365 влияет на вас. Дополнительные информацию о новом семейство приложений Microsoft 365 см. в новых планах для малого и среднего [бизнеса.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+Если в организации в настоящее время есть подписки на Office 365 для малого бизнеса, Office 365 для малого бизнеса расширенный или Office 365 для среднего бизнеса, посетите центр сообщений в центре администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новый план Приложения Microsoft 365 влияет на вас. Дополнительные информацию о новом семейство Приложения Microsoft 365 плана см. в дополнительных планах для малого и среднего [бизнеса.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
-О доступности функций в Microsoft 365 Business Premium см. в описании [службы Microsoft 365 Business Premium.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
+О доступности функций в Microsoft 365 бизнес премиум см. [Microsoft 365 бизнес премиум описание службы.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
 | Функция | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -91,8 +91,8 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |IRM на базе Azure Information Protection|Нет|Да|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Да|Да|No<sup>2</sup>|
 |Управление правами на доступ к данным с помощью AD RMS для Windows Server|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|Да<sup>3</sup>|
 |Шифрование сообщений Office 365|Да<sup>13</sup>|Да<sup>13</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|Да|Да|No<sup>2</sup>|
-|Ключ клиента<sup>22</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет||
-|S/MIME|Да<sup>15</sup>|Да<sup>15</sup>|Да|Да|Да|Да|Да|Да||
+|Ключ клиента<sup>22</sup>|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
+|S/MIME|Да<sup>15</sup>|Да<sup>15</sup>|Да|Да|Да|Да|Да|Да|
 |Хранение на месте и хранение для судебного разбирательства|Да|Да|Нет|Нет|Нет|Да|Да|Нет|
 |Обнаружение электронных данных на месте|Да<sup>20</sup>|Да<sup>20</sup>|Да<sup>20</sup>|Да<sup>20</sup>|Да<sup>20</sup>|Да<sup>20</sup>|Да<sup>20</sup>|Да|
 |Transport rules|Да <sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|
@@ -116,7 +116,7 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Оповещения о доступном объеме|Да|Да|Да|Да|Да|Да|Да|Да|
 |Папка "Несрочные"|Да|Нет|Да|Да|Да|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|Да|Да|Да|
-|Делегированный доступ|Да|Да|Да|Да|Да|Да|Да|No<sup>24</sup>|
+|Делегированный доступ|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Правила для папки "Входящие"|Да|Да|Да|Да|Да|Да|Да|Да|
 |Подключенные учетные записи|Да|Да|Да|Да|Да<sup>17</sup>|Да<sup>17</sup>|Да<sup>17</sup>|Да<sup>17</sup>|
 |Неактивные почтовые ящики|Нет|Нет|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Да|Да|Нет <sup>9</sup>|
@@ -134,8 +134,8 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Ответы об отсутствии на работе|Да|Да|Да|Да|Да|Да|Да|Да|
 |Общий доступ к календарю|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
-|Отчеты центра администрирования Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
-|Книга отчетов Excel|Нет|Нет|Да|Да|Да|Да|Да|Да|
+|Отчеты в Центре администрирования Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
+|Excel отчетов|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Отчеты веб-служб|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Message trace|Нет|Да|Да|Да|Да|Да|Да|Да|
 |Отчеты аудита|Да|Да|Да|Да|Да|Да|Да|Да <sup>3</sup>|
@@ -148,7 +148,7 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Outlook для Windows <sup>21</sup>|Да|Да|Да|Да|Да|Да|Да| Нет|
 |Outlook в Интернете<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |Outlook для Mac<sup>21</sup>|Да|Да|Да|Да|Да|Да|Да| Нет|
-|Outlook для iOS и Android<sup>21</sup>|Да<sup>25</sup>|Да<sup>25</sup>|Да|Да|Да|Да|Да|Да|
+|Outlook для iOS и Android<sup>21</sup>|Да<sup>24</sup>|Да<sup>24</sup>|Да|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|Да|Да|Да|
 |Базовая мобильность и безопасность для Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |POP и IMAP|Да|Да|Да|Да|Да|Да|Да|Да <sup>12</sup>|
@@ -158,57 +158,56 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Голосовая<sup>почта 23</sup>|Да|Да|Нет|Нет|Нет|Да|Да|Нет|
 |Интеграция голосовой почты и сторонних факсов<sup>23</sup>|Да|Да|Нет|Нет|Нет|Да|Да|Нет|
 |Взаимооперабельность голосовой почты стороннее<sup>23</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
-|Интеграция Skype для бизнеса|Да|Да|Да|Да|Да|Да|Да|Да|
+|Skype для бизнеса интеграции|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Репликация почтовых ящиков в центрах обработки данных|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|Да|Да|Да|
-|Восстановление отдельных элементов|Да|Да|Да|Да|Да|Да|Да|Нет||
+|Восстановление отдельных элементов|Да|Да|Да|Да|Да|Да|Да|Нет|
 |**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
-|Присутствие Skype для бизнеса в OWA и Outlook|Да|Да|Да|Да|Да|Да|Да|Да|
-|Интероперабельность SharePoint|Да|Да|Да|Да|Да|Да|Да|Да|
-|Поддержка подключения EWS<sup>26</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+|Skype для бизнеса oWA и Outlook|Да|Да|Да|Да|Да|Да|Да|Да|
+|SharePoint совме-|Да|Да|Да|Да|Да|Да|Да|Да|
+|Поддержка подключения EWS<sup>25</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|Да|Да|Да|
 |**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Доступ к порталу Microsoft Office 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
-|Доступ к центру администрирования Microsoft 365|Нет|Нет|Да|Да|Да|Да|Да|Да|
+|Microsoft 365 центра администрирования|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Доступ к Центру администрирования Exchange|Да|Да|Да|Да|Да|Да|Да|Да|
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|Да|Да|Да|
 |Отчеты об использовании|Да|Да|Да|Да|Да|Да|Да|Да|
 |**Расширение службы — настройка, надстройки и ресурсы**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
-|Надстройки Outlook и MAPI Outlook|Да<sup>19</sup>|Да|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Нет|
+|Outlook надстройки и Outlook MAPI|Да<sup>19</sup>|Да|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Да<sup>19</sup>|Нет|
 
-<sup>1</sup> Требуется подписка архивация на базе Exchange Online для каждого локального пользователя почтового ящика с облачным архивом. <br/>
-<sup>2</sup> Защита информации Azure не включена, но ее можно приобрести в качестве отдельной надстройки и включить поддерживаемые функции управления правами на информацию (IRM). Для некоторых функций защиты информации Azure требуется подписка на Microsoft 365 Apps для предприятия, которая не включена в Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education или Office 365 Enterprise F3. <br/>
+<sup>1</sup> Требуется подписка Exchange Online Archiving для каждого локального пользователя почтового ящика с облачным архивом. <br/>
+<sup>2</sup> Защита информации Azure не включена, но ее можно приобрести в качестве отдельной надстройки и включить поддерживаемые функции управления правами на информацию (IRM). Некоторые функции azure Information Protection требуют подписки на Приложения Microsoft 365 для предприятий, которая не включена в Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Office 365 корпоративный E1, Office 365 для образования или Office 365 корпоративный F3. <br/>
 <sup>3</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
 <sup>4</sup> Правила транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Доступные критерии и действия различаются между Exchange Online и Microsoft Exchange Server 2013 г. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/>
-<sup>5</sup> Для Exchange 2013 для DLP требуется лицензия на клиентский доступ к exchange enterprise (CAL). Дополнительные сведения о лицензиях и лицензировании серверов см. в [faq-службах](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)лицензирования Exchange. <br/>
-<sup>6</sup> Exchange Server 2013 г. имеет большинство таких же встроенных возможностей по борьбе со спамом, Exchange Server 2010 г. Сведения о преимуществах фильтрации нежелательной почты в Exchange для локального размещения см. в рублях Преимущества функций защиты от нежелательной почты в [Exchange Online Protection Over Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)г. <br/>
-<sup>7</sup> Доступно только с помощью прямого доступа к интерфейсу управления Центром администрирования Exchange (EAC). <br/>
+<sup>5</sup> Для Exchange 2013 года для DLP требуется Exchange Enterprise клиентской лицензии на доступ (CAL). Дополнительные сведения о лицензиях и лицензировании серверов см. в Exchange [вопросами лицензирования.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
+<sup>6</sup> Exchange Server 2013 г. имеет большинство таких же встроенных возможностей по борьбе со спамом, Exchange Server 2010 г. Сведения о преимуществах Exchange фильтрации нежелательной почты в локальном предложении см. в Exchange Online Protection over [Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)г. . <br/>
+<sup>7</sup> Доступно только с помощью прямого доступа к интерфейсу Exchange центра администрирования (EAC). <br/>
 <sup>8</sup> Exchange Server 2013 использует только двигатель microsoft anti-malware. Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ. <br/>
 <sup>9</sup> Подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которых требуется либо неактивный почтовый ящик, либо функция архива.<br/>
-<sup>10</sup> SharePoint необходимо развернуть в локальной организации Exchange. <br/>
+<sup>10</sup> SharePoint должны быть развернуты в локальной Exchange организации. <br/>
 <sup>11</sup> SharePoint Online должен быть включен в план подписки. <br/>
 <sup>12</sup> POP поддерживается, но IMAP — нет. <br/>
-<sup>13</sup> Поддерживаемые для Exchange Server 2013 г. клиенты, приобретавшие Azure Information Protection. Шифрование сообщений Office 365 требует от локального клиента маршрутить электронную почту через Exchange Online либо с помощью Exchange Online Protection для фильтрации электронной почты, либо путем создания гибридного потока почты. <br/>
-<sup>14</sup> Exchange Server 2013 клиенты должны скачать и установить SP1, чтобы получить доступ к советам по отпечаткам документов и политике в OWA и OWA для устройств. <br/>
-Шифрование диска BitLocker <sup>15</sup> поддерживается Exchange Server 2013 г., но администратору необходимо включить эту функцию. <br/>
-<sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard и Office 365 Enterprise F3 не предоставляют права доступа для использования на локальном сервере. Чтобы быть совместимым, клиент должен приобрести или заранее приобрести соответствующие ЦС ИЛИ обновить до корпоративного SKU, который предоставляет эти права доступа. <br/>
-<sup>17 подключенных</sup> учетных записей поддерживаются для учетных записей POP IMAP, но отключены для Outlook.com &amp; (Hotmail). <br/>
+<sup>13</sup> Поддерживаемые для Exchange Server 2013 г. клиенты, приобретавшие Azure Information Protection. шифрование сообщений Office 365 клиенты на месте должны маршрутить электронную почту через Exchange Online, используя Exchange Online Protection для фильтрации электронной почты, или путем создания гибридного потока почты. <br/>
+<sup>14</sup> Exchange Server 2013 клиенты должны скачать и установить SP1, чтобы получить доступ к дактилоскопии документов Советы в OWA и OWA для устройств. <br/>
+<sup>15</sup> BitLocker шифрование диска поддерживается Exchange Server 2013 г., но администратору необходимо включить эту функцию. <br/>
+<sup>16</sup> Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт и Office 365 корпоративный F3 не предоставляют права доступа для использования на локальном сервере. Чтобы быть совместимым, клиент должен приобрести или заранее приобрести соответствующие caLs или обновить до Enterprise SKU, который предоставляет эти права доступа. <br/>
+<sup>17 подключенных</sup> учетных записей поддерживаются для учетных записей POP IMAP, но отключены &amp; для Outlook.com (Hotmail). <br/>
 <sup>18</sup> Использование cmdlets в Exchange Online PowerShell для настройки списков адресов по умолчанию и глобального списка адресов по умолчанию (GAL) не поддерживается. <br/>
 <sup>19</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/>
 <sup>20</sup> Для электронных данных требуется отдельный запрос для локального или облачного. <br/>
 <sup>21</sup> В таблице указывается, работает ли клиент со связанными планами. Указанные в ней клиенты могут и не входить в эти планы на момент приобретения последних. <br/>
 <sup>22</sup> Дополнительные сведения см. в сообщении [Service encryption with Customer Key.](/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
-<sup>23</sup> Поддержка системы обмена данными Exchange Online для сторонних систем PBX с помощью прямых подключений из клиентской службы SBCs завершится в апреле 2019 г. Дополнительные сведения см. в блоге группы Exchange о прекращении поддержки контроллеров пограничных сеансов в [exchange Online Unified Messaging.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
-<sup>24</sup> Пользователь F3 не может добавлять делегатов в собственный почтовый ящик, но он может получить доступ к другому почтовому ящику (включая общие почтовые ящики) и выполнять все действия, делегированные им.<br/>
-<sup>25</sup> Подписка для Microsoft 365 Apps для предприятия также требуется для Exchange Server 2013 и Exchange Server 2016.<br/>
-Поддержка приложений EWS <sup>26,</sup> применяемая для обезличения приложения EWS.
+<sup>23</sup> Exchange Online для сторонних систем PBX с помощью прямых подключений от клиентской SBCs завершится в апреле 2019 г. Дополнительные сведения см. в Exchange блога группы о прекращении поддержки контроллеров пограничной службы сеансов в [Exchange Online единой системы обмена сообщениями.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
+<sup>24</sup> Подписка на Приложения Microsoft 365 для предприятий также требуется для Exchange Server 2013 и Exchange Server 2016.<br/>
+Поддержка приложений EWS <sup>25,</sup> применяемая для обезличения приложения EWS.<br/>
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Доступность возможностей в автономных планах Exchange Online
 
-| Функция | Exchange Server 2013 | Exchange Server 2016 | Exchange Online Plan &nbsp; 1 | Exchange Online Plan &nbsp; 2 | Базовая подписка на Exchange Online |
+| Функция | Exchange Server 2013 | Exchange Server 2016 | Exchange Online План &nbsp; 1 | Exchange Online План &nbsp; 2 | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](planning-and-deployment.md)**||||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Да|Да<sup>23</sup>|
@@ -219,7 +218,7 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -234,20 +233,20 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Правила транспорта|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|
 |Защита от потери данных|Да<sup>10, 14</sup>|Да<sup>10, 14</sup>|Нет|Да|Нет|
 |Ведение журнала|Да|Да|Да|Да|Да|
-|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Встроенная защита от нежелательной почты|Да <sup>2</sup>|Да <sup>2</sup>|Да|Да|Да|
 |Customize anti-spam policies|Да, но только через PowerShell|Да, но только через PowerShell|Да|Да|Да <sup>8</sup>|
 |Встроенная защита от вредоносных программ|Да <sup>7</sup>|Да <sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|
 |Customize anti-malware policies|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|
-|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|
 |Добавление партнера в входящий безопасный список|Нет|Нет|Да|Да|Да|
 |Маршрутизация почты в гибридной конфигурации|Да|Да|Да|Да|Да|
-|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Оповещения о доступном объеме|Да|Да|Да|Да|Да|
 |Папка "Несрочные"|Нет|Нет|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|
@@ -268,18 +267,18 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Управление конференц-залами|Да|Да|Да|Да|Да|
 |Ответы об отсутствии на работе|Да|Да|Да|Да|Да|
 |Общий доступ к календарю|Да|Да|Да|Да|Да <sup>18</sup>|
-|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
-|Отчеты центра администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
-|Книга отчетов Excel|Нет|Нет|Да|Да|Да|
+|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|Отчеты в Центре администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
+|Excel отчетов|Нет|Нет|Да|Да|Да|
 |Отчеты веб-служб|Нет|Нет|Да|Да|Да|
 |Message trace|Нет|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты аудита|Да|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты единой системы обмена сообщениями|Да|Да|Нет|Да|Нет|
-|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Федеративный доступ|Да|Да|Да|Да|Да|
 |Почтовые ящики сайта|Да <sup>3</sup>|Да <sup>3</sup>|Да <sup>4</sup>|Да <sup>4</sup>|Да <sup>4</sup>|
 |Общедоступные папки|Да|Да|Да|Да|Нет|
-|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Microsoft Outlook|Да|Да|Да|Да|Нет|
 |Outlook в Интернете|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|
@@ -288,54 +287,54 @@ Microsoft 365 F1 не включает права на почтовый ящик
 |Поддержка приложений EWS|Да|Да|Да|Да|Нет|
 |Outlook для Mac|Да|Да|Да|Да|Нет|
 |Outlook для iOS и Android<sup>21</sup>|Да<sup>25</sup>|Да<sup>25</sup>|Да|Да|Да|
-|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Голосовая почта|Да|Да|Нет|Да|Нет|
 |Интероперабельность голосовой почты сторонних сторон|Да|Да|Да|Да|Да|
-|Интеграция Skype для бизнеса|Да|Да|Да|Да|Да|
-|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|Skype для бизнеса интеграции|Да|Да|Да|Да|Да|
+|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Репликация почтовых ящиков в центрах обработки данных|Нет|Нет|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|
 |Восстановление отдельных элементов|Да|Да|Да|Да|Нет|
-|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
-|Присутствие Skype для бизнеса в OWA и Outlook|Да|Да|Да|Да|Да|
-|Интероперабельность SharePoint|Да|Да|Да|Да|Да|
+|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|Skype для бизнеса oWA и Outlook|Да|Да|Да|Да|Да|
+|SharePoint совме-|Да|Да|Да|Да|Да|
 |Поддержка подключения EWS<sup>26</sup>|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|
-|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Доступ к порталу Microsoft Office 365|Нет|Нет|Да|Да|Да|
-|Доступ к центру администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
+|Microsoft 365 центра администрирования|Нет|Нет|Да|Да|Да|
 |Доступ к Центру администрирования Exchange|Да|Да|Да|Да|Да <sup>8</sup>|
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|
 |Отчеты об использовании|Да|Да|Да|Да|Да|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Базовая подписка на Exchange Online**|
-|Outlook на веб-веб-части|Да|Да|Да|Да|Да|
-|Надстройки Outlook и MAPI Outlook|Да|Да|Да<sup>21</sup>|Да<sup>21</sup>|Нет|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|Outlook веб-веб-части|Да|Да|Да|Да|Да|
+|Outlook надстройки и Outlook MAPI|Да|Да|Да<sup>21</sup>|Да<sup>21</sup>|Нет|
 
 <sup>1</sup> Правила транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Доступные критерии и действия различаются между Exchange Online и Microsoft Exchange Server 2013 г. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/>
-<sup>2.</sup> Сведения о преимуществах фильтрации нежелательной почты в Exchange для локального размещения см. в рублях Преимущества функций защиты от нежелательной почты в [Exchange Online Protection Over Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)г. <br/>
-<sup>3</sup> SharePoint необходимо развернуть в локальной организации Exchange. <br/>
+<sup>2.</sup> Сведения о преимуществах Exchange фильтрации нежелательной почты в локальном предложении см. в Exchange Online Protection over [Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)г. . <br/>
+<sup>3</sup> SharePoint должны быть развернуты в локальной Exchange организации. <br/>
 <sup>4</sup> SharePoint Online должен быть включен в план подписки. <br/>
-<sup>5</sup> Требуется подписка архивация на базе Exchange Online для каждого локального пользователя почтового ящика с облачным архивом. <br/>
-<sup>6</sup> Архивация на базе Exchange Online подписку можно приобрести отдельно для каждого почтового ящика, для которых требуется функция неактивного почтового ящика. <br/>
+<sup>5</sup> Требуется подписка Exchange Online Archiving для каждого локального пользователя почтового ящика с облачным архивом. <br/>
+<sup>6</sup> Exchange Online Archiving подписку можно приобрести отдельно для каждого почтового ящика, для которых требуется функция неактивного почтового ящика. <br/>
 <sup>7</sup> Exchange Server 2013 использует только двигатель microsoft anti-malware. Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ. <br/>
-<sup>8</sup> Доступны только с помощью прямого доступа к интерфейсу управления Центром администрирования Exchange (EAC). <br/>
+<sup>8</sup> Доступно только с помощью прямого доступа к интерфейсу Exchange центра администрирования (EAC). <br/>
 <sup>9</sup> IMAP не поддерживается. <br/>
-<sup>10</sup> Для Exchange 2013 или более поздней 2013 года для DLP требуется лицензия на клиентский доступ для клиентов exchange enterprise (CAL). Дополнительные сведения о лицензиях и лицензировании серверов см. в [faq-службах](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)лицензирования Exchange. <br/>
-<sup>11</sup> Azure Information Protection не включена, но ее можно приобрести в качестве отдельной надстройки и включить поддерживаемые функции управления правами на информацию (IRM). Для некоторых функций защиты информации Azure требуется подписка на Microsoft 365 Apps для предприятия, которая не включена в Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education или Office 365 Enterprise F3. Шифрование сообщений Office 365 зависит от Azure Information Protection. <br/>
+<sup>10</sup> Для Exchange 2013 или более позднего года для DLP требуется лицензия Exchange Enterprise клиентского доступа (CAL). Дополнительные сведения о лицензиях и лицензировании серверов см. в Exchange [вопросами лицензирования.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
+<sup>11</sup> Azure Information Protection не включена, но ее можно приобрести в качестве отдельной надстройки и включить поддерживаемые функции управления правами на информацию (IRM). Некоторые функции azure Information Protection требуют подписки на Приложения Microsoft 365 для предприятий, которая не включена в Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Office 365 корпоративный E1, Office 365 для образования или Office 365 корпоративный F3. шифрование сообщений Office 365 зависит от Azure Information Protection. <br/>
 <sup>12</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
-<sup>13</sup> Поддерживается для клиентов, работающих Exchange Server 2013 или более поздней, которые приобретают Azure Information Protection. Шифрование сообщений Office 365 требует от локального клиента маршрутить электронную почту через Exchange Online либо с помощью Exchange Online Protection для фильтрации электронной почты, либо путем создания гибридного потока почты. <br/>
-<sup>14</sup> Клиентам, работающим Exchange Server 2013 или более поздней версии, необходимо скачать и установить последнее накопительное обновление (CU) или предыдущий ЦС, чтобы получить доступ к советам по отпечаткам пальцев и политике документов в OWA и OWA для устройств. <br/>
-<sup>15</sup> Доступно для клиентов, работающих Exchange Server 2013 или более поздней. <br/>
-Шифрование диска BitLocker <sup>16</sup> поддерживается Exchange Server 2013 г., но администратору необходимо включить эту функцию. <br/>
-<sup>17</sup> Exchange Online Plan 1 имеет ограничение размера [почтового ящика и архива.](./exchange-online-limits.md) архивация на базе Exchange Online для надстройки Exchange Online добавляет неограниченный облачный архив и [удержание на месте.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
-<sup>18</sup> базовая подписка на Exchange Online можно получить доступ или общий доступ только через OWA. <br/>
-<sup>19 подключенных</sup> учетных записей поддерживаются для учетных записей POP IMAP, но отключены для Outlook.com &amp; (Hotmail). <br/>
+<sup>13</sup> Поддерживается для клиентов, работающих Exchange Server 2013 или более поздней, которые приобретают Azure Information Protection. шифрование сообщений Office 365 клиенты на месте должны маршрутить электронную почту через Exchange Online, используя Exchange Online Protection для фильтрации электронной почты, или путем создания гибридного потока почты. <br/>
+<sup>14</sup> Клиентам, работающим Exchange Server 2013 или более поздней версии, необходимо скачать и установить последнее накопительное обновление (CU) или предыдущий ЦС, чтобы получить доступ к дактилоскопии и политике документов Советы в OWA и OWA для устройств. <br/>
+<sup>15</sup> Доступно клиентам, работающим Exchange Server 2013 или более поздней. <br/>
+<sup>16</sup> BitLocker шифрование диска поддерживается Exchange Server 2013 г., но администратору необходимо включить эту функцию. <br/>
+<sup>17</sup> Exchange Online плана 1 имеет ограничение [размера почтового ящика и архива.](./exchange-online-limits.md) Exchange Online Archiving для Exchange Online надстройка добавляет неограниченный облачный архив и [удержание на месте.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
+<sup>18 базовая подписка на Exchange Online</sup> можно получить доступ или делиться только через OWA. <br/>
+<sup>19 подключенных</sup> учетных записей поддерживаются для учетных записей POP IMAP, но отключены &amp; для Outlook.com (Hotmail). <br/>
 <sup>20</sup> Использование cmdlets в Exchange Online PowerShell для настройки списков адресов по умолчанию и глобального списка адресов по умолчанию (GAL) не поддерживается. <br/>
 <sup>21</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/>
 <sup>22</sup> Для электронных данных требуется отдельный запрос для локального или облачного. <br/>
-<sup>23</sup> базовая подписка на Exchange Online не предоставляет права доступа для использования на локальном сервере. Чтобы быть совместимым, клиент должен приобрести или заранее приобрести соответствующие ЦС ИЛИ обновить до корпоративного SKU, который предоставляет эти права доступа. <br/>
-<sup>24</sup> Группы Microsoft 365 доступны с уменьшенными функциональными возможностями.<br/>
-<sup>25</sup> Подписка для Microsoft 365 Apps для предприятия также требуется для Exchange Server 2013 и Exchange Server 2016.<br/>
+<sup>23</sup> базовая подписка на Exchange Online не предоставляет права доступа для использования на локальном сервере. Чтобы быть совместимым, клиент должен приобрести или заранее приобрести соответствующие caLs или обновить до Enterprise SKU, который предоставляет эти права доступа. <br/>
+<sup>24</sup> Microsoft 365 с уменьшенными функциональными возможностями.<br/>
+<sup>25</sup> Подписка на Приложения Microsoft 365 для предприятий также требуется для Exchange Server 2013 и Exchange Server 2016.<br/>
 Поддержка приложений EWS <sup>26,</sup> применяемая для обезличения приложения EWS.
