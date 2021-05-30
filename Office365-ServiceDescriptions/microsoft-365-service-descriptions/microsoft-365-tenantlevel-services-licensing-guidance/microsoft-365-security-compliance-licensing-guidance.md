@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по лицензированию Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензионного доступа.
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546016"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699065"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 лицензирования для обеспечения соответствия &amp; требованиям безопасности
 
@@ -26,7 +26,7 @@ ms.locfileid: "52546016"
 > [!NOTE]
 > Некоторые службы клиентов в настоящее время не могут ограничивать преимущества для определенных пользователей. Необходимо принять меры для ограничения преимуществ службы для лицензированных пользователей. Это поможет избежать потенциальных сбоев служб в организации после того, как будут доступны возможности таргетинга.
 
-Чтобы узнать о вариантах лицензирования пользователей с Microsoft 365 параметров соответствия требованиям, скачайте Microsoft 365 сравнение соответствия требованиям. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
+Чтобы увидеть варианты лицензирования пользователей, чтобы воспользоваться преимуществами Microsoft 365 соответствия требованиям, скачайте таблицу [Microsoft 365 Сравнение](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="azure-active-directory-identity-protection"></a>Защита идентификации Azure Active Directory
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/G3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection, and Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 и AIP Plan 2 предоставляют пользователю права на автоматическую маркировку чувствительности.
 
-Подробные сведения о правах по лицензии см. в Microsoft 365 сравнение лицензирования соответствия требованиям. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Не включает права на автоматическую классификацию на основе Машинное обучение (обучаемые классификаторы).
+Защита информации не включает права на автоматическую классификацию на основе Машинное обучение (обучаемые классификаторы).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
