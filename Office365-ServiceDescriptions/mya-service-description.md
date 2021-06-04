@@ -18,9 +18,9 @@ ms.locfileid: "51652603"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
 
-MyAnalytics кратко рассказывает о том, как вы проводите время на работе, а затем предлагает способы более разумной работы. MyAnalytics предоставляет эти сведения с помощью [элементов,](#elements) к которые можно получить доступ в Microsoft Outlook или через веб-браузер.
+MyAnalytics кратко рассказывает о том, как вы проводите время на работе, а затем предлагает способы более разумной работы. MyAnalytics предоставляет эти [](#elements) сведения с помощью элементов, к которые можно получить доступ в Microsoft Outlook или через веб-браузер.
 
-Некоторые элементы MyAnalytics автоматически предоставляются пользователям различных планов Office 365. Чтобы узнать, какие элементы включены в планы Office 365 и Microsoft 365, см. в сайте [MyAnalytics plans and environments.](/workplace-analytics/myanalytics/overview/plans-environments)  
+Некоторые элементы MyAnalytics автоматически предоставляются пользователям различных Office 365 планов. Чтобы узнать, какие элементы включены в Office 365 и Microsoft 365, см. в обзоре MyAnalytics планы [и среды.](/workplace-analytics/myanalytics/overview/plans-environments)  
 
 MyAnalytics обрабатывает сведения таким образом, чтобы защитить конфиденциальность сотрудников. Дополнительные сведения см. в [интернете.](#data-privacy)
 
@@ -33,7 +33,7 @@ MyAnalytics обрабатывает сведения таким образом,
 MyAnalytics состоит из следующих элементов:
 
 * [Панель](/workplace-analytics/myanalytics/use/dashboard-2)мониторинга. Позволяет размышлять о шаблонах работы, таких как время для целенаправленной работы, собраний и методов электронной почты и сетевых сетей.
-* [Надстройка Outlook.](/workplace-analytics/myanalytics/use/add-in)Предоставляет в Outlook важные сведения, которые помогут вам оставаться на вершине задач и выполнять больше работы.
+* [Outlook](/workplace-analytics/myanalytics/use/add-in)надстройки: предоставляет вам сведения о действиях в Outlook, которые помогут вам оставаться на вершине задач и получать больше работы.
 * [Дайджесты](/workplace-analytics/myanalytics/use/email-digest-2)электронной почты: в еженедельной электронной почте вы можете усвоить основные моменты о ваших шаблонах работы.
 * [Inline suggestions:](/workplace-analytics/myanalytics/use/mya-notifications)These brief, data-and AI-driven suggestions appear in Outlook while you are either reading or composing an email or a meeting invitation.
 
@@ -46,7 +46,7 @@ MyAnalytics состоит из следующих элементов:
 * Данные MyAnalytics обрабатываются и хранятся в почтовом ящике сотрудника Exchange Online.
 * MyAnalytics поддерживает соблюдение Общих правил защиты данных (GDPR).
 * MyAnalytics можно настроить таким образом, чтобы пользователи подключались сами.
-* MyAnalytics и Delve — это отдельные приложения, не взаимозависимые.
+* MyAnalytics и Delve это отдельные приложения, не взаимозависимые.
 * MyAnalytics напоминает пользователям про конфиденциальность и защиту их данных.
 
 Дополнительные сведения см. в [руководстве по конфиденциальности MyAnalytics.](/workplace-analytics/myanalytics/overview/privacy-guide)

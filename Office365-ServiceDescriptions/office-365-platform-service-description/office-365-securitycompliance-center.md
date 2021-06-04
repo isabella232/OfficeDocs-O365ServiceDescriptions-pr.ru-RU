@@ -66,7 +66,7 @@ ms.locfileid: "52699105"
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Доступность &amp; Центра соответствия требованиям безопасности для автономных планов
 
-| Функция | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
+| Возможность | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |

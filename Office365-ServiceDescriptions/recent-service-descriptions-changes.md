@@ -28,99 +28,99 @@ ms.locfileid: "51651044"
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Office 365 для образования](office-365-platform-service-description/office-365-education.md) <br/> |Обновленная доступность мобильных устройств в планах A1.  <br/> |
-||[Office 365 для образования](office-365-platform-service-description/office-365-education.md) <br/> |Обновленные ссылки на удержание судебных разбирательств в центрах безопасности и соответствия требованиям и в разделах Exchange Online.  <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновленная доступность в приложениях Microsoft 365 для бизнеса.  <br/> |
+||[Office 365 для образования](office-365-platform-service-description/office-365-education.md) <br/> |Обновленные ссылки на удержание судебных разбирательств в Центре безопасности образования и соответствия требованиям и Exchange Online разделах.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновленная доступность в Приложения Microsoft 365 для бизнеса.  <br/> |
 |Приложения Office  <br/> |[Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md) <br/> |Обновленная доступность на мобильных платформах.  <br/> |
-|Workplace Analytics  <br/> |[Описание службы Workplace Analytics](workplace-analytics-service-description.md) <br/> |Обновлено ограничение на место в лицензии, добавлена ссылка на статью "Начало работы", обновлены необходимые условия.  <br/> |
+|Workplace Analytics  <br/> |[Описание службы Workplace Analytics](workplace-analytics-service-description.md) <br/> |Обновлено ограничение на место в лицензии, добавлена ссылка на Начало работы статьи, обновлены необходимые условия.  <br/> |
 |Project Online  <br/> |[Описание службы Project Online](project-online-service-description/project-online-service-description.md) <br/> |Уточненное лицензирование.  <br/> |
 |Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Обновленная таблица функций для демонстрации дополнительных функций, доступных в Visio Online.  <br/> |
    
-## <a name="may-2018"></a>Май 2018 г.
+## <a name="may-2018"></a>Май 2018 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнены возможности общего доступа к GCC High и DoD.  <br/> |
-||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен раздел FastTrack в раздел GCC.  <br/> |
+|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнены GCC высокой и doD-возможности общего доступа.  <br/> |
+||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен раздел FastTrack для GCC темы.  <br/> |
    
-## <a name="april-2018"></a>Апрель 2018 г.
+## <a name="april-2018"></a>Апрель 2018 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлена многоэтабная информация в Описание службы платформы.  <br/> |
-||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен Microsoft 365 Бизнес.  <br/> |
-||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменена запись ограничения архива на "Да" для Microsoft 365 Business Basic и Microsoft 365 Business Standard.  <br/> |
-||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено "Advanced Security Management" на "Безопасность облачных приложений Office 365".  <br/> |
-|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Изменено первое примечание в теме на "Книги с объемом более 30 мегабайт (МБ) не могут просматриваться в Excel для веб-сайта из Microsoft SharePoint Online". Ранее в заметке говорилось о 10 МБ.  <br/> |
-|OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Главное обновление описания службы OneDrive для бизнеса.  <br/> |
+||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлен Microsoft 365 бизнес.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменена запись ограничения архива на "Да" для Microsoft 365 бизнес базовый и Microsoft 365 бизнес стандарт.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Изменено "Advanced Security Management" на "Office 365 Cloud App Security".  <br/> |
+|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Изменена первая заметка в теме на "Книги с объемом более 30 мегабайт (МБ) не могут просматриваться в Excel веб-страницы из Microsoft Office SharePoint Online". Ранее в заметке говорилось о 10 МБ.  <br/> |
+|OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Главное обновление OneDrive для бизнеса service Description.  <br/> |
    
-## <a name="march-2018"></a>Март 2018 г.
+## <a name="march-2018"></a>Март 2018 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновления шифрования данных в центрах обработки данных и шифрование сообщений Office 365 ( OME).  <br/> |
-||[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Обновления шифрования данных в центрах обработки данных и шифрование сообщений Office 365 ( OME).  <br/> |
-|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Обновление поддержки для замораживания стежков в Excel для веб-сайта.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Обновления шифрования данных в центрах обработки данных и шифрование сообщений Office 365 (OME).  <br/> |
+||[Политика обмена сообщениями и соответствие требованиям](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Обновления шифрования данных в центрах обработки данных и шифрование сообщений Office 365 (OME).  <br/> |
+|Office в Интернете  <br/> |[Веб-приложение Excel](office-online-service-description/excel-online.md) <br/> |Обновление поддержки подморозить области в Excel веб-службе.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Несколько обновлений и реструктуризация.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Несколько обновлений.  <br/> |
 |Yammer  <br/> |[Функции администрирования и безопасности в Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Удалены заметки и клавиши потока активности.  <br/> |
 ||[Возможности совместной работы с документами в Yammer](yammer-service-description/document-collaboration-features-in-yammer.md) <br/> |Удалены заметки.  <br/> |
 ||[Описание службы Yammer](yammer-service-description/yammer-service-description.md) <br/> |Удалены клавиши "Заметки" и "Поток активности" из таблицы сравнения плана.  <br/> |
    
-## <a name="february-2018"></a>Февраль 2018 г.
+## <a name="february-2018"></a>Февраль 2018 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновленная доступность StaffHub для Microsoft 365 Business Standard.  <br/> |
+|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновленная доступность StaffHub для Microsoft 365 бизнес стандарт.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Обновленные сертификаты отрасли соответствия [требованиям[ServiceDesc].](/compliance/regulatory/offering-home)  <br/> |
-||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Обновленные политики хранения вручную для плана Office 365 Enterprise 1.  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Обновленные политики хранения вручную для Office 365 корпоративный плана 1.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Несколько обновлений и реструктуризация.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлена доступность интеграции голосовой почты и голосовой почты.  <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Уточнено наличие групп для планов Exchange Online.  <br/> |
-|Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Обновленная телефонная система и доступность телефонных разговоров для клиентов Microsoft 365 Business Standard.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Уточнена доступность групп для Exchange Online планов.  <br/> |
+|Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Обновленная телефонная система и доступность для Microsoft 365 бизнес стандарт.  <br/> |
    
-## <a name="january-2018"></a>Январь 2018 г.
+## <a name="january-2018"></a>Январь 2018 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md) <br/> |Исправлена доступность Microsoft Teams в планах образования.  <br/> |
+|Платформа Office 365:  <br/> |[Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md) <br/> |Исправлена Microsoft Teams в планах образования.  <br/> |
 |Skype для бизнеса Online  <br/> |[Описание службы Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Уточнено ограничение клиентского чата.  <br/> |
-|Несколько  <br/> |Несколько  <br/> |Добавлен ключ клиента к описаниям служб Skype для бизнеса в Интернете, SharePoint Online и OneDrive для бизнеса.  <br/> |
+|Несколько  <br/> |Несколько  <br/> |Добавлен ключ клиента к Skype для бизнеса Online, SharePoint Online и OneDrive для бизнеса службы.  <br/> |
    
-## <a name="december-2017"></a>Декабрь 2017 г.
+## <a name="december-2017"></a>Декабрь 2017 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Внесены изменения, связанные с доступностью служб, в том числе Stream и Delve, в Office 365 Enterprise F1.  <br/> |
-||[Обновления служб](office-365-platform-service-description/service-updates.md) <br/> |"Первый выпуск" теперь — "Целевой выпуск". Обновленная ссылка на страницу программ выпуска Office 365.  <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Уточнена поддержка гибридного развертывания с office 365 Корпоративный F1 и базовая подписка на Exchange Online планов.  <br/> |
-|OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Добавлена доступность OneDrive для бизнеса для Office 365 Enterprise F1 (у этих пользователей 2 ГБ пространства OneDrive).  <br/> |
-|SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Изменен BCS: доступность веб-сайтов бизнес-данных в SharePoint Server 2013 Standard CAL в рамках локального плана SharePoint от "Да" до "Нет"  <br/> |
+|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Внесены изменения, связанные с доступностью служб, в том числе Stream и Delve, в Office 365 корпоративный F1.  <br/> |
+||[Обновления служб](office-365-platform-service-description/service-updates.md) <br/> |"Первый выпуск" теперь — "Целевой выпуск". Обновленная ссылка на страницу Office 365 программ выпуска.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Уточненная поддержка гибридного развертывания с Office 365 корпоративный F1 и базовая подписка на Exchange Online планов.  <br/> |
+|OneDrive для бизнеса  <br/> |[Описание службы OneDrive для бизнеса](onedrive-for-business-service-description.md) <br/> |Добавлена доступность OneDrive для бизнеса для Office 365 корпоративный F1 (у этих пользователей 2 ГБ OneDrive пространства).  <br/> |
+|SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Изменен BCS: доступность веб-сайтов бизнес-данных в SharePoint Server 2013 Standard CAL в SharePoint локального плана от "Да" до "Нет"  <br/> |
    
 ## <a name="november-2017"></a>Ноябрь 2017 г.
 
 ||||
 |:-----|:-----|:-----|
 |**Описание служб** <br/> |**Статья** <br/> |**Изменение** <br/> |
-|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточняется, что пользователи Microsoft Stream Office 365 Enterprise F1 могут просматривать видео, но не могут публиковать или делиться ими.  <br/> |
+|Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Уточнено, Office 365 корпоративный пользователи Microsoft Stream F1 могут просматривать видео, но не могут публиковать или делиться ими.  <br/> |
 ||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлен обзор диспозиции в расширенный процесс управления данными.  <br/> |
-||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Уточнено наличие Yammer и Office 365 Pro Plus.  <br/> |
+||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Уточнены Yammer и Office 365 Pro плюс доступность.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлена доступность для предотвращения потери данных.  <br/> |
 ||[Служба Office 365, предоставляемая компанией 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Исправлена доступность IRM через AD RMS.  <br/> |
 ||[Microsoft 365 для образования](office-365-platform-service-description/microsoft-365-education.md) <br/> |Добавлена страница для нового предложения.  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Удалены ссылки на прекращенные облачные службы BlackBerry Business (BBCS).  <br/> |
-|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Добавлена доступность ключа клиента для Office 365 Enterprise E5.  <br/> |
-||[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Уточнено ограничение вложений в 35 МБ для Outlook Web Access (OWA). Присоединенный отдельный файл с размером более 35 МБ заблокирован. Кроме того, блокирована присоединенная группа файлов, которая в совокупности превышает 35 МБ.  <br/> |
+|Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Добавлена доступность ключа клиента для Office 365 корпоративный E5.  <br/> |
+||[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Уточнено ограничение вложений в 35 МБ для Outlook веб-доступа (OWA). Присоединенный отдельный файл с размером более 35 МБ заблокирован. Кроме того, блокирована присоединенная группа файлов, которая в совокупности превышает 35 МБ.  <br/> |
 ||[Клиенты и мобильные устройства](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Несколько обновлений; статья реструктурирована.  <br/> |
 |Несколько  <br/> |Несколько  <br/> |Исправлены ссылки на Microsoft Sway.  <br/> |
-|Несколько  <br/> |Несколько  <br/> |Обновленные описания служб OneDrive для бизнеса и SharePoint Online, чтобы включить дополнительные гибридные функции. Кроме того, добавлены гибридные функции для страниц Office 365, управляемых Vianet, Office 365 в Германии и Office 365 Education.  <br/> |
+|Несколько  <br/> |Несколько  <br/> |Обновленные OneDrive для бизнеса и SharePoint службы, чтобы включить дополнительные гибридные функции. Кроме того, добавлены гибридные Office 365, управляемые Vianet, Office 365 Германии и Office 365 для образования страниц.  <br/> |
    
-## <a name="october-2017"></a>Октябрь 2017 г.
+## <a name="october-2017"></a>Октябрь 2017 г.
 
 ||||
 |:-----|:-----|:-----|
@@ -128,13 +128,13 @@ ms.locfileid: "51651044"
 |Платформа Office 365:  <br/> |[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлены дополнительные сведения об управлении.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены миграции данных, выполняемые таблицей FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлено примечание, что federated Sharing требует использования пространства адресов доступности для поддержки общего доступа с другими арендаторами.  <br/> |
-|Exchange Online  <br/> |[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Добавлены ограничения для устаревшей версии шифрования сообщений Office 365 и шифрования сообщений Office 365 с новыми возможностями.  <br/> |
-|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание, что аудиоконференцию можно добавить в microsoft 365 Business Standard, Office 365 Enterprise E1 и Office 365 Корпоративный E3 в качестве надстройки.  <br/> |
-||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание, что кредиты на связь можно добавить в план подписки Microsoft 365 Business Standard в качестве надстройки для поддержки только аудиоконференций.  <br/> |
-||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Уточнены возможности передачи файлов в Office 365 Enterprise F1.  <br/> |
-|Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Добавлена новая страница описания службы Visio Online и обновлено несколько страниц, чтобы отразить это добавление.  <br/> |
+|Exchange Online  <br/> |[Ограничения Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Добавлены ограничения для шифрование сообщений Office 365 (OME) и шифрование сообщений Office 365 (OME) с новыми возможностями.  <br/> |
+|Skype для бизнеса  <br/> |[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание, что аудиоконференцию можно добавить в Microsoft 365 бизнес стандарт, Office 365 корпоративный E1 и Office 365 корпоративный подписки на E3 в качестве надстройки.  <br/> |
+||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Добавлено примечание, что кредиты на связь можно добавить в Microsoft 365 бизнес стандарт подписки в качестве надстройки для поддержки только аудиоконференций.  <br/> |
+||[Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Уточнены возможности передачи файлов в Office 365 корпоративный F1.  <br/> |
+|Visio Online  <br/> |[Описание службы Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Добавлена новая Visio описание службы и обновлено несколько страниц, чтобы отразить это добавление.  <br/> |
    
-## <a name="september-2017"></a>Сентябрь 2017 г.
+## <a name="september-2017"></a>Сентябрь 2017 г.
 
 ||||
 |:-----|:-----|:-----|
@@ -161,7 +161,7 @@ ms.locfileid: "51651044"
 ||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Уточнена заметка относительно доступности Azure Information Protection.  <br/> |
 ||[Office 365 в Германии](office-365-platform-service-description/office-365-germany.md) <br/> |Добавлены сведения о функции поиска в журналах аудита, надстройке "Расширенное управление данными", средствах Office 365 Threat Intelligence, а также об их доступности.  <br/> |
 |Exchange Online  <br/> |[Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Исправлена запись "Поддерживается прямая миграция" в таблице. Теперь сказано, что прямая миграция Exchange поддерживается.  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |[Описание службы Office 365 Advanced Threat Protection](office-365-advanced-threat-protection-service-description.md) <br/> |Добавлены сведения о функциях и доступности.  <br/> |
 |SharePoint Online  <br/> |[Описание службы SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Добавлены сведения о приложениях Office 2016.  <br/> |
 ||[Ограничения SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Добавлена эта статья.  <br/> |
 |Skype для бизнеса  <br/> |[Ограничения Skype для бизнеса online](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |Исправлены сведения об ограничении на передачу файлов.  <br/> |
@@ -174,7 +174,7 @@ ms.locfileid: "51651044"
 |Платформа Office 365:  <br/> |[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлены сведения о доступности Microsoft Forms.  <br/> |
 ||[Описание служб платформы Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Добавлена выноска о доступности Advanced eDiscovery.  <br/> |
 ||[Параметры планов Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |На страницу с вариантами планов добавлены сведения о планах Skype для бизнеса и Exchange Online для каждого SKU.  <br/> |
-||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлено следующее для сноски "Нет". 1. "Политики хранения, применяемые к почтовым ящикам, требуют E3 или E5".  <br/> |
+||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |В выноску № 1 добавлено следующее: "Применять политики хранения к почтовым ящикам можно, если есть E3 или E5".  <br/> |
 ||[Центр &amp; соответствия требованиям безопасности](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Добавлена выноска о доступности Advanced eDiscovery.  <br/> |
 ||[Служба Office 365, которой управляет 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Добавлено описание Microsoft Forms.  <br/> |
 ||[Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Добавлены сведения о Office 365 US Government G5.  <br/> |
@@ -186,4 +186,4 @@ ms.locfileid: "51651044"
 ||[Службы голосовых сообщений](exchange-online-service-description/voice-message-services.md) <br/> |Добавлена заметка о том, что поддержка единой системы обмена сообщениями через SBC для Exchange Online прекращается.  <br/> |
 | Workplace Analytics  <br/> |[Описание службы Workplace Analytics](workplace-analytics-service-description.md) <br/> |Добавлено новое описание службы  <br/> |
 |Несколько  <br/> |Несколько  <br/> |Azure RMS теперь зовется Azure Information Protection (AIP).  <br/> |
-|Несколько  <br/> |Несколько  <br/> |Удалена деталь сравнения Office для веб-страниц и настольных компьютеров Office 365 в Германии и Office 365, управляемых страницами 21Vianet. Добавлен указатель к одному и том же контенту в Office для страницы Описание веб-службы.  <br/> |
+|Несколько  <br/> |Несколько  <br/> |Удалена Office веб-Office сопоставления настольных компьютеров из Office 365 и Office 365 21 СтраницыVianet. Добавлен указатель к одному и Office на странице Описание веб-службы.  <br/> |

@@ -79,7 +79,7 @@ Defender for Office 365 можно использовать с любым аге
 
 Каждая функция приведена ниже. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
 
-| Функция | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security|
+| Возможность | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security|
 |:-----|:-----|:-----|:-----|
 |*Конфигурация, защита и обнаружение*|
 |[Безопасные вложения](#safe-attachments)|Да|Да|Да|

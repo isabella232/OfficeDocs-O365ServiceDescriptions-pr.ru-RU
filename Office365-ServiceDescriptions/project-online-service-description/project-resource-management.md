@@ -23,7 +23,7 @@ ms.locfileid: "51651209"
 
 Следующие функции управления ресурсами доступны в Project Online.
   
-Сведения обо всех функциях Project Online см. Описание [службы Project Online.](project-online-service-description.md)
+Сведения обо всех функциях Project Online см. Описание [Project Online службы](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Затратные ресурсы
 
@@ -37,11 +37,11 @@ ms.locfileid: "51651209"
 
 Когда пользователи работают одновременно с очень большим количеством заданий, вы можете согласовать их задания автоматически. Это действие известно как выравнивание загрузки ресурсов. Узнайте подробнее о [выравнивании назначений ресурсов](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Представления листа ресурсов и использования ресурсов
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 
 Графическое представление информации о ресурсах с помощью представлений использования, листа, диаграммы и формы ресурсов. Ознакомьтесь со статьей [Выбор подходящего отчета](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Замена ресурсов
+## <a name="resource-substitution"></a>Замена ресурсов 
 
 Замените ролевые ресурсы, например "плотников", реальными людьми. Ознакомьтесь со статьей [Создание пула ресурсов и предоставление общего доступа к нему](https://go.microsoft.com/fwlink/?LinkId=402921).
   
@@ -55,6 +55,6 @@ ms.locfileid: "51651209"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Project Online.](project-online-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Project Online [службы.](project-online-service-description.md)
   
 

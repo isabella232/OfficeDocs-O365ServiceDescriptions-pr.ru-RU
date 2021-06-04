@@ -1,5 +1,5 @@
 ---
-title: Управление получателем, доменом и компанией в Exchange Online Protection
+title: Получатель, домен и управление компанией в Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653001"
 ---
-# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Управление получателем, доменом и компанией в Exchange Online Protection
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Получатель, домен и управление компанией в Exchange Online Protection
 
-Microsoft Exchange Online Защита (EOP) предлагает несколько способов управления данными получателя, домена и компании. В качестве администратора вы можете выполнять определенные задачи управления в центре администрирования Exchange (EAC) и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365.
+Microsoft Exchange Online Защита (EOP) предоставляет несколько способов управления данными получателя, домена и компании. Как администратор вы можете выполнять определенные задачи управления в центре администрирования Exchange центра администрирования (EAC) и проверять другие задачи управления, выполняемые в центре администрирования Microsoft 365 администрирования.
   
-Ищете сведения обо всех особенностях EOP? См. описание [службы онлайн-защиты Exchange.](exchange-online-protection-service-description.md)
+Ищете сведения обо всех особенностях EOP? См. [Exchange Online Protection службы.](exchange-online-protection-service-description.md)
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-Получатели почты классифицируются как пользователи почты или группы и могут управляться с помощью синхронизации каталогов, непосредственно в EAC или с помощью удаленных Windows PowerShell. Если вы управляете локально получателями, необходимо выполнить синхронизацию каталогов для отражения получателей почты в EAC. Пользователи, управляемые исключительно в центре администрирования Microsoft 365, не могут просматриваться в центре администрирования, но их можно добавить или удалить из членства в группе ролей администратора в EAC. Дополнительные сведения о получателях в EOP см. в [нем Recipients in EOP.](/microsoft-365/security/office-365-security/manage-recipients-in-eop)
+Получатели почты классифицируются как пользователи почты или группы и могут управляться с помощью синхронизации каталогов, непосредственно в EAC или с помощью удаленных Windows PowerShell. Если вы управляете локально получателями, необходимо выполнить синхронизацию каталогов для отражения получателей почты в EAC. Пользователи, управляемые исключительно в центре Microsoft 365 администратора, не могут просматриваться в центре администрирования, но их можно добавить или удалить из членства в группе ролей администратора в EAC. Дополнительные сведения о получателях в EOP см. в [нем Recipients in EOP.](/microsoft-365/security/office-365-security/manage-recipients-in-eop)
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online Защита (EOP) предлагает несколь
   
 ## <a name="domain-management"></a>Управление доменами
 
-Управляемые домены — это домены, защищенные EOP. Управляемые домены можно просматривать, а типы доменов можно изменять в Центре администрирования Exchange. Подготовка домена и управление ими происходят в центре администрирования Microsoft 365, и изменения отражаются в центре администрирования. Дополнительные сведения см. в [статью Просмотр или изменение управляемых доменов в EOP.](/microsoft-365/security/office-365-security/exchange-online-protection-overview)
+Управляемые домены — это домены, защищенные EOP. Управляемые домены можно просматривать, а типы доменов можно изменять в Центре администрирования Exchange. Подготовка и управление доменом происходят в центре администрирования Microsoft 365 и изменения отражаются в центре администрирования. Дополнительные сведения см. в [статью Просмотр или изменение управляемых доменов в EOP.](/microsoft-365/security/office-365-security/exchange-online-protection-overview)
   
 ## <a name="match-subdomains"></a>Соответствующие поддомены
 
@@ -49,4 +49,4 @@ Microsoft Exchange Online Защита (EOP) предлагает несколь
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Exchange Online Protection.](exchange-online-protection-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Exchange Online Protection [службы.](exchange-online-protection-service-description.md)

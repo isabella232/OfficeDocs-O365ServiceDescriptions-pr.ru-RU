@@ -49,9 +49,9 @@ ms.locfileid: "51653391"
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Смартфоны BlackBerry с SharePoint Online
 
-Для доступа к Microsoft SharePoint Online пользователи Blackberry могут использовать встроенный браузер смартфона BlackBerry на сайтах SharePoint Online. Пользователи BlackBerry могут просматривать документы Word, Excel и PowerPoint с помощью Office для веб-визуализации в мобильном браузере.
+Для доступа к Microsoft SharePoint Online пользователи Blackberry могут использовать встроенный браузер смартфона BlackBerry на сайтах SharePoint Online. Пользователи BlackBerry могут просматривать документы Word, Excel и PowerPoint с помощью Office веб-визуализации в мобильном браузере.
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Office 365, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций в Office 365 планах, см. Microsoft 365 [описание Office 365 платформы.](office-365-platform-service-description.md)
   

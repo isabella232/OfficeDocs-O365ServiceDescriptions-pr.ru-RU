@@ -35,4 +35,4 @@ ms.locfileid: "51652443"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций в планах, см. Microsoft 365 [и Office 365 описание службы платформы.](office-365-platform-service-description.md)

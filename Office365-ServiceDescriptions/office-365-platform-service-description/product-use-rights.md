@@ -24,7 +24,7 @@ ms.locfileid: "51652523"
 
 Если вы согласны с условиями соглашения Microsoft Online Subscription, вы можете использовать веб-службы и связанные с ними программы, что в явной форме указано в [условиях использования служб Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Права на использование Office 365 с помощью 21Vianet
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 21Vianet использует права
 
 См. статьи [Стандартное соглашение об использовании веб-служб](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) и [Условия использования](https://www.21vbluecloud.com/office365/O365-TOU/).
   
@@ -34,6 +34,6 @@ ms.locfileid: "51652523"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций в планах, см. Microsoft 365 [и Office 365 описание службы платформы.](office-365-platform-service-description.md)
   
 

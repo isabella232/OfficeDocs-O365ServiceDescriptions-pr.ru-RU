@@ -23,7 +23,7 @@ ms.locfileid: "51652303"
 
 Следующие основные функции доступны в Project Online.
   
-Сведения обо всех функциях Project Online см. Описание [службы Project Online.](project-online-service-description.md)
+Сведения обо всех функциях Project Online см. Описание [Project Online службы](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Добавление столбцов
 
@@ -35,7 +35,7 @@ ms.locfileid: "51652303"
   
 ## <a name="click-to-run"></a>Нажми и работай
 
-Быстро установите Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носитли, чтобы убедиться, что вы в курсе последней версии настольного приложения Project. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Быстро установите Project Online через Интернет, внутренние сети, локальные файловые системы или автономные носитли, чтобы убедиться, что вы в курсе последней версии Project настольного приложения. Чтобы узнать больше, ознакомьтесь с разделом [Технология "нажми и работай"](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 
@@ -65,17 +65,17 @@ ms.locfileid: "51652303"
 
 Представление задач, зависимостей и критических путей проекта в виде сетевого графика. Ознакомьтесь со статьей [Создание сетевого графика](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Магазин Office
+## <a name="office-store"></a>Office магазине
 
-Требуется приложение для работы с Project? Поиск новых приложений для Project в магазине Office. Узнайте больше о [надстройках для Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Требуется приложение для работы с Project? Поиск новых приложений для Project в Office магазине. Узнайте больше о [надстройках для Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Интерактивная справка
 
-Справка по проекту доступна в Office.com или в руководстве по началу работы непосредственно в Project (выберите **Файл** \> **Новый).** [Эти видео помогут вам перейти на Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project Справка доступна в Office.com или в руководстве по началу работы непосредственно в Project (выберите **Файл** \> **Новый).** [Эти видео помогут вам перейти на Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Сохраните файл Project в формате PDF или XPS-файла. Ознакомьтесь со статьей [Сохранение файла проекта в формате PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Сохраните Project файл в формате PDF или XPS. Ознакомьтесь со статьей [Сохранение файла проекта в формате PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -89,7 +89,7 @@ ms.locfileid: "51652303"
 
 Вместо того, чтобы предоставить пользователям пустой проект, Project 2013 представляет универсальный центр для создания проектов. Вы можете использовать шаблоны клиентов или встроенное руководство по простому началу работы в четыре шага.
   
-## <a name="text-wrap"></a>Перенос текста
+## <a name="text-wrap"></a>Text wrap
 
 Переносите названия задач и ресурсов таким образом, чтобы они перемещались на следующую строку. Ознакомьтесь со статьей [Перенос текста за счет изменения высоты строки](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
@@ -103,4 +103,4 @@ ms.locfileid: "51652303"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Project Online.](project-online-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Project Online [службы.](project-online-service-description.md)

@@ -21,13 +21,13 @@ ms.locfileid: "51653351"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Политика обмена сообщениями и соответствие требованиям в Exchange Online Protection
 
-Microsoft Exchange Online (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут управлять данными электронной почты.
+Microsoft Exchange Online Защита (EOP) предоставляет политику обмена сообщениями и функции соответствия требованиям, которые помогут вам управлять данными электронной почты.
 
-Ищете сведения обо всех особенностях EOP? См. описание [службы онлайн-защиты Exchange.](exchange-online-protection-service-description.md)
+Ищете сведения обо всех особенностях EOP? См. [Exchange Online Protection службы.](exchange-online-protection-service-description.md)
 
 ## <a name="mail-flow-rules"></a>Правила потока обработки почты
 
-Правила потока почты (также известные как транспортные правила) предоставляют вам гибкость для применения собственных политик, определенных для компании, для электронной почты. Правила потока почты составляются из гибких критериев, которые позволяют определять условия, исключения и действия, которые необходимо принимать на основе этих критериев. Дополнительные сведения см. в правилах потока [почты (правила транспорта) в Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
+Правила потока почты (также известные как транспортные правила) предоставляют вам гибкость для применения собственных политик, определенных для компании, для электронной почты. Правила потока почты составляются из гибких критериев, которые позволяют определять условия, исключения и действия, которые необходимо принимать на основе этих критериев. Дополнительные сведения см. в [Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
 
 ## <a name="audit-logging"></a>Ведение журнала аудита
 
@@ -51,22 +51,22 @@ Microsoft Exchange Online (EOP) предоставляет политику об
 
 - Обнаруживать конфиденциальные данные с помощью отпечатков документов. Дактилоскопия документов позволяет легко создавать настраиваемые типы конфиденциальных сведений на основе текстовых форм, которые можно использовать для определения правил потока почты и политик DLP.
 
-- Добавьте советы по политике, которые помогут снизить потерю данных, отобразив уведомление в Outlook 2013, Outlook в Интернете и OWA для пользователей устройств, а также повысить эффективность политик, разрешив ложные сообщения.
+- Добавьте политики Советы, которые помогут снизить потерю данных, отобразив уведомление в Outlook 2013 г., Outlook в Интернете и OWA для пользователей устройств, а также могут повысить эффективность политик, разрешив ложные сообщения.
 
 - Просматривать данные об инциденте в отчетах защиты от потери данных или добавлять собственные специальные отчеты с помощью действия для создания отчета об инциденте.
 
 > [!NOTE]
 > Политики защиты от потери данных применяются только к входящей или исходящей почте организации. К внутриорганизационной (внутренней) почте политики защиты от потери данных не применяются кроме случаев, когда запущен Exchange Server 2013 с локальной защитой от потери данных. Это также относится к подсказкам политики защиты от потери данных, которые информируют пользователей о потенциальных нарушениях политики перед ошибочной отправкой конфиденциальных данных несанкционированным получателям.
 
-Дополнительные сведения о DLP см. в таблице Предотвращение потери [данных в Exchange Online.](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)
+Дополнительные сведения о DLP [см.](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)в Exchange Online.
 
 ## <a name="office-365-message-encryption"></a>Шифрование сообщений Office 365
 
-Шифрование сообщений Office 365, которое входит в Azure Information Protection, — это онлайн-служба, которая позволяет пользователям электронной почты отправлять зашифрованные сообщения электронной почты любому пользователю. Локально клиенты могут получить доступ к шифрованию сообщений Office 365, закупив Azure Information Protection и используя Exchange Online Protection для настройка потока почты через Exchange Online. Подробнее о шифровании сообщений Office 365 в Exchange Online см. в описании службы Exchange Online шифрования сообщений [Office 365.](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)
+шифрование сообщений Office 365 Azure Information Protection — это служба, которая позволяет пользователям электронной почты отправлять зашифрованные сообщения электронной почты любому пользователю. Клиенты локального доступа могут шифрование сообщений Office 365, приобретая Azure Information Protection и Exchange Online Protection для Exchange Online. Дополнительные дополнительные шифрование сообщений Office 365 в Exchange Online см. шифрование сообщений Office 365 [в](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) описании Exchange Online службы.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 
-| Функция | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
+| Возможность | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
 |:-----|:-----|:-----|:-----|
 |Правила потока обработки почты|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1, 3</sup>|
 |Ведение журнала аудита|Да<sup>2</sup>|Да|Да|
@@ -74,7 +74,7 @@ Microsoft Exchange Online (EOP) предоставляет политику об
 |Шифрование сообщений Office 365|Да<sup>4</sup>|Да|Да<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> Условия правил, исключений и действий, доступных для потока почты, немного отличаются между EOP и Exchange Online. Эти различия отмечены в правилах правил потока почты и [исключениях (предикатах)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) в действиях правил потока Exchange Online и [Mail в Exchange Online.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) <br/>
-> <sup>2</sup> Отчеты о аудите EOP — это подмножество отчетов аудита Exchange Online, которые исключают сведения о почтовых ящиках. <br/>
-> <sup>3 рекомендации</sup> по политике DLP недоступны для Exchange Enterprise CAL с клиентами служб. <br/>
-> <sup>4</sup> Поддерживается для локального клиента, который приобретает надстройку Azure Information Protection и использует Exchange Online Protection для маршрутной почты через Exchange Online. Для рабочего стола помимо надстройки Azure Information Protection необходимо приобрести приложения Microsoft 365 для предприятия. <br/>
+> <sup>1</sup> Условия, исключения и действия доступных правил потока почты незначительно отличаются между EOP и Exchange Online. Эти различия отмечаются в условиях правил потока почты и [исключениях (предикатах)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) в действиях Exchange Online и правила потока [почты в Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+> <sup>2</sup> Отчеты о аудите EOP — это подмножество отчетов Exchange Online аудита, которые исключают сведения о почтовых ящиках. <br/>
+> <sup>3</sup> рекомендации по политике DLP недоступны для Exchange Enterprise cal с клиентами служб. <br/>
+> <sup>4</sup> Поддерживается для локального клиента, приобретавшего надстройку Azure Information Protection и Exchange Online Protection для маршрутов электронной почты через Exchange Online. Для работы на рабочем столе, помимо надстройки Azure Information Protection, Приложения Microsoft 365 для предприятий необходимо приобрести. <br/>

@@ -21,13 +21,13 @@ ms.locfileid: "51653141"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Поток почты в Exchange Online Protection
 
-Для большинства организаций, которые используют Корпорацию Майкрософт, мы разобираем почтовые ящики и заботимся о потоке почты. Это простейшая конфигурация, которая означает, что Корпорация Майкрософт управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет вам это сделать и предоставляет обработку антивирусной и анти-нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Для большинства организаций, которые используют Корпорацию Майкрософт, мы разобираем почтовые ящики и заботимся о потоке почты. Это простейшая конфигурация, которая означает, что Корпорация Майкрософт управляет всеми почтовыми ящиками и фильтрацией. Но для некоторых организаций требуется разместить почтовые ящики в локальной среде. Exchange Online Protection (EOP) позволяет сделать это и предоставляет обработку антивирусной и анти-нежелательной почты в облаке. Получить дополнительные сведения и приобрести EOP можно на сайте [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Поиск сведений об управлении доменом или блокировке на основе каталогов (DBEB)? См. [в этой ленте "Получатель", "Управление доменом" и "Управление компанией".](recipient-domain-and-company-management.md) Дополнительные возможности EOP см. в описании [службы exchange Online Protection.](exchange-online-protection-service-description.md)
+Поиск сведений об управлении доменом или блокировке на основе каталогов (DBEB)? См. [в этой ленте "Получатель", "Управление доменом" и "Управление компанией".](recipient-domain-and-company-management.md) Дополнительные возможности EOP см. в описании [Exchange Online Protection службы.](exchange-online-protection-service-description.md)
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Маршрутивка электронной почты между Корпорацией Майкрософт и собственными серверами электронной почты
 
-Можно настроить соединитель, чтобы включить поток почты между Microsoft (включая Exchange Online или EOP) и сервером электронной почты на основе SMTP, например Exchange. Дополнительные сведения см. И [настройка соединители для маршрутной почты между Microsoft и вашими собственными серверами электронной почты](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Можно настроить соединителю, чтобы включить поток почты между Корпорацией Майкрософт (в том числе Exchange Online или EOP) и сервером электронной почты на основе SMTP, например Exchange. Дополнительные сведения см. И [настройка соединители для маршрутной почты между Microsoft и вашими собственными серверами электронной почты](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
@@ -53,4 +53,4 @@ ms.locfileid: "51653141"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Exchange Online Protection.](exchange-online-protection-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Exchange Online Protection [службы.](exchange-online-protection-service-description.md)

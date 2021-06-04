@@ -53,5 +53,5 @@ Office 365: Marketplace предлагает клиентам возможнос
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах Microsoft 365 и Office 365, см. в описании служб платформ [Microsoft 365 и Office 365.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций в Microsoft 365 и Office 365 планах, см. Microsoft 365 [описание Office 365 платформы.](office-365-platform-service-description.md)
   

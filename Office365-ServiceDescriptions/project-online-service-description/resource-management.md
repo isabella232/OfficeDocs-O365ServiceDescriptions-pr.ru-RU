@@ -35,7 +35,7 @@ ms.locfileid: "51651091"
   
 ## <a name="request-resource-agreements"></a>Запрос соглашений по ресурсам
 
-Позволяет систематически запрашивать время ресурса. Подробные сведения [см. в материале Request a resource's time.](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)
+Обеспечивает возможность систематически запрашивать время ресурса. Дополнительные сведения см. в статье [Запрос времени ресурса](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409).
   
 ## <a name="view-available-resources-and-build-teams"></a>Просмотр доступных ресурсов и создание групп
 

@@ -23,7 +23,7 @@ ms.locfileid: "51651064"
 
 Следующие функции управления задачами доступны в Project Online.
   
-Сведения обо всех функциях Project Online см. Описание [службы Project Online.](project-online-service-description.md)
+Сведения обо всех функциях Project Online см. Описание [Project Online службы](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ ms.locfileid: "51651064"
 
 Отслеживайте связи между задачами, выделяя последовательность задач во всем проекте. Узнайте подробнее о [выделении связей между задачами](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Суммарные задачи в нисходящем порядке
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 Назначайте ресурсы на суммарные задачи. Узнайте подробнее о [нисходящем планировании](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
@@ -67,5 +67,5 @@ ms.locfileid: "51651064"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Project Online.](project-online-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Project Online [службы.](project-online-service-description.md)
   

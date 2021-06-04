@@ -25,9 +25,9 @@ ms.locfileid: "51652543"
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Порты, протоколы и IP-адреса
 
-Корпорация Майкрософт использует адреса IPv4 и IPv6. Использование адресов IPv6 является необязательным и не требуется для подключения к Office 365. Не все функции Microsoft 365 полностью включены с помощью IPv6. Дополнительные сведения о поддержке Ipv6 см. в сайте [IPv6 support in Microsoft services.](/office365/enterprise/ipv6-support)
+Корпорация Майкрософт использует адреса IPv4 и IPv6. Использование адресов IPv6 является необязательным и не требуется для подключения к Office 365. Не все Microsoft 365 полностью включены с помощью IPv6. Дополнительные сведения о поддержке Ipv6 см. в [службы Майкрософт.](/office365/enterprise/ipv6-support)
   
-Корпорация Майкрософт поддерживает список разрешенных IP-адресов в справке Майкрософт. Дополнительные сведения см. в [различных диапазонах URL-адресов и IP-адресов.](/office365/enterprise/urls-and-ip-address-ranges) Для Office 365, выполняемой 21Vianet, см. URL-адреса и [IP-адреса Office 365, управляемые 21Vianet.](/office365/enterprise/managing-office-365-endpoints) Для Office 365 Германия см. конечные точки [Office 365 Germany.](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)
+Корпорация Майкрософт поддерживает список разрешенных IP-адресов в справке Майкрософт. Дополнительные сведения см. в [различных диапазонах URL-адресов и IP-адресов.](/office365/enterprise/urls-and-ip-address-ranges) Для Office 365 21Vianet см. URL-адреса и IP-адреса для Office 365 [21Vianet.](/office365/enterprise/managing-office-365-endpoints) Для Office 365 Германии [см. Office 365 конечные точки Германии.](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)
   
 > [!IMPORTANT]
 > Мы настоятельно рекомендуем обеспечить маршрутизацию в корневые домены, указанные в вышеупомянутых статьях (например, \*.Outlook.com, \*.MicrosoftOnline.com и \*.SharePoint.com), вместо маршрутизации в специальные подсети IP-адресов. Во втором случае при внесении изменений увеличивается риск перерывов в работе для пользователей. 
@@ -64,4 +64,4 @@ ms.locfileid: "51652543"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, см. в описании служб [платформы Microsoft 365 и Office 365.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций в планах, см. Microsoft 365 [и Office 365 описание службы платформы.](office-365-platform-service-description.md)

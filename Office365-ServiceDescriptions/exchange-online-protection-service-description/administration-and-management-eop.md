@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online (EOP).
+description: В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online защиты (EOP).
 ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,17 +21,17 @@ ms.locfileid: "51653071"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Администрирование и управление в Exchange Online Protection
 
-В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online (EOP).
+В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online защиты (EOP).
   
-Ищете сведения обо всех особенностях EOP? См. описание [службы онлайн-защиты Exchange.](exchange-online-protection-service-description.md)
+Ищете сведения обо всех особенностях EOP? См. [Exchange Online Protection службы.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к центру администрирования Microsoft 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к центру Microsoft 365 администрирования
 
-Центр администрирования Microsoft 365 — это веб-портал, на котором администратор службы каждой компании может управлять учетной записью пользователей и настройками для каждой из служб Майкрософт, на которые они подписываются. В центре администрирования Microsoft 365 администраторы могут следовать ссылкам на EAC, где они могут управлять настройками, определенными для EOP.
+Центр администрирования Microsoft 365 является веб-порталом, на котором администратор службы каждой компании может управлять учетной записью и настройками пользователей для каждого службы Майкрософт, на который они подписаны. В центре администрирования Microsoft 365 администраторы могут следовать ссылкам на EAC, где они могут управлять настройками, определенными EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Доступ в Центр администрирования Exchange
 
-Центр администрирования Exchange (EAC) — это единая консоль управления, легкая в использовании и оптимизированная для всех типов развертываний. Новый и улучшенный Центр администрирования Exchange заменяет собой Forefront Online Protection для Центра администрирования Exchange. EAC обеспечивает более жесткую интеграцию с Microsoft 365 и согласованную и бесшовную интерфейсную службу в продуктах Exchange (Microsoft Exchange Online и Microsoft Exchange Server 2013 г.). Дополнительные сведения о центре администрирования Exchange см. в [сайте Exchange Admin Center in Exchange Online Protection.](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
+Центр администрирования Exchange (EAC) — это единая консоль управления, легкая в использовании и оптимизированная для всех типов развертываний. Новый и улучшенный Центр администрирования Exchange заменяет собой Forefront Online Protection для Центра администрирования Exchange. EAC обеспечивает более жесткую интеграцию с Microsoft 365 и согласованный, бесшовный интерфейс интерфейса Exchange продуктов (Microsoft Exchange Online и Microsoft Exchange Server 2013). Дополнительные сведения о центре администрирования см. [в Exchange Центре администрирования в Exchange Online Protection.](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
   
 ## <a name="remote-windows-powershell-access"></a>Удаленный доступ к Windows PowerShell
 
@@ -39,4 +39,4 @@ ms.locfileid: "51653071"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. в описании [службы Exchange Online Protection.](exchange-online-protection-service-description.md)
+Чтобы просмотреть доступность функций в планах, автономных вариантах и локальном решении, см. Exchange Online Protection [службы.](exchange-online-protection-service-description.md)
