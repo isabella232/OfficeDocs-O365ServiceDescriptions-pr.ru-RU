@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня и включает функции для защиты организации от вредных ссылок в режиме реального времени.
-ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545976"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798455"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Описание службы Microsoft Defender для Office 365
 
@@ -69,7 +69,7 @@ Microsoft Defender для Office 365 Plan 2 включен в Office 365 E5, Off
 
 - [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Что нового в Microsoft Defender для Office 365](/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Что нового в Microsoft Defender для Office 365 - Office 365 | Документы Майкрософт](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Требования к Microsoft Defender для Office 365
 

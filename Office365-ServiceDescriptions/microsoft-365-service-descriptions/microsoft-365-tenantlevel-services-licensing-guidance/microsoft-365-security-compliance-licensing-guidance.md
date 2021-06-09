@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по лицензированию Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензионного доступа.
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699065"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798475"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 лицензирования для обеспечения соответствия &amp; требованиям безопасности
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 защиты и у
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance предоставляют пользователю права на автоматическое применение меток хранения на основе обучаемых классификаторов.
 
-Подробные сведения о правах по лицензии см. в Microsoft 365 сравнение лицензирования соответствия требованиям. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
 По умолчанию функции управления информацией включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке управления информацией для применения автолабелинга и политик для лицензированных пользователей см. в [Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
@@ -322,8 +320,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Защита информации и управление E5/A5/G5 и Office 365 E5/A5/G5 предоставляют пользователю права на получение выгоды от управления записями, включая объявление элементов в качестве записей или нормативных записей, автоматическое применение меток хранения или записей и выполнение процессов проверки диспозиции (за исключением автоматического применения метки хранения на основе обучаемых классификаторов).
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, а также Microsoft 365 защита и управление информацией предоставляют пользователю права на автоматическое применение меток хранения или записей на основе классификаторов, которые можно обучить.
-
-Подробные сведения о правах по лицензии см. в Microsoft 365 сравнение лицензирования соответствия требованиям. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
