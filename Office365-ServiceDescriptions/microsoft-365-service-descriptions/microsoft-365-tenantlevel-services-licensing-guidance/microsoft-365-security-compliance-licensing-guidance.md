@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по лицензированию Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензионного доступа.
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798475"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906755"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 лицензирования для обеспечения соответствия &amp; требованиям безопасности
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/E5/E3/A3, Exchan
 
 Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 и SharePoint Plan 2 предоставляют пользователю права на получение преимуществ от базовой политики хранения SharePoint или OneDrive и/или вручную применять метку хранения без записи к файлам в SharePoint или OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3 и Office 365 E5/A5/G5/E3/A3 предоставляют пользователю права на выгоду от политики Teams хранения.
+Организации могут использовать политики хранения для хранения или Teams сообщений в соответствии со своими политиками. Это включает управление сообщениями в Teams чатах и беседах.
+
+Следующие лицензии предоставляют пользователю права на выгоду от политики Teams хранения:
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365 E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+Обратите внимание, что для пользователей со следующими лицензиями поддерживаемый минимальный период хранения или удаления составляет 30 дней:
+
+- Microsoft 365 F1/F3, Business Basic, Business Standard и Business Premium
+- Office 365 E1/G1 и F3
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 защиты и управления E5/A5/G5, и Office 365 E5/A5 предоставляют пользователю права на автоматическое применение меток или политик хранения, применение меток или политик хранения по умолчанию, начало периода хранения метки хранения на основе настраиваемого события, запуск ручного обзора диспозиции по окончании периода хранения метки, импорт сторонних данных через собственные соединители данных, объявление записи, обнаружение помеченного контента и отслеживание действий по метке.
 

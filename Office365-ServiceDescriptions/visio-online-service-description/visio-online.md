@@ -1,5 +1,5 @@
 ---
-title: Visio в Интернете
+title: Visio функций
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio веб-страницы расширяет возможности microsoft Visio браузера, где можно создавать и редактировать схемы, сохраненные в облаке. Microsoft 365 пользователи могут просматривать, печатать и делиться диаграммами и вставлять комментарии в перейти.
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653641"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906765"
 ---
-# <a name="visio-for-the-web"></a>Visio в Интернете
+# <a name="visio-features-detail"></a>Visio функций
 
 Visio веб-страницы расширяет возможности microsoft Visio браузера, где можно создавать и редактировать схемы, сохраненные в облаке. Microsoft 365 пользователи могут просматривать, печатать и делиться диаграммами и вставлять комментарии в перейти. Если у вас Visio подписка, можно использовать дополнительные функции, например описанные в следующих разделах.
   
