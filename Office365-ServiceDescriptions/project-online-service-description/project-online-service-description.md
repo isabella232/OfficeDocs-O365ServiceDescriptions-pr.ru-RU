@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online это гибкое онлайн-решение для управления портфелями проектов (система УПП) и повседневной работы. Поставляется Office 365, Project Online предоставляет мощные возможности управления проектами для планирования, приоритетов и управления проектами и инвестициями в портфель проектов практически из любой точки на любом устройстве. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.
-ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798485"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022002"
 ---
 # <a name="microsoft-project-service-description"></a>Описание службы Microsoft Project
 
@@ -28,7 +28,7 @@ ms.locfileid: "52798485"
 Microsoft Project предлагает следующие приложения для удовлетворения потребностей организации в управлении проектами и работами:
 
 - Project в Интернете
-- Project Online 
+- Microsoft Project Online 
 - Project Online настольного клиента
 
 В этой статье вы сможете понять, какие приложения предоставляются в каждой подписке Project и какие возможности предлагает каждое приложение.
@@ -41,7 +41,7 @@ Project веб-сайт построен на платформе Microsoft Power
 
 Project веб-сайт доступен через три подписки: Project, план 1, Project, план 3 и Project, план 5. Функции, [Project для веб-функций,](#project-for-the-web-features) взаимодействуют только с данными в Project для веб-магазина данных.
 
-### <a name="project-online"></a>Project Online
+### <a name="project-online"></a>Microsoft Project Online
  
 Project Online является гибким решением для Project управления портфелями (система УПП) и повседневной работы. Project Online предоставляет мощные возможности управления проектами для планирования, приоритетов и управления проектами и инвестициями в портфель проектов практически из любой точки на &mdash; любом устройстве. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.
 
@@ -81,7 +81,7 @@ Microsoft Project доступна через три различных подп
 |Продукт | План 1 | План 3 | План 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project в Интернете |**x**  | **x x** | **x x** |
-|Project Online |**x** |**x x**| **x x x** |
+|Microsoft Project Online |**x** |**x x**| **x x x** |
 |Project Online настольного клиента | |**x**|**x**|
 
 В таблице выше количество проверок **(x)** указывает общий уровень возможностей, предоставляемых планом. Например, для Project Online план 5 предоставляет больше возможностей, чем План 3.
@@ -278,11 +278,11 @@ Project Online требует использования SharePoint Online, ко
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Дорожная карта и Power Automate
 
-Project Дорожная карта требует использования Power Automate, которая является частью Project подписки. Права на Power Automate ограничиваются теми возможностями, Power Automate, требуемой Project Roadmap. Power Automate, требуемая Project Roadmap, отображается как интеграция данных для Project с **Flow** службой  в разделе Приложения центра администрирования Microsoft 365.
+Project Дорожная карта требует использования Power Automate, которая является частью Project подписки. Права на Power Automate ограничиваются теми возможностями, Power Automate, требуемой Project Roadmap. Power Automate, требуемая Project Roadmap, отображается как интеграция данных для Project с **Flow** службой  в разделе Приложения Центр администрирования Microsoft 365.
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project веб-страницы и Microsoft Dataverse
 
-Project для веб-страницы требуется использование microsoft Dataverse для хранения данных. База данных Microsoft Dataverse является частью вашей Project подписки. Права на функции Microsoft Dataverse ограничены хранением и доступом к данным для поддержки Project веб-сайтов. Функциональность Microsoft Dataverse, требуемая Project,  отображается в качестве общей службы данных для Project службы в разделе **Apps** центра администрирования Microsoft 365.
+Project для веб-страницы требуется использование microsoft Dataverse для хранения данных. База данных Microsoft Dataverse является частью вашей Project подписки. Права на функции Microsoft Dataverse ограничены хранением и доступом к данным для поддержки Project веб-сайтов. Функциональность Microsoft Dataverse, требуемая Project,  отображается в качестве единой службы  данных для Project службы в разделе Приложения Центр администрирования Microsoft 365.
 
 Для Project с пятью (5) или более Project веб-лицензий, Project веб-клиенты могут развернуться в средах Power Platform Production и Sandbox.
 
@@ -298,6 +298,11 @@ Project для веб-страницы требуется использован
 
 Project веб и Project Online имеют ту же политику резервного копирования и хранения данных, что и Office 365. Подробные сведения см. [в материале Хранение, удаление и уничтожение](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)данных в Office 365.
 
+### <a name="data-encryption"></a>Шифрование данных
+
+- Дополнительные сведения о шифровании данных в Project Online см. в OneDrive для бизнеса и [SharePoint Online - Microsoft 365 compliance | Документы Майкрософт](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- Дополнительные сведения о шифровании данных в Project веб-сайте см. в странице Шифрование в [Microsoft Dynamics 365 — Microsoft 365 соответствия требованиям | Документы Майкрософт](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
+
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project для веб-границ и ограничений
 
 Project веб-сайта имеет некоторые ограничения, описанные в следующей таблице.<br><br>
@@ -311,7 +316,7 @@ Project веб-сайта имеет некоторые ограничения, 
 |Максимальная продолжительность задачи сводки | 3650 дней (10 лет) |
 |Максимальная ресурсы, которые могут быть назначены для задачи | 20 ресурсов |
 |Поддерживаемый диапазон дат для задачи | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Проект** ||
 |Максимальная общие задачи для проекта | 500 |
 |Максимальная общая продолжительность проекта | 3650 дней (10 лет) |
 |Максимальная общие ресурсы для проекта | 150 |
