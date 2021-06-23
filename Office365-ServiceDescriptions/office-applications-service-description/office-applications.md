@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office — это мощная служба, которая поможет вам реализовать свои лучшие идеи, перейти на связь и оставаться на связи. Просто войдите в систему, чтобы использовать персонализированный интерфейс и все самые современные приложения Office, где постоянно добавляются новые и усовершенствованные функции.
-ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
+ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652383"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53069246"
 ---
 # <a name="office-applications"></a>Приложения Office
 
@@ -27,31 +27,31 @@ Microsoft Office — это мощная служба, которая помож
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
-Microsoft Word — это полноценная программа обработки слов для операционных систем Windows Mac. Узнайте, [что нового в Word 2019](https://support.office.com/article/what-s-new-in-word-2019-for-windows-d3d31e5e-2bb8-4433-80bb-08279beef4b3) для Windows и что нового в Word [2019 для Mac](https://support.office.com/article/what-s-new-in-word-2019-for-mac-247e0cd4-a758-4b42-a157-42eb8853aef5).
-  
+Microsoft Word — это полноценная программа обработки слов для операционных систем Windows Mac. Дополнительные ссылки [см. в word с Microsoft 365.](https://www.microsoft.com/microsoft-365/word)
+
 ## <a name="microsoft-excel"></a>Microsoft Excel
 
-Microsoft Excel — это программа электронных таблиц, которая содержит вычисления, графические инструменты, таблицы поворотов и поддержку языкового программирования макроса для операционных систем Windows Mac. Узнайте, что нового [в 2019 Excel 2019](https://support.office.com/article/what-s-new-in-excel-2019-for-windows-5a201203-1155-4055-82a5-82bf0994631f) для Windows и что нового в [Excel 2019 для Mac](https://support.office.com/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d).
+Microsoft Excel — это программа электронных таблиц, которая содержит вычисления, графические инструменты, таблицы поворотов и поддержку языкового программирования макроса для операционных систем Windows Mac. Дополнительные [ссылки см. в Excel с Microsoft 365](https://www.microsoft.com/microsoft-365/excel).
   
 ## <a name="microsoft-powerpoint"></a>Microsoft PowerPoint
 
-Microsoft PowerPoint — это программа презентации для операционных систем Windows и Mac. Узнайте, что нового [в PowerPoint 2019](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-windows-8355a56a-f643-42d2-8454-784fa9b3d109) для Windows и что нового [в PowerPoint 2019 для Mac](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-mac-5038ba79-48c5-40f0-adff-11489e5d6fed).
-  
+Microsoft PowerPoint — это программа презентации для операционных систем Windows и Mac. Дополнительные [ссылки PowerPoint с Microsoft 365](https://www.microsoft.com/microsoft-365/powerpoint).
+
 ## <a name="microsoft-onenote"></a>Microsoft OneNote
 
-Microsoft OneNote — это бесплатная программа для приема сведений для операционных систем Windows Mac. Узнайте, [что нового в OneNote для Windows 10](https://support.office.com/article/what-s-new-in-onenote-for-windows-10-1477d5de-f4fd-4943-b18a-ff17091161ea) и что нового в [OneNote для Mac](https://support.office.com/article/see-what-s-new-in-onenote-for-mac-c82d3f15-252f-452a-89ba-e09fbe418829).
+Microsoft OneNote — это бесплатная программа для приема сведений для операционных систем Windows Mac. Дополнительные дополнительные [OneNote](https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app).
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook — это программа электронной почты для операционных систем Windows и Mac. См. новые возможности Outlook [2019](https://support.office.com/article/what-s-new-in-outlook-2019-for-windows-0c64df36-0908-4ff6-a7fc-573a62800525) г. для Windows и новые возможности Outlook [2019 г. для Mac.](https://support.office.com/article/what-s-new-in-outlook-2019-for-mac-05736033-f99e-4cb2-88aa-01e979b0736b)
+Microsoft Outlook — это программа электронной почты для операционных систем Windows и Mac. Дополнительные [ссылки см. в Outlook с Microsoft 365](https://www.microsoft.com/microsoft-365/outlook/outlook-personal-email-plans).
   
 ## <a name="microsoft-publisher"></a>Microsoft Publisher
 
-Microsoft Publisher — это программа публикации настольных компьютеров для Windows операционных систем. См. [Microsoft Publisher](https://products.office.com/publisher).
+Microsoft Publisher — это программа публикации настольных компьютеров для Windows операционных систем. Дополнительные [ссылки см. в Publisher с Microsoft 365](https://www.microsoft.com/microsoft-365/publisher).
   
 ## <a name="microsoft-access"></a>Microsoft Access
 
-Microsoft Access — это решение для управления базами данных для Windows операционных систем. См. [новые возможности в Access 2019.](https://support.office.com/article/what-s-new-in-access-2019-f52c5317-3494-4105-9c56-5a2abb8e0f87)
+Microsoft Access — это решение для управления базами данных для Windows операционных систем. Дополнительные возможности см. [в Microsoft 365.](https://www.microsoft.com/microsoft-365/access)
   
 ## <a name="skype-for-business"></a>Skype для бизнеса
 

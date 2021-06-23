@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906775"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077523"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -29,16 +29,17 @@ Microsoft Teams является центром командной работы 
 
 | Функция | Малый бизнес | Enterprise планы | GCC | GCC - High | DOD | Образование |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Чат  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Teams  <br/> |Да <br/> |Да <br/> |Да <br/> |Да<sup>1</sup>  <br/> |Да<sup>1</sup>  <br/> |Да  <br/> |
-|Каналы — стандартные  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Каналы — частные  <br/> |Да  <br/> |Да<sup>2</sup>  <br/> |Да <br/> |Нет  <br/> |Нет <br/> |Да  <br/> |
-|Собрания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Совместное использование PowerPoint аудио- и видео настольных компьютеров <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Голосовые вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>3</sup>  <br/> |Да<sup>3</sup>  <br/> |Да  <br/> |
-|Аудиоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>3</sup>  <br/> |Да<sup>3</sup>  <br/> |Да  <br/> |
-|Приложения, боты, & соединители  <br/> |Да  <br/> |Да  <br/> |Да<sup>5</sup>  <br/> |Да<sup>5</sup>  <br/> |Да<sup>4,5</sup>  <br/> |Да  <br/> |
-|События в прямом эфире  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |Да  <br/> |
+|Чат |Да |Да |Да |Да |Да |Да |
+|Teams |Да|Да|Да|Да<sup>1</sup> |Да<sup>1</sup> |Да |
+|Каналы — стандартные |Да |Да |Да |Да |Да |Да |
+|Каналы — частные |Да |Да<sup>2</sup> |Да|Нет |Нет|Да |
+|Собрания |Да |Да |Да |Да |Да |Да |
+|Вебинары |Да |Да |Нет |Нет |Нет |Да |
+|Совместное использование PowerPoint аудио- и видео настольных компьютеров|Да |Да |Да |Да |Да |Да |
+|Голосовые вызовы |Да |Да |Да |Да<sup>3</sup> |Да<sup>3</sup> |Да |
+|Аудиоконференции |Да |Да |Да |Да<sup>3</sup> |Да<sup>3</sup> |Да |
+|Приложения, боты, & соединители |Да |Да |Да<sup>5</sup> |Да<sup>5</sup> |Да<sup>4,5</sup> |Да |
+|События в прямом эфире |Нет |Да |Да |No<sup>6</sup> |No<sup>6</sup> |Да |
 
 <sup>1</sup> Microsoft Teams в GCC-High и doD поддерживают 2500 членов в отдельной команде.<br/>
 <sup>2</sup> Microsoft Planner в настоящее время не доступен для доступа в частных каналах.<br/>
