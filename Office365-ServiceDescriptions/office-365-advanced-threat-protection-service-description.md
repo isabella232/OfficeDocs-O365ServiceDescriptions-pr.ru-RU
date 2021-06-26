@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня и включает функции для защиты организации от вредных ссылок в режиме реального времени.
-ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798455"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140821"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Описание службы Microsoft Defender для Office 365
 
@@ -75,11 +75,30 @@ Microsoft Defender для Office 365 Plan 2 включен в Office 365 E5, Off
 
 Defender for Office 365 можно использовать с любым агентом smTP по передаче почты, например Microsoft Exchange Server. Сведения об операционных системах, веб-браузерах и языках, поддерживаемых Defender для Office 365, см. в разделах "Поддерживаемые браузеры" и "Поддерживаемые языки" в центре администрирования Exchange в [Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
 
+## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>Какие пользователи или почтовые ящики должны быть лицензированы?
+
+Для клиентов Microsoft Defender для Office 365 плана 1 необходимо приобрести лицензии для пользователей или почтовых ящиков, подпадающих под один или несколько следующих сценариев:
+
+- Любой пользователь, который получает доступ к почтовому ящику с преимуществами Defender для Office 365 защиты.
+- Общие почтовые ящики, которые получают выгоду от Defender для Office 365 защиты.
+- Если Сейф защита вложений для SharePoint, OneDrive для бизнеса или Teams включена, все пользователи, которые имеют доступ к SharePoint, OneDrive для бизнеса или Teams.
+- Любой пользователь, использующий Приложения Microsoft 365 или Teams, Сейф включена защита ссылок.
+
+Для клиентов Плана Office 365 Microsoft Defender необходимо приобрести лицензии для пользователей или почтовых ящиков, подпадающих под один или несколько следующих сценариев:
+
+- Все Exchange Online пользователей в клиенте. Это потому, что функции и возможности Plan 2 защищают всех пользователей в клиенте.
+- Все общие почтовые ящики клиента.
+- Если Сейф защита вложений для SharePoint, OneDrive для бизнеса или Teams включена, все пользователи, которые имеют доступ к SharePoint, OneDrive для бизнеса или Teams.
+- Любой пользователь, использующий Приложения Microsoft 365 или Teams, Сейф включена защита ссылок.
+
+> [!NOTE]
+> Office 365 E5, Безопасность Microsoft 365 E5 и Microsoft 365 E5 включают лицензии Microsoft Defender для Office P2, а Microsoft 365 бизнес премиум включает Microsoft Defender для Office 365 лицензий P1.
+
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>Доступность функций в Defender для Office 365 планов
 
 Каждая функция приведена ниже. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
 
-| Возможность | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security|
+| Функция | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security|
 |:-----|:-----|:-----|:-----|
 |*Конфигурация, защита и обнаружение*|
 |[Безопасные вложения](#safe-attachments)|Да|Да|Да|
@@ -94,11 +113,11 @@ Defender for Office 365 можно использовать с любым аге
 |[Трекеры угроз](#threat-trackers)|Нет|Да|Да|
 |Расследование угроз (предварительное расследование угрозы)|[Обнаружение в режиме реального времени](#real-time-detections)|[Обозреватель](#explorer)|[Обозреватель](#explorer)|
 |[Автоматическая реакция на инциденты](#automated-incident-response)|Нет|Да|Да|
-|[Обучение имитации атаки](#attack-simulation-training)|Нет|Да|Да|
+|[Обучение симуляции атаки](#attack-simulation-training)|Нет|Да|Да|
 |*Интеграция [с Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|Нет|Да|Да|
 
 > [!NOTE]
-> Если у клиента есть только пробная лицензия Microsoft Defender для Office Plan P2 или Office 365 пробная лицензия E5 без другой лицензии Microsoft 365 Defender, вы не сможете получить доступ к Microsoft 365 Defender. Подробнее о лицензии MTP см. в Microsoft 365 [Defender.](/microsoft-365/security/mtp/prerequisites)
+> Если у клиента есть только лицензия Microsoft Defender для Office plan P2 или Office 365 E5 пробная лицензия без другой лицензии на Microsoft 365 Defender, вы не сможете получить доступ к Microsoft 365 Defender. Дополнительные новости о лицензии MTP [см. в](/microsoft-365/security/mtp/prerequisites)Microsoft 365 Defender требования.
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender для Office 365 возможностей
 
@@ -185,12 +204,12 @@ Defender for Office 365 можно использовать с любым аге
 
 [Возможности автоматического](/microsoft-365/security/office-365-security/office-365-air) реагирования на инциденты (AIR), доступные в Defender для Office 365 Plan 2, позволяют запускать автоматизированные процессы расследования в ответ на известные угрозы, которые существуют сегодня. Автоматизация определенных задач расследования может привести к более эффективной и эффективной работе группы операций безопасности. Действия по исправлению, например удаление вредоносных сообщений электронной почты, принимаются после утверждения вашей командой операций безопасности. Дополнительные дополнительные информации см. [в Office 365.](/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
-### <a name="attack-simulation-training"></a>Обучение имитации атаки
+### <a name="attack-simulation-training"></a>Обучение симуляции атаки
 
 [Обучение моделированию атак](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) — это интеллектуальный инструмент управления социальными рисками, который автоматизирует создание и управление фишинговыми симуляциями. Моделирование помогает клиентам обнаруживать, приоритизировать и устранять риски фишинга, используя реальные фишинговые приманки и гипернацелевую подготовку для изменения поведения сотрудников.
 
 - Обучение имитации атак теперь доступно в WW и GCC (будет в GCC с 21 июня).
 - Дополнительные сведения о том, как начать работу, см. в сайте [Get started using Attack simulation training.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
 - Доступны различные методы атак, применяющие де-веружизованные, реальные фишинговые нагрузки, которые реплицируются в реальном мире, чтобы сделать фишинговое моделирование актуальным.
-- Эта служба доступна организациям с лицензиями Microsoft 365 E5, Office 365 E5 или [Microsoft Defender для Office 365 Plan 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Клиенты E3 предлагают подмножество возможностей в качестве пробной пробной части.
+- Эта служба доступна организациям, у Microsoft 365 E5, Office 365 E5 или Microsoft Defender для [Office 365 плана 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Клиенты E3 предлагают подмножество возможностей в качестве пробной пробной части.
 - Дополнительные дополнительные уроки и имитация см. в [примере Имитация фишинговой атаки.](/microsoft-365/security/office-365-security/attack-simulation-training)
