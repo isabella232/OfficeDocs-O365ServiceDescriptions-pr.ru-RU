@@ -65,6 +65,7 @@
 ### [Клиентские возможности](exchange-online-archiving-service-description/client-features.md)
 ### [Функции контроля соответствия требованиям и безопасности](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Описание службы Microsoft Defender для Office 365](office-365-advanced-threat-protection-service-description.md)
+### [Описание службы функций Microsoft Defender для Office 365](microsoft-defender-for-office-365-features.md)
 ## [Описание службы Azure Active Directory](azure-active-directory.md)
 ## [Описание службы Microsoft Teams](teams-service-description.md)
 ### [Описание службы голосовой связи Microsoft 365 бизнес](microsoft-365-business-voice-service-description.md)
