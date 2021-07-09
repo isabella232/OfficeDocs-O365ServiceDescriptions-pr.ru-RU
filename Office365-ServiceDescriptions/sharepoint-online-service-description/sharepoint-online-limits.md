@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте SharePoint для Microsoft 365 и автономных планов.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767479"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338342"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -23,7 +23,7 @@ ms.locfileid: "51767479"
   
 ## <a name="limits-by-plan"></a>Ограничения по плану 
 
-| Возможность | Microsoft 365 бизнес базовый, бизнес-стандарт или бизнес-Premium | Microsoft 365 E3 или E5, Office 365 E1, E3 или E5 или SharePoint 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
+| Функция | Microsoft 365 бизнес базовый, бизнес-стандарт или бизнес-Premium | Microsoft 365 E3 или E5, Office 365 E1, E3 или E5 или SharePoint 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |Общее хранилище для организации<sup>1, 2, 6</sup> <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup>  <br/> |1 ТБ плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Max storage per site (site collection)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
@@ -50,7 +50,11 @@ ms.locfileid: "51767479"
 
 ### <a name="file-size-and-file-path-length"></a>Размер файла и длина пути к файлу
 
-250 ГБ. Дополнительные материалы об ограничениях и ограничениях при использовании нового приложения синхронизации OneDrive (OneDrive.exe) см. в приложении [Invalid file names and file types.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **250 ГБ — ограничение загрузки файлов.** Применяется к каждому отдельному файлу, загруженным на вкладку Microsoft Teams Files, SharePoint библиотеки документов, OneDrive папки и Yammer беседы.
+
+- **250 МБ — файл, присоединенный к элементу списка.** Применяется к спискам Microsoft и SharePoint спискам , как на основе одной платформы списков.
+
+Дополнительные новости об ограничениях и ограничениях при использовании нового приложения приложение синхронизации OneDrive (OneDrive.exe) см. в списке Недействительные имена файлов [и типы файлов.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 ### <a name="moving-and-copying-across-sites"></a>Перемещение и копирование на сайтах
 
