@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077523"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409686"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -21,13 +21,13 @@ Microsoft Teams является центром командной работы 
 
 ## <a name="available-plans"></a>Доступные планы
 
-Подробные сведения о планах подписки, которые позволяют пользователям для Microsoft Bookings, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Подробные сведения о планах подписки, которые позволяют пользователям для Microsoft Stream, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="feature-availability"></a>Доступность функций
 
-В следующей таблице перечислены основные Microsoft Teams, доступные в планах. Применяются определенные оговорки. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Обратитесь к Microsoft 365 центра сообщений для обмена сообщениями об изменении основных служб и справочной документации по условиям лицензирования [Майкрософт.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
+В следующей таблице перечислены основные Microsoft Teams, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Обратитесь к Microsoft 365 центра сообщений для обмена сообщениями об изменении основных служб и справочной документации по условиям лицензирования [Майкрософт.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
-| Функция | Малый бизнес | Enterprise планы | GCC | GCC - High | DOD | Образование |
+| Компонент | Для малого бизнеса | Enterprise планы | GCC | GCC - High | DOD | Образование |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Чат |Да |Да |Да |Да |Да |Да |
 |Teams |Да|Да|Да|Да<sup>1</sup> |Да<sup>1</sup> |Да |
@@ -48,11 +48,11 @@ Microsoft Teams является центром командной работы 
 <sup>В настоящее</sup> время в этих облаках недоступны 5 сторонних приложений и публикаций приложений.<br/>
 <sup>6</sup> Live Events в настоящее время недоступны GCC-High или DoD.<br/>
 
-## <a name="learn-more"></a>Подробнее
+## <a name="learn-more"></a>Дополнительные сведения
 
 Skype для бизнеса Online будет отправлен в отставку 31 июля 2021 г., о котором было объявлено 30 июля 2019 г. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams это совершенно новая служба, созданная для облака с нуля, используя Azure и другие инновации службы от Корпорации Майкрософт. Microsoft Teams построена на Microsoft 365, microsoft Graph и с той же безопасностью, соответствием требованиям и управляемостью, что и Office 365. Teams использует удостоверения, хранимые в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет. Дополнительные сведения см. в [Microsoft Teams ИТ-архитектуры](/microsoftteams/teams-architecture-solutions-posters)и плакатов решений для телефонии.
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
 Подробные сведения о планах подписки, которые позволяют пользователям Microsoft Teams, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Дополнительные Office 365 в планах правительства см. в [Office 365 для государственных организаций планах.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1 через G5 включает доступ к Teams функциям.
 
@@ -74,12 +74,12 @@ Microsoft Teams недоступна в качестве автономных с
 
 ### <a name="licensing-terms"></a>Условия лицензирования
 
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Сообщения
 
-Чтобы отслеживать предстоящие изменения, в том числе новые и измененные функции, запланированное обслуживание или другие важные объявления, посетите Центр сообщений. Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы отслеживать предстоящие изменения, в том числе новые и измененные компоненты, запланированное обслуживание или другие важные объявления, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Специальные возможности
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
