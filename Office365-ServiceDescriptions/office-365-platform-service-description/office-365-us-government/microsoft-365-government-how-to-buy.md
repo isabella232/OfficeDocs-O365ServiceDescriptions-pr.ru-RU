@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительства и описаны варианты покупки.
-ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545945"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537245"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство — как покупать
 
@@ -136,24 +136,34 @@ Microsoft 365 Правительство доступно для государ�
 - Accenture Federal Services, LLC
 - Agile IT, Inc.
 - Applied Information Sciences, Inc.
+- Booz Allen Hamilton, Inc.
 - Интегрированные решения C3
 - CACI
 - Carahsoft
+- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - Завоевание Cyber
 - Dox Electronics Inc.
+- ИТ-консалтинг, LLC
 - F1 Solutions Inc.
 - Four Points Technology, LLC
 - General Dynamics Information Technology, Inc.
 - Imager Software, Inc. d.b.a ISC
+- Hypori, Inc.
 - Jackpine
 - Jasper
+- Johnson Technology Systems, Inc.
+- Kamind IT, Inc.
 - KTL Solutions, Inc.
 - LiftOff, LLC
+- ManTech Advanced Systems International, Inc.
+- NIMBUS LOGIC, LLC
 - Northrop
 - Novetta
+- Perspecta Enterprise Solutions LLC
 - Planet Technologies, Inc.
 - Тихие профессионалы, LLC
+- R3, LLC
 - Красная река
 - SAIC
 - Smartronix
@@ -168,10 +178,10 @@ Microsoft 365 Правительство доступно для государ�
 ## <a name="what-trials-are-available"></a>Какие пробные испытания доступны?
 
 - [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой правой части страницы EMS, чтобы пройти закрытый процесс регистрации на портале Office коммерции, который передает их на портал Azure Active Directory (AAD).
-- [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
+- [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
 - Корпорация Майкрософт не предлагает пробные Office 365 GCC коммерческим клиентам, а также не GCC или DoD.
 
-## <a name="where-can-i-learn-more"></a>Где ознакомиться с дополнительной информацией?
+## <a name="where-can-i-learn-more"></a>Где я могу узнать больше?
 
 Дополнительные ресурсы см. в следующих ресурсах, Microsoft 365 правительства.
 

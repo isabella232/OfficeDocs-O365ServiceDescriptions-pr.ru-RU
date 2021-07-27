@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online это гибкое онлайн-решение для управления портфелями проектов (система УПП) и повседневной работы. Поставляется Office 365, Project Online предоставляет мощные возможности управления проектами для планирования, приоритетов и управления проектами и инвестициями в портфель проектов практически из любой точки на любом устройстве. Project Online может использоваться администраторами, руководителями и обозревателями портфелей, руководителями проектов и ресурсов, руководителями и участниками групп.
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290859"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537265"
 ---
 # <a name="microsoft-project-service-description"></a>Описание службы Microsoft Project
 
@@ -197,7 +197,7 @@ Microsoft Project доступна через три различных подп
 |Управление пользователями | Управление ролями и разрешениями пользователей и групп на уровне проекта, группы и организации. | Нет | Да |
 |Администрирование службы | Планирование, установка и настройка, обслуживание и расширение Microsoft Project среды в рамках среды Office 365<sup>1.</sup> | Нет | Да |
 
-#### <a name="notes"></a>Заметки
+#### <a name="notes"></a>Примечания
 
 <sup>1</sup> Требуется подписка Office или Microsoft 365 коммерческой подписки.<br/>
 <sup>2</sup> Azure Boards приобретены отдельно.<br/>
@@ -295,9 +295,11 @@ Project для веб-страницы требуется использован
 |--------------------------------------------------------------------|------------|------------|------------|
 | База данных Dataverse (ранее общая служба данных) База данных: включена/клиент | 3 ГБ        | 5 ГБ        | 5 ГБ        |
 | Dataverse Database: Accrued/User Subscription License (USL)        | 50 МБ       | 250 МБ      | 250 МБ      |
-| Dataverse Log: Included/tenant                                     | 2 ГБ        | 2 ГБ        | 2 ГБ        |
+| Dataverse Log: Included/tenant                                     | 2 ГБ        | 2 ГБ        | 2 ГБ        |
 | Dataverse File: Included/tenant                                    | 20 ГБ       | 20 ГБ       | 20 ГБ       |
-| Файл dataverse: Accrued/USL                                        | 400 МБ      | 2 ГБ        | 2 ГБ        |
+| Файл dataverse: Accrued/USL                                        | 400 МБ      | 2 ГБ        | 2 ГБ        |
+
+Существуют дополнительные подписки Майкрософт за Project, которые имеют право на емкость хранилища Dataverse. См. руководство по лицензированию [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) и руководство по лицензированию [Power Apps, Power Automate](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) и Power Virtual Agents для других прав на хранение данных.
 
 ### <a name="data-backup-and-retention"></a>Резервное копирование и хранение данных
 
@@ -314,7 +316,7 @@ Project веб-сайта имеет некоторые ограничения, 
 
 | Объект/поле | Ограничение |
 |-------------|-------|
-|**Task** ||
+|**Задача** ||
 |Максимальная уровень иерархии для задачи | 10 уровней |
 |Максимальная ссылки (преемник + предшественница) для задачи | 20 |
 |Максимальная продолжительность задачи листа | 1250 дней |
