@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint для Microsoft 365 и отдельных планов.
-ms.openlocfilehash: c228774bbbb1db9b6edc1d3cc05ff159b1ca9a3e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537225"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338342"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -34,7 +34,7 @@ ms.locfileid: "53537225"
 <br/><sup>2</sup> Рекомендуем следить за корзиной и регулярно ее очищать. Она занимает часть общее место в хранилище организации. 
 <br/> <sup>3</sup> Если у вас есть подписка на Microsoft 365 и надстройка Office 365 с дополнительным хранилищем, место в хранилище добавляется. 
 <br/> <sup>4</sup> Это *ограничение* хранилища для одного сайта (ранее называлось "семейство веб-сайтов"), а не объем хранилища, *предоставленный* для каждого сайта. Это ограничение применяется ко всем типам сайтов, включая сайты групп, подключенные к Office 365 и OneDrive. Администраторы SharePoint могут [вручную устанавливать более низкие ограничения хранилища](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
-<br/> <sup>5</sup> Frontline Workers не могут управлять SharePoint сайтов. 
+<br/> <sup>5</sup> Сотрудники без компьютеров не могут администрировать сайты SharePoint. 
 <br/> <sup>6</sup> Не учитывая OneDrive, созданный для каждого лицензированного пользователя. 
 <br/> <sup>7</sup> Если у вас в организации более 500 000 пользователей, свяжитесь с представителем корпорации Майкрософт. 
   
