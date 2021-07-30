@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительства и описаны варианты покупки.
-ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537245"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661637"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство — как покупать
 
@@ -140,16 +140,16 @@ Microsoft 365 Правительство доступно для государ�
 - Интегрированные решения C3
 - CACI
 - Carahsoft
-- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - Завоевание Cyber
+- CyberSheath Services International, LLC
 - Dox Electronics Inc.
 - ИТ-консалтинг, LLC
 - F1 Solutions Inc.
 - Four Points Technology, LLC
 - General Dynamics Information Technology, Inc.
-- Imager Software, Inc. d.b.a ISC
 - Hypori, Inc.
+- Imager Software, Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems, Inc.
