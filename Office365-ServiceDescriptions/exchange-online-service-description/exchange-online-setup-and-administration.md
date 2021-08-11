@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: В этой статье описываются элементы управления и поддержка администрирования, доступные для настройки параметров Exchange Online и поддержания Exchange Online среды организации, ее работы и текущей работы. Он включает сведения о средствах самостоятельного администрирования и возможностях, доступных для организаций; административные обязанности корпорации Майкрософт и обязательства производительности; а также обслуживание и обновления для продукта.
-ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 24edb5a4c1855acd990ddc427e218cb601dc45aab34a5f6a83cf76cb561dbffe
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652733"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663952"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Установка и администрирование Exchange Online
 
@@ -33,7 +33,7 @@ ms.locfileid: "51652733"
   
 - [Портал Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Центр администрирования Microsoft 365](#microsoft-365-admin-center)
+- [Центр администрирования Microsoft 365](#microsoft-365-admin-center)
     
 - [Центр администрирования Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,7 +45,7 @@ ms.locfileid: "51652733"
   
 ### <a name="microsoft-365-admin-center"></a>Центр администрирования Microsoft 365
 
-Центр администрирования Microsoft 365 является веб-порталом, на котором администратор службы каждой компании может управлять учетной записью и настройками пользователей для каждого службы Майкрософт, на который они подписаны. В центре администрирования Microsoft 365 администраторы могут следить за ссылками на центр администрирования Exchange администратора (EAC), где они могут управлять настройками, определенными Exchange Online. Дополнительные сведения об использовании центра администрирования Microsoft 365 см. в следующем видео: [Introducing Office 365 корпоративный.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
+Это Центр администрирования Microsoft 365 веб-портал, на который администратор службы каждой компании может управлять учетной записью и настройками пользователей для каждого службы Майкрософт, на который они подписываются. Изнутри Центр администрирования Microsoft 365 администраторы могут следить за ссылками на центр администрирования Exchange (EAC), где они могут управлять настройками, определенными Exchange Online. Дополнительные сведения о введении и запуске с помощью Центр администрирования Microsoft 365 см. в следующем видео: [Introducing Office 365 корпоративный](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Центр администрирования Exchange
 

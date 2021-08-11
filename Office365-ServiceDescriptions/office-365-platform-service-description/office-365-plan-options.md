@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: 0d8d155e451ba2ef912b8ca0d265b175d01ecc64
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900759"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701668"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -38,7 +38,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (включает Office 365 A3)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (включает Office 365 A5)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
 |**Правительство США (неограниченное число пользователей)** <br/> |[См. все доступные планы](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Сведения об Office 365 Germany](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
+|**Office 365 Germany** <br/> |[Сведения об Office 365 Germany](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>Доступность службы в каждом Microsoft 365 и Office 365 плана
 
@@ -62,7 +62,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 |Azure Information Protection<sup>2</sup> <br/> |Нет  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |Да  <br/> |No<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |No<sup>1</sup> <br/> |Нет  <br/> |
 |Microsoft Kaizala <br/> |Нет <br/> |Да  <br/> |Да <br/> |Да <br/> |Да  <br/> |Да  <br/> |Да <br/> |Да  <br/> |Нет  <br/> |
    
-<sup>1</sup> Защита информации Azure не включена, но может быть приобретена в качестве отдельной надстройки и будет включать поддерживаемые функции управления правами на информацию (IRM). Некоторые функции Azure Information Protection требуют подписки на Приложения Microsoft 365 для предприятий, которая не включена в Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Microsoft 365 F1, Microsoft 365 F3, Office 365 E1, Office 365 A1 или Office 365 F3.<br/>
+<sup>1</sup> Защита информации Azure не включена, но может быть приобретена в качестве отдельной надстройки и будет включать поддерживаемые функции управления правами на информацию (IRM). Некоторые функции azure Information Protection требуют подписки на Приложения Microsoft 365 для предприятий, которая не включена в Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Microsoft 365 F1, Microsoft 365 F3, Office 365 E1, Office 365 A1 или Office 365 F3.<br/>
 <sup>2</sup> Дополнительные сведения о том, какие функции Azure Information Protection включены в Microsoft 365 и Office 365, см. в [этой ссылке.](https://azure.microsoft.com/services/information-protection/)<br/>
 <sup>3</sup> Office 365 E5 и Microsoft 365 E5 содержат телефонная система и аудиоконференцию. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков).<br/>
 <sup>4</sup> Включает в себя 2 ГБ хранилища. <br/>
@@ -77,9 +77,9 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>13</sup> Включает Skype для бизнеса План 1.<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. По данным на 1 октября 2018 г., новые клиенты с 500 или менее посадочных мест находятся на Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, которые уже используют Skype для бизнеса Online, могут продолжать это делать (включая подготовка новых пользователей) до завершения перехода на Microsoft Teams.<br>
 <sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced Message Encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management and Advanced eDiscovery capabilities; и Безопасность Microsoft 365 E5, которая включает в себя Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф Documents.<br>
-<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем пользователям отключить Outlook в Интернете с [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) помощью этих действий и попросить пользователей не получать доступ к почтовому Exchange с помощью других методов.<br>
+<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем вашим клиентам отключить Outlook в Интернете [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) с помощью этих действий и попросить пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
 <sup>17</sup> Включает базовая подписка на SharePoint Online. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
-<sup>18 Microsoft 365 F1</sup> пользователи могут читать файлы Office веб-страницы, но не имеют прав на создание/редактирование и сохранение. 
+<sup>18 Microsoft 365 F1</sup> пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав create/edit/save. 
   
 #### <a name="basic-client-limitations"></a>Ограничения базового клиента
 
@@ -98,7 +98,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 
 По мере изменения потребностей организации может потребоваться изменить Microsoft 365 плана. Вы можете перейти с текущей подписки на другую подписку: 
   
-- **В том же семейство служб:** Например, можно перейти с Microsoft 365 бизнес базовый на Microsoft 365 бизнес стандарт или с Office 365 E1 на Office 365 E3.
+- **В том же семейство служб:** Например, вы можете перейти от Microsoft 365 бизнес базовый до Microsoft 365 бизнес стандарт или от Office 365 E1 до Office 365 E3.
 - **Из автономных планов:** Например, можно перейти от Exchange Online плана 1 к Office 365 E1.     
 - **Для другого семейства служб:** Например, можно перейти с Microsoft 365 бизнес базовый на Office 365 E3.     
 Сведения об изменении подписки, в том числе о переходе из пробной в платную, см. в журнале [Switch to a different Microsoft 365 или подписку.](https://support.office.com/article/HA104031833)
@@ -119,7 +119,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Аналитика продуктивности персонала  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |
 |Служба бизнес-аналитики  <br/> |[Power BI](https://products.office.com/business/analytics-and-intelligence/home) <br/> |
-|Веб-приложение для создания диаграмм  <br/> |[Visio, план 1](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab) <br/> [Visio, план 2](https://products.office.com/visio/visio-online-plan-2) <br/> |
+|Веб-приложение для создания диаграмм  <br/> |[Visio, план 1](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab) <br/> [Visio Plan 2](https://products.office.com/visio/visio-online-plan-2) <br/> |
 |Управление правами на доступ к данным  <br/> |[Azure Information Protection](https://signup.microsoft.com/signup?OfferId=9DF77AF9-DAAE-4d51-8E0E-EEEADD4866B8&dl=RIGHTSMANAGEMENT&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Доступность функций

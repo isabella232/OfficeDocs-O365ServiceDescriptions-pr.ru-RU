@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании Exchange Online службы.
-ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721213"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664462"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для правительственных сред США
 
@@ -40,7 +40,7 @@ ms.locfileid: "52721213"
 
 В следующей таблице описывается, доступны ли указанные Exchange Online функции в средах GCC, GCC High и DoD. Если имеются нюансы, касающиеся утверждения поддержки (или ее отсутствия), предоставляется дополнительный контекст.<br><br>
 
-| Возможность | GCC | GCC High | DoD | Ключевые соображения |
+| Функция | GCC | GCC High | DoD | Ключевые соображения |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Для сосуществования с Exchange Server локальной службой Корпорация Майкрософт требует установки по крайней мере одного сервера Exchange Server 2013 г. (или Exchange Server 2016 г.). Exchange Server 2010 и ранее не поддерживаются.|
@@ -58,7 +58,7 @@ ms.locfileid: "52721213"
 |Политики хранения вручную, метки и теги |Да|Да|Да||
 |Шифрование статических данных (BitLocker)|Да|Да|Да||
 |IRM на базе Azure Information Protection|Да|Да|Да|Дополнительные сведения об ограничениях AIP в GCC High и DoD см. в описании службы Azure <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Information Protection Premium.</a><br><br>Azure Information Protection не входит в G1/F3, но ее можно приобрести в качестве отдельной надстройки и включить поддерживаемые функции управления правами на информацию (IRM). Некоторые функции azure Information Protection требуют подписки на Office 365 профессиональный плюс, которая не включена в Office 365 для государственных организаций G1 или Office 365 для государственных организаций F3.|
-|Управление правами на доступ к данным с помощью AD RMS для Windows Server|Да|Да|Да|Windows Сервер AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM.|
+|Управление правами на доступ к данным с помощью AD RMS для Windows Server|Да|Да|Да|Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM.|
 |Шифрование сообщений Office 365|Да|Да|Да|В этой статье см. шифрование сообщений Office 365 поведение GCC границы [high/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) и уникальные характеристики шифрование сообщений Office 365 шифрование сообщений Office 365 в развертывании <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC,</a>в котором документировать поведенческие нюансы шифрование сообщений Office 365 при отправке сообщений между пользователями GCC High/DoD и не-GCC пользователями High/DoD.|
 |Ключ клиента|Да|Да|Да|Требуется план службы G5.|
 |S/MIME|Да|Да|Да||
@@ -114,7 +114,7 @@ ms.locfileid: "52721213"
 |**[Клиенты и мобильные устройства](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |To Do в Интернете|Да|Нет|Нет||
 |Outlook для Windows|Да|Да|Да|Чтобы соответствовать GCC требованиям соответствия требованиям высокого и doD, необходимо выполнить по крайней мере версию 1803 Office 365 профессиональный плюс. Office 365 профессиональный плюс не входит в G1 или F3.|
-|Outlook в Интернете|Да|Да|Да||
+|Outlook в Интернете<sup>1</sup>|Да|Да|Да||
 |Outlook для Mac|Да|Да|Да|Чтобы соответствовать GCC требованиям соответствия требованиям высокого и doD, необходимо выполнить по крайней мере версию 1803 Office 365 профессиональный плюс. Office 365 профессиональный плюс не входит в G1 или F3.|
 |Outlook для iOS и Android|Да|Да|Да||
 |Exchange ActiveSync|Да|Да|Да||
@@ -139,13 +139,15 @@ ms.locfileid: "52721213"
 |Поддержка ретрансляции SMTP|Да|Да|Да||
 |**[Установка и администрирование Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Доступ к порталу Microsoft Office 365|Да|Да|Нет|Отчеты недоступны для DoD. Обратитесь к <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">разделу функций</a> платформы в описании Office 365 службы правительства США для обновлений и текущей доступности.|
-|Microsoft 365 центра администрирования|Да|Да|Нет|Отчеты недоступны для DoD. Обратитесь к <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">разделу функций</a> платформы в описании Office 365 службы правительства США для обновлений и текущей доступности.|
+|Центр администрирования Microsoft 365 доступа|Да|Да|Нет|Отчеты недоступны для DoD. Обратитесь к <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">разделу функций</a> платформы в описании Office 365 службы правительства США для обновлений и текущей доступности.|
 |Доступ к Центру администрирования Exchange|Да|Да|Да||
 |Удаленный доступ к Windows PowerShell|Да|Да|Да||
 |Политики ActiveSync для мобильных устройств|Да|Да|Да||
 |Отчеты об использовании|Да|Да|Нет|Отчеты недоступны для DoD. Обратитесь к <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">разделу функций</a> платформы в описании Office 365 службы правительства США для обновлений и текущей доступности.|
 |**[Расширение службы — настройка, надстройки и ресурсы](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Outlook надстройки и Outlook MAPI|Да|Да|Да|Только некоторые надстройки OWA и Outlook доступны в GCC High и DoD. В этой статье см. Outlook [и Outlook Web App](#add-insin-outlook-and-outlook-web-app) надстройки.|
+
+<sup>1</sup> Outlook в Интернете можно использовать в сценариях, когда Outlook для Windows не удается отобразить защищенные IRM-сообщения из-за трансграничных ограничений (GCC высокой или GCC высокой).
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Нюансы функций в GCC среде High и DoD
 
@@ -177,7 +179,7 @@ Azure Active Directory B2B-совместная работа в настояще
     
     - Отправители могут вручную шифровать сообщения электронной почты в Outlook для ПК и Mac и Outlook в Интернете, или организации могут настроить политику шифрования электронной почты с помощью Exchange правил потока почты.
     
-    - Получатели в GCC high/DoD получают такой же опыт чтения в Outlook для ПК и Mac и Outlook в Интернете, как и все другие Office 365 пользователей.
+    - Получатели в GCC high/DoD получают такой же внутренний опыт чтения в Outlook для ПК и Mac и Outlook в Интернете, как и все Office 365 пользователей.
 
 <!-- end list -->
 

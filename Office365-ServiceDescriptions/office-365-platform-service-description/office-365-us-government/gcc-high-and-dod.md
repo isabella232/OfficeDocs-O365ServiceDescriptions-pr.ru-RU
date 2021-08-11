@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Узнайте об уникальных обязательствах и различиях сред Office 365 GCC и DoD по сравнению с Office 365 коммерческой средой.
-ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653461"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664412"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC и DoD
 
@@ -41,7 +41,7 @@ GCC High и DoD соответствуют требованиям следующ
 
 У сотрудников Office 365 нет постоянного доступа к производственной среде для GCC High и DoD. Любой персонал, запрашивавший временное разрешение, которое предоставило бы доступ к содержимому клиента, должен сначала пройти следующие проверки.<br><br>
   
-| Проверка персонала Майкрософт и проверка фона<sup>1</sup> | Description |
+| Проверка персонала Майкрософт и проверка фона<sup>1</sup> | Описание |
 |:-----|:-----|
 |Гражданство США  <br/> |Подтверждение гражданства США  <br/> |
 |Проверка сведений о работе  <br/> |Проверка послужного списка за 7 (семь) лет  <br/> |
@@ -72,7 +72,7 @@ GCC High и DoD соответствуют требованиям следующ
 
 [Запросы файлов](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) недоступны для Office 365 для государственных организаций.
 
-### <a name="skype-for-business-online"></a>Skype для бизнеса Online
+### <a name="skype-for-business-online"></a>Skype для Бизнеса Онлайн
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 
@@ -83,7 +83,7 @@ GCC High и DoD соответствуют требованиям следующ
 - [телефонная система прямой маршрутике](/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Аудиоконференции с прямой маршрутизацией для GCC High и DoD](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
-### <a name="identity"></a>Identity
+### <a name="identity"></a>Удостоверение
 
 Многофакторная проверка подлинности на основе модели федеративного удостоверения позволяет использовать PIV- и CAC-карты.
   

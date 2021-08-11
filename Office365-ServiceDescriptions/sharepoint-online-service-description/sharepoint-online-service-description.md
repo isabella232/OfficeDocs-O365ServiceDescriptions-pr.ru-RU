@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие SharePoint доступны в каких планах.
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204856"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702588"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -110,7 +110,7 @@ OneDrive в Microsoft 365 это хранилище для отдельных п
 - [Управление сайтом](/sharepoint/governance-overview) 
 - [Хранилище терминов — управляемые метаданные](/sharepoint/managed-metadata)
 
-Сведения о доступности служб миграции FastTrack можно найти в соответствующих службах [и планах.](/fasttrack/m365-eligible-services-and-plans) 
+Сведения о доступности служб FastTrack миграции можно найти в соответствующих службах [и планах.](/fasttrack/m365-eligible-services-and-plans) 
 
 Сведения об особенностях, связанных с совместной работой, [см. в OneDrive службы.](../onedrive-for-business-service-description.md)
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: В большинстве организаций мы вмещая почтовые ящики и заботимся о потоке почты. Это простейшая конфигурация, которая означает, что Корпорация Майкрософт управляет всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье.
-ms.openlocfilehash: 0fe7cf2f0e8619bce911457ba634bee41ee4e113
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653331"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663792"
 ---
 # <a name="mail-flow"></a>Поток обработки почты
 

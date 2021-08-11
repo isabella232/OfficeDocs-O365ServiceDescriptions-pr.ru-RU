@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: В Yammer доступны следующие возможности поддержки.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653521"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702178"
 ---
 # <a name="support-features-in-yammer"></a>Возможности поддержки в Yammer
 
@@ -38,7 +38,7 @@ ms.locfileid: "51653521"
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Служба Microsoft FastTrack может помочь вашей организации перейти в облако Microsoft, предоставляя помощь на каждом шагу пути. FastTrack позволяет стратегически планировать выкаты, быстро наращивать новые службы и создавать новых пользователей. Для подробной информации посетите [Центр FastTrack.](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) Сведения о создании Yammer сети, включая предварительный запуск, запуск и поддержку документов и действий, перейдите на страницу [Envision: Identify scenarios,](https://fasttrack.microsoft.com/office/envision/identify-scenarios) а затем выберите Bring **your organization together.**
+Служба microsoft FastTrack может помочь организации перейти в облако Майкрософт, предоставляя помощь на каждом шагу пути. FastTrack позволяет стратегически планировать выкаты, быстро наращивать новые службы и создавать новых пользователей. Подробные сведения вы посетите [центр FastTrack.](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) Сведения о создании Yammer сети, включая предварительный запуск, запуск и поддержку документов и действий, перейдите на страницу [Envision: Identify scenarios,](https://fasttrack.microsoft.com/office/envision/identify-scenarios) а затем выберите Bring **your organization together.**
 
 ## <a name="support-features-across-yammer-plans"></a>Возможности поддержки в планах Yammer
 

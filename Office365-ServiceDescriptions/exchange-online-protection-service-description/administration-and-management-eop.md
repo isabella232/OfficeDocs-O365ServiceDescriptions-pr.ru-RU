@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: В этой статье описываются интерфейсы управления, доступные администраторам Microsoft Exchange Online защиты (EOP).
-ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653071"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664572"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Администрирование и управление в Exchange Online Protection
 
@@ -25,9 +25,9 @@ ms.locfileid: "51653071"
   
 Ищете сведения обо всех особенностях EOP? См. [Exchange Online Protection службы.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к центру Microsoft 365 администрирования
+## <a name="access-to-the-microsoft-365-admin-center"></a>Доступ к Центр администрирования Microsoft 365
 
-Центр администрирования Microsoft 365 является веб-порталом, на котором администратор службы каждой компании может управлять учетной записью и настройками пользователей для каждого службы Майкрософт, на который они подписаны. В центре администрирования Microsoft 365 администраторы могут следовать ссылкам на EAC, где они могут управлять настройками, определенными EOP.
+Это Центр администрирования Microsoft 365 веб-портал, на который администратор службы каждой компании может управлять учетной записью и настройками пользователей для каждого службы Майкрософт, на который они подписываются. В пределах Центр администрирования Microsoft 365 администраторы могут следовать ссылкам на EAC, где они могут управлять настройками, определенными для EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Доступ в Центр администрирования Exchange
 

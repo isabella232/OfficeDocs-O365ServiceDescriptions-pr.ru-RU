@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory службы
+title: Описание службы Azure Active Directory
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory является облачным решением Microsoft по управлению удостоверением и доступом, которое помогает вашим сотрудникам и гостевых пользователям войти в защищенные ресурсы и получить доступ к ним.
-ms.openlocfilehash: f637c202b4023584a88e9cb5688278309743efe2
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077540"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701618"
 ---
-# <a name="azure-active-directory-service-description"></a>Azure Active Directory службы
+# <a name="azure-active-directory-service-description"></a>Описание службы Azure Active Directory
 
 Azure Active Directory — это облачное решение Microsoft по управлению удостоверениями и доступом, которое помогает вашим сотрудникам и гостям войти в защищенные и доступные ресурсы, такие как приложения Майкрософт (например, Microsoft 365 и Azure), тысячи предварительно интегрированных популярных приложений SaaS (например, ServiceNow, Google apps), а также любые настраиваемые облачные или локально веб-приложения. Он предоставляет возможности безопасности, такие как проверка подлинности с одним входом, многофакторная проверка подлинности, условный доступ и управление жизненным циклом для защиты организаций от компрометации удостоверений.
 
@@ -30,15 +30,15 @@ Azure Active Directory функции постоянно развиваются 
 
 ## <a name="messaging"></a>Сообщения
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
 
 ## <a name="licensing-terms"></a>Условия лицензирования
 
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
 
 ## <a name="accessibility"></a>Специальные возможности
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
 ## <a name="learn-more"></a>Подробнее
 

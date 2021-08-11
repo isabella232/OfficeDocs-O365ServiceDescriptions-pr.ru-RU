@@ -9,26 +9,26 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям во всех Office 365 &amp; организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям &amp; в Office 365 для вашей организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
+ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537215"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701628"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Разработанный с учетом доступности и доступности, [центр безопасности Microsoft 365,](https://sip.security.microsoft.com/homepage) [Центр соответствия требованиям Microsoft 365](https://sip.compliance.microsoft.com/homepage)и [Exchange](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) администратора включают существующие функции и новые расширенные возможности для единой безопасности, соответствия требованиям и управления потоками почты в Microsoft 365 службах. Эти новые центры постепенно заменят центр Office 365 безопасности &amp; (protection.office.com). Теперь вы можете включить автоматическое [](https://sip.security.microsoft.com/homepage) перенаправление в центре безопасности или центре соответствия [требованиям,](https://sip.compliance.microsoft.com/homepage)поэтому администраторы в организации мгновенно перенаправляются с функций в центре соответствия требованиям безопасности Office 365 на соответствующие функции в новых &amp; центрах.
+Центр безопасности [Microsoft 365,](https://sip.security.microsoft.com/homepage)Центр соответствия требованиям [Microsoft 365](https://sip.compliance.microsoft.com/homepage)и центр администрирования [Exchange,](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) разработанные с учетом доступности и доступности, включают существующие функции и новые расширенные возможности для управления единой безопасностью, соответствием требованиям и потоком почты в службах Microsoft 365. Эти новые центры постепенно заменят Центр соответствия требованиям безопасности Office 365 &amp; (protection.office.com). Теперь вы можете включить автоматическое [](https://sip.security.microsoft.com/homepage) перенаправление в центре безопасности или центре соответствия [требованиям,](https://sip.compliance.microsoft.com/homepage)поэтому администраторы в организации мгновенно перенаправляются из функций Центра соответствия требованиям безопасности Office 365 в соответствующие функции в новых &amp; центрах.
 
-Чтобы увидеть варианты лицензирования пользователей, чтобы воспользоваться преимуществами Microsoft 365 соответствия требованиям, скачайте таблицу [Microsoft 365 Сравнение](https://go.microsoft.com/fwlink/?linkid=2139145).
+Чтобы узнать о вариантах лицензирования пользователей, чтобы воспользоваться функциями соответствия требованиям Microsoft 365, скачайте таблицу [сравнения Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Доступность &amp; Центра обеспечения соответствия требованиям безопасности для бизнес-планов и корпоративных планов
 
-| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 F3 правительства США|
+| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 правительства США | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
-|[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | Нет | Нет |Нет | Нет | Нет | Да | Да  |   |
+|[Безопасность облачных приложений Office 365](/cloud-app-security/what-is-cloud-app-security) | Нет | Нет |Нет | Нет | Нет | Да | Да  |   |
 |[Управление угрозами, такие как фильтрация почты и антивирусная программа](/microsoft-365/security/office-365-security/protect-against-threats) | Да | Да | Да | Да | Да | Да | Да | Да |
 |[Advanced threat management, such as threat explorer for phishing campaigns](/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | Нет | Нет |Нет | Нет | Нет | Да | Да | Нет |
 |[Защищенное хранилище пользователя](/microsoft-365/compliance/customer-lockbox-requests) | Нет | Нет | Нет | Нет | Нет | Да | Да  | Нет  |

@@ -8,20 +8,20 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex в Microsoft 365 использует расширенный искусственный интеллект (AI) и машинное обучение для усиления знаний человека, автоматизации обработки контента и преобразования контента в знания.
-ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653401"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702487"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Описание службы SharePoint Syntex 
 
 SharePoint Syntex в Microsoft 365 использует расширенный искусственный интеллект (AI) и машинное обучение для усиления знаний человека, автоматизации обработки контента и преобразования контента в знания.
 
-Syntex строится на SharePoint для предоставления возможностей премиум-класса для обработки контента с высоким объемом, извлечения метаданных для автоматизации процессов и повышения безопасности и соответствия требованиям. И он строится на сведении Microsoft Search, со ссылками на [соединители Microsoft Graph](/microsoftsearch/connectors-overview).
+Syntex строится на SharePoint для предоставления возможностей премиум-класса для обработки контента с высоким объемом, извлечения метаданных для автоматизации процессов и повышения безопасности и соответствия требованиям. И он строится на интеллекте Поиск (Майкрософт), со ссылками на [соединители Microsoft Graph](/microsoftsearch/connectors-overview).
 
-Подробный обзор и дополнительные сведения о продукте см. на странице [SharePoint Syntex.](https://aka.ms/sharepointsyntex)
+Подробный обзор и дополнительные сведения о продукте см. на странице [SharePoint Syntex продукта.](https://aka.ms/sharepointsyntex)
 
 ## <a name="available-plans"></a>Доступные планы
 
@@ -38,7 +38,7 @@ Syntex доступен с помощью нескольких планов по
 | ------------------------------- | ------------------------ | ------------------- |
 | Microsoft 365 бизнес базовый    | Office 365 E1            | Office 365 A1       |
 | Microsoft 365 бизнес стандарт | Office 365 E3            | Office 365 A3       |
-| Подписка на Microsoft 365 бизнес премиум  | Office 365 E5            | Office 365 A5       |
+| Microsoft 365 бизнес премиум  | Office 365 E5            | Office 365 A5       |
 |                                 | Office 365 F3            |                     |
 |                                 | Microsoft 365 F1         |                     |
 |                                 | Microsoft 365 F3         |                     |
@@ -50,9 +50,9 @@ Syntex доступен с помощью нескольких планов по
 
 ## <a name="feature-availability"></a>Доступность функций
 
-В следующей таблице перечислены основные функции Syntex, доступные в планах. Применяются определенные оговорки. Эта таблица может измениться без уведомления. Полный список функций см. на странице SharePoint [Syntex.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
+В следующей таблице перечислены основные функции Syntex, доступные в планах. Применяются определенные ограничения. Эта таблица может измениться без уведомления. Полный список функций см. в SharePoint Syntex планах и [ценах.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
-| Возможность | Планы малого бизнеса | Enterprise планы | Планы образования |
+| Функция | Планы малого бизнеса | Enterprise планы | Планы образования |
 |--|--|--|--|
 | [Центр контента Syntex](sharepoint-syntex-features.md#syntex-content-center) | Да | Да | Да |
 | [Распознавание объектов](sharepoint-syntex-features.md#object-recognition) | Да | Да | Да |
@@ -65,22 +65,22 @@ Syntex доступен с помощью нескольких планов по
 
 Дополнительные сведения о Syntex можно получить в следующих ресурсах:
 
-  - Чтобы приступить к планированию развертывания Syntex, посетите страницу SharePoint [Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) в Центре ресурсов Microsoft Tech Community.
+  - Чтобы приступить к планированию развертывания Syntex, [SharePoint Syntex страницу](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) в центре ресурсов Microsoft Tech Community.
 
-  - Дополнительные информацию о Syntex и ее использовании см. в документации по продуктам [SharePoint Syntex.](/microsoft-365/contentunderstanding/)
+  - Дополнительные информацию о Syntex и ее использовании см. в SharePoint Syntex [документации по продуктам.](/microsoft-365/contentunderstanding/)
 
   - Чтобы оставаться в курсе возможностей и возможностей Syntex, посетите [наш Microsoft 365 блог](https://go.microsoft.com/fwlink/?linkid=2084915).
 
 ### <a name="licensing-terms"></a>Условия лицензирования
 
-Syntex доступен в качестве надстройки на основе пользователя для Microsoft 365 планов. Чтобы зарегистрироваться для бесплатной пробной или приобрести Syntex, посетите страницу продукта [SharePoint Syntex.](https://aka.ms/sharepointsyntex)
+Syntex доступен в качестве надстройки на основе пользователя для Microsoft 365 планов. Чтобы зарегистрироваться для бесплатной пробной или приобрести Syntex, посетите страницу SharePoint Syntex [продукта](https://aka.ms/sharepointsyntex).
 
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Сообщения
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите [Центр сообщений.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите [Центр сообщений.](https://go.microsoft.com/fwlink/p/?linkid=2070717) Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Специальные возможности
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

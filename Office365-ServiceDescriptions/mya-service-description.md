@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Функции, дистрибуции, конфиденциальность и необходимые условия для MyAnalytics
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652603"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663092"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
 
@@ -42,7 +42,7 @@ MyAnalytics состоит из следующих элементов:
 Придерживаясь следующих рекомендаций, MyAnalytics защищает конфиденциальность сотрудников и поддерживает соблюдение местных правил:
 
 * Служба MyAnalytics не предназначена для оценки сотрудников, отслеживания, автоматического принятия решений, профилирования или мониторинга.
-* MyAnalytics не дает сотрудникам доступ к новым лично идентифицируемым сведениям о других сотрудниках.
+* MyAnalytics не предоставляет сотрудникам доступ к новым персональным данным других сотрудников.
 * Данные MyAnalytics обрабатываются и хранятся в почтовом ящике сотрудника Exchange Online.
 * MyAnalytics поддерживает соблюдение Общих правил защиты данных (GDPR).
 * MyAnalytics можно настроить таким образом, чтобы пользователи подключались сами.
@@ -53,6 +53,6 @@ MyAnalytics состоит из следующих элементов:
 
 [Дополнительные данные о том, как MyAnalytics может помочь вам работать умнее.](https://products.office.com/business/myanalytics-personal-analytics)
 
-## <a name="prerequisites"></a>Предварительные требования
+## <a name="prerequisites"></a>Необходимые компоненты
 
 * [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

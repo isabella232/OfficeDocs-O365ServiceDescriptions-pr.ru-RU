@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье Центр управления безопасностью (Майкрософт).
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652533"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701838"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 

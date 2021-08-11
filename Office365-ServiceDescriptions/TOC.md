@@ -96,6 +96,7 @@
 ## [Описание службы Visio в Интернете](visio-online-service-description/visio-online-service-description.md)
 ### [Описание возможностей Visio](visio-online-service-description/visio-features.md)
 ## [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
+### [Ограничения в Yammer](yammer-service-description/yammer-limits.md)
 ### [Функции работы с группами в Yammer](yammer-service-description/group-features-in-yammer.md)
 ### [Функции профилей в Yammer](yammer-service-description/profile-features-in-yammer.md)
 ### [Возможности по использованию сообщений и бесед в Yammer](yammer-service-description/message-and-conversation-features-in-yammer.md)

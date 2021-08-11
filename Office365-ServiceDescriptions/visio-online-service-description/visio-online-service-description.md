@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Сравните возможности Visio веб-сайта с Visio настольным приложением.
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095563"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702428"
 ---
 # <a name="visio-service-description"></a>Visio службы
 
@@ -29,7 +29,7 @@ ms.locfileid: "53095563"
   
 ## <a name="feature-availability"></a>Доступность функций
 
-В следующей таблице перечислены основные Visio, доступные в веб-и настольных приложениях. Применяются определенные оговорки. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций Visio по планам см. в Visio [Compare Visio.](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+В следующей таблице перечислены основные Visio, доступные в веб-и настольных приложениях. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций Visio по планам см. в Visio [Compare Visio.](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
 
 | Функция приложения | Visio в Интернете | Visio настольного приложения |
 |:-----|:-----|:-----|
@@ -84,12 +84,12 @@ ms.locfileid: "53095563"
 
 ### <a name="licensing-terms"></a>Условия лицензирования
 
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Сообщения
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Специальные возможности
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

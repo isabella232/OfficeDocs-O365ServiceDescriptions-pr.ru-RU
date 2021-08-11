@@ -12,106 +12,81 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Узнайте, какие функции доступны в различных Yammer планах.
-ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d958904838db6374a607bd3f68e42e8969d73f01f6f9656060c56621fbc903a
+ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653511"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57823642"
 ---
 # <a name="yammer-service-description"></a>Описание службы Yammer
 
-Yammer — это лучшая в своем классе безопасная и частная корпоративная социальная сеть. Yammer позволяет сотрудникам повысить производительность, позволяя им легко работать вместе, быстрее принимать решения, а также самостоятельно организовать группы для решения любой бизнес-задачи. Это новый способ взаимодействия, который улучшает согласованность и гибкость компании, сокращает время рабочих циклов, повышает удовлетворенность сотрудников и улучшает отношения с клиентами и партнерами.
+Привлечение людей является как никогда важным. Yammer объединяет лидеров, коммуникаторов и сотрудников для создания сообществ, обмена знаниями и вовлечения всех. Yammer помогает подключаться к организации и взаимодействовать с ней, чтобы вы могли обсуждать идеи, обмениваться обновлениями и общаться с другими.
   
-Список планов, которые включают Yammer, см. в [списке семей](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)и планов служб Майкрософт.
+## <a name="available-plans"></a>Доступные планы
   
-Подробные сведения о планах подписки, которые позволяют пользователям Yammer, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Полный список планов, которые включают сведения о планах по подпискам, которые позволяют пользователям Yammer, см. в таблице полного сравнения [подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
+## <a name="feature-availability"></a>Доступность функций
+
+В следующей таблице перечислены основные доступные Yammer функции. Эта таблица может изменяться без уведомления (применяются определенные оговорки).
+
+| Функция  | Для малого бизнеса | Корпоративный | Для образования |
+|---------|---------|---------|---------|
+|[Yammer каналов](https://support.microsoft.com/office/what-s-in-the-yammer-home-and-discovery-feeds-faaadbe1-4e57-4f17-89f1-e546509fba47) | Да     | Да     | Да     |
+|[Сообщества](https://support.microsoft.com/office/manage-communities-33f252f7-6241-40e1-8f42-ce1b635176fb) | Да     | Да     | Да     |
+|[Community Аналитика](https://support.microsoft.com/office/view-community-insights-in-yammer-48bc648e-b567-49d7-b2b5-5fea23777c46) | Да     | Да     | Да     |
+|[Обсуждения, опросы, Благодарность, объявления и вопросы](https://support.microsoft.com/office/create-polls-praise-announcements-and-questions-in-yammer-4b30c7e0-f915-4c69-9582-ccbbd09a516b) | Да     | Да     | Да     |
+|[Разделы и хэштеги](https://support.microsoft.com/office/use-topics-and-hashtags-in-yammer-98c0a0bb-aad0-45d3-88f1-4f6d12bb1772) | Да     | Да     | Да     |
+|[Пометить лучший ответ на вопросы](https://support.microsoft.com/office/use-questions-and-answers-in-a-yammer-community-a4f1b722-d1bf-42be-a592-7288c7c0b895) | Да     | Да     | Да     |
+|[Файлы](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-8d2d17f7-8f37-4535-961e-518d751be7e8) | Да     | Да     | Да     |
+|[Прямые трансляции](https://support.microsoft.com/office/organize-a-live-event-in-yammer-8853cbd0-d3e2-4888-b8c3-6f3df288dec9) | Да     | Да     | Да     |
+|["Входящие"](https://support.microsoft.com/office/manage-your-yammer-inbox-f1656c47-7043-40f5-970c-3e66ed7a70f1) | Да     | Да     | Да     |
+|[Внешние сетевые & гости](/yammer/work-with-external-users/collaborate-guests-external-yammer-community) | Да     | Да     | Да     |
+|[Yammer платформа](https://developer.microsoft.com/yammer) | Да     | Да     | Да     |
+|[Функции администрирования](/yammer/) | Да     | Да     | Да     |
+
+## <a name="messaging"></a>Сообщения
+
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
+
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer корпоративных служб связи
+
+Yammer придерживается политики [управления Microsoft 365](https://aka.ms/ManageChange)изменений, но использует целевой выпуск для Microsoft 365 обновлений. Yammer могут подвергаться тестированию или полету функций A/B. Это позволяет Корпорации Майкрософт протестировать функции для обеспечения стабильности, производительности и улучшения работы во многих средах и устройствах. В связи с тестированием пользователи одной сети могут иметь доступ к разным возможностям. Пользователи не могут отказаться от A/B-тестирования.
+
+## <a name="licensing-terms"></a>Условия лицензирования
+
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
+
+## <a name="accessibility"></a>Специальные возможности
+
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+
+## <a name="learn-more"></a>Дополнительные сведения
+
+Дополнительные сведения о Yammer, ознакомьтесь со следующими ресурсами:
+
+- [Ограничения в Yammer](/office365/servicedescriptions/yammer-service-description/yammer-limits)
+- [Yammer Принятие](https://adoption.microsoft.com/yammer/)
+- [Yammer помогают & - Поддержка Майкрософт](https://support.microsoft.com/yammer)
+- [Yammer видео - Office поддержка (microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
+- [Yammer Блог (microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
+
 ## <a name="system-requirements"></a>Требования к системе
 
-Для системных Office 365, ежемесячной службы на основе подписки, доступной для бизнеса, образования и государственных организаций, см. в Microsoft 365 [и Office Resources.](https://products.office.com/office-system-requirements/#Office365forBEG)
-  
-## <a name="yammer-plans"></a>Планы Yammer
+Для системных Office 365, ежемесячной службы на основе подписки, доступной для бизнеса, образования и государственных организаций, см. в Microsoft 365 и [Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
 
-Служба Yammer доступна через следующие планы:<br><br>
-  
-| План | Описание |
-|:-----|:-----|
-|[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Корпоративная социальная сеть в любое время и в любом месте.  <br/> |
-|[Yammer корпоративный](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise социальных сетей с расширенными службами безопасности, администрирования и интеграции.  <br/> |
-   
-> [!NOTE]
-> Функции и политики, описанные в описании [Microsoft 365 и Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) платформы, не применяются к Yammer службе. 
-  
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer корпоративных служб связи
-<a name="YammerCommsPolicy"> </a>
+## <a name="supported-clients-and-integrations"></a>Поддерживаемые клиенты и интеграции
 
-Yammer придерживается политики [Microsoft 365](https://aka.ms/ManageChange)управления изменениями, но не использует целевой выпуск для выпуска обновлений. 
-  
-Все пользователи Yammer участвуют в A/B-тестировании функций. Это позволяет Корпорации Майкрософт протестировать функции для обеспечения стабильности, производительности и улучшения работы во многих средах и устройствах. В связи с тестированием пользователи одной сети могут иметь доступ к разным возможностям. Пользователи не могут отказаться от A/B-тестирования.
-  
-Обо всех изменениях (A/B-тестах, новых функциях, прекращении поддержки, нормативных ограничениях, изменениях рабочего процесса), которые требуют действий со стороны пользователей или могут существенно на них повлиять, сообщается заранее. Мы обнаружили сценарий, при котором Yammer вносит изменение, влияющее на ограниченное подмножество пользователей. В качестве примера можно привести изменение или удаление возможности, например расширения Yammer в Chrome, которая мало задействована, но которую включило небольшое количество пользователей. Мы считаем, что в таких случаях помимо использования обычных каналов связи с проверенными администраторами, перечисленных в политике выше, следует напрямую обращаться к указанным пользователям, чтобы обеспечить удобство работы для подмножества пользователей, затронутых изменением. В случае изменений, относящихся к категории "Изменения, требующие действий (план изменения)" или "Изменения, требующие информирования (оставайтесь в курсе)", которые затрагивают только определенное множество пользователей, мы можем напрямую уведомить таких пользователей. В приведенной ниже таблице учтено это изменение. 
-  
-Каналы, используемые для связи, зависят от характера изменений:<br><br>
-  
-| Тип изменения | Канал оповещения |
-|:-----|:-----|
-|**Изменения, требующие действий (план изменений)** <br/>Администратор, необходимый для внесения изменений для обеспечения работы службы, обновлений, которые могут повлиять на соответствие требованиям организации  <br/> |- Office 365 сообщения центра сообщений напрямую Yammer проверенным администраторам <br/>- Microsoft 365 дорожная карта<br/>- Yammer обновлений службы<br/>- Внешняя группа<br/>Если изменения затрагивают определенное множество пользователей, мы можем также напрямую их уведомить. |
-|**Изменения, требующие осведомленности (оставайтесь в курсе)**<br/>Изменения, которые не требуют действий администратора, изменения визуального дизайна  <br/> |- Office 365 Центр сообщений<br/>- Microsoft 365 дорожная карта<br/>- Yammer обновлений службы<br/>- Внешняя группа<br/>Если изменения затрагивают определенное множество пользователей, мы можем также напрямую их уведомить. |
-|**Некритичным** <br/>Изменения, которые не являются критическими и не требуют действий или осведомленности, даже если они могут наблюдаться некоторыми пользователями  <br/> |Нет массовой рассылки. |
-   
-## <a name="feature-availability-across-yammer-plans"></a>Доступность функций в планах Yammer
+На сегодняшний день обычно доступны следующие ниже.
 
-Нужна помощь, чтобы определить, какой план Yammer наилучшим образом отвечает требованиям вашей организации? Используйте следующую таблицу, чтобы изучить функции, доступные в каждом плане. Выберите имя функции, чтобы прочитать краткое описание работы этой функции в Yammer.<br><br>
-  
-| Возможность | Yammer Basic | Yammer Enterprise |
-|:-----|:-----|:-----|
-|[Группы](group-features-in-yammer.md#groups) <br/> | Да  <br/> |Да  <br/> |
-|[Связанные группы](group-features-in-yammer.md#related-groups) <br/> |Да  <br/> |Да  <br/> |
-|[Объявления](group-features-in-yammer.md#announcements) <br/> |Нет  <br/> |Да  <br/> |
-|[Профили пользователей](profile-features-in-yammer.md#user-profiles) <br/> |Да  <br/> |Да  <br/> |
-|[Навыки](profile-features-in-yammer.md#expertise) <br/> |Да  <br/> |Да  <br/> |
-|[Каталог членов](profile-features-in-yammer.md#member-directory) <br/> |Да  <br/> |Да  <br/> |
-|[Диаграмма Org](profile-features-in-yammer.md#org-chart) <br/> |Да  <br/> |Да  <br/> |
-|[Благодарность](profile-features-in-yammer.md#praise) <br/> |Да  <br/> |Да  <br/> |
-|[Списки лидеров](profile-features-in-yammer.md#leaderboards) <br/> |Да  <br/> |Да  <br/> |
-|[Издатель](message-and-conversation-features-in-yammer.md#publisher) <br/> |Да  <br/> |Да  <br/> |
-|[@Упоминание](message-and-conversation-features-in-yammer.md#section) <br/> |Да  <br/> |Да  <br/> |
-|[Online now](message-and-conversation-features-in-yammer.md#online-now) <br/> |Да  <br/> |Да  <br/> |
-|[Частные сообщения](message-and-conversation-features-in-yammer.md#private-messages) <br/> |Да  <br/> |Да  <br/> |
-|[Совместное общение](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |Да  <br/> |Да  <br/> |
-|[События](message-and-conversation-features-in-yammer.md#events) <br/> |Да  <br/> |Да  <br/> |
-|[Опросы](message-and-conversation-features-in-yammer.md#polls) <br/> |Да  <br/> |Да  <br/> |
-|[Файлы](document-collaboration-features-in-yammer.md#files) <br/> |Да  <br/> |Да  <br/> |
-|[Недавние изменения](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Да  <br/> |Да  <br/> |
-|[Официальный контент](document-collaboration-features-in-yammer.md#official-content) <br/> |Нет  <br/> |Да  <br/> |
-|["Входящие"](inbox-features-in-yammer.md#inbox) <br/> |Да  <br/> |Да  <br/> |
-|[Поиск входящие](inbox-features-in-yammer.md#inbox-search) <br/> |Да  <br/> |Да  <br/> |
-|[Веб-каналы](discovery-features-in-yammer.md#feeds) <br/> |Да  <br/> |Да  <br/> |
-|[Бегущая строка](discovery-features-in-yammer.md#ticker) <br/> |Да  <br/> |Да  <br/> |
-|[Темы](discovery-features-in-yammer.md#topics) <br/> |Да  <br/> |Да  <br/> |
-|[Универсальный поиск](discovery-features-in-yammer.md#universal-search) <br/> |Нет  <br/> |Да  <br/> |
-|[Мгновенный тип вперед](discovery-features-in-yammer.md#instant-type-ahead) <br/> |Да  <br/> |Да  <br/> |
-|[Внешние сети](external-network-features-in-yammer.md#external-networks) <br/> |Да  <br/> |Да  <br/> |
-|[Быстрое переключение сети](external-network-features-in-yammer.md#fast-network-switching) <br/> |Да  <br/> |Да  <br/> |
-|[Yammer подключения входа](yammer-platform-features.md#yammer-connect-login) <br/> |Да  <br/> |Да  <br/> |
-|[Встраимываемые каналы](yammer-platform-features.md#embeddable-feeds) <br/> |Да  <br/> |Да  <br/> |
-|[Like and Follow buttons](yammer-platform-features.md#like-and-follow-buttons) <br/> |Да  <br/> |Да  <br/> |
-|[Расширение браузера](yammer-platform-features.md#browser-extension) <br/> |Да  <br/> |Да  <br/> |
-|[API потока активности](yammer-platform-features.md#activity-stream-api) <br/> |Да  <br/> |Да  <br/> |
-|[Настраиваемый сетевой брендинг](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |Нет  <br/> |Да  <br/> |
-|[Управление пользователями](administration-and-security-features-in-yammer.md#user-management) <br/> |Нет  <br/> |Да  <br/> |
-|[Единое удостоверение](administration-and-security-features-in-yammer.md#single-identity) <br/> |Да  <br/> |Да  <br/> |
-|[Синхронизация каталогов](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |Нет  <br/> |Да  <br/> |
-|[Экспорт данных](administration-and-security-features-in-yammer.md#data-export) <br/> |Нет  <br/> |Да  <br/> |
-|[Мониторинг ключевых слов](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |Нет  <br/> |Да  <br/> |
-|[Аналитика](administration-and-security-features-in-yammer.md#analytics) <br/> |Нет  <br/> |Да  <br/> |
-|[Ресурсы организации](administration-and-security-features-in-yammer.md#organization-resources) <br/> |Да  <br/> |Да  <br/> |
-|[Политики паролей](administration-and-security-features-in-yammer.md#password-policies) <br/> |Нет  <br/> |Да  <br/> |
-|[Управление сеансами](administration-and-security-features-in-yammer.md#session-management) <br/> |Нет  <br/> |Да  <br/> |
-|[Логический брандмауэр](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |Нет  <br/> |Да  <br/> |
-|[Политика использования](administration-and-security-features-in-yammer.md#usage-policy) <br/> |Нет  <br/> |Да  <br/> |
-|[Центр FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |Нет  <br/> |Да  <br/> |
-|[Служба поддержки клиентов](support-features-in-yammer.md#customer-support) <br/> |Да  <br/> |Да  <br/> |
-|[Поддержка администраторов](support-features-in-yammer.md#administrator-support) <br/> |Нет  <br/> |Да  <br/> |
-|[Режим частного контента администратора](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |Нет  <br/> |Да  <br/> |
+- [Новые Yammer](https://support.microsoft.com/office/welcome-to-new-yammer-8c749c30-2d17-4153-a3cc-37a70f254681)
+- [Классический Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
+- [Приложение Communities для](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) Microsoft Teams
+- Новое Yammer [настольное приложение](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
+- [SharePoint Основные моменты и веб-части Беседы](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
+- [Yammer Встраить (новые и классические Yammer)](https://developer.yammer.com/docs/new-embed-feed)
+- [Интерактивные электронные сообщения в Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
+- [Yammer приложения на iPhone, iPad и Android](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
+
+31 июля 2021 Yammer классическое приложение для настольных компьютеров будет обесценилось.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 'Microsoft Office 365: предлагает вам как авторизованному партнеру корпорации Майкрософт возможность увеличения клиентской базы и создания долгосрочных отношений с клиентами. За ежемесячную или ежегодную плату, выплачиваемую вам, ваши клиенты смогут использовать облачные службы, в результате чего им не придется отвечать за резервное копирование данных, серверное оборудование и обновление серверов. Доступность служб зависит от типа услуг, которые вы уполномочены предоставлять.'
-ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4a46a7b49573520574d904bb4891f4091b12e6b7810a345c3aa7227be4907c57
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653431"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701858"
 ---
 # <a name="partners"></a>Партнеры
 

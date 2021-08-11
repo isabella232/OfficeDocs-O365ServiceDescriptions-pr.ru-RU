@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: В настоящее время для Exchange Online Protection существуют следующие ограничения. Эти ограничения не настраиваются, если не указано иное.
-ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f573f73bf69944ecb400347978140e45a4c8700f74ac214572228ae83fc3c7fb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653060"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664501"
 ---
 # <a name="exchange-online-protection-limits"></a>Ограничения Exchange Online Protection
 
@@ -48,7 +48,7 @@ ms.locfileid: "51653060"
     
 ### <a name="limits-across-eop-options"></a>Ограничения на параметры EOP
 
-| Возможность | Отдельный выпуск EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами |
+| Функция | Отдельный выпуск EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами |
 |:-----|:-----|:-----|:-----|
 |Ограничения домена  <br/> |900  <br/> |900  <br/> |900  <br/> |
 |Ограничение удаленного домена  <br/> |200  <br/> |200  <br/> |200  <br/> |

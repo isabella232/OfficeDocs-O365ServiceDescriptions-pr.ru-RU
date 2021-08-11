@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online предоставляет широкую поддержку хранения и восстановления инфраструктуры электронной почты организации. Сюда входят репликация почтовых ящиков в центрах обработки данных и возможность восстановления удаленных почтовых ящиков и элементов.
-ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaeb8f7d17cfa08d3f7a0883d918e0049956fdb6a1dfc4a5bcf15ed5011190fa
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653341"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663932"
 ---
 # <a name="high-availability-and-business-continuity"></a>Высокая доступность и непрерывность бизнес-процессов
 
@@ -31,7 +31,7 @@ Microsoft Exchange Online предоставляет широкую поддер
   
 ## <a name="deleted-mailbox-recovery"></a>Восстановление удаленного почтового ящика
 
-Администраторы могут удалять Exchange Online почтовые ящики с помощью центра администрирования Microsoft 365 для удаления соответствующей учетной записи пользователя или удаления лицензии Exchange Online или с помощью cmdlet **Remove-Mailbox** в удаленных Windows PowerShell. При удалении почтового ящика Exchange Online по умолчанию хранит его и его содержимое в течение 30 дней. Через 30 дней почтовый ящик не подлежит восстановлению. Восстановленный почтовый ящик содержит все данные, которые хранились в нем на момент удаления. Администраторы могут восстановить удаленный почтовый ящик в течение периода хранения с помощью Microsoft 365 центра администрирования. Чтобы восстановить удаленный почтовый ящик, администраторам необходимо восстановить соответствующую учетную запись пользователя или Exchange Online лицензию на учетную запись пользователя. Дополнительные сведения см. в статье [Delete or Restore User Mailboxes in Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Администраторы могут удалять Exchange Online почтовые ящики с помощью Центр администрирования Microsoft 365 для удаления соответствующей учетной записи пользователя или удаления лицензии Exchange Online или с помощью cmdlet **Remove-Mailbox** в удаленных Windows PowerShell. При удалении почтового ящика Exchange Online по умолчанию хранит его и его содержимое в течение 30 дней. Через 30 дней почтовый ящик не подлежит восстановлению. Восстановленный почтовый ящик содержит все данные, которые хранились в нем на момент удаления. Администраторы могут восстановить удаленный почтовый ящик в течение периода хранения с помощью Центр администрирования Microsoft 365. Чтобы восстановить удаленный почтовый ящик, администраторам необходимо восстановить соответствующую учетную запись пользователя или Exchange Online лицензию на учетную запись пользователя. Дополнительные сведения см. в статье [Delete or Restore User Mailboxes in Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Восстановление удаленных элементов
 

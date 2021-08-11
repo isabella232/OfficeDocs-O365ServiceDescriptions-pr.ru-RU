@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Ознакомьтесь с этой статьей, чтобы ознакомиться с политикой обмена сообщениями и функциями соответствия требованиям в Microsoft Exchange Online Защиты (EOP).
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653351"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664112"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Политика обмена сообщениями и соответствие требованиям в Exchange Online Protection
 
@@ -51,7 +51,7 @@ Microsoft Exchange Online Защита (EOP) предоставляет поли
 
 - Обнаруживать конфиденциальные данные с помощью отпечатков документов. Дактилоскопия документов позволяет легко создавать настраиваемые типы конфиденциальных сведений на основе текстовых форм, которые можно использовать для определения правил потока почты и политик DLP.
 
-- Добавьте политики Советы, которые помогут снизить потерю данных, отобразив уведомление в Outlook 2013 г., Outlook в Интернете и OWA для пользователей устройств, а также могут повысить эффективность политик, разрешив ложные сообщения.
+- Добавьте Советы политики, которая поможет снизить потерю данных, отобразив уведомление пользователям Outlook 2013, Outlook в Интернете и OWA для устройств, а также повысить эффективность политик, разрешив ложные сообщения.
 
 - Просматривать данные об инциденте в отчетах защиты от потери данных или добавлять собственные специальные отчеты с помощью действия для создания отчета об инциденте.
 
@@ -66,7 +66,7 @@ Microsoft Exchange Online Защита (EOP) предоставляет поли
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 
-| Возможность | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
+| Функция | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
 |:-----|:-----|:-----|:-----|
 |Правила потока обработки почты|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1, 3</sup>|
 |Ведение журнала аудита|Да<sup>2</sup>|Да|Да|

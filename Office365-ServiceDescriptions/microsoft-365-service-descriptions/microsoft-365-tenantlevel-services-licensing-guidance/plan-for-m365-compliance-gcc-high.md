@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Это руководство для ИТ-специалистов, которые являются движущей силой развертывания Office 365 в субъектах федерального правительства США или других субъектах, которые обрабатывают данные, подавляющие правительственные правила и требования, в которых использование Microsoft 365 government — GCC High подходит для удовлетворения этих требований.
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001915"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663292"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Планирование соответствия требованиям Microsoft 365 - GCC High
 
@@ -56,11 +56,11 @@ The Microsoft 365 - GCC high environment complies with US Government requirement
 
 **Пункт решения.** Решите, измените ли вы любое из параметров Microsoft 365 по умолчанию GCC-High безопасности, разрешив сначала понять влияние любых изменений, которые вы *можете внести.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Этап 4. Понять, какие возможности в настоящее время недоступны или отключены по умолчанию в Microsoft 365 - GCC-High<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Этап 4. Понять, какие возможности в настоящее время недоступны или отключены по умолчанию в Microsoft 365 - GCC-High<sup>1</sup>
 
 Для удовлетворения требований наших государственных облачных клиентов существуют некоторые различия между государственными Microsoft 365 — GCC-High и корпоративными планами. Обратитесь к следующей таблице, чтобы узнать, какие функции доступны. Последние [обновления](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) продуктов соответствия требованиям, опубликованные в Microsoft 365 дорожной карте.<br><br>
 
-| Область | Возможность | GCC Высокий статус |
+| Область | Функция | GCC Высокий статус |
 |------|---------|-----------------|
 | **Защита информации** | Клиент и сканер единой маркировки | Available |
 | | Точное соответствие данным | Available |
@@ -109,8 +109,8 @@ The Microsoft 365 - GCC high environment complies with US Government requirement
 | Управление записями | Сохранение и автометка облачных вложений | На неополненном техническом отставание |
 | Управление записями | Версия записей | Available |
 | Управление записями | Нормативные записи | Available |
-| Управление записями | Классификация SharePoint Syntex используется для применения меток записи | На неополненном техническом отставание |
-| **Управление рисками изнутри** | Защищенное хранилище | Available |
+| Управление записями | Использование SharePoint Syntex классификации для применения меток записи | На неополненном техническом отставание |
+| **Управление внутренними рисками** | Защищенное хранилище | Available |
 | Соответствие требованиям к обмену данными | Возможность игнорировать подпись электронной почты или отказ от ответственности | В разработке |
 | Соответствие требованиям к обмену данными | Возможность установить период хранения для политики соответствия требованиям к связи | В разработке |
 | Соответствие требованиям к обмену данными | Оповещений о доступе; шаблоны уведомлений; Панель мониторинга политики связи | Available |

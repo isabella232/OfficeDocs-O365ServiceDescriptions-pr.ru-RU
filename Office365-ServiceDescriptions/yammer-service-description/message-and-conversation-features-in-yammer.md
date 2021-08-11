@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: В Yammer доступны следующие возможности по использованию сообщений и бесед.
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653601"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702198"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Возможности по использованию сообщений и бесед в Yammer
 
@@ -31,9 +31,9 @@ ms.locfileid: "51653601"
 
 Организуйте собрания и события, делитесь ими с коллегами и отслеживайте посещаемость. События можно добавить в календари Outlook, Google, Yahoo!и iCal.
   
-## <a name="office-for-the-web-support"></a>Office для веб-поддержки
+## <a name="office-for-the-web-support"></a>Office для Интернета поддержки
 
-С Office веб-поддержки в Yammer, документы, загруженные в Yammer, можно просматривать и изменять с помощью Office веб-страницы, непосредственно в Yammer. Это позволяет красиво отрисовки документов с Office веб-сайта, одновременное совместное авторство различных пользователей и отображает соответствующие Yammer беседы прямо в браузере.
+С Office для Интернета в Yammer, документы, загруженные в Yammer, можно просматривать и изменять с помощью Office для Интернета, непосредственно в Yammer. Это позволяет красиво отрисовки документов с помощью Office для Интернета, одновременное совместное авторство различных пользователей и отображает соответствующие Yammer беседы прямо в браузере.
 
 ## <a name="online-now"></a>Online now
 

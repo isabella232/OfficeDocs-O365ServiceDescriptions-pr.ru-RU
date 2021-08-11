@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Ознакомьтесь с этой статьей, чтобы узнать Microsoft Exchange Online архива.
-ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 2d37cc6c7cd4f75ae9a4ffb3da994e5b942f294d2d12fde869910d5506c69738
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653081"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664582"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -44,7 +44,7 @@ Microsoft Exchange Online Архивная система — это Microsoft 3
 |:-----|:-----|
 |**Архивация на базе Exchange Online для Exchange Server** <br/> |Облачный архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней).  <br/> Если вы хотите добавить облачный архив в основной почтовый ящик, расположенный на локальном Exchange сервере, необходимо настроить гибридное развертывание. Дополнительные сведения о гибридных развертываниях [см. в Exchange Server гибридных развертываниях.](/exchange/exchange-hybrid)  <br/> |
 |**Архивация на базе Exchange Online для Exchange Server (с помощью Enterprise CAL Suite)** <br/> |Облачный архив для пользователей с основными почтовыми ящиками в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange 2010 (SP2 или более поздней). Подробные сведения [см. в материале Client Access Licenses and Management Licenses.](https://www.microsoft.com/licensing/product-licensing/client-access-license)  <br/> |
-|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2:</sup><br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Microsoft 365 бизнес базовый  <br/>  Microsoft 365 бизнес стандарт  <br/>  Office 365 корпоративный E1  <br/>  Office 365 корпоративный F3  <br/> Microsoft 365 корпоративный F3<br/> <b>Примечание:</b> В следующих планах уже содержится архивная и не Exchange Online Archiving в качестве надстройки:<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Подписка на Microsoft 365 бизнес премиум <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Подробные сведения о возможностях архива Exchange Online почтовых ящиков см. в [Exchange Online Archiving.](./archive-features.md)           |
+|**Архивация на базе Exchange Online для Exchange Online** <br/> | Облачный архив и удержание на месте в качестве надстройки для следующих планов<sup>1, 2:</sup><br/>  Exchange Online (план 1)  <br/>  Базовая подписка на Exchange Online  <br/>  Microsoft 365 бизнес базовый  <br/>  Microsoft 365 бизнес стандарт  <br/>  Office 365 корпоративный E1  <br/>  Office 365 корпоративный F3  <br/> Microsoft 365 корпоративный F3<br/> <b>Примечание:</b> В следующих планах уже содержится архивная и не Exchange Online Archiving в качестве надстройки:<br/>Office 365 для образования A1 <br/>Office 365 для образовательных заведений A3 <br/>  Office 365 для образования A5 <br/>  Office 365 корпоративный E3 <br/>  Office 365 корпоративный E5 <br/>  Exchange Online (план 2) <br/> Microsoft 365 бизнес премиум <br/>Microsoft 365 корпоративный E3 <br/> Microsoft 365 корпоративный E5 <br/>Подробные сведения о возможностях архива Exchange Online почтовых ящиков см. в [Exchange Online Archiving.](./archive-features.md)           |
    
 >[!NOTE]
 ><sup>1</sup> Гибридное развертывание не требуется для облачных организаций, почтовые ящики которых не хранятся на локальном сервере Exchange Server. Однако если у вас есть локальные почтовые ящики, гибридное развертывание необходимо.
@@ -53,7 +53,7 @@ Microsoft Exchange Online Архивная система — это Microsoft 3
   
 Ищете сведения обо всех Microsoft 365 планах? Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Сведения о различных планах, включая автономные параметры плана и сведения о переходе из одного плана в другой см. в Office 365 [параметры плана.](../office-365-platform-service-description/office-365-plan-options.md)
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Требования
 
 Чтобы использовать Exchange Online Archiving для Exchange Server, почтовые ящики пользователей должны находиться в Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 или Exchange Server 2010 (SP2 или более поздней).
   
@@ -67,7 +67,7 @@ Microsoft Exchange Online Архивная система — это Microsoft 3
   
 ## <a name="unlimited-archive-storage-quota"></a>Неограниченная квота на хранение архивов
 
- Функция неограниченной архивации (называемая *архивацией с автоматическим расширением*) позволяет получить дополнительное место для хранения в архивных почтовых ящиках. Каждый подписчик Exchange Online Archiving изначально получает хранилище объемом 100 ГБ в архивном почтовом ящике. При автоматическом расширении архивирования автоматически добавляется дополнительное пространство для хранения, когда достигается емкость хранилища в 100 ГБ. В Exchange гибридных развертываниях автоматическое расширение архивации поддерживается только для облачных архивных почтовых ящиков, когда почтовый ящик локального пользователя находится в Exchange Server 2019, Exchange Server 2016 г. или Exchange Server 2013 г. (SP1 или более поздней). Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации](/office365/securitycompliance/unlimited-archiving).
+ Функция неограниченной архивации (называемая *архивацией с автоматическим расширением*) позволяет получить дополнительное место для хранения в архивных почтовых ящиках. Каждый подписчик Exchange Online Archiving изначально получает хранилище объемом 100 ГБ в архивном почтовом ящике. При автоматическом расширении архивирования автоматически добавляется дополнительное пространство для хранения, когда достигается емкость хранилища в 100 ГБ. В Exchange гибридных развертываниях автоматическое расширение архивации поддерживается только для облачных архивных почтовых ящиков, когда почтовый ящик локального пользователя находится в Exchange Server 2019, Exchange Server 2016 г. или Exchange Server 2013 г. (SP1 или более поздней). Дополнительные сведения см. в статье [Общие сведения о неограниченной архивации](/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Администраторы не могут настраивать квоту хранилища.<br/>
@@ -78,7 +78,7 @@ Microsoft Exchange Online Архивная система — это Microsoft 3
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
-| Возможность | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
+| Функция | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[Функции архива в Exchange Online Archiving](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Это руководство для ИТ-специалистов, которые являются движущей силой развертывания Office 365 в субъектах федерального правительства США или других субъектах, которые обрабатывают данные, подавляющие правительственные правила и требования, где использование Microsoft 365 - DoD подходит для удовлетворения этих требований.
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546006"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663332"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Планирование соответствия требованиям Microsoft 365 — развертывания DoD
 
@@ -58,11 +58,11 @@ ms.locfileid: "52546006"
 
 **Пункт принятия** решения. Решите, измените ли вы какие-либо параметры безопасности Microsoft 365 по умолчанию , разрешив сначала понять влияние любых изменений, которые вы *можете внести.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Этап 4. Понять, какие возможности в настоящее время недоступны или отключены по умолчанию в Microsoft 365 - DoD<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Этап 4. Понять, какие возможности в настоящее время недоступны или отключены по умолчанию в Microsoft 365 - DoD<sup>1</sup>
 
 Для удовлетворения требований наших государственных облачных клиентов существуют некоторые различия между государственными Microsoft 365 - DoD и корпоративными планами. Обратитесь к следующей таблице, чтобы узнать, какие функции доступны. Последние [обновления](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) продуктов соответствия, опубликованные в Microsoft 365 дорожной карте, см. здесь.<br><br>
 
-| Область | Возможность | Состояние DoD |
+| Область | Функция | Состояние DoD |
 |------|---------|------------|
 | **Защита информации** | Клиент и сканер единой маркировки | Available |
 | | Точное соответствие данным | Available |
@@ -108,8 +108,8 @@ ms.locfileid: "52546006"
 | | Управление записями: доказательство удаления | Available |
 | | Управление записями: версия записей | Available |
 | | Управление записями: нормативные записи | Available |
-| | Управление записями: SharePoint классификации Syntex для применения меток записей | На неополненном техническом отставание |
-| **Управление рисками изнутри** | Защищенное хранилище | Available |
+| | Управление записями: SharePoint Syntex классификации для применения меток записей | На неополненном техническом отставание |
+| **Управление внутренними рисками** | Защищенное хранилище | Available |
 | | Управление рисками изнутри: панель мониторинга кейсов, обозреватель контента и шаблоны уведомлений | Развертывание |
 | | Управление рисками изнутри: эскалация для расследования для Advanced eDiscovery | Развертывание |
 | | Управление рисками изнутри: кража данных при уходе пользователей | Развертывание |

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: Узнайте о доступности Microsoft Exchange Online и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414889"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664012"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online  это размещенное решение для
 
 В следующей таблице перечислены основные Exchange Online, доступные в планах. Некоторые оговорки применяются*. Эта таблица может измениться без уведомления. Полный список функций Exchange Online в планах см. в Exchange Online [compare Exchange Online.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
   
-| Возможность | Планы малого бизнеса | Enterprise планы | Планы образования | GCC | GCC High | DOD | 
+| Функция | Планы малого бизнеса | Enterprise планы | Планы образования | GCC | GCC High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Планирование и развертывание](planning-and-deployment.md)|Да*|Да|Да|Да|Да|Да|
 |[Разрешения](permissions.md)|Да|Да|Да|Да|Да|Да|
@@ -62,12 +62,12 @@ Microsoft Exchange Online  это размещенное решение для
 
 ### <a name="licensing-terms"></a>Условия лицензирования
 
-Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/) 
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="messaging"></a>Сообщения
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Дополнительные сведения см. в [центре сообщений.](/microsoft-365/admin/manage/message-center)
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Специальные возможности
 
-Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и доступности наших служб. Дополнительные сведения см. в [центре доверия Майкрософт](https://www.microsoft.com/trust-center) и центре Office [доступности.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению специальных возможностей наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
