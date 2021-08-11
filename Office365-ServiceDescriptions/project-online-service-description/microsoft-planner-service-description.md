@@ -1,5 +1,5 @@
 ---
-title: Описание службы планирования Майкрософт
+title: Описание службы "Планировщик (Майкрософт)"
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner — это интуитивно понятный и совместный инструмент управления задачами, который позволяет пользователям планировать, управлять и завершая инициативы, основанные на задачах.
-ms.openlocfilehash: e8f8433e00e7d659d267af8eb897b71ae4659d1e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537282"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702838"
 ---
-# <a name="microsoft-planner-service-description"></a>Описание службы планирования Майкрософт
+# <a name="microsoft-planner-service-description"></a>Описание службы "Планировщик (Майкрософт)"
 
 Microsoft Planner — это интуитивно понятный и совместный инструмент управления задачами, который позволяет пользователям планировать, управлять и завершая инициативы, основанные на задачах. Пользователи назначают и управляют задачами на доске Kanban с помощью карт задач, которые они могут заполнять различными важными сведениями плана, такими как сроки, состояние, контрольные списки, метки и вложения файлов. Планировщик интегрируется с несколькими решениями Майкрософт, включая Microsoft Teams. Планировщик, как веб-средство, доступен из любой точки мира и доступен в качестве мобильного приложения для iOS и Android.
 

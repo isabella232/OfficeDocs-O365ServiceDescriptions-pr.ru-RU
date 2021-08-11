@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Узнайте о функции архива, доступные в Microsoft Exchange Online архива.
-ms.openlocfilehash: cfc5832e3167f29465f387253694e56b66b932fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653101"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664752"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Функции архива в Exchange Online Archiving
 

@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI — это облачный набор средств бизнес-аналитики, который позволяет любому пользователю подключаться к данным, визуализировать и анализировать их с большей скоростью, эффективностью и пониманием. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
-ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661617"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702868"
 ---
 # <a name="power-bi-service-description"></a>Описание службы Power BI
 
@@ -65,7 +65,7 @@ Power BI — это облачный набор средств бизнес-ан
 
 *Может потребоваться дополнительное лицензирование для встраивки приложений или контекстов. Дополнительные сведения см. в [вкладывной аналитике с Power BI.](/power-bi/developer/embedded/embedding)
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 Технические сведения о Power BI, ознакомьтесь со следующими ресурсами:
 

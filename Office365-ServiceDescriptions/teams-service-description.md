@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
-ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
+ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409686"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702908"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -27,7 +27,7 @@ Microsoft Teams является центром командной работы 
 
 В следующей таблице перечислены основные Microsoft Teams, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Обратитесь к Microsoft 365 центра сообщений для обмена сообщениями об изменении основных служб и справочной документации по условиям лицензирования [Майкрософт.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
-| Компонент | Для малого бизнеса | Enterprise планы | GCC | GCC - High | DOD | Образование |
+| Функция | Для малого бизнеса | Enterprise планы | GCC | GCC - High | DOD | Образование |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Чат |Да |Да |Да |Да |Да |Да |
 |Teams |Да|Да|Да|Да<sup>1</sup> |Да<sup>1</sup> |Да |
@@ -48,7 +48,7 @@ Microsoft Teams является центром командной работы 
 <sup>В настоящее</sup> время в этих облаках недоступны 5 сторонних приложений и публикаций приложений.<br/>
 <sup>6</sup> Live Events в настоящее время недоступны GCC-High или DoD.<br/>
 
-## <a name="learn-more"></a>Дополнительные сведения
+## <a name="learn-more"></a>Подробнее
 
 Skype для бизнеса Online будет отправлен в отставку 31 июля 2021 г., о котором было объявлено 30 июля 2019 г. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams это совершенно новая служба, созданная для облака с нуля, используя Azure и другие инновации службы от Корпорации Майкрософт. Microsoft Teams построена на Microsoft 365, microsoft Graph и с той же безопасностью, соответствием требованиям и управляемостью, что и Office 365. Teams использует удостоверения, хранимые в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет. Дополнительные сведения см. в [Microsoft Teams ИТ-архитектуры](/microsoftteams/teams-architecture-solutions-posters)и плакатов решений для телефонии.
 
