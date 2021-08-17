@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Ознакомьтесь с этой статьей, чтобы узнать Microsoft Exchange Online архива.
-ms.openlocfilehash: 249f8583cac9ca5d2df61be3e6b436306d590374fe0c02b506f2b48d63781b47
-ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
+ms.openlocfilehash: 5fe3d747bace615b4ab6e9741f70531e7ab26ea8
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57823650"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363576"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Описание службы архивации на базе Exchange Online
 
@@ -79,7 +79,7 @@ Microsoft Exchange Online Архивная система — это Microsoft 3
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Доступность функций в планах архивации на базе Exchange Online
 
-| Компонент | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
+| Функция | Архивация на базе Exchange Online для Exchange Server<sup>1</sup> | Архивация на базе Exchange Online для Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[Функции архива в Exchange Online Archiving](archive-features.md)** <br/> |||
 |Архивный почтовый ящик  <br/> |Да  <br/> |Да  <br/> |

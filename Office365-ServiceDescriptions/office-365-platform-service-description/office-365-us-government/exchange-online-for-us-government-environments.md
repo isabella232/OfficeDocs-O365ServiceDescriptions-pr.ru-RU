@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании Exchange Online службы.
-ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664462"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363615"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для правительственных сред США
 
@@ -51,7 +51,7 @@ ms.locfileid: "54664462"
 |Разрешения на основе ролей|Да|Да|Да||
 |Группы ролей|Да|Да|Да||
 |Политики назначения ролей|Да|Да|Да||
-|**[Политика обработки сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
+|**[Политика сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да||
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да|Да|Да||
 |Messaging Records Management (MRM) |Да|Да|Да||
@@ -75,7 +75,7 @@ ms.locfileid: "54664462"
 |Карантин  управление администраторами|Да|Да|Да||
 |Карантин  самостоятельное управление пользователями|Да|Да|Да||
 |Microsoft Defender для Office 365|Да|Да|Да|Требуется план службы G5 (или покупка надстройки).<br><br>Средства защиты от фишинга для обезличения пользователей и домена и подмены сведений пока недоступны в GCC High и DoD.|
-|**[Поток обработки почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
+|**[Поток почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да||
 |Secure messaging with a trusted partner|Да|Да|Да||
 |Conditional mail routing|Да|Да|Да||

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительства и описаны варианты покупки.
-ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701908"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363586"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство — как покупать
 
@@ -98,7 +98,7 @@ Microsoft 365 Правительство доступно для государ�
 - [Microsoft PowerApps Правительство США](/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate правительства США](/flow/us-govt)
 - [Microsoft 365 Страница правительственных продуктов](https://www.microsoft.com/microsoft-365/government)
-- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
 ## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Какие каналы продаж доступны для Microsoft 365 правительства?
 
@@ -134,41 +134,50 @@ Microsoft 365 Правительство доступно для государ�
 **Партнеры AOS-G GCC и GCC (до 500 мест)**
 
 - Accenture Federal Services, LLC
-- Agile IT, Inc.
+- Agile IT, Inc
+- American Technology Services, Inc.
 - Applied Information Sciences, Inc.
-- Booz Allen Hamilton, Inc.
+- Arctic Information Technology, Inc.
+- BAH
 - Интегрированные решения C3
 - CACI
 - Carahsoft
+- Catapult Systems, Inc.
 - CGI Federal Inc.
-- Завоевание Cyber
-- CyberSheath Services International, LLC
+- Завоевание Cyber (UDT)
+- CyberSheath
+- Daymark Solutions, Inc.
 - Dox Electronics Inc.
-- ИТ-консалтинг, LLC
+- Просвещение
 - F1 Solutions Inc.
 - Four Points Technology, LLC
-- General Dynamics Information Technology, Inc.
+- GDIT
+- ООО "Золотая пятерка"
 - Hypori, Inc.
 - Imager Software, Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems, Inc.
-- Kamind IT, Inc.
+- KAMIND IT, Inc.
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- ManTech Advanced Systems International, Inc.
-- NIMBUS LOGIC, LLC
+- ManTech
+- MicroTechnologies, Inc.
+- Nimbus Logic LLC
 - Northrop
 - Novetta
-- Perspecta Enterprise Solutions LLC
+- Permuta Technologies, Inc.
+- Perspecta
 - Planet Technologies, Inc.
 - Тихие профессионалы, LLC
 - R3, LLC
 - Красная река
 - SAIC
 - Smartronix
-- Саммит 7
+- Системы саммита 7
 - TechTrend, Inc.
+- Valcom Salt Lake City, LC dba VCLM
+- VC3, INC
 - Vexcel
 
 **Примечание:** Все поставщики решений для лицензирования Майкрософт (LSP) в предыдущем списке могут GCC и GCC high through Соглашение Enterprise (EA) для создания листа цен клиента (CPS). Организации, которые не имеют права на ea, могут приобретать GCC лицензии через перечисленные партнеры AOS-G или партнерской программы CSP.
@@ -194,7 +203,7 @@ Microsoft 365 Правительство доступно для государ�
 - [Outlook для iOS и Android в облако сообщества для государственных организаций](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps Правительство США](/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate правительства США](/flow/us-govt)
-- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 Страница правительственных продуктов](https://www.microsoft.com/microsoft-365/government)
 - [Страница Microsoft Government Industry](https://www.microsoft.com/enterprise/government)
 - [Microsoft IT-Community - государственный сектор](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
