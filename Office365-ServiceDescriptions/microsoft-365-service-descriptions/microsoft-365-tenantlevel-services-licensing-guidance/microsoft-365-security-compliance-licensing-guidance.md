@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по лицензированию Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензионного доступа.
-ms.openlocfilehash: e6182db877f5d1202a30d5425deec89ad6cbdb0f563f43990a51b47ec9bba033
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9126cfa8d055fe9a800a6c498e79ebf540b378d2
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663342"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371767"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 лицензирования для обеспечения соответствия &amp; требованиям безопасности
 
@@ -407,9 +407,10 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, а также Microsoft 365 за
 Вам потребуется одна из следующих лицензий, чтобы получить поддержку защиты DLP в Teams Чате:
 
 - Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5 Compliance
+- Microsoft 365 E5/A5/G5/F5 Compliance
+- Microsoft 365 Соответствие требованиям & безопасности F5
 - Microsoft 365 E5/A5/G5 Защита и управление информацией
-- Office 365 E5/A5/G5 
+- Office 365 E5/A5/G5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
@@ -547,7 +548,7 @@ Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 и Office 365 Предо�
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5 и Microsoft 365 E5/A5/G5 Information Protection and Governance могут воспользоваться DLP связи для Teams.
+Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance, а также Microsoft 365 E5/A5/G5 Защита и управление информацией могут воспользоваться DLP связи для Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
@@ -697,7 +698,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5
 
 ### <a name="which-users-benefit-from-the-service"></a>Какие пользователи получают выгоду от службы?
 
-Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance и Microsoft 365 E5/A5/G5 eDiscovery and Audit могут воспользоваться расширенным аудитом.
+Лицензированные пользователи Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance и Microsoft 365 E5/A5/G5 eDiscovery and Audit могут воспользоваться расширенным аудитом.
 
 Лицензированные пользователи с расширенным аудитом и надстройка хранения журналов аудита сроком на 10 лет могут воспользоваться 10-летней возможностью хранения журналов аудита.
 

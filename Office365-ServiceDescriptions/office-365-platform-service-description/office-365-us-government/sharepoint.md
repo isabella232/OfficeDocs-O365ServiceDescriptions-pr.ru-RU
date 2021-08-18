@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701828"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371775"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для правительственных сред США
 
@@ -64,6 +64,8 @@ ms.locfileid: "54701828"
 Сведения о Azure Active Directory правительственных функций см. в документации [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
 Сведения о правительственных функциях Azure Information Protection см. в описании [службы Premium Azure Information Protection.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+
+Сведения о SharePoint Syntex функций см. в [SharePoint Syntex описание службы.](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)
 
 ## <a name="sites-and-content"></a>Сайты и контент
 
