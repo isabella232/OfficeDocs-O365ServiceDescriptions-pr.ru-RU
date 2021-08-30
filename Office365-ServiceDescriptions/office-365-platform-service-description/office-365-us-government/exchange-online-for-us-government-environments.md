@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании Exchange Online службы.
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363615"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702311"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для правительственных сред США
 
@@ -183,11 +183,10 @@ Azure Active Directory B2B-совместная работа в настояще
 
 <!-- end list -->
 
-- При отправке зашифрованной электронной почты из GCC high или DoD получателям за пределами этой среды (включая GCC и коммерческие):
-    
-    - Отправители GCC high/DoD могут отправлять зашифрованную электронную почту за пределами GCC high/DoD.
-    
-    - Все получатели, не GCC high/DoD, включая коммерческие Office 365 пользователей, пользователей Outlook.com и других пользователей других поставщиков электронной почты, получают почту-оболочку. Эта почта обертки перенаправляет получателя на портал OME, где получатель может читать сообщения и отвечать на них.
+- При отправке зашифрованной электронной почты из GCC high получателям за пределами этой среды (включая DoD, GCC и Commercial):
+
+    - Отправители GCC high могут отправлять зашифрованную электронную почту за пределами GCC высокой границы.
+    - Все получатели за пределами GCC High, включая DoD, коммерческие Office 365 пользователей, пользователей Outlook.com и других пользователей других поставщиков электронной почты, получают почту-оболочку. Эта почта обертки перенаправляет получателя на портал OME, где получатель может читать сообщения и отвечать на них.
 
 Дополнительные сведения и последние обновления см. в выпуске [Compare versions of OME.](/microsoft-365/compliance/ome-version-comparison)
 
