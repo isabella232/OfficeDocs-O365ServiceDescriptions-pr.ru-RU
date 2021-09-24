@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Узнайте, какие Skype для бизнеса Online доступны в различных Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: a340fb2eb2cc1bf82d5d572120f2b7b52d030552779652ae34c90a49b350dd1e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: eb342b941e4c60d95cac9e71795364635d2d0376
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702448"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669592"
 ---
 # <a name="skype-for-business-online-service-description"></a>Описание службы Skype для бизнеса Online
 
@@ -49,7 +49,7 @@ Skype для бизнеса Online — это служба связи, кото�
   
 Еще более подробные сравнительные характеристики представлены в приведенной ниже таблице.<br><br>
   
-| Функция | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Возможность | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype для бизнеса Полный  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
@@ -194,7 +194,7 @@ Skype для бизнеса Online — это служба связи, кото�
 > [!NOTE]
 > Skype для бизнеса Лицензированные пользователи Online Standalone Plan 2 получат клиент Skype для бизнеса Basic, а не полный Skype для бизнеса клиент. Если вы хотите, чтобы у Skype для бизнеса клиент, необходимо обновить их до лицензии, включаемой в него, например Enterprise на основе лицензии. Чтобы развернуть клиент Skype для бизнеса пользователям, см. в Skype для бизнеса клиент Microsoft 365 [или Office 365.](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365) 
   
-| Функция | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
+| Возможность | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype для бизнеса Полный  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |

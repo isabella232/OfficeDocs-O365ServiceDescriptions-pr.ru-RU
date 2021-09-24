@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: В этой статье описываются ограничения, которые применяются в Skype для бизнеса Online.
-ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a3e39caae437610e48e8a19fa699a4cdca279c7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702478"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669608"
 ---
 # <a name="skype-for-business-online-limits"></a>Ограничения Skype для бизнеса Online
 
@@ -44,7 +44,7 @@ ms.locfileid: "54702478"
     
 ### <a name="peer-to-peer-limits"></a>Одноранговые ограничения 
 
-| Функция | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 F3 |
+| Возможность | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Ограничение на передачу файлов  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |Не ограничено  <br/> |Неприменимо  <br/> |
 |Ограничение<sup>беседы 1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
@@ -55,7 +55,7 @@ ms.locfileid: "54702478"
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Одноранговые ограничения в автономных планах
 
-| Функция | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
+| Возможность | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Ограничение на передачу файлов  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |
 |Ограничение<sup>беседы 1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
@@ -80,7 +80,7 @@ ms.locfileid: "54702478"
     
 ### <a name="meeting-limits"></a>Ограничения собрания
 
-| Функция | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 F3 |
+| Возможность | Skype для бизнеса Server 2015 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Ограничение на передачу файлов  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |Не применимо  <br/> |
 |Участники собрания Skype для бизнеса<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Не применимо  <br/> |
@@ -95,7 +95,7 @@ ms.locfileid: "54702478"
   
 ### <a name="meeting-limits-across-standalone-options"></a>Ограничения для собрания в автономных планах
 
-| Функция | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
+| Возможность | Skype для бизнеса Server 2015 | Skype для бизнеса Автономный план &nbsp; 1 | Skype для бизнеса Автономный план &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Ограничение на передачу файлов  <br/> |500 МБ  <br/> |Не применимо  <br/> |500 МБ  <br/> |
 |Участники собрания Skype для бизнеса  <br/> |250  <br/> |Неприменимо  <br/> |250  <br/> |

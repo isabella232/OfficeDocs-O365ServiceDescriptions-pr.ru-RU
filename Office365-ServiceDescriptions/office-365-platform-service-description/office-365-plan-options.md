@@ -10,18 +10,18 @@ f1_keywords:
 keywords:
 - office 365 for business,Office 365
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701668"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670637"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -76,7 +76,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>12</sup> Включает Skype для бизнеса Online Plan 2 с голосовой поддержкой и без ограничений клиента.  <br/>
 <sup>13</sup> Включает Skype для бизнеса План 1.<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. По данным на 1 октября 2018 г., новые клиенты с 500 или менее посадочных мест находятся на Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, которые уже используют Skype для бизнеса Online, могут продолжать это делать (включая подготовка новых пользователей) до завершения перехода на Microsoft Teams.<br>
-<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced Message Encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management and Advanced eDiscovery capabilities; и Безопасность Microsoft 365 E5, которая включает в себя Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф Documents.<br>
+<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced message encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery возможности; и Безопасность Microsoft 365 E5, которая включает в себя Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф Documents.<br>
 <sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем вашим клиентам отключить Outlook в Интернете [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) с помощью этих действий и попросить пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
 <sup>17</sup> Включает базовая подписка на SharePoint Online. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
 <sup>18 Microsoft 365 F1</sup> пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав create/edit/save. 

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-permissions
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013.
-ms.openlocfilehash: e5a67e8d0c6fc649080ddfa0db7f1909e7d933eb832ad030aa864b8033fd5d39
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 509a45f81704285f07d9b7834819023bd1bcc5ed
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663692"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670513"
 ---
-# <a name="permissions"></a>Разрешения
+# <a name="permissions"></a>Permissions
 
 Microsoft Exchange Online использует модель управления доступом на основе ролей (RBAC), чтобы позволить администраторам организации контролировать возможности пользователей и ИТ-сотрудников в этой службе. Например, если должностное лицо, ответственное за соблюдение нормативных требований, отвечает за поисковые запросы в почтовом ящике, администратор может делегировать данную функцию администрирования этому лицу через RBAC. Exchange Online использует ту же платформу RBAC, что и Microsoft Exchange Server 2013. 
   

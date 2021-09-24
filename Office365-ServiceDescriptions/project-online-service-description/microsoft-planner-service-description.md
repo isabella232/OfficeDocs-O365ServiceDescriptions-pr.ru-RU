@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner — это интуитивно понятный и совместный инструмент управления задачами, который позволяет пользователям планировать, управлять и завершая инициативы, основанные на задачах.
-ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ee07c27be65b49b6f2bd89005c8a07a54021bff0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702838"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669836"
 ---
 # <a name="microsoft-planner-service-description"></a>Описание службы "Планировщик (Майкрософт)"
 
@@ -33,7 +33,7 @@ Microsoft Planner — это интуитивно понятный и совме
 
 В следующей таблице перечислены основные функции Microsoft Planner, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления.
 
-| Функция  | Планы малого бизнеса  | Enterprise планы  | Планы образования  | GCC  | GCC High  | DOD  |
+| Возможность  | Планы малого бизнеса  | Enterprise планы  | Планы образования  | GCC  | GCC High  | DOD  |
 |----------|-----------------------|-------------------|------------------|------|-----------|------|
 | Добавление назначений, дат начала и срока выполнения, ведерки, выполнения и приоритета в задачи  | Да  | Да  | Да  | Да  | Да  | Да  |
 | Добавление меток, контрольных списков, вложений в задачи  | Да  | Да  | Да  | Да  | Да  | Да  |
