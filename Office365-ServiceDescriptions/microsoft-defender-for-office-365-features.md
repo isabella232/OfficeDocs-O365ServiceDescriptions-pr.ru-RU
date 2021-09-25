@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Узнайте о функциях, доступных в Microsoft Defender для Office 365.
-ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 591236d6028d57025d2dd7a9cfc5ef80d3617176
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663052"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671459"
 ---
 # <a name="microsoft-defender-for-office-365-features-service-description"></a>Описание службы функций Microsoft Defender для Office 365
 
@@ -25,7 +25,7 @@ ms.locfileid: "54663052"
 
 Мы продолжаем добавлять новые функции в Defender для Office 365. Дополнительные информацию о новых функциях, которые приходят в Defender для Office 365 (или Microsoft 365 в целом), см. в следующих ресурсах:
 
-- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
+- [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
 - [Что нового в Microsoft Defender для Office 365 - Office 365 | Документы Майкрософт](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 

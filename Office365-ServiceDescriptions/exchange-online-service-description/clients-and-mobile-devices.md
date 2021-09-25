@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online работает с настольными и мобильными версиями Outlook, а также Outlook в Интернете.
-ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 97d25b505afcdc4effb145b28eda5aab1275ce81
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664052"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672089"
 ---
 # <a name="clients-and-mobile-devices"></a>Клиенты и мобильные устройства
 
@@ -68,11 +68,11 @@ Exchange Online поддерживает Microsoft Outlook для Mac, кото�
 
 Exchange Online работает с Outlook приложениями, доступными для iOS, Android и Windows Phone. На любом из этих устройств используйте магазин приложений для поиска Outlook приложения. Вот разбивка по мобильной ОС.<br><br>
   
-| Device | Android | iOS | Windows Phone |
+| Устройство | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
 |Outlook мобильного приложения  <br/> |Да  <br/> [Получить Outlook для Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Да  <br/> [Получить Outlook для iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Встроенные  <br/> |
 |Встроенные приложения электронной почты, совместимые с Exchange Online  <br/> |Приложение Gmail и приложение электронной почты Samsung  <br/> |Приложение iOS Mail  <br/> |Outlook Почта, календарь, контакты  <br/> |
-|Дополнительные сведения  <br/> |[Установка мобильных устройств для Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone или iPad установки](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone установки](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Дополнительная информация  <br/> |[Установка мобильных устройств для Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone или iPad установки](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone установки](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 Существуют также варианты использования Exchange Online с устройствами, в том числе Blackberry.
   

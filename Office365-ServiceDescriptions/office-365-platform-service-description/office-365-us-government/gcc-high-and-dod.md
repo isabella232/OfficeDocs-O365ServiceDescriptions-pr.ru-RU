@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Узнайте об уникальных обязательствах и различиях сред Office 365 GCC и DoD по сравнению с Office 365 коммерческой средой.
-ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e23093e2fdebad45175746aa57bedc0c87728d4b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664412"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670334"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC и DoD
 
@@ -72,7 +72,7 @@ GCC High и DoD соответствуют требованиям следующ
 
 [Запросы файлов](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) недоступны для Office 365 для государственных организаций.
 
-### <a name="skype-for-business-online"></a>Skype для Бизнеса Онлайн
+### <a name="skype-for-business-online"></a>Skype для бизнеса Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 

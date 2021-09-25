@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663992"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672072"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -82,7 +82,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
+|**[Политика сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Архивация почтовых ящиков на основе Exchange Online| Нет|Нет|Да|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>1</sup>|Да<sup>1</sup>|Нет|Нет|Да|Да|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|Да|Да|Да|
@@ -106,7 +106,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>7</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Microsoft Defender для Office 365|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
+|**[Поток почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|Да|Да|Да|
@@ -218,7 +218,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Политика сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -240,7 +240,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Customize anti-malware policies|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|
-|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Поток почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|

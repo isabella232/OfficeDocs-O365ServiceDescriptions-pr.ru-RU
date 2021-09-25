@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint для Интернета (ранее PowerPoint Веб-приложение) расширяет PowerPoint Microsoft для веб-браузера, где можно работать с презентациями непосредственно на веб-сайте, где хранится презентация. Microsoft 365 клиенты с Office для Интернета могут просматривать, создавать и изменять файлы в режиме go.
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702258"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669974"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint в Интернете
 

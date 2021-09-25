@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Ознакомьтесь с этой статьей, чтобы узнать об управлении получателем, доменом и компанией в Microsoft Exchange Online защиты (EOP).
-ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 928f94153f91c5067bc5e7ea80525a36cc8e7de3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664062"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672232"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Получатель, домен и управление компанией в Exchange Online Protection
 

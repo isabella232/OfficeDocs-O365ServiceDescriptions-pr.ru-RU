@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Если вы администратор, вы можете найти подробные инструкции по настройке функций Skype для бизнеса Online в Set up Skype для бизнеса Online.
-ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 483b16473d13dbd517ba91eb83ea0f03aea59414
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702468"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672330"
 ---
 # <a name="skype-for-business-online-features"></a>Функции Skype для бизнеса Online
 

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Ознакомьтесь с этой статьей, чтобы ознакомиться с политикой обмена сообщениями и функциями соответствия требованиям в Microsoft Exchange Online Защиты (EOP).
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664112"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672310"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Политика обмена сообщениями и соответствие требованиям в Exchange Online Protection
 
@@ -66,7 +66,7 @@ Microsoft Exchange Online Защита (EOP) предоставляет поли
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Функции контроля соответствия требованиям и соблюдения политики обмена сообщениями в параметрах EOP
 
-| Функция | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
+| Возможность | Изолированная EOP | Функции EOP в <br/> Exchange Online | Exchange Enterprise <br/> CAL с службами |
 |:-----|:-----|:-----|:-----|
 |Правила потока обработки почты|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1, 3</sup>|
 |Ведение журнала аудита|Да<sup>2</sup>|Да|Да|

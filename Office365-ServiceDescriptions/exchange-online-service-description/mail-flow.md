@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: В большинстве организаций мы вмещая почтовые ящики и заботимся о потоке почты. Это простейшая конфигурация, которая означает, что Корпорация Майкрософт управляет всеми почтовыми ящиками и фильтрацией. Но некоторым организациям нужны более сложные схемы доставки почты для соответствия определенным нормативным и корпоративным требованиям. Такие варианты конфигурации описаны в этой статье.
-ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b51c3f6661047e3e3ea446dbac6f81866c5db27b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663792"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671892"
 ---
 # <a name="mail-flow"></a>Поток обработки почты
 

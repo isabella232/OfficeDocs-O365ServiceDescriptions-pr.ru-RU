@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex в Microsoft 365 использует расширенный искусственный интеллект (AI) и машинное обучение для усиления знаний человека, автоматизации обработки контента и преобразования контента в знания.
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371756"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672402"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Описание службы SharePoint Syntex 
 
@@ -38,7 +38,7 @@ Syntex доступен с помощью нескольких планов по
 | ------------------------------- | ------------------------ | ------------------- | ------------------------ |
 | Microsoft 365 бизнес базовый    | Office 365 E1            | Office 365 A1       | Office 365 для государственных организаций G1 |
 | Microsoft 365 бизнес стандарт | Office 365 E3            | Office 365 A3       | Office 365 для государственных организаций G3 |
-| Microsoft 365 бизнес премиум  | Office 365 E5            | Office 365 A5       | Office 365 для государственных учреждений G5 |
+| Подписка на Microsoft 365 бизнес премиум  | Office 365 E5            | Office 365 A5       | Office 365 для государственных учреждений G5 |
 |                                 | Office 365 F3            |                     | Office 365 для государственных организаций F3 |
 |                                 | Microsoft 365 F1         |                     |                          |
 |                                 | Microsoft 365 F3         |                     |                          |
@@ -52,7 +52,7 @@ Syntex доступен с помощью нескольких планов по
 
 В следующей таблице перечислены основные функции Syntex, доступные в планах. Применяются определенные ограничения. Эта таблица может измениться без уведомления. Полный список функций см. в SharePoint Syntex планах и [ценах.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
-| Функция | Планы малого бизнеса | Enterprise планы | Планы образования | Планы правительства |
+| Возможность | Планы малого бизнеса | Enterprise планы | Планы образования | Планы правительства |
 |--|--|--|--|--|
 | [Центр контента Syntex](sharepoint-syntex-features.md#syntex-content-center) | Да | Да | Да | Да |
 | [Распознавание объектов](sharepoint-syntex-features.md#object-recognition) | Да | Да | Да | Да |

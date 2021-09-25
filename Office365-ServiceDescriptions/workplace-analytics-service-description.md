@@ -7,16 +7,16 @@ ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics предоставляет богатые и действенные сведения о тенденциях организации в области коммуникации и совместной работы, чтобы помочь вам принимать более эффективные бизнес-решения.
-ms.openlocfilehash: 47f2713b83cf159115ff52a11dae893f4a9dda6b18ecc4efa8e468c7f3dcfe58
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 794497c89d6f80fb9616e19fd254e6001605e7a6
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702418"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673154"
 ---
 # <a name="workplace-analytics-service-description"></a>Описание службы Workplace Analytics
 

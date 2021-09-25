@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Германия — это дифференцированный вариант от тех Office 365, которые уже доступны в Европе. Это помогает решать потребности наиболее регулируемых клиентов в Германии, Европейском союзе (ЕС) и Европейской ассоциации свободной торговли (EFTA), доставляя наши передовые в отрасли службы производительности для цифровой работы, из немецких центров обработки данных, с проживанием данных в Германии и строгими мерами доступа к данным и мерами контроля с помощью уникальной модели доверия к данным, управляемой в соответствии с немецким законодательством.
-ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701678"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671378"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -69,7 +69,7 @@ Office 365 Германия придерживается стандартов о
 Сведения о ценах и функциях планов для различных типов компаний см. в статье [Планы Office 365 Германия](https://go.microsoft.com/fwlink/?linkid=839016).
 <br><br>
 
-| Функция | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
+| Возможность | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Возможности администрирования Office 365](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-germany#admin-center-features-and-settings)**|||||||||
 |Администрирование Office 365 с помощью Центр администрирования Microsoft 365 или Windows PowerShell|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -143,7 +143,7 @@ Office 365 Германия придерживается стандартов о
 |Использование браузера|Да|Да|Да|Да|Да|Да|Да|Да|
 |Использование операционной системы|Да|Да|Да|Да|Да|Да|Да|Да|
 |Создание собственных отчетов с Microsoft 365 веб-служб.|Да|Да|Да|Да|Да|Да|Да|Да|
-|**[Обновления службы](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Обновления служб](service-updates.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Регулярные обновления, предоставляемые всем клиентам|Да|Да|Да|Да|Да|Да|Да|Да|
 |Уведомления о необходимости выполнить действие, отправленные в Центр сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
 |Roadmap.office.com для некоторых обновлений служб|Да|--|Да|Да|Да|Да|Да|Да|
@@ -197,7 +197,7 @@ Office 365 Германия придерживается стандартов о
 
 Воспользуйтесь приведенной ниже таблицей, чтобы сравнить доступность функций в планах Office 365 Germany.<br><br>
 
-| Функция | Office 365 Germany бизнес | Office 365 Germany бизнес базовый | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Германия Enterprise E3<sup>9</sup> | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
+| Возможность | Office 365 Germany бизнес | Office 365 Germany бизнес базовый | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Германия Enterprise E3<sup>9</sup> | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office приложения**<sup>1, &nbsp; 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Да|Нет|Да|No<sup>7</sup>|Нет|Да|Да|Нет|
@@ -261,7 +261,7 @@ Office 365 Германия придерживается стандартов о
 <sup>10</sup> Доступ в настоящее время доступен, если вы на текущем канале или на целевом выпуске для отложенного канала. Если вы на отложенных каналах, доступ будет доступен в июне 2017 года. Дополнительные сведения см. в том, что access включен в [Office 365 бизнес и бизнес-Premium.](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/>
 <sup>11</sup> Не доступен для Office 365 Германии, но скоро.
 
-| Функция | Office Professional Plus 2013 | Office профессиональный плюс 2016 | Office 365 профессиональный плюс<sup>10</sup> |
+| Возможность | Office Professional Plus 2013 | Office профессиональный плюс 2016 | Office 365 профессиональный плюс<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
 |**Office приложения <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Да|Да|Да|
@@ -344,7 +344,7 @@ Office 365 Германия придерживается стандартов о
 
 В таблице ниже перечислены функции Exchange Online, доступные в планах Office 365: Germany.<br><br>
 
-| Функция | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
+| Возможность | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |Гибридное развертывание<sup>поддерживается 1</sup>|Да<sup>2</sup>|Да|Да<sup>2</sup>|Да|Да|Да|Да|Да|
@@ -355,7 +355,7 @@ Office 365 Германия придерживается стандартов о
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Нет|Нет|Да|Да|Да|Да|Нет|
 |Теги хранения и политики хранения|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -377,7 +377,7 @@ Office 365 Германия придерживается стандартов о
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Да|Да|Да|Да|Да|Да|Да|Да|
 |Microsoft Defender для Office 365|Нет|--|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
+|**[Поток почты](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany бизнес базовый**|**Office 365 Germany бизнес**|**Office 365 Germany бизнес премиум**|**Office 365 Germany для образования A1**|**Office 365 Germany корпоративный E1**|**Office 365 Germany корпоративный E3**|**Office 365 Germany корпоративный E4**|**Office 365 Germany корпоративный K1**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Да|Да|Да|Да|Да|Да|Да|Да|
@@ -468,7 +468,7 @@ Office 365 Германия придерживается стандартов о
 
 В таблице ниже перечислены функции Exchange Online Protection (EOP), доступные в планах Office 365: Germany. Дополнительные сведения о функции EOP выберите ссылки в таблице. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
 
-| Функция | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами |
+| Возможность | Изолированная EOP | Функции EOP в Exchange Online | Клиентская лицензия Exchange Enterprise CAL со службами |
 |:-----|:-----|:-----|:-----|
 |[Получатели почты](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|Да<sup>1</sup>|Да<sup>1</sup>|Да|
 |[Разрешения для группы ролей администраторов](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Да<sup>2</sup>|Да|Да|
@@ -525,7 +525,7 @@ Office 365 Германия придерживается стандартов о
 
 В следующей таблице перечислены функции Defender для Office 365, доступные в Office 365 Германии. Exchange Online обычно относят к семейству служб Office 365 корпоративный.<br><br>
 
-| Функция | Defender для Office 365 автономный | Defender для Office 365 функций в Exchange Online |
+| Возможность | Defender для Office 365 автономный | Defender для Office 365 функций в Exchange Online |
 |:-----|:-----|:-----|
 |Безопасные ссылки|Да|Да|
 |Безопасные вложения|Да|Да|
@@ -756,7 +756,7 @@ Office 365 Германия придерживается стандартов о
 |Ask Me About|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Личные блоги|Да<sup>13</sup>|Нет|Да<sup>13</sup>|Да<sup>13</sup>|Да<sup>13</sup>|Да<sup>13</sup>|Да<sup>13</sup>|Да<sup>13</sup>|
 |Репутация сообществ, плохой и умеренность|Да<sup>14</sup>|Нет|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|No<sup>14</sup>|
-|Сообщество|Да<sup>14</sup>|Нет|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Нет|
+|Community|Да<sup>14</sup>|Нет|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Да<sup>14</sup>|Нет|
 |Канал компании|Да|Нет|Да|Да|Да|Да|Да|Нет|
 |Беседы с документами с Yammer|Нет|Нет|Нет|Нет|Нет|Нет|Нет|Нет|
 |Подписаться|Да|Да|Да|Да|Да|Да|Да|Нет|
@@ -807,7 +807,7 @@ Office 365 Германия придерживается стандартов о
 > [!NOTE]
 > В этой таблице указывается доступность клиентов и служб во всех Office 365 в Германии. Если вы хотите сравнить отдельные функции между различными Skype для бизнеса настольными клиентами, веб-клиентами и мобильными клиентами, см. таблицы сравнения клиентов [настольных](/lyncserver/lync-server-2013-desktop-client-comparison-tables) компьютеров и таблицы сравнения мобильных [клиентов.](/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 
-| Функция | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
+| Возможность | Office 365 Germany бизнес базовый | Office 365 Germany бизнес | Office 365 Germany бизнес премиум | Office 365 Germany для образования A1 | Office 365 Germany корпоративный E3 | Office 365 Germany корпоративный E4 | Office 365 Germany корпоративный K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype для бизнеса|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1</sup>|Да<sup>1</sup>|Да|Да|Нет|

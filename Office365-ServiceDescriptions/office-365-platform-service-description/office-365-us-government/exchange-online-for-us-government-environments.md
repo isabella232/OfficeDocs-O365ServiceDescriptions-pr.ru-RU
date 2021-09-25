@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании Exchange Online службы.
-ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702311"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671078"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для правительственных сред США
 
@@ -40,7 +40,7 @@ ms.locfileid: "58702311"
 
 В следующей таблице описывается, доступны ли указанные Exchange Online функции в средах GCC, GCC High и DoD. Если имеются нюансы, касающиеся утверждения поддержки (или ее отсутствия), предоставляется дополнительный контекст.<br><br>
 
-| Функция | GCC | GCC High | DoD | Ключевые соображения |
+| Возможность | GCC | GCC High | DoD | Ключевые соображения |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Для сосуществования с Exchange Server локальной службой Корпорация Майкрософт требует установки по крайней мере одного сервера Exchange Server 2013 г. (или Exchange Server 2016 г.). Exchange Server 2010 и ранее не поддерживаются.|

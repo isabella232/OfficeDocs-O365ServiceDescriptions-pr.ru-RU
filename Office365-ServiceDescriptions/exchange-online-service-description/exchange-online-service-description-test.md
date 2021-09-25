@@ -5,15 +5,15 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: Узнайте о доступности Microsoft Exchange Online и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664012"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672099"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -35,14 +35,14 @@ Microsoft Exchange Online  это размещенное решение для
 
 В следующей таблице перечислены основные Exchange Online, доступные в планах. Некоторые оговорки применяются*. Эта таблица может измениться без уведомления. Полный список функций Exchange Online в планах см. в Exchange Online [compare Exchange Online.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
   
-| Функция | Планы малого бизнеса | Enterprise планы | Планы образования | GCC | GCC High | DOD | 
+| Возможность | Планы малого бизнеса | Enterprise планы | Планы образования | GCC | GCC High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Планирование и развертывание](planning-and-deployment.md)|Да*|Да|Да|Да|Да|Да|
 |[Разрешения](permissions.md)|Да|Да|Да|Да|Да|Да|
 |[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)|Да*|Да*|Да|Да|Да|Да|
 |[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)|Да*|Да*|Да|Да|Да|Да|
 |[Поток обработки почты](mail-flow.md)|Да*|Да|Да|Да|Да|Да|
-|[Получатели](recipients.md)|Да*|Да*|Да|Да|Да*|Да*|
+|[Recipients](recipients.md)|Да*|Да*|Да|Да|Да*|Да*|
 |[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)|Да*|Да*|Да|Да|Да*|Да*|
 |[Общий доступ и совместная работа](sharing-and-collaboration.md)|Да|Да|Да|Да|Да|Да|
 |[Клиенты и мобильные устройства](clients-and-mobile-devices.md)|Да*|Да|Да|Да*|Да*|Да*|

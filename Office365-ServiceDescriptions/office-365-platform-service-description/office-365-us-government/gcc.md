@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Для удовлетворения уникальных и меняющихся требований федерального, государственного, местного и племенного правительств, а также подрядчиков, которые удерживают или обрабатывают данные от имени правительства США, корпорация Майкрософт предлагает Office 365 службы Community (GCC). Получить доступ к этим службам можно через различные каналы, в том числе через программу корпоративного лицензирования, и заинтересованным организациям необходимо пройти проверку правомочности до реализации среды. В настоящее время пробные версии доступны только для госструктур США.
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701889"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671068"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 

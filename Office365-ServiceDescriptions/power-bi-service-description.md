@@ -6,18 +6,18 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI — это облачный набор средств бизнес-аналитики, который позволяет любому пользователю подключаться к данным, визуализировать и анализировать их с большей скоростью, эффективностью и пониманием. На удобных информационных панелях, в интерактивных отчетах и привлекательных визуализациях данные оживают.
-ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702868"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672719"
 ---
 # <a name="power-bi-service-description"></a>Описание службы Power BI
 
@@ -35,7 +35,7 @@ Power BI — это облачный набор средств бизнес-ан
 
 В следующей таблице перечислены основные Power BI, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций см. в [Power BI.](https://powerbi.microsoft.com/pricing/)
 
-| Функция | Power BI Pro | Power BI Premium на пользователя | Power BI Premium мощности |
+| Возможность | Power BI Pro | Power BI Premium на пользователя | Power BI Premium мощности |
 |---------|--------------|---------------------------|-------------------------------|
 | **Совместная работа и аналитика** | | | |
 | Доступ к мобильным приложениям | Да | Да | Да |

@@ -7,15 +7,15 @@ ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Голосовая связь Microsoft 365 бизнес — это служба надстройки, которая позволяет использовать Microsoft Teams для телефонных звонков. Это сочетает в себе телефонную систему, внутренний телефонный план, SMS и аудиоконференцию.
-ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cf759b14c6e3b1903a52206b8a97745105f5360c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663582"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671698"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Описание службы голосовой связи Microsoft 365 бизнес
 
@@ -29,7 +29,7 @@ ms.locfileid: "54663582"
 |----------------------|------------------|------------|-----------|-----------|
 | Microsoft 365 бизнес базовый | Microsoft 365 корпоративный E1 | Microsoft 365 и Office 365 для государственных организаций G1 | Microsoft 365 и Office 365 для образования A1 | Microsoft 365 F1 |
 | Microsoft 365 бизнес стандарт | Microsoft 365 корпоративный E3 | Microsoft 365 и Office 365 для государственных организаций G3 | Microsoft 365 и Office 365 для образования A3 | Microsoft 365 F3 |
-| Microsoft 365 бизнес премиум | Microsoft 365 и Office 365 для некоммерческих организаций E1 | | | Office 365 F3 |
+| Подписка на Microsoft 365 бизнес премиум | Microsoft 365 и Office 365 для некоммерческих организаций E1 | | | Office 365 F3 |
 | Microsoft 365 Некоммерческий бизнес Basic | Microsoft 365 и Office 365 для некоммерческих организаций E3 | | | |
 | Microsoft 365 Некоммерческий стандарт бизнеса | | | | |
 
@@ -37,7 +37,7 @@ ms.locfileid: "54663582"
 
 В следующей таблице перечислены основные Голосовая связь Microsoft 365 бизнес, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций см. в списке голосовых [и видеозвонков.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
 
-| Функция | Голосовая связь Microsoft 365 бизнес | Голосовая связь Microsoft 365 бизнес Без плана вызова |
+| Возможность | Голосовая связь Microsoft 365 бизнес | Голосовая связь Microsoft 365 бизнес Без плана вызова |
 |---------|------------------------------|---------------------------------------------------|
 | Локальные номера | Да | Да<sup>*</sup> |
 | Вызов VoIP | Да | Да<sup>*</sup> |
@@ -51,7 +51,7 @@ ms.locfileid: "54663582"
 | Парковка вызовов | Да | Да<sup>*</sup> |
 | Переадресация звонков | Да | Да<sup>*</sup> |
 | Делегирование вызовов (поделитесь телефонной линией с делегатом) | Да | Да<sup>*</sup> |
-| Музыка на удержании | Да | Да<sup>*</sup> |
+| Музыка в режиме удержания | Да | Да<sup>*</sup> |
 | Блок вызовов | Да | Да<sup>*</sup> |
 | Автонабъехание расширения | Да | Да<sup>*</sup> |
 | Передача очереди автопроизводитель/вызов на общую голосовую почту | Да | Да<sup>*</sup> |

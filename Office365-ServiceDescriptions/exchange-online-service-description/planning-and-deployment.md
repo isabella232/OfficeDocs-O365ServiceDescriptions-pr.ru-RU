@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Узнайте о планировании и развертывании в Microsoft Exchange Online.
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663672"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671793"
 ---
 # <a name="planning-and-deployment"></a>Планирование и развертывание
 
@@ -35,7 +35,7 @@ ms.locfileid: "54663672"
 
 Развертывание только на основе облака  это развертывание, в котором организация в службе Exchange Online не работает совместно с локальной организацией Exchange. В облаке размещаются почтовые ящики всех пользователей, а управление ведется через Exchange Online и Office 365.
   
-### <a name="hybrid"></a>Гибридная среда
+### <a name="hybrid"></a>Гибридную
 
 Гибридное развертывание, доступное для Microsoft Exchange 2003, Exchange 2007, Exchange 2010 и Exchange 2013, позволяет обеспечить долгосрочное сосуществование, где некоторые почтовые ящики размещаются локально, а другие почтовые ящики  в Exchange Online. Его можно использовать до переноса всех пользовательских почтовых ящиков в Exchange Online. Гибридное развертывание позволяет организациям расширять многофункциональные возможности и средства администрирования существующей локальной организации Microsoft Exchange на облако. Функции гибридного развертывания включают защищенный транспорт почты, общие календарные данные о занятости, а также отслеживание сообщений между локальной организацией и Exchange Online.
   

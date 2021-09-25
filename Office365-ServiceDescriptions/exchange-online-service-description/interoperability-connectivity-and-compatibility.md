@@ -8,21 +8,21 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-interoperability-connectivity-compatibility
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 9e0ef704a1b43a81bffdd177aeef3f09c472103aa178c11867d1cc9db8b1aee2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cae4f051e788073223e67364cf36af102e06f4e2
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663782"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671959"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Взаимодействие, связь и совместимость
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Совместимость с другими продуктами корпорации Майкрософт
 
-### <a name="skype-for-business-online"></a>Skype для Бизнеса Онлайн
+### <a name="skype-for-business-online"></a>Skype для бизнеса Online
 
 Для клиентов, у которых локально развернут Microsoft Lync Server 2010, Lync Server 2013 или Microsoft Office Communications Server 2007 R2, Microsoft Office Communicator обеспечивает подключение к Microsoft Exchange через Интернет с помощью веб-служб Exchange, чтобы получить доступ к сообщениям об отсутствии и данным календаря.
   

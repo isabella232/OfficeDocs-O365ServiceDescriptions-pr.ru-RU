@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Узнайте, какие функции доступны в различных Yammer планах.
-ms.openlocfilehash: 3b899a5f17ef501305d5057268053e843ad4c383
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363566"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673100"
 ---
 # <a name="yammer-service-description"></a>Описание службы Yammer
 
@@ -31,7 +31,7 @@ ms.locfileid: "58363566"
 
 В следующей таблице перечислены основные доступные Yammer функции. Эта таблица может изменяться без уведомления (применяются определенные оговорки).
 
-| Функция  | Для малого бизнеса | Корпоративный | Для образования |
+| Возможность  | Для малого бизнеса | Корпоративный | Для образования |
 |---------|---------|---------|---------|
 |[Yammer каналов](https://support.microsoft.com/office/what-s-in-the-yammer-home-and-discovery-feeds-faaadbe1-4e57-4f17-89f1-e546509fba47) | Да     | Да     | Да     |
 |[Сообщества](https://support.microsoft.com/office/manage-communities-33f252f7-6241-40e1-8f42-ce1b635176fb) | Да     | Да     | Да     |

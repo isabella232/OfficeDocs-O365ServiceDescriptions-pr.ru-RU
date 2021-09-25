@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 — это облачная служба фильтрации электронной почты, которая помогает защитить организацию от неизвестных вредоносных программ и вирусов, обеспечивая надежную защиту нулевого дня и включает функции для защиты организации от вредных ссылок в режиме реального времени.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663102"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670344"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Описание службы Microsoft Defender для Office 365
 
@@ -39,7 +39,7 @@ Microsoft Defender for Office 365 — это облачная служба фи�
 
 В следующей таблице перечислены основные функции Microsoft Defender для Office 365, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Полный список функций Microsoft Defender для Office 365 в планах см. в описании службы [Microsoft Defender для Office 365 features.](microsoft-defender-for-office-365-features.md)
 
-| Функция | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security |
+| Возможность | Defender для Office 365 (план 1) | Defender для Office 365 (план 2) | Microsoft 365 E5 / A5 Security |
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *Конфигурация, защита и обнаружение* | | | |
 | Предустановленные политики безопасности и анализатор конфигурации | Да | Да | Да |

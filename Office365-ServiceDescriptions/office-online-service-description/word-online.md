@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - word-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word для Интернета (ранее Word Web App) расширяет Microsoft Word веб-браузер, где вы можете работать с документами непосредственно на веб-сайте, где хранится документ.
-ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702888"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672729"
 ---
 # <a name="word-for-the-web"></a>Word в Интернете
 
@@ -125,7 +125,7 @@ Microsoft Word включает встроенную поддержку ввод
 
 С Word для Интернета можно легко создать ссылки на закладки в документе и установить подсказку экрана, отображаемую при указывает курсор на ссылку. Дополнительные новости о [гиперссылках в Word для Интернета](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
-## <a name="index"></a>Индекс
+## <a name="index"></a>Index
 
 Указатель содержит термины и темы, рассматриваемые в документе, а также страницы, на которых они встречаются. Чтобы создать указатель, отметьте каждый его элемент, указав имя основного элемента и перекрестную ссылку в документе.
   

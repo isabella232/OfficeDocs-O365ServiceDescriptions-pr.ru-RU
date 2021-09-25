@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-health
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Майкрософт могут просмотреть состояние служб и узнать, когда планируется обслуживание. Сведения о состоянии здоровья службы доступны в любое время при входе.
-ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 497568f54fc5a761278902eb26e92bc52789c9b5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701818"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672970"
 ---
 # <a name="service-health-and-continuity"></a>Работоспособность и непрерывная работа служб
 

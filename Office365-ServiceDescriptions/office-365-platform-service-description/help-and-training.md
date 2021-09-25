@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 предоставляет следующие ресурсы справки и обучения.
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663012"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671402"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -43,7 +43,7 @@ Microsoft Office 365 предоставляет следующие ресурс�
     
 - [Навыки поддержки администратора Office 365: основные понятия](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
-## <a name="community"></a>Сообщество
+## <a name="community"></a>Community
 
 > [!NOTE]
 > Ресурсы сообщества подходят для международных версий Office 365:. Если у вас есть план Office 365:, которым управляет 21Vianet, вы можете использовать приложение WeChat. Откройте статью [План Office 365, которым управляет 21Vianet: техническая поддержка и помощь в решении вопросов по подписке и выставлению счетов](/microsoft-365/admin/contact-support-for-business-products) и прокрутите страницу вниз, чтобы увидеть QR-код. 

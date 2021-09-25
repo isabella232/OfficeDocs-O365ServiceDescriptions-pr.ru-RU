@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office веб-приложения) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование Office из любой точки с подключением к Интернету практически с любого устройства. Microsoft 365 пользователи с word, Excel, OneNote или PowerPoint могут просматривать, создавать и изменять файлы в режиме go.
-ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702098"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670021"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
