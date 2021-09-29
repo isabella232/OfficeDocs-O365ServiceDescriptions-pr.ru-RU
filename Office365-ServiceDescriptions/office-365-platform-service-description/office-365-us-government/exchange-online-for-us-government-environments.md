@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор различий функций между облаком правительства США и коммерческим облаком, указанным в описании Exchange Online службы.
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671078"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986135"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online для правительственных сред США
 
@@ -40,7 +40,7 @@ ms.locfileid: "59671078"
 
 В следующей таблице описывается, доступны ли указанные Exchange Online функции в средах GCC, GCC High и DoD. Если имеются нюансы, касающиеся утверждения поддержки (или ее отсутствия), предоставляется дополнительный контекст.<br><br>
 
-| Возможность | GCC | GCC High | DoD | Ключевые соображения |
+| Функция | GCC | GCC High | DoD | Ключевые соображения |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Для сосуществования с Exchange Server локальной службой Корпорация Майкрософт требует установки по крайней мере одного сервера Exchange Server 2013 г. (или Exchange Server 2016 г.). Exchange Server 2010 и ранее не поддерживаются.|
@@ -51,7 +51,7 @@ ms.locfileid: "59671078"
 |Разрешения на основе ролей|Да|Да|Да||
 |Группы ролей|Да|Да|Да||
 |Политики назначения ролей|Да|Да|Да||
-|**[Политика сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
+|**[Политика обработки сообщений и соответствие требованиям](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Да|Да||
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да|Да|Да||
 |Messaging Records Management (MRM) |Да|Да|Да||
@@ -75,7 +75,7 @@ ms.locfileid: "59671078"
 |Карантин  управление администраторами|Да|Да|Да||
 |Карантин  самостоятельное управление пользователями|Да|Да|Да||
 |Microsoft Defender для Office 365|Да|Да|Да|Требуется план службы G5 (или покупка надстройки).<br><br>Средства защиты от фишинга для обезличения пользователей и домена и подмены сведений пока недоступны в GCC High и DoD.|
-|**[Поток почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
+|**[Поток обработки почты](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да||
 |Secure messaging with a trusted partner|Да|Да|Да||
 |Conditional mail routing|Да|Да|Да||
@@ -121,7 +121,7 @@ ms.locfileid: "59671078"
 |Базовая мобильность и безопасность для Microsoft 365|Да|Нет|Нет||
 |POP и IMAP|Да|Да|Да||
 |SMTP|Да|Да|Да||
-|Поддержка приложений EWS|Да|Да|Да||
+|Поддержка приложений EWS<sup>2</sup>|Да|Да|Да||
 |**[Службы голосовых сообщений](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Голосовая почта|Нет|Нет|Нет|Интеграция локальной системы IP-PBX с Exchange Online единой системы обмена сообщениями не поддерживается.|
 |Интеграция голосовой почты и сторонних факсов|Нет|Нет|Нет|Интеграция локальной системы IP-PBX с Exchange Online единой системы обмена сообщениями не поддерживается.|
@@ -147,7 +147,8 @@ ms.locfileid: "59671078"
 |**[Расширение службы — настройка, надстройки и ресурсы](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Ключевые соображения**|
 |Outlook надстройки и Outlook MAPI|Да|Да|Да|Только некоторые надстройки OWA и Outlook доступны в GCC High и DoD. В этой статье см. Outlook [и Outlook Web App](#add-insin-outlook-and-outlook-web-app) надстройки.|
 
-<sup>1</sup> Outlook в Интернете можно использовать в сценариях, когда Outlook для Windows не удается отобразить защищенные IRM-сообщения из-за трансграничных ограничений (GCC высокой или GCC высокой).
+<sup>1</sup> Outlook в Интернете можно использовать в сценариях, когда Outlook для Windows не удается отобразить защищенные IRM-сообщения из-за трансграничных ограничений (GCC высокой или GCC высокой).</br>
+<sup>2</sup> Только отступив к определенным адресным пространствам, клиент может доказать, что они имеют разрешенные, поэтому это исключает сторонние службы и широкие диапазоны IP, используемые мобильными устройствами.
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Нюансы функций в GCC среде High и DoD
 
