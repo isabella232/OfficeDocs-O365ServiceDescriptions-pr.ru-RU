@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672072"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015703"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -82,7 +82,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Разрешения на основе ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Да|Да|Да|Нет|
-|**[Политика сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
+|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Архивация почтовых ящиков на основе Exchange Online| Нет|Нет|Да|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Да<sup>9</sup>|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>1</sup>|Да<sup>1</sup>|Нет|Нет|Да|Да|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|Да|Да|Да|
@@ -106,7 +106,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Карантин  управление администраторами|Да|Да|Да|Да|Да|Да|Да|Да <sup>7</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|Да|Да|Да|
 |Microsoft Defender для Office 365|Нет|Нет|Нет|Нет|Нет|Нет|Да|Нет|
-|**[Поток почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
+|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 бизнес базовый**|**Microsoft 365 бизнес стандарт**|**Office 365 корпоративный E1**|**Office 365 корпоративный E3**|**Office 365 корпоративный E5**|**Office 365 корпоративный F3**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|Да|Да|Да|
@@ -218,7 +218,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -240,7 +240,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Customize anti-malware policies|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|
-|**[Поток почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|
@@ -328,7 +328,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 <sup>14</sup> Клиентам, работающим Exchange Server 2013 или более поздней версии, необходимо скачать и установить последнее накопительное обновление (CU) или предыдущий ЦС, чтобы получить доступ к дактилоскопии и политике документов Советы в OWA и OWA для устройств. <br/>
 <sup>15</sup> Доступно клиентам, работающим Exchange Server 2013 или более поздней. <br/>
 Шифрование диска BitLocker <sup>16</sup> поддерживается Exchange Server 2013 г., но администратору необходимо включить эту функцию. <br/>
-<sup>17</sup> Exchange Online плана 1 имеет ограничение [размера почтового ящика и архива.](./exchange-online-limits.md) Exchange Online Archiving для Exchange Online надстройка добавляет неограниченный облачный архив и [удержание на месте.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online плана 1 имеет ограничение [размера почтового ящика и архива.](./exchange-online-limits.md) Exchange Online Archiving для Exchange Online надстройка добавляет до 1,5 ТБ облачного архива и [удержания на месте.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18 базовая подписка на Exchange Online</sup> можно получить доступ или делиться только через OWA. <br/>
 <sup>19 подключенных</sup> учетных записей поддерживаются для учетных записей POP IMAP, но отключены &amp; для Outlook.com (Hotmail). <br/>
 <sup>20</sup> Использование cmdlets в Exchange Online PowerShell для настройки списков адресов по умолчанию и глобального списка адресов по умолчанию (GAL) не поддерживается. <br/>

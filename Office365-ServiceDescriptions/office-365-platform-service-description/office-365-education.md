@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия между планами Office 365 образования, в этой статье покажут, какие функции включены в каждый из них. Office 365 объединяет знакомый Microsoft Office настольный набор с облачными версиями служб связи и совместной работы нового поколения Майкрософт, включая &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям быть продуктивными практически из любой &mdash; точки интернета.
-ms.openlocfilehash: 55e285a62f2e4a955e88a416f40c800ad1489ff7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 15bce797a898f3db0260842850a9d54c5c08ec21
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671416"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015662"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -31,17 +31,17 @@ ms.locfileid: "59671416"
   
 | Служба | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
-|Office 365 платформа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Exchange Online  <br/> |Да<sup>5</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|SharePoint Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|OneDrive для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса Online  <br/> |Да<sup>7</sup> <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |
-|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Приложения Office  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Project  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
-|Power BI  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Yammer для образования  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Azure Information Protection<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|Office 365 платформа  |Да  |Да  |Да  |
+|Exchange Online  |Да<sup>5</sup> |Да<sup>4</sup> |Да<sup>4</sup> |
+|SharePoint Online  |Да  |Да  |Да  |
+|OneDrive для бизнеса  |Да  |Да  |Да  |
+|Skype для бизнеса Online  |Да<sup>7</sup> |Да<sup>6</sup> |Да<sup>6</sup> |
+|Office в Интернете  |Да  |Да  |Да  |
+|Приложения Office  |Нет  |Да  |Да  |
+|Проект  |No<sup>1</sup> |No<sup>1</sup> |No<sup>1</sup> |
+|Power BI  |Нет  |Нет  |Да  |
+|Yammer для образования  |Да  |Да  |Да  |
+|Azure Information Protection<sup>2</sup> |Да  |Да  |Да  |
    
 > [!NOTE]
 > <sup>1</sup> Microsoft Project не входит в Office 365, но может быть приобретена отдельно. Project Online базовый бесплатно. Если вы студент или учебное заведение, вы можете приобрести Project, план 3 и план 5 по образовательным ценам.   <br/> 
@@ -62,120 +62,120 @@ ms.locfileid: "59671416"
 
 В следующей таблице перечислены все возможности платформы, доступные Office 365 образовательных планов. Сведения о ценах и особенностях в плане см. в Office 365 для образования [планах.](https://products.office.com/en/academic/compare-office-365-education-plans)<br><br>
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Возможности администрирования Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Администрирование Office 365 с помощью Центр администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Защита содержимого с помощью Azure Information Protection  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Функции набора Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Bookings  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Briefing email<sup>10</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Power Automate  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|API Microsoft Graph  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft MyAnalytics<sup>9</sup>  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Планировщик Microsoft  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft PowerApps  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft StaffHub  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Stream<sup>8</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Sway  <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |
-|Microsoft Teams  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office Delve  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Группы Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Office 365 Видео  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Записная книжка OneNote для занятий  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Управление учетными записями пользователей](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Установщик обновлений Office 365: для рабочего стола  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Массовая отправка с помощью CSV-файлов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Средство синхронизации каталогов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Простая (прямая) миграция Exchange  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Удаление учетных записей и сброс паролей пользователей из Office 365 или с помощью Windows PowerShell<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Пользователи могут изменить собственный пароль<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление лицензиями<sup>4</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление группами безопасности из Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Несколько доступных ролей администратора  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Возможность разрешить партнеру администрировать Office 365 вместо вас  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Службы Azure Active Directory  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Домены](domains.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Добавление личных доменов второго уровня, например fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Добавление личных доменов третьего уровня, например marketing.fourthcoffee.com  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Добавление до 900 пользовательских доменов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Записи DNS, управляемые Office 365 (полное перенаправление)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Записи DNS, управляемые поставщиком услуг размещения DNS (частичное перенаправление)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование домена **имя.onmicrosoft.com** или имени личного домена для электронных адресов и Skype для бизнеса Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование домена **имя.sharepoint.com** для сайта группы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование имени личного домена для сайта группы  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Размещение общедоступного веб-сайта у другого поставщика  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование другого поставщика для электронной почты и обмена мгновенными сообщениями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Проверка владения доменом, требуемая для пользовательских доменов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Доступность автоматического приобретения и проверки доменов, приобретенных через Go Daddy  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Работоспособность и непрерывная работа служб](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Информация о состоянии службы доступна на странице **Работоспособность службы** или **Состояние службы**  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Состояние отдельных оповещений, доступных на Центр администрирования Microsoft 365 панели мониторинга  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|RSS-канал Работоспособность службы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Отчеты](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Активные и неактивные почтовые ящики  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Новые и удаленные почтовые ящики  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Новые и удаленные группы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование почтового ящика  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Типы подключения к почтовому ящику  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отправленная и полученная почта  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Пользователи, которые чаще всего отправляют и получают почту  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Обнаружения нежелательной почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Обнаружения вредоносных программ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Вредоносные программы для почты: первые в списке  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия правилам для почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия правилам для почты: первые в списке  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия политике DLP для почты: первые в списке  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия политике DLP по уровню серьезности для почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия политики DLP, переопределения и ложные срабатывания для почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соответствия правилам DLP для почты: первые в списке  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Обмен мгновенными сообщениями и аудиосеансы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Общий доступ к приложениям, веб и телефонные конференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Общий доступ к видеофайлам, приложениям и сеансы передачи файлов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Обмен мгновенными сообщениями и аудио/видеоконференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отчеты о защите загружаемой почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование браузера  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Использование операционной системы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Создание собственных отчетов с Microsoft 365 веб-служб.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Обновления служб](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Регулярные обновления, предоставляемые всем клиентам  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Уведомления о необходимости выполнить действие, отправленные в Центр сообщений  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Roadmap.office.com для некоторых обновлений служб  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Возможность включить выпуск Targeted  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Справка и обучение](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Интерактивная справка  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Сообщество  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Другие ресурсы для самостоятельного разрешения вопросов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Для самостоятельного обучения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[сеть](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Протоколы IPv4 и IPv6  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**Доверие** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Конфиденциальность, безопасность и прозрачность](privacy-security-and-transparency.md) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расширенное управление безопасностью  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Defender для Office 365  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Защищенное хранилище пользователя  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Advanced eDiscovery<sup>7</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Безопасный балл<sup>5</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Аналитика угроз  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Соответствие требованиям](/microsoft-365/compliance/offering-home) <br/> ||||
-|Оценки по стандартам SAS 70 и SSAE16  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Сертификация ISO 27001  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Типовые статьи ЕС  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соглашение ЕС "Safe Harbor"  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соглашение с бизнес-партнерами HIPAA  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Разрешение на эксплуатацию по FISMA  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Соглашение по обработке данных Майкрософт  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Данные PAN, регулируемые PCI  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|[Непрерывность службы](service-health-and-continuity.md) <br/> ||||
-|**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Использование BlackBerry Internet Service (BIS)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Партнеры](partners.md) <br/> ||||
-|Создание приглашения ознакомиться с пробной версией и заказа на покупку для пользователя с указанным планом  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Предоставление делегированного администрирования  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Соглашение об уровне обслуживания](service-level-agreement.md) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Права на использование продуктов](product-use-rights.md) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|**[Возможности администрирования Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** ||||
+|Администрирование Office 365 с помощью Центр администрирования Microsoft 365 или Windows PowerShell  |Да  |Да  |Да  |
+|Защита содержимого с помощью Azure Information Protection  |Да  |Да  |Да  |
+|**[Функции набора Office 365](office-365-suite-features.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Microsoft Bookings  |Нет  |Да  |Да  |
+|Microsoft Briefing email<sup>10</sup> |Да  |Да  |Да  |
+|Microsoft Power Automate  |Да  |Да  |Да  |
+|Microsoft Forms  |Да  |Да  |Да  |
+|API Microsoft Graph  |Да  |Да  |Да  |
+|Microsoft MyAnalytics<sup>9</sup>  |Нет  |Да  |Да  |
+|Планировщик Microsoft  |Да  |Да  |Да  |
+|Microsoft PowerApps  |Да  |Да  |Да  |
+|Microsoft StaffHub  |Да  |Да  |Да  |
+|Microsoft Stream<sup>8</sup> |Да  |Да  |Да  |
+|Microsoft Sway  |Да<sup>6</sup> |Да<sup>6</sup> |Да<sup>6</sup> |
+|Microsoft Teams  |Да  |Да  |Да  |
+|Office Delve  |Да  |Да  |Да  |
+|Группы Office 365  |Да  |Да  |Да  |
+|Office 365 Видео  |Да  |Да  |Да  |
+|Записная книжка OneNote для занятий  |Да  |Да  |Да  |
+|**[Управление учетными записями пользователей](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности  |Да  |Да  |Да  |
+|Установщик обновлений Office 365: для рабочего стола  |Да  |Да  |Да  |
+|Массовая отправка с помощью CSV-файлов  |Да  |Да  |Да  |
+|Средство синхронизации каталогов  |Да  |Да  |Да  |
+|Простая (прямая) миграция Exchange  |Да  |Да  |Да  |
+|Удаление учетных записей и сброс паролей пользователей из Office 365 или с помощью Windows PowerShell<sup>2</sup> |Да  |Да  |Да  |
+|Пользователи могут изменить собственный пароль<sup>3</sup> |Да  |Да  |Да  |
+|Управление лицензиями<sup>4</sup> |Да  |Да  |Да  |
+|Управление группами безопасности из Office 365  |Да  |Да  |Да  |
+|Несколько доступных ролей администратора  |Да  |Да  |Да  |
+|Возможность разрешить партнеру администрировать Office 365 вместо вас  |Да  |Да  |Да  |
+|Службы Azure Active Directory  |Да  |Да  |Да  |
+|**[Домены](domains.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Добавление личных доменов второго уровня, например fourthcoffee.com  |Да  |Да  |Да  |
+|Добавление личных доменов третьего уровня, например marketing.fourthcoffee.com  |Да  |Да  |Да  |
+|Добавление до 900 пользовательских доменов  |Да  |Да  |Да  |
+|Записи DNS, управляемые Office 365 (полное перенаправление)  |Да  |Да  |Да  |
+|Записи DNS, управляемые поставщиком услуг размещения DNS (частичное перенаправление)  |Да  |Да  |Да  |
+|Использование домена **имя.onmicrosoft.com** или имени личного домена для электронных адресов и Skype для бизнеса Online  |Да  |Да  |Да  |
+|Использование домена **имя.sharepoint.com** для сайта группы  |Да  |Да  |Да  |
+|Использование имени личного домена для сайта группы  |Нет  |Нет  |Нет  |
+|Размещение общедоступного веб-сайта у другого поставщика  |Да  |Да  |Да  |
+|Использование другого поставщика для электронной почты и обмена мгновенными сообщениями  |Да  |Да  |Да  |
+|Проверка владения доменом, требуемая для пользовательских доменов  |Да  |Да  |Да  |
+|Доступность автоматического приобретения и проверки доменов, приобретенных через Go Daddy  |Да  |Да  |Да  |
+|**[Работоспособность и непрерывная работа служб](service-health-and-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Информация о состоянии службы доступна на странице **Работоспособность службы** или **Состояние службы**  |Да  |Да  |Да  |
+|Состояние отдельных оповещений, доступных на Центр администрирования Microsoft 365 панели мониторинга  |Да  |Да  |Да  |
+|RSS-канал Работоспособность службы  |Да  |Да  |Да  |
+|**[Отчеты](reports.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Активные и неактивные почтовые ящики  |Да  |Да  |Да  |
+|Новые и удаленные почтовые ящики  |Да  |Да  |Да  |
+|Новые и удаленные группы  |Да  |Да  |Да  |
+|Использование почтового ящика  |Да  |Да  |Да  |
+|Типы подключения к почтовому ящику  |Да  |Да  |Да  |
+|Отправленная и полученная почта  |Да  |Да  |Да  |
+|Пользователи, которые чаще всего отправляют и получают почту  |Да  |Да  |Да  |
+|Обнаружения нежелательной почты  |Да  |Да  |Да  |
+|Обнаружения вредоносных программ  |Да  |Да  |Да  |
+|Вредоносные программы для почты: первые в списке  |Да  |Да  |Да  |
+|Соответствия правилам для почты  |Да  |Да  |Да  |
+|Соответствия правилам для почты: первые в списке  |Да  |Да  |Да  |
+|Соответствия политике DLP для почты: первые в списке  |Да  |Да  |Да  |
+|Соответствия политике DLP по уровню серьезности для почты  |Да  |Да  |Да  |
+|Соответствия политики DLP, переопределения и ложные срабатывания для почты  |Да  |Да  |Да  |
+|Соответствия правилам DLP для почты: первые в списке  |Да  |Да  |Да  |
+|Обмен мгновенными сообщениями и аудиосеансы  |Да  |Да  |Да  |
+|Общий доступ к приложениям, веб и телефонные конференции  |Да  |Да  |Да  |
+|Общий доступ к видеофайлам, приложениям и сеансы передачи файлов  |Да  |Да  |Да  |
+|Обмен мгновенными сообщениями и аудио/видеоконференции  |Да  |Да  |Да  |
+|Отчеты о защите загружаемой почты  |Да  |Да  |Да  |
+|Использование браузера  |Да  |Да  |Да  |
+|Использование операционной системы  |Да  |Да  |Да  |
+|Создание собственных отчетов с Microsoft 365 веб-служб.  |Да  |Да  |Да  |
+|**[Обновления службы](service-updates.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Регулярные обновления, предоставляемые всем клиентам  |Да  |Да  |Да  |
+|Уведомления о необходимости выполнить действие, отправленные в Центр сообщений  |Да  |Да  |Да  |
+|Roadmap.office.com для некоторых обновлений служб  |Да  |Да  |Да  |
+|Возможность включить выпуск Targeted  |Да  |Да  |Да  |
+|**[Справка и обучение](help-and-training.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Интерактивная справка  |Да  |Да  |Да  |
+|Сообщество  |Да  |Да  |Да  |
+|Другие ресурсы для самостоятельного разрешения вопросов  |Да  |Да  |Да  |
+|Для самостоятельного обучения  |Да  |Да  |Да  |
+|**[сеть](networking.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Протоколы IPv4 и IPv6  |Да  |Да  |Да  |
+|**Доверие** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|[Конфиденциальность, безопасность и прозрачность](privacy-security-and-transparency.md) |Да  |Да  |Да  |
+|Расширенное управление безопасностью  |Нет  |Да  |Да  |
+|Microsoft Defender для Office 365  |Нет  |Нет  |Да  |
+|Защищенное хранилище пользователя  |Нет  |Нет  |Да  |
+|Advanced eDiscovery<sup>7</sup> |Нет  |Нет  |Да  |
+|Безопасный балл<sup>5</sup> |Да  |Да  |Да  |
+|Аналитика угроз  |Нет  |Нет  |Да  |
+|[Соответствие требованиям](/microsoft-365/compliance/offering-home) ||||
+|Оценки по стандартам SAS 70 и SSAE16  |Да  |Да  |Да  |
+|Сертификация ISO 27001  |Да  |Да  |Да  |
+|Типовые статьи ЕС  |Да  |Да  |Да  |
+|Соглашение ЕС "Safe Harbor"  |Да  |Да  |Да  |
+|Соглашение с бизнес-партнерами HIPAA  |Да  |Да  |Да  |
+|Разрешение на эксплуатацию по FISMA  |Да  |Да  |Да  |
+|Соглашение по обработке данных Майкрософт  |Да  |Да  |Да  |
+|Данные PAN, регулируемые PCI  |Нет  |Нет  |Нет  |
+|[Непрерывность службы](service-health-and-continuity.md) ||||
+|**[BlackBerry](blackberry.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Использование BlackBerry Internet Service (BIS)  |Да  |Да  |Да  |
+|[Партнеры](partners.md) ||||
+|Создание приглашения ознакомиться с пробной версией и заказа на покупку для пользователя с указанным планом  |Да  |Да  |Да  |
+|Предоставление делегированного администрирования  |Да  |Да  |Да  |
+|[Соглашение об уровне обслуживания](service-level-agreement.md) |Да  |Да  |Да  |
+|[Права на использование продуктов](product-use-rights.md) |Да  |Да  |Да  |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 не обеспечивает поддержку любой операционной системы, не поддерживаемой ее производителем.<br/> 
@@ -196,30 +196,30 @@ ms.locfileid: "59671416"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Расширенное управление безопасностью](/cloud-app-security/what-is-cloud-app-security) <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|[Управление угрозами,](/office365/securitycompliance/protect-against-threats)например фильтрация почты и антивирусная программа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Advanced threat management,](/microsoft-365/security/office-365-security/office-365-ti)such as threat explorer for phishing campaigns <sup>5</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Защищенное хранилище пользователя](/office365/securitycompliance/customer-lockbox-requests) |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Управление мобильными устройствами](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Защита от потери данных](/office365/securitycompliance/data-loss-prevention-policies) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Управление данными](/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Расширенное управление данными](/office365/securitycompliance/labels)<sup>2</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Поиск контента](/office365/securitycompliance/search-for-content)<br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[дела об обнаружении электронной почты](/office365/securitycompliance/ediscovery-cases) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Экспорт при обнаружении электронных данных](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[удерживает электронные данные (в том числе удерживает электронные данные на основе запросов)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Архиватив 3](/office365/securitycompliance/enable-archive-mailboxes)<sup></sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Политики хранения или удаления, задаваемого вручную](/office365/securitycompliance/retention-policies)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Единый аудит](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center) |Да  |Да  |Да  |
+|[Расширенное управление безопасностью](/cloud-app-security/what-is-cloud-app-security) |Нет  |Да  |Да  |
+|[Управление угрозами,](/office365/securitycompliance/protect-against-threats)например фильтрация почты и антивирусная программа  |Да  |Да  |Да  |
+|[Advanced threat management,](/microsoft-365/security/office-365-security/office-365-ti)such as threat explorer for phishing campaigns <sup>5</sup> |Нет  |Нет  |Да  |
+|[Защищенное хранилище пользователя](/office365/securitycompliance/customer-lockbox-requests) |Нет  |Нет  |Да  |
+|[Управление мобильными устройствами](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) |Да  |Да  |Да  |
+|[Защита от потери данных](/office365/securitycompliance/data-loss-prevention-policies) |Да  |Да  |Да  |
+|[Управление данными](/office365/securitycompliance/retention-policies)<sup>1</sup> |Да  |Да  |Да  |
+|[Расширенное управление данными](/office365/securitycompliance/labels)<sup>2</sup> |Нет  |Нет  |Да  |
+|[Поиск контента](/office365/securitycompliance/search-for-content)|Да  |Да  |Да  |
+|[дела об обнаружении электронной почты](/office365/securitycompliance/ediscovery-cases) |Да  |Да  |Да  |
+|[Экспорт при обнаружении электронных данных](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) |Да  |Да  |Да  |
+|[удерживает электронные данные (в том числе удерживает электронные данные на основе запросов)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Да  |Да  |Да  |
+|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> |Нет  |Нет  |Да  |
+|[Архиватив 3](/office365/securitycompliance/enable-archive-mailboxes)<sup></sup> |Да  |Да  |Да  |
+|[Политики хранения или удаления, задаваемого вручную](/office365/securitycompliance/retention-policies)  |Да  |Да  |Да  |
+|[Единый аудит](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> |Да  |Да  |Да  |
    
 > [!NOTE]
 > <sup>1</sup> Управление данными позволяет пользователям создавать, публиковать и вручную применять метки к документам; импорт данных с помощью доставки диска или по сети; создание и применение политик хранения и удаления для рабочих нагрузок, пользователей и групп. Применять политики хранения к почтовым ящикам можно, если есть Office 365 корпоративный E3 или E5. <br/> 
 <sup>2</sup> Advanced data governance allows you to retain important information and delete unimportant information by classifying information based on a retention or deletion policy or both. Она включает интеллектуальные и автоматизированные действия, такие как рекомендации политик; автоматическое применение меток к данным; применение меток на основе типов или запросов конфиденциальных данных; и использование интеллектуальных импортных фильтров. Она также включает функцию Supervision для проверки сообщений сотрудников в целях безопасности и соответствия требованиям. <br/> 
-<sup>3</sup> Безлимитный. <br/> 
+<sup>3</sup> До 1,5 ТБ пространства хранения архива. <br/> 
 <sup>4</sup> Advanced eDiscovery поддерживается в США и в регионе Западной Европы (Нидерланды). Данные пользователей из Канады и Азиатско-Тихоокеанского региона экспортируются в Соединенные Штаты. Данные пользователей из Европы, Ближнего Востока и Африки экспортируются в Западную Европу (Нидерланды). <br/> 
 <sup>5</sup> Microsoft Defender для Office 365 доступен в Office 365 A5 и в качестве автономных служб для Office 365 A1 и Office 365 A3.<br/>
 <sup>6</sup> Вы также можете использовать [API Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) управления для получения событий из единого журнала аудита. <br/>
@@ -228,54 +228,54 @@ ms.locfileid: "59671416"
 
 Используйте следующую таблицу для сравнения доступности функций в Office 365 образовательных планов.<br><br>
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |Нет<sup>3, 4</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Да<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Windows 10 Приложения](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Да<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Да<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Да<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Да<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|Outlook для Android  <br/> |Да<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|**Enterprise** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  <br/> |No<sup>3</sup> <br/> |Да  <br/> |Да  <br/> |
-|Автоматическое назначение учетных записей пользователей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Многоязыковой пользовательский интерфейс  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Принудительное развертывание клиента  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка клиентов для локального развертывания Exchange  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка клиентов для локального развертывания SharePoint  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Контроль обновлений программного обеспечения  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Средство сравнения баз данных  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Виртуализация рабочих столов  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Средство сравнения электронных таблиц Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Средство диагностики электронных таблиц Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Exchange Online and SharePoint Online Archiving and Compliance  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка групповой политики  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Управление правами на информацию с помощью Azure Information Protection  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление правами на доступ к данным с использованием Windows Server AD RMS  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
-|Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Телеметрия Office  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка автономного режима для клиентских приложений  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Power Map for Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|PowerPivot для Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Power Query для Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Power View для Excel  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Перемещаемые параметры  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Shared computer activation  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка блокировки облачного хранилища файлов  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Тематический поиск для обнаружения и повторного использования содержимого  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Version upgrades  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Активация корпоративных лицензий (KMS и MAK)  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) |Нет<sup>3, 4</sup> |Да  |Да  |
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) |Нет<sup>3, 4</sup> |Да  |Да  |
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) |Нет<sup>3, 4</sup> |Да  |Да  |
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) |Да  |Да  |Да  |
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) |No<sup>3</sup> |Да  |Да  |
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) |No<sup>3</sup> |Да  |Да  |
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) |No<sup>3</sup> |Да  |Да  |
+|[Skype для бизнеса](../office-applications-service-description/office-applications.md#skype-for-business) |Да<sup>2</sup> |Да  |Да  |
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) |No<sup>3</sup> |Да  |Да  |
+|[Windows 10 Приложения](../office-applications-service-description/office-applications.md#windows-10-apps) |No<sup>3</sup> |Да  |Да  |
+|[Office для Mac в Office 365](https://go.microsoft.com/fwlink/?linkid=197079) |No<sup>3</sup> |Да  |Да  |
+|[Office Mobile для iPad и iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) |Да<sup>3</sup> |Да  |Да  |
+|[Office Mobile для Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) |Да<sup>3</sup> |Да  |Да  |
+|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) |Да<sup>3</sup> |Да  |Да  |
+|[Office Mobile для Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) |Да<sup>3</sup> |Да  |Да  |
+|Outlook для Android  |Да<sup>3</sup> |Да  |Да  |
+|**Enterprise** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Установка на пяти компьютерах (в том числе Mac) для каждого пользователя  |No<sup>3</sup> |Да  |Да  |
+|Автоматическое назначение учетных записей пользователей  |Да  |Да  |Да  |
+|Многоязыковой пользовательский интерфейс  |Нет  |Да  |Да  |
+|Принудительное развертывание клиента  |Нет  |Да  |Да  |
+|Поддержка клиентов для локального развертывания Exchange  |Нет  |Да  |Да  |
+|Поддержка клиентов для локального развертывания SharePoint  |Нет  |Да  |Да  |
+|Контроль обновлений программного обеспечения  |Нет  |Да  |Да  |
+|Средство сравнения баз данных  |Нет  |Да  |Да  |
+|Виртуализация рабочих столов  |Нет  |Да  |Да  |
+|Средство сравнения электронных таблиц Excel  |Нет  |Да  |Да  |
+|Средство диагностики электронных таблиц Excel  |Нет  |Да  |Да  |
+|Exchange Online and SharePoint Online Archiving and Compliance  |Да  |Да  |Да  |
+|Поддержка групповой политики  |Нет  |Да  |Да  |
+|Управление правами на информацию с помощью Azure Information Protection  |Да  |Да  |Да  |
+|Управление правами на доступ к данным с использованием Windows Server AD RMS  |Да<sup>1</sup> |Да<sup>1</sup> |Да<sup>1</sup> |
+|Поддержка надстроек, ActiveX и вспомогательных объектов браузера Office  |Нет  |Да  |Да  |
+|Клиентский доступ OneNote к записным книжкам в SharePoint Server, SharePoint Online, OneDrive для бизнеса и Office 365  |Нет  |Да  |Да  |
+|Телеметрия Office  |Нет  |Да  |Да  |
+|Поддержка автономного режима для клиентских приложений  |Нет  |Да  |Да  |
+|Power Map for Excel  |Нет  |Да  |Да  |
+|PowerPivot для Excel  |Нет  |Да  |Да  |
+|Power Query для Excel  |Нет  |Да  |Да  |
+|Power View для Excel  |Нет  |Да  |Да  |
+|Перемещаемые параметры  |Нет  |Да  |Да  |
+|Shared computer activation  |Нет  |Да  |Да  |
+|Поддержка блокировки облачного хранилища файлов  |Нет  |Да  |Да  |
+|Тематический поиск для обнаружения и повторного использования содержимого  |Нет  |Да  |Да  |
+|Version upgrades  |Нет  |Да  |Да  |
+|Активация корпоративных лицензий (KMS и MAK)  |Нет  |Нет  |Нет  |
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/> 
@@ -293,130 +293,131 @@ ms.locfileid: "59671416"
 > - Microsoft Приложения Microsoft 365 для предприятий является ежемесячным предложением подписки последнего пакета Office настольных компьютеров. <br/>
 > - Microsoft Office Клиенты на локальном сервере online Server получают лицензию Office для Интернета редактирования, если приобрели лицензию на настольный набор Office (например, лицензию Office профессиональный плюс, Office стандартный или Приложения Microsoft 365 для предприятий). 
   
-| Приложение | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
+| Для приложений | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
 |:-----|:-----|:-----|
-|Word  <br/> |Word в Интернете <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel в Интернете <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote в Интернете <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint в Интернете <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio в Интернете  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Word  |Word в Интернете |[Word](../office-online-service-description/office-online-service-description.md#word) |
+|Excel  |Excel в Интернете |[Excel](../office-online-service-description/office-online-service-description.md#excel) |
+|OneNote  |OneNote в Интернете |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) |
+|PowerPoint  |PowerPoint в Интернете |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) |
+|Visio  |Visio в Интернете  |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) |
    
 ## <a name="exchange-online-features"></a>Функции Exchange Online 
 
 В следующей таблице перечислены Exchange Online, доступные в Office 365 образовательных планов.<br><br>
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Планирование и развертывание](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
-|Поддерживается гибридное развертывание  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддерживается миграция IMAP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка прямой миграции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддерживается поэтапная миграция  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Разрешения](../exchange-online-service-description/permissions.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Разрешения на основе ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Группы ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Политики назначения ролей  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Политика сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Архивация почтовых ящиков на основе Exchange Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Архивация сообщений в облаке для локальных почтовых ящиков  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Теги и политики хранения записей обмена сообщениями (MRM)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Шифрование статических данных (BitLocker)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|IRM на базе Azure Information Protection  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|IRM using Windows Server AD RMS  <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |Да<sup>1</sup> <br/> |
-|Шифрование сообщений Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|S/MIME  <br/> |Да  <br/> |Да  <br/> |Да  <br/> ||
-|Хранение на месте и хранение для судебного разбирательства  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Обнаружение электронных данных на месте  <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |Да<sup>8</sup> <br/> |
-|Правила транспорта  <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |Да<sup>2</sup> <br/> |
-|Защита от потери данных  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Ведение журнала  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Защита от нежелательной почты и вредоносных программ](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Встроенная защита от нежелательной почты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Customize anti-spam policies  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Встроенная защита от вредоносных программ  <br/> |Да<sup>3</sup> <br/> |Да<sup>3</sup> <br/> |Да<sup>3</sup> <br/> |
-|Customize anti-malware policies  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Карантин  управление администраторами  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Карантин  самостоятельное управление пользователями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Microsoft Defender для Office 365  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|**[Поток почты](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Настраиваемая маршрутная маршрутия исходящие сообщения  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Secure messaging with a trusted partner  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Conditional mail routing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Добавление партнера в входящий безопасный список  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Маршрутизация почты в гибридной конфигурации  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Получатели](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Оповещения о доступном объеме  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Папка "Несрочные"  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Подсказки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Делегированный доступ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Правила для папки "Входящие"  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Подключенные учетные записи  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |
-|Неактивные почтовые ящики  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Автономная адресная книга  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Политики адресных книг  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Иерархическая адресная книга  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Списки адресов и глобальный список адресов  <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |
-|Группы Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Группы рассылки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Внешние контакты (глобальный список)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Универсальная контактная карта  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Связь с социальными сетями  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Почтовые ящики ресурса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление конференц-залами  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Ответы об отсутствии на работе  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Общий доступ к календарю  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Функции создания отчетов и средства устранения неполадок](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Отчеты в Центре администрирования Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Excel отчетов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отчеты веб-служб  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Message trace  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отчеты аудита  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отчеты единой системы обмена сообщениями  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|**[Общий доступ и совместная работа](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Федераированный общий доступ (включая публикацию календаря)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Почтовые ящики сайта  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|Общедоступные папки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Клиенты и мобильные устройства](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook для Windows <sup>9</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Outlook в Интернете<sup>9</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Outlook для Mac<sup>9</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Outlook для iOS и Android<sup>9</sup> <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Exchange ActiveSync  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление мобильными устройствами для Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|POP и IMAP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|SMTP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка приложений EWS  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Службы голосовых сообщений](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Голосовая почта  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Интеграция голосовой почты и сторонних факсов  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Взаимодействие со сторонней голосовой почтой  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса интеграции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Высокая доступность и непрерывность бизнес-процессов](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Репликация почтовых ящиков в центрах обработки данных  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Восстановление удаленного почтового ящика  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Восстановление удаленных элементов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Восстановление отдельных элементов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> ||
-|**[Взаимодействие, связь и совместимость](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Skype для бизнеса oWA и Outlook  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|SharePoint совме-  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка подключения EWS  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поддержка ретрансляции SMTP  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Установка и администрирование Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Доступ к порталу Microsoft Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Центр администрирования Microsoft 365 доступа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Доступ к Центру администрирования Exchange  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Удаленный доступ к Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Политики ActiveSync для мобильных устройств  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Отчеты об использовании  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Расширение службы — настройка, надстройки и ресурсы](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook надстройки и Outlook MAPI  <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |Да<sup>7</sup> <br/> |
+|**[Планирование и развертывание](../exchange-online-service-description/planning-and-deployment.md)** ||||
+|Поддерживается гибридное развертывание  |Да  |Да  |Да  |
+|Поддерживается миграция IMAP  |Да  |Да  |Да  |
+|Поддержка прямой миграции  |Да  |Да  |Да  |
+|Поддерживается поэтапная миграция  |Да  |Да  |Да  |
+|**[Разрешения](../exchange-online-service-description/permissions.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Разрешения на основе ролей  |Да  |Да  |Да  |
+|Группы ролей  |Да  |Да  |Да  |
+|Политики назначения ролей  |Да  |Да  |Да  |
+|**[Политика обработки сообщений и соответствие требованиям](../exchange-online-service-description/message-policy-and-compliance.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Архивация почтовых ящиков на основе Exchange Online  |Да  |Да  |Да  |
+|Архивация сообщений в облаке для локальных почтовых ящиков  |Да  |Да  |Да  |
+|Теги и политики хранения записей обмена сообщениями (MRM)  |Да  |Да  |Да  |
+|Шифрование статических данных (BitLocker)  |Да  |Да  |Да  |
+|IRM на базе Azure Information Protection  |Да  |Да  |Да  |
+|IRM using Windows Server AD RMS  |Да<sup>1</sup> |Да<sup>1</sup> |Да<sup>1</sup> |
+|Шифрование сообщений Office 365  |Да  |Да  |Да  |
+|S/MIME  |Да  |Да  |Да  |
+|Хранение на месте и хранение для судебного разбирательства  |Да  |Да  |Да  |
+|Обнаружение электронных данных на месте  |Да<sup>8</sup> |Да<sup>8</sup> |Да<sup>8</sup> |
+|Правила транспорта  |Да<sup>2</sup> |Да<sup>2</sup> |Да<sup>2</sup> |
+|Защита от потери данных  |Да  |Да  |Да  |
+|Ведение журнала  |Да  |Да  |Да  |
+|**[Защита от нежелательной почты и вредоносных программ](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Встроенная защита от нежелательной почты  |Да  |Да  |Да  |
+|Customize anti-spam policies  |Да  |Да  |Да  |
+|Встроенная защита от вредоносных программ  |Да<sup>3</sup> |Да<sup>3</sup> |Да<sup>3</sup> |
+|Customize anti-malware policies  |Да  |Да  |Да  |
+|Карантин  управление администраторами  |Да  |Да  |Да  |
+|Карантин  самостоятельное управление пользователями  |Да  |Да  |Да  |
+|Microsoft Defender для Office 365  |Нет  |Нет  |Да  |
+|**[Поток обработки почты](../exchange-online-service-description/mail-flow.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Настраиваемая маршрутная маршрутия исходящие сообщения  |Да  |Да  |Да  |
+|Secure messaging with a trusted partner  |Да  |Да  |Да  |
+|Conditional mail routing  |Да  |Да  |Да  |
+|Добавление партнера в входящий безопасный список  |Да  |Да  |Да  |
+|Маршрутизация почты в гибридной конфигурации  |Да  |Да  |Да  |
+|**[Получатели](../exchange-online-service-description/recipients.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Оповещения о доступном объеме  |Да  |Да  |Да  |
+|Папка "Несрочные"  |Да  |Да  |Да  |
+|Подсказки  |Да  |Да  |Да  |
+|Делегированный доступ  |Да  |Да  |Да  |
+|Правила для папки "Входящие"  |Да  |Да  |Да  |
+|Подключенные учетные записи  |Да<sup>5</sup> |Да<sup>5</sup> |Да<sup>5</sup> |
+|Неактивные почтовые ящики  |Да  |Да  |Да  |
+|Автономная адресная книга  |Да  |Да  |Да  |
+|Политики адресных книг  |Да  |Да  |Да  |
+|Иерархическая адресная книга  |Да  |Да  |Да  |
+|Списки адресов и глобальный список адресов  |Да<sup>6</sup> |Да<sup>6</sup> |Да<sup>6</sup> |
+|Группы Office 365  |Да  |Да  |Да  |
+|Группы рассылки  |Да  |Да  |Да  |
+|Внешние контакты (глобальный список)  |Да  |Да  |Да  |
+|Универсальная контактная карта  |Да  |Да  |Да  |
+|Связь с социальными сетями  |Да  |Да  |Да  |
+|Почтовые ящики ресурса  |Да  |Да  |Да  |
+|Управление конференц-залами  |Да  |Да  |Да  |
+|Ответы об отсутствии на работе  |Да  |Да  |Да  |
+|Общий доступ к календарю  |Да  |Да  |Да  |
+|**[Функции создания отчетов и средства устранения неполадок](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Отчеты в Центре администрирования Microsoft 365  |Да  |Да  |Да  |
+|Excel отчетов  |Да  |Да  |Да  |
+|Отчеты веб-служб  |Да  |Да  |Да  |
+|Message trace  |Да  |Да  |Да  |
+|Отчеты аудита  |Да  |Да  |Да  |
+|Отчеты единой системы обмена сообщениями  |Нет  |Да  |Да  |
+|**[Общий доступ и совместная работа](../exchange-online-service-description/sharing-and-collaboration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Федераированный общий доступ (включая публикацию календаря)  |Да  |Да  |Да  |
+|Почтовые ящики сайта  |Да<sup>4</sup> |Да<sup>4</sup> |Да<sup>4</sup> |
+|Общедоступные папки  |Да  |Да  |Да  |
+|**[Клиенты и мобильные устройства](../exchange-online-service-description/clients-and-mobile-devices.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Outlook для Windows <sup>9</sup> |Да  |Да  |Да  |
+|Outlook в Интернете<sup>9</sup> |Да  |Да  |Да  |
+|Outlook для Mac<sup>9</sup> |Да  |Да  |Да  |
+|Outlook для iOS и Android<sup>9</sup> |Да  |Да  |Да  |
+|Exchange ActiveSync  |Да  |Да  |Да  |
+|Управление мобильными устройствами для Office 365  |Да  |Да  |Да  |
+|POP и IMAP  |Да  |Да  |Да  |
+|SMTP  |Да  |Да  |Да  |
+|Поддержка приложений EWS  |Да  |Да  |Да  |
+|**[Службы голосовых сообщений](../exchange-online-service-description/voice-message-services.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Голосовая почта  |Нет  |Да  |Да  |
+|Интеграция голосовой почты и сторонних факсов  |Нет  |Да  |Да  |
+|Взаимодействие со сторонней голосовой почтой  |Да  |Да  |Да  |
+|Skype для бизнеса интеграции  |Да  |Да  |Да  |
+|**[Высокая доступность и непрерывность бизнес-процессов](../exchange-online-service-description/high-availability-and-business-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Репликация почтовых ящиков в центрах обработки данных  |Да  |Да  |Да  |
+|Восстановление удаленного почтового ящика  |Да  |Да  |Да  |
+|Восстановление удаленных элементов  |Да  |Да  |Да  |
+|Восстановление отдельных элементов  |Да  |Да  |Да  |
+|**[Взаимодействие, связь и совместимость](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Skype для бизнеса oWA и Outlook  |Да  |Да  |Да  |
+|SharePoint совме-  |Да  |Да  |Да  |
+|Поддержка подключения EWS  |Да  |Да  |Да  |
+|Поддержка ретрансляции SMTP  |Да  |Да  |Да  |
+|**[Установка и администрирование Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Доступ к порталу Microsoft Office 365  |Да  |Да  |Да  |
+|Центр администрирования Microsoft 365 доступа  |Да  |Да  |Да  |
+|Доступ к Центру администрирования Exchange  |Да  |Да  |Да  |
+|Удаленный доступ к Windows PowerShell  |Да  |Да  |Да  |
+|Политики ActiveSync для мобильных устройств  |Да  |Да  |Да  |
+|Отчеты об использовании  |Да  |Да  |Да  |
+|**[Расширение службы — настройка, надстройки и ресурсы](../exchange-online-service-description/exchange-online-service-description.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Outlook надстройки и Outlook MAPI  |Да<sup>7</sup> |Да<sup>7</sup> |Да<sup>7</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
 <sup>2</sup> Правила транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Доступные критерии и действия различаются между Exchange Online и Microsoft Exchange Server 2013 г. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/> 
 <sup>3</sup> Exchange Server 2013 г. используется только антивирусный двигатель Майкрософт. Exchange Online использует несколько модулей для сканирования входящих, исходящих и внутренних сообщений на наличие вредоносных программ. <br/> 
 <sup>4</sup> SharePoint Online должен быть включен в план подписки. <br/> 
-<sup>5</sup> Подключенные учетные записи поддерживаются для учетных записей POP и IMAP, но отключены для Outlook.com (Hotmail). <br/> <sup>6</sup> Использование комлета для работы со списком адресов и глобальным адресным списком не поддерживается. <br/> 
+<sup>5</sup> Подключенные учетные записи поддерживаются для учетных записей POP и IMAP, но отключены для Outlook.com (Hotmail). <br/> 
+<sup>6</sup> Использование комлета для работы со списком адресов и глобальным адресным списком не поддерживается. <br/> 
 <sup>7</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/> 
 <sup>8</sup> Для eDiscovery требуется отдельный запрос для локального или облачного. <br/> 
 <sup>В таблице 9</sup> указывается, работает ли клиент с связанными планами. Указанные в ней клиенты могут и не входить в эти планы на момент приобретения последних. 
@@ -477,32 +478,32 @@ ms.locfileid: "59671416"
     
 - **Глобальные списки** адресов — максимальное число глобальных списков адресов (GAL), созданных в организации Exchange Online или Exchange Server 2013 г. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение списка адресов  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
-|Ограничение автономной адресной книги  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Ограничение политик адресной книги (ABP)  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Ограничение глобальных списков адресов  <br/> |250  <br/> |250  <br/> |250  <br/> |
+|Ограничение списка адресов  |1000  |1000  |1000  |
+|Ограничение автономной адресной книги  |250  |250  |250  |
+|Ограничение политик адресной книги (ABP)  |250  |250  |250  |
+|Ограничение глобальных списков адресов  |250  |250  |250  |
    
 #### <a name="mailbox-storage-limits"></a>Ограничения объемов хранилища почтовых ящиков
 
 Доступный объем хранилища почтового ящика определяется типом почтового ящика и лицензией пользователя на подписку. Администраторы могут уменьшить максимальный размер почтовых ящиков отдельного пользователя или глобально.
   
 > [!NOTE]
-> Не разрешается использование функции ведения журнала, правил транспорта или правил автоматической пересылки для копирования сообщений в почтовый ящик Exchange Online, чтобы создать архив. Архивный почтовый ящик пользователя предназначен только для этого пользователя. Майкрософт оставляет за собой право отказать в неограниченном архивировании, если архивный почтовый ящик пользователя используется для хранения архивных данных других пользователей и в других случаях ненадлежащего использования.
+> Не разрешается использование функции ведения журнала, правил транспорта или правил автоматической пересылки для копирования сообщений на почтовый ящик Exchange Online, чтобы создать архив. Архивный почтовый ящик пользователя предназначен только для этого пользователя. Корпорация Майкрософт оставляет за собой право отказать в дополнительном пространстве хранения архива в тех случаях, когда архивный почтовый ящик пользователя используется для хранения архивных данных для других пользователей или в других случаях ненадлежащего использования.
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|почтовые ящики пользователей;  <br/> |50 ГБ  <br/> |100 ГБ  <br/> |100 ГБ  <br/> |
-|Архив почтовых ящиков<sup>6, 7</sup> <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |
-|Общие почтовые ящики  <br/> |50 ГБ<sup>2</sup> <br/> |50 ГБ<sup>2</sup> <br/> |50 ГБ<sup>2</sup> <br/> |
-|Почтовые ящики ресурса  <br/> |50 ГБ<sup>3</sup> <br/> |50 ГБ<sup>3</sup> <br/> |50 ГБ<sup>3</sup> <br/> |
-|Почтовые ящики<sup>сайта 4</sup> <br/> |50 ГБ  <br/> |50 ГБ  <br/> |50 ГБ  <br/> |
-|Почтовые ящики общедоступных папок  <br/> |50 ГБ<sup>5</sup> <br/> |100 ГБ<sup>5</sup> <br/> |100 ГБ<sup>5</sup> <br/> |
-|Почтовые ящики групп  <br/> |50 ГБ  <br/> |50 ГБ  <br/> |50 ГБ  <br/> |
+|почтовые ящики пользователей;  |50 ГБ  |100 ГБ  |100 ГБ  |
+|Архив почтовых ящиков<sup>6, 7</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
+|Общие почтовые ящики  |50 ГБ<sup>2</sup> |50 ГБ<sup>2</sup> |50 ГБ<sup>2</sup> |
+|Почтовые ящики ресурса  |50 ГБ<sup>3</sup> |50 ГБ<sup>3</sup> |50 ГБ<sup>3</sup> |
+|Почтовые ящики<sup>сайта 4</sup> |50 ГБ  |50 ГБ  |50 ГБ  |
+|Почтовые ящики общедоступных папок  |50 ГБ<sup>5</sup> |100 ГБ<sup>5</sup> |100 ГБ<sup>5</sup> |
+|Почтовые ящики групп  |50 ГБ  |50 ГБ  |50 ГБ  |
    
 > [!NOTE]
-> <sup>1</sup> Каждый пользователь получает 100 ГБ памяти в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительные сведения см. в статье "Общие сведения о неограниченной архивации в Office 365". Подробные сведения о доступности см. в стратегии развития Office 365. <br/> 
+> <sup>1</sup> Каждый пользователь получает 100 ГБ памяти в архивном почтовом ящике. Если включена неограниченная архивация, память автоматически добавляется после исчерпания этой квоты. Дополнительное пространство для хранения добавляется постепенно, пока емкость хранилища архива не достигнет 1,5 ТБ. Дополнительные сведения [см. в обзоре автоматического расширения архива.](/microsoft-365/compliance/autoexpanding-archiving) Подробные сведения о доступности см. в стратегии развития Office 365. <br/> 
 <sup>2</sup> Чтобы получить доступ к общему почтовому ящику, пользователь должен иметь Exchange Online лицензию. Для общих почтовых ящиков не нужна отдельная лицензия. Однако если вы хотите включить In-Place Архив или поместить In-Place удержание или удержание судебного разбирательства на общий почтовый ящик, то требуется лицензия Exchange Online Plan 2 или Exchange Online Plan 1 с Exchange Online Archiving лицензией. Если для общего почтового ящика включен архив на месте и неограниченная архивация, память автоматически добавляется после исчерпания 100 ГБ. <br/> 
 <sup>3</sup> Почтовые ящики ресурса не требуют лицензии.<br/> 
 <sup>4</sup> почтовых ящика сайта создаются и управляются в SharePoint Online. Дополнительные сведения см. в статье Подготовка к использованию почтовых ящиков сайта в Office 365.<br/> 
@@ -520,11 +521,11 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Запретить отправку и** получение Exchange Online отклоняет входящие сообщения при ограничении размера почтового ящика и отправляет отправительу отчет о невывозе. Отправитель имеет возможность попробовать отправить почту позже. Чтобы снова получать сообщения, пользователь должен удалять почту, пока почтовый ящик не вернется к максимально допустимому размеру. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Предупреждение  <br/> |49 ГБ  <br/> |98 ГБ  <br/> |98 ГБ  <br/> |
-|Запрет отправки  <br/> |49,5 ГБ  <br/> |99 ГБ  <br/> |99 ГБ  <br/> |
-|Запрет отправки и получения  <br/> |50 ГБ  <br/> |100 ГБ  <br/> |100 ГБ  <br/> |
+|Предупреждение  |49 ГБ  |98 ГБ  |98 ГБ  |
+|Запрет отправки  |49,5 ГБ  |99 ГБ  |99 ГБ  |
+|Запрет отправки и получения  |50 ГБ  |100 ГБ  |100 ГБ  |
    
 #### <a name="mailbox-folder-limits"></a>Ограничения для папок почтовых ящиков
 
@@ -552,23 +553,23 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Предупреждение** о количестве подвечников в общедоступных папках — указывает количество подмостков, которые можно создать в общедоступных папках до Exchange Online отправки предупреждающих сообщений владельцу папки. Если владелец отсутствует, предупреждения отправляются пользователям с правами владельцев. После достижения этой квоты предупреждения отправляются один раз в день. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Максимальное количество сообщений в папке почтового ящика  <br/> |1 миллион  <br/> |1 миллион  <br/> |1 миллион  <br/> |
-|Предупреждение о количестве сообщений в папке почтового ящика  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
-|Максимальное количество сообщений для каждой папки в папке "Элементы с возможностью восстановления"  <br/> |3 млн  <br/> |3 млн  <br/> |3 млн  <br/> |
-|Квота хранилища для папки "Элементы с возможностью восстановления" в основном почтовом ящике (не на удержании)  <br/> |30 ГБ  <br/> |30 ГБ  <br/> |30 ГБ  <br/> |
-|Квота хранилища для папки "Элементы с возможностью восстановления" в основном почтовом ящике (на удержании)  <br/> |100 ГБ  <br/> |100 ГБ  <br/> |100 ГБ  <br/> |
-|Квота хранилища для папки "Элементы с возможностью восстановления" в архивном почтовом ящике (не на удержании)  <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |
-|Квота хранилища для папки "Элементы с возможностью восстановления" в архивном почтовом ящике (на удержании)  <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |Без ограничений<sup>1</sup> <br/> |
-|Предупреждение о количестве сообщений для каждой папки в папке "Элементы с возможностью восстановления"  <br/> |2,75 млн  <br/> |2,75 млн  <br/> |2,75 млн  <br/> |
-|Максимальное количество вложенных папок в папке почтового ящика  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
-|Предупреждение о количестве вложенных папок в папке почтового ящика  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
-|Максимальное число уровней в иерархии папок  <br/> |300  <br/> |300  <br/> |300  <br/> |
-|Предупреждение о числе уровней в иерархии папок  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Максимальное количество общедоступных папок  <br/> |250,000  <br/> |250,000  <br/> |250,000  <br/> |
-|Максимальное количество вложенных папок в общедоступной папке  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
-|Предупреждение о количестве вложенных папок в общедоступной папке  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
+|Максимальное количество сообщений в папке почтового ящика  |1 миллион  |1 миллион  |1 миллион  |
+|Предупреждение о количестве сообщений в папке почтового ящика  |900,000  |900,000  |900,000  |
+|Максимальное количество сообщений для каждой папки в папке "Элементы с возможностью восстановления"  |3 млн  |3 млн  |3 млн  |
+|Квота хранилища для папки "Элементы с возможностью восстановления" в основном почтовом ящике (не на удержании)  |30 ГБ  |30 ГБ  |30 ГБ  |
+|Квота хранилища для папки "Элементы с возможностью восстановления" в основном почтовом ящике (на удержании)  |100 ГБ  |100 ГБ  |100 ГБ  |
+|Квота хранилища для папки "Элементы с возможностью восстановления" в архивном почтовом ящике (не на удержании)  |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
+|Квота хранилища для папки "Элементы с возможностью восстановления" в архивном почтовом ящике (на удержании)  |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
+|Предупреждение о количестве сообщений для каждой папки в папке "Элементы с возможностью восстановления"  |2,75 млн  |2,75 млн  |2,75 млн  |
+|Максимальное количество вложенных папок в папке почтового ящика  |10,000  |10,000  |10,000  |
+|Предупреждение о количестве вложенных папок в папке почтового ящика  |9000  |9000  |9000  |
+|Максимальное число уровней в иерархии папок  |300  |300  |300  |
+|Предупреждение о числе уровней в иерархии папок  |250  |250  |250  |
+|Максимальное количество общедоступных папок  |250,000  |250,000  |250,000  |
+|Максимальное количество вложенных папок в общедоступной папке  |10,000  |10,000  |10,000  |
+|Предупреждение о количестве вложенных папок в общедоступной папке  |9000  |9000  |9000  |
    
 > [!NOTE]
 > <sup>1</sup> Вы можете отправлять и получать до 150 сообщений МБ между пользователями (когда сообщение никогда не выходит из центра обработки данных Майкрософт). Размер сообщений, которые направляются за пределы центров обработки данных Microsoft, увеличивается на 33 % из-за кодирования, поэтому максимальный размер таких сообщений составляет 112 МБ. 
@@ -593,21 +594,21 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Ограничение глубины вложенных** сообщений — максимальное количество отправленных сообщений электронной почты, разрешенных в сообщении электронной почты. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение размера сообщений — Outlook  <br/> |150 МБ<sup>1, 2</sup> <br/> |150 МБ<sup>1, 2</sup> <br/> |150 МБ<sup>1, 2</sup> <br/> |
-|Ограничение размера сообщений — OWA  <br/> |112 МБ<sup>1, 3</sup> <br/> |112 МБ<sup>1, 3</sup> <br/> |112 МБ<sup>1, 3</sup> <br/> |
-|Ограничение размера сообщения — Outlook для Mac  <br/> |150 МБ<sup>1, 2</sup> <br/> |150 МБ<sup>1, 2</sup> <br/> |150 МБ<sup>1, 2</sup> <br/> |
-|Ограничение размера сообщений (миграция)  <br/> |150 МБ <sup>4</sup> <br/> |150 МБ <sup>4</sup> <br/> |150 МБ <sup>4</sup> <br/> |
-|Максимальный размер зашифрованных сообщений (для подписчиков, использующих шифрование сообщений Office 365 с новыми возможностями)  <br/> |150 МБ<sup>5</sup> <br/> |150 МБ<sup>5</sup> <br/> |150 МБ<sup>5</sup> <br/> |
-|Максимальный размер зашифрованных сообщений (для подписчиков, использующих устаревшую версию шифрования сообщений Office 365)  <br/> |25 МБ<sup>5</sup> <br/> |25 МБ<sup>5</sup> <br/> |25 МБ<sup>5</sup> <br/> |
-|Ограничение длины темы  <br/> |255 символов  <br/> |255 символов  <br/> |255 символов  <br/> |
-|Ограничение числа вложений  <br/> |250 вложений  <br/> |250 вложений  <br/> |250 вложений  <br/> |
-|Ограничение размера вложений — Outlook  <br/> |150 МБ  <br/> |150 МБ  <br/> |150 МБ  <br/> |
-|Ограничение размера вложений — OWA  <br/> |35 МБ  <br/> |35 МБ  <br/> |35 МБ  <br/> |
-|Ограничение размера вложений — Outlook для Mac  <br/> |150 МБ  <br/> |150 МБ  <br/> |150 МБ  <br/> |
-|Ограничение составных сообщений  <br/> |250 разделов  <br/> |250 разделов  <br/> |250 разделов  <br/> |
-|Ограничение количества внедренных сообщений  <br/> |30 внедренных сообщений  <br/> |30 внедренных сообщений  <br/> |30 внедренных сообщений  <br/> |
+|Ограничение размера сообщений — Outlook  |150 МБ<sup>1, 2</sup> |150 МБ<sup>1, 2</sup> |150 МБ<sup>1, 2</sup> |
+|Ограничение размера сообщений — OWA  |112 МБ<sup>1, 3</sup> |112 МБ<sup>1, 3</sup> |112 МБ<sup>1, 3</sup> |
+|Ограничение размера сообщения — Outlook для Mac  |150 МБ<sup>1, 2</sup> |150 МБ<sup>1, 2</sup> |150 МБ<sup>1, 2</sup> |
+|Ограничение размера сообщений (миграция)  |150 МБ <sup>4</sup> |150 МБ <sup>4</sup> |150 МБ <sup>4</sup> |
+|Максимальный размер зашифрованных сообщений (для подписчиков, использующих шифрование сообщений Office 365 с новыми возможностями)  |150 МБ<sup>5</sup> |150 МБ<sup>5</sup> |150 МБ<sup>5</sup> |
+|Максимальный размер зашифрованных сообщений (для подписчиков, использующих устаревшую версию шифрования сообщений Office 365)  |25 МБ<sup>5</sup> |25 МБ<sup>5</sup> |25 МБ<sup>5</sup> |
+|Ограничение длины темы  |255 символов  |255 символов  |255 символов  |
+|Ограничение числа вложений  |250 вложений  |250 вложений  |250 вложений  |
+|Ограничение размера вложений — Outlook  |150 МБ  |150 МБ  |150 МБ  |
+|Ограничение размера вложений — OWA  |35 МБ  |35 МБ  |35 МБ  |
+|Ограничение размера вложений — Outlook для Mac  |150 МБ  |150 МБ  |150 МБ  |
+|Ограничение составных сообщений  |250 разделов  |250 разделов  |250 разделов  |
+|Ограничение количества внедренных сообщений  |30 внедренных сообщений  |30 внедренных сообщений  |30 внедренных сообщений  |
    
 > [!NOTE]
 > <sup>1</sup> Администраторы Майкрософт могут указать собственное ограничение от 1 до 150 МБ. Однако размер сообщения, которое вы можете отправить или получить, также зависит от почтового клиента или решения. Дополнительные сведения о настройке максимального размера сообщений для организации см. в статье [Майкрософт поддерживает увеличенные сообщения электронной почты](https://go.microsoft.com/fwlink/?linkid=2144144). <br/> 
@@ -624,9 +625,9 @@ Exchange Online предоставляет три режима уведомле�
 
 Ограничения на получение распространяются на количество сообщений, получаемых пользователем, группой или общедоступной папкой в час. Ограничения касаются как сообщений, полученных из Интернета, так и с локальных серверов. Если превышен предел получения, для всех сообщений электронной почты, отправленных на этот почтовый ящик, создается отчет о недоставке, сообщающий о достижении максимального порогового значения получения корреспонденции. Через час лимит почтового ящика обновится, и получение сообщений снова станет возможным.<br><br>
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Получено сообщений  <br/> |3 600 сообщений в час  <br/> |3 600 сообщений в час  <br/> |3600 сообщений в час  <br/> |
+|Получено сообщений  |3 600 сообщений в час  |3 600 сообщений в час  |3600 сообщений в час  |
    
 #### <a name="sending-limits"></a>Ограничения на отправку
 
@@ -647,12 +648,12 @@ Exchange Online предоставляет три режима уведомле�
   
 - **Ограничение скорости сообщений** . Ограничения скорости сообщений определяют количество сообщений, которые пользователь может отправлять из Exchange Online учетной записи в течение указанного периода времени. Это ограничение помогает предотвратить чрезмерное потребление ресурсов системы одним отправителем. Если пользователь отправляет сообщения со скоростью, превышающей ограничение, используя при этом клиент SMTP, то сообщения будут отклонены и клиенту придется повторить попытку. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение числа получателей в день  <br/> |10 000 получателей в день  <br/> |10 000 получателей в день  <br/> |10 000 получателей в день  <br/> |
-|Ограничение числа получателей  <br/> |500 получателей  <br/> |500 получателей  <br/> |500 получателей  <br/> |
-|Ограничение числа прокси-адресов получателей  <br/> |400  <br/> |400  <br/> |400  <br/> |
-|Ограничение скорости передачи сообщений (только в случае отправки с помощью SMTP-клиента)  <br/> |30 сообщений в минуту  <br/> |30 сообщений в минуту  <br/> |30 сообщений в минуту  <br/> |
+|Ограничение числа получателей в день  |10 000 получателей в день  |10 000 получателей в день  |10 000 получателей в день  |
+|Ограничение числа получателей  |500 получателей  |500 получателей  |500 получателей  |
+|Ограничение числа прокси-адресов получателей  |400  |400  |400  |
+|Ограничение скорости передачи сообщений (только в случае отправки с помощью SMTP-клиента)  |30 сообщений в минуту  |30 сообщений в минуту  |30 сообщений в минуту  |
    
 #### <a name="reporting-and-message-trace-limits"></a>Ограничения относительно отчетов и трассировки сообщений
 
@@ -668,11 +669,11 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Период хранения нежелательной почты** — максимальное количество дней, которые элементы могут оставаться в папке нежелательной почты до их автоматического удаления. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Период хранения элементов папки "Удаленные"  <br/> |Не ограничено<sup>1</sup> <br/> |Не ограничено<sup>1</sup> <br/> |Не ограничено<sup>1</sup> <br/> |
-|Период хранения для элементов, удаленных из папки "Удаленные"  <br/> |14 дней<sup>1</sup> <br/> |14 дней<sup>1</sup> <br/> |14 дней<sup>1</sup> <br/> |
-|Период хранения элементов папки "Нежелательная почта"  <br/> |30 дней  <br/> |30 дней  <br/> |30 дней  <br/> |
+|Период хранения элементов папки "Удаленные"  |Не ограничено<sup>1</sup> |Не ограничено<sup>1</sup> |Не ограничено<sup>1</sup> |
+|Период хранения для элементов, удаленных из папки "Удаленные"  |14 дней<sup>1</sup> |14 дней<sup>1</sup> |14 дней<sup>1</sup> |
+|Период хранения элементов папки "Нежелательная почта"  |30 дней  |30 дней  |30 дней  |
    
 > [!NOTE]
 > <sup>1</sup> Это ограничение по умолчанию. Администраторы могут изменить это значение для своей организации. 
@@ -687,13 +688,13 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Максимальный размер сообщения для больших** групп рассылки . Если сообщение отправляется 5000 или более получателей, размер сообщения не может превышать этот предел. Если размер сообщения превышает предел, то оно не доставляется, а отправитель получает отчет о недоставке. Общее число получателей определяется после раскрытия группы рассылки. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Максимальное количество членов группы рассылки<sup>1</sup> <br/> |100 000 членов  <br/> |100 000 членов  <br/> |100 000 членов  <br/> |
-|Ограничение на отправку сообщений в очень большие группы рассылки  <br/> |5000 членов и более  <br/> |5000 членов и более  <br/> |5000 членов и более  <br/> |
-|Максимальный размер сообщения для больших групп рассылки  <br/> |2 МБ  <br/> |2 МБ  <br/> |2 МБ  <br/> |
-|Максимальное число владельцев групп рассылки  <br/> |10   <br/> |10   <br/> |10   <br/> |
-|Максимальное число групп, которые может создать пользователь  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
+|Максимальное количество членов группы рассылки<sup>1</sup> |100 000 членов  |100 000 членов  |100 000 членов  |
+|Ограничение на отправку сообщений в очень большие группы рассылки  |5000 членов и более  |5000 членов и более  |5000 членов и более  |
+|Максимальный размер сообщения для больших групп рассылки  |2 МБ  |2 МБ  |2 МБ  |
+|Максимальное число владельцев групп рассылки  |10   |10   |10   |
+|Максимальное число групп, которые может создать пользователь  |300,000<sup>2</sup> |300,000<sup>2</sup> |300,000<sup>2</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Если вы используете Azure Active Directory DirSync, максимальное количество членов группы рассылки локальной службы Active Directory, которые можно синхронизировать с Azure Active Directory — 15 000. Если вы используете Azure AD Connect — 50 000. <br/> 
@@ -719,16 +720,16 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Количество** перенаправлений сообщений . Количество раз, когда сообщение будет перенаправлено, перенаправлено или ответило автоматически на основе правил "Входящие". Например, у пользователя A установлено правило для папки "Входящие", которое перенаправляет сообщения пользователю Б в зависимости от имени отправителя. У пользователя Б установлено правило для папки "Входящие", которое перенаправляет сообщение пользователю В в зависимости от ключевых слов в теме. Если сообщение отвечает обоим этим условиям, сообщение отправляется только пользователю Б. Пользователю В оно не перенаправляется, поскольку разрешено только одно перенаправление. В этом случае сообщение отброшено без отправки отчета о невывозе (NDR) пользователю B, указывающее, что сообщение не было доставлено пользователю C. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Максимальное число правил журнала  <br/> |50 правил  <br/> |50 правил  <br/> |50 правил  <br/> |
-|Максимальное количество правил транспорта  <br/> |300 правил  <br/> |300 правил  <br/> |300 правил  <br/> |
-|Максимальный размер отдельного правила транспорта  <br/> |8 КБ  <br/> |8 КБ  <br/> |8 КБ  <br/> |
-|Ограничение количества знаков для регулярных выражений, используемых во всех правилах транспорта  <br/> |20 КБ  <br/> |20 КБ  <br/> |20 КБ  <br/> |
-|Ограничения при сканировании содержимого вложений  <br/> |1 МБ  <br/> |1 МБ  <br/> |1 МБ  <br/> |
-|Максимальное количество получателей, добавляемых в сообщение правилами транспорта  <br/> |100 получателей  <br/> |100 получателей  <br/> |100 получателей  <br/> |
-|Ограничение количества получателей при перенаправлении  <br/> |10 получателей  <br/> |10 получателей  <br/> |10 получателей  <br/> |
-|Количество перенаправлений сообщения  <br/> |1 перенаправление  <br/> |1 перенаправление  <br/> |1 перенаправление  <br/> |
+|Максимальное число правил журнала  |50 правил  |50 правил  |50 правил  |
+|Максимальное количество правил транспорта  |300 правил  |300 правил  |300 правил  |
+|Максимальный размер отдельного правила транспорта  |8 КБ  |8 КБ  |8 КБ  |
+|Ограничение количества знаков для регулярных выражений, используемых во всех правилах транспорта  |20 КБ  |20 КБ  |20 КБ  |
+|Ограничения при сканировании содержимого вложений  |1 МБ  |1 МБ  |1 МБ  |
+|Максимальное количество получателей, добавляемых в сообщение правилами транспорта  |100 получателей  |100 получателей  |100 получателей  |
+|Ограничение количества получателей при перенаправлении  |10 получателей  |10 получателей  |10 получателей  |
+|Количество перенаправлений сообщения  |1 перенаправление  |1 перенаправление  |1 перенаправление  |
    
 #### <a name="moderation-limits"></a>Ограничения модерации
 
@@ -744,12 +745,12 @@ Exchange Online предоставляет три режима уведомле�
     
     В периоды интенсивной нагрузки некоторые отправители могут не получать уведомления о просроченных сообщениях с модерацией. Тем не менее, эти уведомления можно найти с помощью отчетов о доставке.
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Максимальный размер почтового ящика разрешения конфликтов  <br/> |10 ГБ  <br/> |10 ГБ  <br/> |10 ГБ  <br/> |
-|Максимальное количество модераторов  <br/> |10 модераторов  <br/> |10 модераторов  <br/> |10 модераторов  <br/> |
-|Срок действия сообщений, ожидающих модерации  <br/> |2 дня  <br/> |Дней: 2  <br/> |Дней: 2  <br/> |
-|Максимальное количество уведомлений о просроченной модерации в час  <br/> |300 уведомлений в час  <br/> |300 уведомлений в час  <br/> |300 уведомлений в час  <br/> |
+|Максимальный размер почтового ящика разрешения конфликтов  |10 ГБ  |10 ГБ  |10 ГБ  |
+|Максимальное количество модераторов  |10 модераторов  |10 модераторов  |10 модераторов  |
+|Срок действия сообщений, ожидающих модерации  |2 дня  |Дней: 2  |Дней: 2  |
+|Максимальное количество уведомлений о просроченной модерации в час  |300 уведомлений в час  |300 уведомлений в час  |300 уведомлений в час  |
    
 #### <a name="exchange-activesync-limits"></a>Ограничения Exchange ActiveSync
 
@@ -761,11 +762,11 @@ Exchange Online предоставляет три режима уведомле�
     
 - **Exchange ActiveSync вложения** файлов — максимальный размер вложения файла сообщений, который можно отправить или получить с помощью Exchange ActiveSync устройства. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение на количество устройств Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Ограничение на удаление устройств Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |
-|Ограничение на размер вложенных файлов Exchange ActiveSync  <br/> |25 МБ  <br/> |25 МБ  <br/> |25 МБ  <br/> |
+|Ограничение на количество устройств Exchange ActiveSync  |100  |100  |100  |
+|Ограничение на удаление устройств Exchange ActiveSync  |20  |20  |20  |
+|Ограничение на размер вложенных файлов Exchange ActiveSync  |25 МБ  |25 МБ  |25 МБ  |
    
 ## <a name="onedrive-for-business-features"></a>Функции OneDrive для бизнеса
 
@@ -807,14 +808,14 @@ OneDrive для бизнеса План 2 доступен для Office 365 A1,
 
 В следующей таблице показаны SharePoint для каждого плана Office 365 образования.<br><br>
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Хранилище<sup>1, 2</sup> <br/> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> <br/> |
-|Термины в банке  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
-|Хранилище семейств веб-сайтов  <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> <br/> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> <br/> |
-|Число семейств веб-сайтов на клиента  <br/> |500 000 на организацию<sup>5</sup> <br/> |500 000 на организацию<sup>5</sup> <br/> |500 000 на организацию<sup>5</sup> <br/> |
-|Ограничение на передачу файлов  <br/> |15 ГБ  <br/> |15 ГБ  <br/> |15 ГБ  <br/> |
-|Количество пользователей  <br/> |1-500 000<sup>6</sup> <br/> |1-500 000<sup>6</sup> <br/> |1-500 000<sup>6</sup> <br/> |
+|Хранилище<sup>1, 2</sup> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> |1 ТБ на организацию плюс 10 ГБ на лицензию, приобретенную<sup>3</sup> |
+|Термины в банке  |200,000  |200,000  |200,000  |
+|Хранилище семейств веб-сайтов  |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> |До 25 ТБ на каждое семейство веб-сайтов или группу<sup>4</sup> |
+|Число семейств веб-сайтов на клиента  |500 000 на организацию<sup>5</sup> |500 000 на организацию<sup>5</sup> |500 000 на организацию<sup>5</sup> |
+|Ограничение на передачу файлов  |15 ГБ  |15 ГБ  |15 ГБ  |
+|Количество пользователей  |1-500 000<sup>6</sup> |1-500 000<sup>6</sup> |1-500 000<sup>6</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Вы можете приобрести неограниченное количество дополнительных SharePoint хранения в Интернете. См. статью [Добавление места в хранилище для подписки](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C) <br/> <sup>2</sup> Рекомендуем следить за корзиной и регулярно ее очищать. Она занимает часть общего дискового пространства организации.<br/> 
@@ -830,133 +831,133 @@ OneDrive для бизнеса План 2 доступен для Office 365 A1,
 > [!NOTE]
 > В этой таблице указывается доступность клиента и службы для Office 365 образовательных параметров. Если вы хотите сравнить отдельные функции между Skype для бизнеса настольными клиентами, [](/lyncserver/lync-server-2013-desktop-client-comparison-tables) веб-клиентами и мобильными клиентами, см. Skype для бизнеса таблицы сравнения клиентов в Интернете и таблицы сравнения мобильных [клиентов.](/lyncserver/lync-server-2013-mobile-client-comparison-tables) 
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype для бизнеса Полный  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса Basic  <br/> |Да<sup>1</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|Lync 2013 Basic  <br/> |Да<sup>1</sup> <br/> |Нет  <br/> |Нет  <br/> |
-|Приложение Магазина Windows Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Lync для Mac 2011  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Мобильные клиенты Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Веб-приложение Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Обмен мгновенными сообщениями, присутствие и контакты](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|I ИД от ПК к ПК и присутствие  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Многопартийный чат и присутствие  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Конфигурация контактной карты  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Конфигурация "Моя картинка"  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|My Picture: URL-фотография  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Конфигурация списка контактов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Единое хранилище контактов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поиск адресной книги  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расширение списка рассылки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Сохраняемый чат  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Фотографии отправитель/приемник  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Аудио- и видеосвязь, а также передача мультимедиа между абонентами Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Совместный доступ к рабочему столу через демонстрацию экрана с видеоизображением (VbSS)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Совместный доступ к рабочему столу и приложениям через протокол удаленного рабочего стола (RDP)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Передача файлов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Видео  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Качество обслуживания (QoS)  Differentiated Services Code Point (DSCP)  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**[Федерация и общедоступная служба обмена мгновенными сообщениями](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Office Communications Server 2007 R2 и Lync Server 2010 (мгновенные сообщения, передача сведений о присутствии, аудио- и видеозвонки, конференц-связь)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|XMPP (например, используется Google Talk) и федерация Sametime  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Федерация со Skype  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Федерация AOL и Yahoo!  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**[Собрания Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ad hoc and schedule audio conferencing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Ad hoc and schedule video conferencing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Видео с активным динамиком  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Кодировки и декодирования H.264  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Многопартийное видео  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Видео или фотографии всех участников с высокой четкости  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Элементы управления presenter  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Просмотр выбранного участника  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|OneNote общий доступ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Ad hoc and schedule web conferencing  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса собрания с помощью аудиоконференций (первая сторона)  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Skype для бизнеса собрания через сертифицированного поставщика аудиоконференций (ACP)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|PowerPoint общий доступ  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Передача файлов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Доска и аннотации  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|PowerPoint загрузки  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Опрос  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Запись и воспроизведение на стороне клиента  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Запись и воспроизведение на стороне сервера  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Вестибюль собраний  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Трансляция собраний Skype  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |
-|Гостевой доступ к Skype собраниям с Skype для бизнеса Web App  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расписание Skype для бизнеса собраний в Outlook  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расписание Skype для бизнеса собраний в Outlook от имени других лиц (Делегирования)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расписание Skype для бизнеса собраний с веб-планировщиком  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Расписание онлайн-собраний в Outlook в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Outlook для планирования собраний  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Создание общедоступных собраний со статическими кодами собрания в Outlook  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**Голосовая связь** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Автосекретари  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Параметры доступности  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Отказоустойчивость связи в филиалах  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Контроль допуска звонков  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Прием и инициирование вызовов  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Делегирование вызовов  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Переадресация звонков и одновременный звонок  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|История звонков.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Удержание вызова и восстановление звонка.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Парковка вызовов  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Переключение звонка (слепое переключение, переключение с общением и мобильное переключение)  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Идентификатор звонящего.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|ожидающий вызов;  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Режим ожидания  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Клиентские приложения для компьютеров с Windows, Mac и мобильных устройств  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Переключение устройств.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Различение звонков.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Маршрутизация для режима "Не беспокоить".  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Экстренные вызовы  статическое местоположение  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Экстренные вызовы  динамическое местоположение  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Маршрутизация звонков на основе корпоративного календаря  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Набор внутренних номеров  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Ответ на вызов в группе  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Сервисные группы/очереди и обработка вызовов  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Интегрированная панель набора номера.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Маршрутизация на основе местоположения  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Музыка в режиме удержания.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Управление номерами DID для исходящих вызовов  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Частная линия  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Специальные стационарные IP-телефоны.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Распределенная линия  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Звонки по Skype и федеративные вызовы  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Групповые звонки.  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Монитор видеозвонков.  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Voicemail  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|[Планы вызова](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (внутренний план вызова с обязательной надстройки)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Да  <br/> |
-|[Планы вызова](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (международный план звонков с обязательной покупкой надстройки)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Да  <br/> |
-|[Кредиты на связь](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |
-|Голосовые вызовы Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Шифрование мгновенных сообщений и мультимедиа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Фильтрация мгновенных данных и файлов  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Управление клиентской версией  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Архивативка контента для im  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Архивка контента конференции  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Архивативка общего доступа к приложениям и общего доступа к рабочим столам  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
-|Конфигурация архивации уровня пользователя  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Файлы трассировки входа  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|**[Взаимодействие между Exchange и SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Присутсвие с Exchange Server  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Присутсвие с Exchange Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Взаимодействие единой системы обмена сообщениями с Exchange Server  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Взаимодействие единой системы обмена сообщениями с Exchange Online  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Outlook в Интернете совме-  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Взаимодействие архивации с Exchange Server  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Взаимодействие архивации с Exchange Online  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Поиск по навыкам с SharePoint Server  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|Поиск по навыкам с SharePoint Online  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |
-|**[Администрирование и управление Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Портал Microsoft Office 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Центр администрирования Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Центр администрирования Skype для бизнеса  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Skype для бизнеса Онлайн-отчеты в Центр администрирования Microsoft 365  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
+|**[Skype для бизнеса Online: клиенты, мобильные приложения и устройства для конференц-залов](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** ||||
+|Skype для бизнеса Полный  |Нет  |Да  |Да  |
+|Skype для бизнеса Basic  |Да<sup>1</sup> |Нет  |Нет  |
+|Lync 2013 Basic  |Да<sup>1</sup> |Нет  |Нет  |
+|Приложение Магазина Windows Skype для бизнеса  |Да  |Да  |Да  |
+|Lync для Mac 2011  |Да  |Да  |Да  |
+|Мобильные клиенты Skype для бизнеса  |Да  |Да  |Да  |
+|Веб-приложение Skype для бизнеса  |Да  |Да  |Да  |
+|**[Обмен мгновенными сообщениями, присутствие и контакты](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|I ИД от ПК к ПК и присутствие  |Да  |Да  |Да  |
+|Многопартийный чат и присутствие  |Да  |Да  |Да  |
+|Конфигурация контактной карты  |Да  |Да  |Да  |
+|Конфигурация "Моя картинка"  |Да  |Да  |Да  |
+|My Picture: URL-фотография  |Нет  |Нет  |Нет  |
+|Конфигурация списка контактов  |Да  |Да  |Да  |
+|Единое хранилище контактов  |Да  |Да  |Да  |
+|Поиск адресной книги  |Да  |Да  |Да  |
+|Расширение списка рассылки  |Да  |Да  |Да  |
+|Сохраняемый чат  |Нет  |Нет  |Нет  |
+|Фотографии отправитель/приемник  |Да  |Да  |Да  |
+|**[Аудио- и видеосвязь, а также передача мультимедиа между абонентами Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Совместный доступ к рабочему столу через демонстрацию экрана с видеоизображением (VbSS)  |Да  |Да  |Да  |
+|Совместный доступ к рабочему столу и приложениям через протокол удаленного рабочего стола (RDP)  |Да  |Да  |Да  |
+|Передача файлов  |Да  |Да  |Да  |
+|Видео  |Да  |Да  |Да  |
+|Качество обслуживания (QoS)  Differentiated Services Code Point (DSCP)  |Нет  |Нет  |Нет  |
+|**[Федерация и общедоступная служба обмена мгновенными сообщениями](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Office Communications Server 2007 R2 и Lync Server 2010 (мгновенные сообщения, передача сведений о присутствии, аудио- и видеозвонки, конференц-связь)  |Да  |Да  |Да  |
+|XMPP (например, используется Google Talk) и федерация Sametime  |Нет  |Нет  |Нет  |
+|Федерация со Skype  |Да  |Да  |Да  |
+|Федерация AOL и Yahoo!  |Нет  |Нет  |Нет  |
+|**[Собрания Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Ad hoc and schedule audio conferencing  |Да  |Да  |Да  |
+|Ad hoc and schedule video conferencing  |Да  |Да  |Да  |
+|Видео с активным динамиком  |Да  |Да  |Да  |
+|Кодировки и декодирования H.264  |Да  |Да  |Да  |
+|Многопартийное видео  |Да  |Да  |Да  |
+|Видео или фотографии всех участников с высокой четкости  |Да  |Да  |Да  |
+|Элементы управления presenter  |Да  |Да  |Да  |
+|Просмотр выбранного участника  |Да  |Да  |Да  |
+|OneNote общий доступ  |Да  |Да  |Да  |
+|Ad hoc and schedule web conferencing  |Да  |Да  |Да  |
+|Skype для бизнеса собрания с помощью аудиоконференций (первая сторона)  |Нет  |Нет  |Да  |
+|Skype для бизнеса собрания через сертифицированного поставщика аудиоконференций (ACP)  |Да  |Да  |Да  |
+|PowerPoint общий доступ  |Да  |Да  |Да  |
+|Передача файлов  |Да  |Да  |Да  |
+|Доска и аннотации  |Да  |Да  |Да  |
+|PowerPoint загрузки  |Да  |Да  |Да  |
+|Опрос  |Да  |Да  |Да  |
+|Запись и воспроизведение на стороне клиента  |Да  |Да  |Да  |
+|Запись и воспроизведение на стороне сервера  |Нет  |Нет  |Нет  |
+|Вестибюль собраний  |Да  |Да  |Да  |
+|Трансляция собраний Skype  |Нет  |Да  |Да  |
+|Гостевой доступ к Skype собраниям с Skype для бизнеса Web App  |Да  |Да  |Да  |
+|Расписание Skype для бизнеса собраний в Outlook  |Да  |Да  |Да  |
+|Расписание Skype для бизнеса собраний в Outlook от имени других лиц (Делегирования)  |Да  |Да  |Да  |
+|Расписание Skype для бизнеса собраний с веб-планировщиком  |Да  |Да  |Да  |
+|Расписание онлайн-собраний в Outlook в Интернете  |Да  |Да  |Да  |
+|Outlook для планирования собраний  |Да  |Да  |Да  |
+|Создание общедоступных собраний со статическими кодами собрания в Outlook  |Нет  |Нет  |Нет  |
+|**Голосовая связь** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Автосекретари  |Нет  |Нет  |Да  |
+|Параметры доступности  |Нет  |Нет  |Нет  |
+|Отказоустойчивость связи в филиалах  |Нет  |Нет  |Нет  |
+|Контроль допуска звонков  |Нет  |Нет  |Нет  |
+|Прием и инициирование вызовов  |Да  |Да  |Да  |
+|Делегирование вызовов  |Нет  |Нет  |Да  |
+|Переадресация звонков и одновременный звонок  |Да  |Да  |Да  |
+|История звонков.  |Да  |Да  |Да  |
+|Удержание вызова и восстановление звонка.  |Да  |Да  |Да  |
+|Парковка вызовов  |Нет  |Нет  |Нет  |
+|Переключение звонка (слепое переключение, переключение с общением и мобильное переключение)  |Да  |Да  |Да  |
+|Идентификатор звонящего.  |Да  |Да  |Да  |
+|ожидающий вызов;  |Да  |Да  |Да  |
+|Режим ожидания  |Да  |Да  |Да  |
+|Клиентские приложения для компьютеров с Windows, Mac и мобильных устройств  |Да  |Да  |Да  |
+|Переключение устройств.  |Да  |Да  |Да  |
+|Различение звонков.  |Нет  |Нет  |Да  |
+|Маршрутизация для режима "Не беспокоить".  |Да  |Да  |Да  |
+|Экстренные вызовы  статическое местоположение  |Нет  |Нет  |Да  |
+|Экстренные вызовы  динамическое местоположение  |Нет  |Нет  |Нет  |
+|Маршрутизация звонков на основе корпоративного календаря  |Да  |Да  |Да  |
+|Набор внутренних номеров  |Нет  |Нет  |Нет  |
+|Ответ на вызов в группе  |Нет  |Нет  |Нет  |
+|Сервисные группы/очереди и обработка вызовов  |Нет  |Нет  |Да  |
+|Интегрированная панель набора номера.  |Нет  |Нет  |Да  |
+|Маршрутизация на основе местоположения  |Нет  |Нет  |Нет  |
+|Музыка в режиме удержания.  |Да  |Да  |Да  |
+|Управление номерами DID для исходящих вызовов  |Нет  |Нет  |Нет  |
+|Частная линия  |Нет  |Нет  |Нет  |
+|Специальные стационарные IP-телефоны.  |Нет  |Нет  |Да  |
+|Распределенная линия  |Нет  |Нет  |Нет  |
+|Звонки по Skype и федеративные вызовы  |Да  |Да  |Да  |
+|Групповые звонки.  |Нет  |Нет  |Да  |
+|Монитор видеозвонков.  |Да  |Да  |Да  |
+|Voicemail  |Нет  |Нет  |Да  |
+|[Планы вызова](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (внутренний план вызова с обязательной надстройки)  |No<sup>2</sup> |No<sup>2</sup> |Да  |
+|[Планы вызова](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (международный план звонков с обязательной покупкой надстройки)  |No<sup>2</sup> |No<sup>2</sup> |Да  |
+|[Кредиты на связь](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) |Нет  |Нет  |Да  |
+|Голосовые вызовы Skype для бизнеса  |Да  |Да  |Да  |
+|**[Безопасность и архивация](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Шифрование мгновенных сообщений и мультимедиа  |Да  |Да  |Да  |
+|Фильтрация мгновенных данных и файлов  |Нет  |Нет  |Нет  |
+|Управление клиентской версией  |Да  |Да  |Да  |
+|Архивативка контента для im  |Да  |Да  |Да  |
+|Архивка контента конференции  |Да  |Да  |Да  |
+|Архивативка общего доступа к приложениям и общего доступа к рабочим столам  |Да  |Нет  |Нет  |
+|Конфигурация архивации уровня пользователя  |Да  |Да  |Да  |
+|Файлы трассировки входа  |Да  |Да  |Да  |
+|**[Взаимодействие между Exchange и SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Присутсвие с Exchange Server  |Да  |Да  |Да  |
+|Присутсвие с Exchange Online  |Да  |Да  |Да  |
+|Взаимодействие единой системы обмена сообщениями с Exchange Server  |Нет  |Нет  |Нет  |
+|Взаимодействие единой системы обмена сообщениями с Exchange Online  |Нет  |Нет  |Нет  |
+|Outlook в Интернете совме-  |Да  |Да  |Да  |
+|Взаимодействие архивации с Exchange Server  |Нет  |Нет  |Нет  |
+|Взаимодействие архивации с Exchange Online  |Да  |Да  |Да  |
+|Поиск по навыкам с SharePoint Server  |Нет  |Нет  |Нет  |
+|Поиск по навыкам с SharePoint Online  |Нет  |Нет  |Нет  |
+|**[Администрирование и управление Skype для бизнеса Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Портал Microsoft Office 365  |Да  |Да  |Да  |
+|Центр администрирования Microsoft 365  |Да  |Да  |Да  |
+|Центр администрирования Skype для бизнеса  |Да  |Да  |Да  |
+|Windows PowerShell  |Да  |Да  |Да  |
+|Skype для бизнеса Онлайн-отчеты в Центр администрирования Microsoft 365  |Да  |Да  |Да  |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Клиент настольного компьютера Lync Basic — это локально установленное приложение, которое предоставляет функции присутствия, обмена мгновенными сообщениями и обмена сообщениями для планов, включающих Skype для бизнеса Online. Приложения Microsoft 365 для предприятий и Office 365 A3 включает полное приложение Skype для бизнеса (Lync), которое включает дополнительные функции, такие как расширенные функции поддержки телефонии, архива и соответствия требованиям. A Skype for Business Online license must be assigned for each user. Дополнительные сведения о функции Lync Basic см. в таблицах [comarison клиента desktop](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
@@ -983,10 +984,10 @@ OneDrive для бизнеса План 2 доступен для Office 365 A1,
     
 - **Ограничение открытых разговоров** на вкладке — максимальное количество вкладки для беседы, Skype для бизнеса пользователь может открыть одновременно. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение на передачу файлов  <br/> |Неограничено  <br/> |Неограничено  <br/> |Неограничено  <br/> |
-|Ограничение на количество бесед во вкладках  <br/> |50  <br/> |50  <br/> |Нет ограничений  <br/> |
+|Ограничение на передачу файлов  |Неограничено  |Неограничено  |Неограничено  |
+|Ограничение на количество бесед во вкладках  |50  |50  |Нет ограничений  |
    
 #### <a name="meeting-limits"></a>Ограничения собрания
 
@@ -1002,15 +1003,15 @@ OneDrive для бизнеса План 2 доступен для Office 365 A1,
     
 - **Присоединение гостей по телефону** — максимальное число гостей, которые могут вызвать на собрание. 
     
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Ограничение на передачу файлов  <br/> |500 МБ  <br/> |500 МБ  <br/> |500 МБ  <br/> |
-|Участники собрания Skype для бизнеса<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Выступающие на собрании Skype для бизнеса  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Участники собрания в веб-приложении Skype для бизнеса  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Анонимные участники в веб-приложении Skype для бизнеса  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Пользователи, участвующие в собрании в телефонном режиме  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Участники группового звонка  <br/> |25  <br/> |25  <br/> |25  <br/> |
+|Ограничение на передачу файлов  |500 МБ  |500 МБ  |500 МБ  |
+|Участники собрания Skype для бизнеса<sup>1</sup> |250  |250  |250  |
+|Выступающие на собрании Skype для бизнеса  |250  |250  |250  |
+|Участники собрания в веб-приложении Skype для бизнеса  |250  |250  |250  |
+|Анонимные участники в веб-приложении Skype для бизнеса  |250  |250  |250  |
+|Пользователи, участвующие в собрании в телефонном режиме  |250  |250  |250  |
+|Участники группового звонка  |25  |25  |25  |
    
 > [!NOTE]
 > <sup>1</sup> Если число участников собрания Skype для бизнеса превышает 75 участников, то список участников (презентов и участников) в списке собраний будет усечен, чтобы отдельный участник видел только участников и собственное имя отдельного участника. Полный список участников остается видимым для участников собрания. Кроме того, от участников скрываются ошибки представления галереи и мгновенных данных. 
@@ -1024,14 +1025,14 @@ OneDrive для бизнеса План 2 доступен для Office 365 A1,
 > [!NOTE]
 > Каждый человек может иметь не более 1000 конференций в базе данных в любое время. 
   
-| Возможность | Office 365 A1 | Office 365 A3 | Office 365 A5 |
+| Функция | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Хранение контента собрания: разовое собрание  <br/> |15 дней  <br/> |15 дней  <br/> |15 дней  <br/> |
-|Хранение контента собрания: повторяющееся собрание  <br/> |15 дней  <br/> |15 дней  <br/> |15 дней  <br/> |
-|Хранение контента собрания: Функция "Провести собрание"  <br/> |8 часов  <br/> |8 часов  <br/> |8 часов  <br/> |
-|Окончание срока действия собрания: разовое собрание  <br/> |14 дней  <br/> |14 дней  <br/> |14 дней  <br/> |
-|Окончание срока действия собрания: повторяющееся собрание  <br/> |14 дней  <br/> |14 дней  <br/> |14 дней  <br/> |
-|Окончание срока действия собрания: Функция "Провести собрание"  <br/> |8 часов  <br/> |8 часов  <br/> |8 часов  <br/> |
+|Хранение контента собрания: разовое собрание  |15 дней  |15 дней  |15 дней  |
+|Хранение контента собрания: повторяющееся собрание  |15 дней  |15 дней  |15 дней  |
+|Хранение контента собрания: Функция "Провести собрание"  |8 часов  |8 часов  |8 часов  |
+|Окончание срока действия собрания: разовое собрание  |14 дней  |14 дней  |14 дней  |
+|Окончание срока действия собрания: повторяющееся собрание  |14 дней  |14 дней  |14 дней  |
+|Окончание срока действия собрания: Функция "Провести собрание"  |8 часов  |8 часов  |8 часов  |
    
 #### <a name="minute-limits"></a>Ограничение минут
 
