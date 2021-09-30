@@ -75,6 +75,7 @@
 ## [Описание службы SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
 ### [Компоненты SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Описание службы универсальной печати](universal-print-service-description/universal-print-service-description.md)
+## [Описание служб Windows 365](windows-365-service-description/windows-365-service-description.md)
 ## [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Функции Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Ограничения Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
@@ -98,6 +99,7 @@
 ### [Управление ресурсами](project-online-service-description/resource-management.md)
 ## [Описание службы Visio в Интернете](visio-online-service-description/visio-online-service-description.md)
 ### [Описание возможностей Visio](visio-online-service-description/visio-features.md)
+## [Описание службы Microsoft Viva](microsoft-viva-service-description.md)
 ## [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
 ### [Ограничения в Yammer](yammer-service-description/yammer-limits.md)
 ## Описание служб Microsoft 365
