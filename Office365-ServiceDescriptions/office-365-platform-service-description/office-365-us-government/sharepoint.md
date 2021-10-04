@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673007"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088512"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для правительственных сред США
 
@@ -72,7 +72,6 @@ ms.locfileid: "59673007"
 
 - Веб-части, которые зависят от подключений к интернет-службам, таким как Amazon Kindle, Карты Bing, Twitter и YouTube, не будут работать так, как ожидалось
 - Библиотека активов организации недоступна
-- Добавление списков и страниц в Teams недоступны для клиентов GCC и DoD
 - Graph функциональность SharePoint Online для GCC High в настоящее время отключена. Любая служба, которая опирается на microsoft Graph в настоящее время может быть недоступна
 - Функции, которые зависят от подключений к интернет-службам, например вкладке образы акций, будут работать не так, как ожидалось.
 - Уведомления для действий на файле и сайте недоступны
@@ -125,12 +124,12 @@ ms.locfileid: "59673007"
 
 SharePoint гибридные функции поддерживают следующие среды SPO:
 
-- Общедоступное
+- Public
 - PPE
 - GCC
 - GccHigh
 - DoD
-- Пользовательский сервер
+- Пользовательские
 
 Если клиент задает значение Custom, для этих конечных точек для пользовательской среды SPO используются клавиши и `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` клавиши.
 

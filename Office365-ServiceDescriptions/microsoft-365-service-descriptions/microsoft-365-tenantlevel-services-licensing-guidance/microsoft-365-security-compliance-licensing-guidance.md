@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082859"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088502"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -568,6 +568,13 @@ Microsoft Defender для конечной точки (бывшая ATP Защи
 
 Возможности защиты и управления информацией широко используются в Microsoft Teams, особенно в том, что организации перешли к удаленной работе. С [Teams API](/microsoftteams/export-teams-content)экспорта данные можно экспортировать в сторонние приложения для проверки данных об обнаружении электронных данных или архива соответствия требованиям для обеспечения соответствия требованиям.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
+
+- Microsoft 365 E5/A5
+- Соответствие требованиям Microsoft 365 E5 или A5
+- Безопасность Microsoft 365 E5/A5
+- Защита информации и управление данными в Microsoft 365 E5/A5
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
 Доступ к API настроен на уровне клиента.
@@ -576,7 +583,7 @@ Microsoft Defender для конечной точки (бывшая ATP Защи
 
 Microsoft Graph API для Teams DLP и Teams экспорт обеспечивают значение уровня клиента. Каждый пользователь, предназначенный для использования этой службы, должен иметь лицензию. В качестве добавленной стоимости мы добавляем сеяную емкость на одного лицензированного пользователя, рассчитанную в месяц и агрегированную на уровне клиента. Для использования за пределами семенной емкости владельцам приложений будет выставлен счет за потребление API.
 
-Дополнительные сведения о посеяных емкостях и платах за потребление см. в Graph [требования к доступу к чат-сообщениям.](/graph/teams-licenses)
+Дополнительные сведения о посеяных емкостях и платах за потребление см. в Graph требований к [доступу к чат-сообщениям.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Расширенное шифрование сообщений Office 365
 
