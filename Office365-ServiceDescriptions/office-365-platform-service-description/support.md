@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: При каждом Microsoft Office 365 для корпоративных, бизнес-, образовательных и государственных подписок Корпорация Майкрософт поддерживает глобальную техническую, предварительную продажу, выставление счета и поддержку подписки. Поддержка доступна как через Центр администрирования Microsoft 365, так и по телефону для платных и пробных подписок. Дополнительные сведения см. в веб-сайте Microsoft Support Options.
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670034"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149391"
 ---
 # <a name="support"></a>Поддержка
 
@@ -102,6 +102,10 @@ ms.locfileid: "59670034"
 ### <a name="technical-support-languages"></a>Языки общения службы технической поддержки
 
 В зависимости от страны и языка специалисты службы поддержки доступны в разное время, но в течение большей части местного рабочего времени (в отдельных случаях — круглосуточно). Дополнительные сведения см. в [Телефон international Телефон](/Office365/Admin/contact-support-for-business-products) и Microsoft Support [Options.](https://products.office.com/business/office-365-for-business-support-options) Если требуется дополнительная помощь в переводе, специалист службы поддержки может остаться на линии и пригласить переводчика присоединиться к звонку.
+
+## <a name="business-assist-for-microsoft-365"></a>Business Assist для Microsoft 365
+
+Бизнес-помощник для Microsoft 365 — услуга для компаний малого бизнеса, обеспечивающая вам и вашим сотрудникам круглосуточный доступ к знаниям специалистов по малому бизнесу по мере развития вашего предприятия: от начальных этапов до повседневной работы. Узнайте больше в [business Assist для Microsoft 365.](/microsoft-365/admin/misc/business-assist)
   
 ## <a name="shared-support-responsibilities"></a>Общие обязанности службы поддержки
 
