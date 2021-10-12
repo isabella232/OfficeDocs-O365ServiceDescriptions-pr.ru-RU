@@ -10,18 +10,18 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Узнайте о различиях между Microsoft 365 и Office 365 для образования планами.
-ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3ecf7e918c0b96945c061a13b2928ecc008a2c71
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670314"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268273"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
 Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. В этой статье приводится сравнение планов Microsoft 365 и Office 365 для образования с описанием компонентов, включенных в каждый из них.
   
-Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Чтобы сравнить функции в бизнес-планах и корпоративных планах, см. в статье [Compare Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)для бизнес-планов или, для более подробного списка функций, см. соответствующее описание службы в Microsoft 365 [и Office 365](../office-365-service-descriptions-technet-library.md)описания служб. Чтобы найти статьи и сведения о поддержке, см. в Office [Help &amp; Training](https://support.office.com/).
+Microsoft 365 представляет собой полноценную систему, включающую Office 365, Windows 10 и Enterprise Mobility and Security. В приведенной ниже таблице перечислены компоненты планов Office 365 для образования A1, A3 и A5, а также соответствующие компоненты Microsoft 365 для образования A3 и A5. Сведения о ценах и особенностях см. в Office 365 для образования [планах.](https://aka.ms/EDU-Plan-Comparison) Чтобы сравнить функции в бизнес-планах и корпоративных планах, см. в статье [Compare Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)для бизнес-планов или, для более подробного списка функций, см. соответствующее описание службы в Microsoft 365 [и Office 365](../office-365-service-descriptions-technet-library.md)описания служб. Чтобы найти статьи и сведения о поддержке, см. в Office [Help &amp; Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Службы и компоненты
 
