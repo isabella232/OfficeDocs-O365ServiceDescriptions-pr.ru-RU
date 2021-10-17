@@ -9,14 +9,16 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Функции, дистрибуции, конфиденциальность и необходимые условия для MyAnalytics
-ms.openlocfilehash: 9f4987f7a941fe4174b8096c1a36ed86dbee56aa
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1c3fdf0cab9d774bee39b26861f0c1678ea97a36
+ms.sourcegitcommit: 74ced160b4f2371b8f6b12b3e9babd2626f33e63
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670361"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60417147"
 ---
 # <a name="myanalytics-service-description"></a>Описание службы MyAnalytics
+
+[![Объявление Viva.](media/viva-banner-mya.png)](https://www.microsoft.com/microsoft-viva/insights)
 
 MyAnalytics кратко рассказывает о том, как вы проводите время на работе, а затем предлагает способы более разумной работы. MyAnalytics предоставляет эти [](#elements) сведения с помощью элементов, к которые можно получить доступ в Microsoft Outlook или через веб-браузер.
 

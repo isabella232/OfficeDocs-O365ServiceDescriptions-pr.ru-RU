@@ -11,14 +11,16 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics предоставляет богатые и действенные сведения о тенденциях организации в области коммуникации и совместной работы, чтобы помочь вам принимать более эффективные бизнес-решения.
-ms.openlocfilehash: 794497c89d6f80fb9616e19fd254e6001605e7a6
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 17e82af4ee5f90cb632ec91462d4a8c512237518
+ms.sourcegitcommit: 74ced160b4f2371b8f6b12b3e9babd2626f33e63
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673154"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60417152"
 ---
 # <a name="workplace-analytics-service-description"></a>Описание службы Workplace Analytics
+
+[![Объявление Viva.](media/viva-banner-2.png)](https://www.microsoft.com/microsoft-viva/insights)
 
 Microsoft Workplace Analytics предоставляет богатые и действенные сведения о тенденциях организации в области коммуникации и совместной работы, чтобы помочь вам принимать более эффективные бизнес-решения.
 
