@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие SharePoint доступны в каких планах.
-ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c4e8d140dff2cdaa5ed65c459e99a593d6b51dbe
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672412"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462140"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -142,7 +142,7 @@ SharePoint интегрируется с расширенными возможн
 - [Метки конфиденциальности](/microsoft-365/compliance/sensitivity-labels)
 - [Унифицированный аудит](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (аудит SharePoint действий пользователя и администратора)
 
-Сведения о [защите информации Azure](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)см. в сведениях о [требованиях к защите информации Azure.](/azure/information-protection/requirements)
+Сведения о [защите информации Azure](/microsoft-365/solutions/configure-teams-three-tiers-protection)см. в сведениях о [требованиях к защите информации Azure.](/azure/information-protection/requirements)
 
 Сведения о доступности ключа клиента см. в сообщении [Service encryption with Customer Key.](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed) 
 
@@ -155,7 +155,7 @@ SharePoint интегрируется с расширенными возможн
 - [Специальные возможности](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Добавление Microsoft Teams сайтов](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
 - [Выбор целевой аудитории](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
-- [Подключение классические сайты групп в новые Office 365 группы](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Требуется подписка, которая включает Office 365.
+- [Подключение классические сайты групп в новые Microsoft 365 группы](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Требуется подписка, которая включает Office 365.
 - [Создание плана (интеграция планировщика)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Требуется подписка, которая включает Office 365, и требуется, чтобы пользователь был лицензирован для Планировщика.
 - [Библиотеки документов](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Наборы документов](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
@@ -174,6 +174,7 @@ SharePoint интегрируется с расширенными возможн
 - [Корзина](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint мобильное приложение](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint стартовая страница](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [Аналитика сайтов и концентраторов](https://support.microsoft.com/office/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [Проекты сайтов](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Отчеты об использовании сайта](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [Сайты: классические сайты](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)

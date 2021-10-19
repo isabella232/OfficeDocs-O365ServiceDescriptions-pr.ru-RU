@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации. Если вы ищете различия между планами Office 365 образования, в этой статье покажут, какие функции включены в каждый из них. Office 365 объединяет знакомый Microsoft Office настольный набор с облачными версиями служб связи и совместной работы нового поколения Майкрософт, включая &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office для Интернета и Microsoft Skype для бизнеса Online, чтобы помочь пользователям быть продуктивными практически из любой &mdash; точки интернета.
-ms.openlocfilehash: b6e8accf567b648bf0aefe01314f39b54e62e8d2
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+ms.openlocfilehash: 90e619b0272f68840f06eb43664b4555718bf947
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268263"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462150"
 ---
 # <a name="office-365-education"></a>Office 365 для образования
 
@@ -82,7 +82,7 @@ ms.locfileid: "60268263"
 |Microsoft Teams  |Да  |Да  |Да  |
 |Office Delve  |Да  |Да  |Да  |
 |Группы Office 365  |Да  |Да  |Да  |
-|Office 365 Видео  |Да  |Да  |Да  |
+|Office 365 Видео[(снято)](/stream/migrate-from-office-365)  |Да  |Да  |Да  |
 |Записная книжка OneNote для занятий  |Да  |Да  |Да  |
 |**[Управление учетными записями пользователей](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |Удостоверение в облаке, федеративными удостоверениями или несколькими проверки подлинности  |Да  |Да  |Да  |
@@ -293,7 +293,7 @@ ms.locfileid: "60268263"
 > - Microsoft Приложения Microsoft 365 для предприятий является ежемесячным предложением подписки последнего пакета Office настольных компьютеров. <br/>
 > - Microsoft Office Клиенты на локальном сервере online Server получают лицензию Office для Интернета редактирования, если приобрели лицензию на настольный набор Office (например, лицензию Office профессиональный плюс, Office стандартный или Приложения Microsoft 365 для предприятий). 
   
-| Для приложения | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
+| Для приложений | Office в Интернете | Ссылка на подробные сравнительные характеристики функций |
 |:-----|:-----|:-----|
 |Word  |Word в Интернете |[Word](../office-online-service-description/office-online-service-description.md#word) |
 |Excel  |Excel в Интернете |[Excel](../office-online-service-description/office-online-service-description.md#excel) |

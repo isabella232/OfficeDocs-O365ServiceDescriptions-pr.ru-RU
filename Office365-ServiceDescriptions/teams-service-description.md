@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 849c6fcdebfad9208ee281eacabdea7b3fbe2535
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+ms.openlocfilehash: 285a64217505b58be4a476bc837365b697ad27fc
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268233"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462160"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -21,7 +21,7 @@ Microsoft Teams является центром командной работы 
 
 ## <a name="available-plans"></a>Доступные планы
 
-Подробные сведения о планах подписки, которые позволяют пользователям для Microsoft Stream, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Подробные сведения о планах подписки, которые позволяют пользователям Microsoft Teams, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="feature-availability"></a>Доступность функций
 
