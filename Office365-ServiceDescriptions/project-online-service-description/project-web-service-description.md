@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project описание веб-службы
+title: Описание службы Microsoft Project в Интернете
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Project является последним предложением Microsoft для облачной работы и управления проектами. Project веб-сайта предоставляет простые и мощные возможности управления работой для удовлетворения большинства потребностей и ролей.
-ms.openlocfilehash: c74defd5b6397de9b47d6b1afdc9b5a3cfa851ac
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 76a63565c9f4ebe253a7deb7db3a1af53cfbb4d4
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59682173"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536418"
 ---
-# <a name="microsoft-project-for-the-web-service-description"></a>Microsoft Project описание веб-службы
+# <a name="microsoft-project-for-the-web-service-description"></a>Описание службы Microsoft Project в Интернете
 
 Project является последним предложением Microsoft для облачной работы и управления проектами. Project веб-сайта предоставляет простые и мощные возможности управления работой для удовлетворения большинства потребностей и ролей. Project и члены группы могут использовать Project для веб-планирования и управления работой любого размера.
 
@@ -35,7 +35,7 @@ Project веб-сайт доступен через три подписки: Pro
 
 В следующей таблице перечислены основные Microsoft Project веб-функции, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. <br/><br/>
 
-| Возможность | Office 365 лицензий | План 1 | План 3 | План 5 |
+| Функция | Office 365 лицензий | План 1 | План 3 | План 5 |
 |---------|---------------------|--------|--------|--------|
 | **Project, задач и управления временем** | | | | |
 | Представление доски | Только просмотр | Да | Да | Да |
@@ -45,6 +45,7 @@ Project веб-сайт доступен через три подписки: Pro
 | Project Главная | Да | Да | Да | Да |
 | Планирование задач | Только просмотр | Да | Да | Да |
 | Представление Временной шкалы (диаграмма Gantt) | Только просмотр | Да | Да | Да |
+| Критический путь | Нет | Нет | Да | Да |
 | Суммарные задачи. | Только просмотр | Да | Да | Да |
 | Создание и использование настраиваемые поля задач | Только просмотр | Да | Да | Да |
 | **Совместная работа** | | | | |
@@ -129,9 +130,9 @@ Project для веб-страницы требуется использован
 |---------------------------|------------|------------|------------|
 | База данных Dataverse (ранее общая служба данных) База данных: включена/клиент | 3 ГБ | 5 ГБ | 5 ГБ |
 | Dataverse Database: Accrued/User Subscription License (USL) | 50 МБ | 250 МБ | 250 МБ |
-| Dataverse Log: Included/tenant | 2 ГБ | 2 ГБ | 2 ГБ |
+| Dataverse Log: Included/tenant | 2 ГБ | 2 ГБ | 2 ГБ |
 | Dataverse File: Included/tenant | 20 ГБ | 20 ГБ | 20 ГБ |
-| Файл dataverse: Accrued/USL | 400 МБ | 2 ГБ | 2 ГБ |
+| Файл dataverse: Accrued/USL | 400 МБ | 2 ГБ | 2 ГБ |
 
 Существуют дополнительные подписки Майкрософт за Project, которые имеют право на емкость хранилища Dataverse. Другие права на хранение данных см. в руководстве по лицензированию [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)и руководстве по лицензированию Power Apps, Power Automate и    [Power Virtual Agents.](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409)
 

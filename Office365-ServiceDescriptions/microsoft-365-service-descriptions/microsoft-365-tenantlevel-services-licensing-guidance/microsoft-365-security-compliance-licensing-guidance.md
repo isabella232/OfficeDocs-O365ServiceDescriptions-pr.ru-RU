@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 23347668f4a065a55e0a556fe7b18aab75d69000
-ms.sourcegitcommit: dd0ac3657e87c9149ea92318dc8ed0a1e94905e0
+ms.openlocfilehash: f26b55cc456cae509b015dc95bbbb077f30696d9
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "60478057"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536420"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -66,6 +66,8 @@ Azure Active Directory Защита удостоверений — это фун
 
 - Azure Active Directory План 1: Microsoft 365 E3/A3/G3/F1/F3, Enterprise Mobility & Security E3 и Microsoft 365 бизнес премиум
 - Azure Active Directory План 2: Microsoft 365 E5/A5/G5, Enterprise Mobility & Security E5, Microsoft 365 E5/F5 Security и Microsoft 365 F5 Security & Compliance
+
+Сведения о возможностях, включенных в различные доступные планы, см. в Azure Active Directory [identity protection? | Microsoft Docs](/azure/active-directory/identity-protection/overview-identity-protection#license-requirements).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 

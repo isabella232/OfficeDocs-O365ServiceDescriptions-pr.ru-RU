@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office для Интернета (ранее Office веб-приложения) открывает документы Word, Excel, OneNote и PowerPoint в веб-браузере. Office для Интернета упрощает работу и совместное использование Office из любой точки с подключением к Интернету практически с любого устройства. Microsoft 365 пользователи с word, Excel, OneNote или PowerPoint могут просматривать, создавать и изменять файлы в режиме go.
-ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c1bbf8be1964ebf1adadb9edeac8089854a70424
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670021"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536380"
 ---
 # <a name="office-for-the-web-service-description"></a>Описание служб Office в Интернете
 
@@ -259,7 +259,7 @@ Office для Интернета (ранее Office веб-приложения)
 |[Создание пользовательской анимации](powerpoint-online.md#create-custom-animation) <br/> |No<sup>1</sup> <br/> |Да  <br/> |
 |[Средства разработки, расширенные](powerpoint-online.md#design-tools-advanced) <br/> |Нет  <br/> |Да  <br/> |
 |[Внедрение презентации в веб-страницу или блог](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |Да  <br/> |Нет  <br/> |
-|[Форматирование шрифта](powerpoint-online.md#font-formatting) <br/> |Да  <br/> |Да  <br/> |
+|[Загрузка и форматирование шрифтов](powerpoint-online.md#font-downloading-and-formatting) <br/> |Да  <br/> |Да  <br/> |
 |[Режим чтения с высокой четкостью](powerpoint-online.md#full-fidelity-reading-view) <br/> |Да  <br/> |Да  <br/> |
 |[Поддержка полного рукописного ввода](powerpoint-online.md#full-ink-support) <br/> |Нет  <br/> |Да<sup>2</sup> <br/> |
 |[Полный выбор анимаций и переходов](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |No<sup>1</sup> <br/> |Да  <br/> |

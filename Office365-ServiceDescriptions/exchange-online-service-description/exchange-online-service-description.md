@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
-ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
+ms.openlocfilehash: c33b78ad00a3f1bbe82ea67f363ad6ee1d663e87
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2021
-ms.locfileid: "60015703"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536416"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
 Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online  это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей.
-  
+
 > [!NOTE]
 > Если вам нужна помощь с задачей или устранение неполадок, вы можете найти следующие ресурсы полезными: <br/>
 [Электронная](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) почта для создания и отправки электронной почты. <br/> 
@@ -32,45 +32,45 @@ ms.locfileid: "60015703"
 [О microsoft помощник по поддержке и восстановлению](https://diagnostics.office.com/)<br/> 
 [Отчеты о невывозе электронной почты в Exchange Online](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online Справка](/exchange/exchange-online)
-  
+
 Microsoft Exchange Online  это размещенное решение для обмена сообщениями с возможностями Microsoft Exchange Server в виде облачной службы. Оно предоставляет пользователям доступ к электронной почте, календарю, контактам и задачам с ПК, мобильных устройств и через Интернет. Оно полностью интегрируется с Active Directory, позволяя администраторам с помощью групповых политик и других средств администрирования управлять функциями Exchange Online в своей среде.
-  
+
 Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы находятся в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет.
-  
+
 Чтобы сравнить функции в планах, см. [в нем Мощные средства поддержки предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans) Чтобы сравнить планы Office 365 Германии, [см. Office 365 планы подписки в Германии.](https://go.microsoft.com/fwlink/?linkid=839016)
-  
+
 > [!TIP]
 > В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [экспортировать результаты поиска контента.](/office365/securitycompliance/export-search-results) 
-  
+
 ## <a name="whats-new-in-exchange-admin-center"></a>Новые возможности Центра администрирования Exchange
 
 Сведения о новых функциях в центре администрирования Exchange см. в Exchange [центре администрирования.](/exchange/whats-new)
-  
+
 ## <a name="plans-for-exchange-online"></a>Планы Exchange Online
 
 Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
-  
+
 Каждому пользователю, имеющему доступ к службе Exchange Online, должен быть назначен план подписки. Для каждой подписки пользователя предусмотрен отдельный почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центре обработки данных Майкрософт на компьютере, на котором запущена служба Exchange Server.
-  
+
 Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. У этих специальных почтовых ящиков нет учетных данных для входа. Вместо этого ими через делегирование управляют лицензированные пользователи с соответствующими разрешениями.
 
 **Microsoft 365 F1 Права использования почтовых ящиков пользователей** <br/>
-Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы обеспечить полное Teams, лицензии M365 F1 могут иметь включенную Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем отключить Outlook в Интернете с помощью [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) этих действий и попросить пользователей не получать доступ к почтовому ящику Exchange другими методами.
-  
+Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, Microsoft 365 F1 лицензии могут Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, Microsoft 365 F1 пользователи не имеют права на использование почтового ящика. Мы рекомендуем отключить Outlook в Интернете с помощью [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) этих действий и попросить пользователей не получать доступ к почтовому ящику Exchange другими методами.
+
 ## <a name="system-requirements-for-exchange-online"></a>Системные требования для Exchange Online
 
 Для системных требований ежемесячная служба на основе подписки, доступная для бизнеса, образования и государственных организаций, см. в Microsoft 365 и [Office Resources.](https://products.office.com/office-system-requirements/#Office365forBEG)
-  
+
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>служба хранилища и ограничения получателей для Exchange Online
 
 Сведения о ограничениях хранения и получателей, доступных в Exchange Online подписки, см. в Exchange Online [ограничения.](exchange-online-limits.md)
-  
+
 ## <a name="feature-availability"></a>Доступность функций
 
 Если в вашей организации в настоящее время есть подписки на Office 365 для малого бизнеса, Office 365 для малого бизнеса расширенный или Office 365 для среднего бизнеса, посетите центр сообщений в Центр администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новый план Приложения Microsoft 365 влияет на вас. Дополнительные информацию о новом семейство Приложения Microsoft 365 плана см. в дополнительных планах для малого и среднего [бизнеса.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 О доступности функций в Microsoft 365 бизнес премиум см. [Microsoft 365 бизнес премиум описание службы.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
-  
+
 | Функция | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](planning-and-deployment.md)**|||||||||
@@ -338,3 +338,9 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 <sup>24</sup> Microsoft 365 с уменьшенными функциональными возможностями.<br/>
 <sup>25</sup> Подписка на Приложения Microsoft 365 для предприятий также требуется для Exchange Server 2013 и Exchange Server 2016.<br/>
 Поддержка приложений EWS <sup>26,</sup> применяемая для обезличения приложения EWS.
+
+## <a name="additional-services"></a>Дополнительные службы
+
+### <a name="scheduler-for-microsoft-365"></a>Планировщик для Microsoft 365
+
+Планировщик Microsoft 365 это надстройка для Exchange Online, которая позволяет пользователям делегировать свои потребности в планировании цифровому персональному помощнику. Помощник может планировать и перепланировать встречи и встречи с людьми внутри организации и за ее пределами. Помощник почтового ящика настроен и управляется клиентом. Чтобы включить scheduler, администраторам необходимо настроить почтовый ящик помощника с помощью cmdlet PowerShell и приобрести лицензии для организаторов собраний. Дополнительные информацию о scheduler и том, как он работает, см. в нем [Welcome to Scheduler for Microsoft 365.](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work) Для ценообразования и лицензирования scheduler см. в Microsoft 365 scheduler for [licensing.](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing)
