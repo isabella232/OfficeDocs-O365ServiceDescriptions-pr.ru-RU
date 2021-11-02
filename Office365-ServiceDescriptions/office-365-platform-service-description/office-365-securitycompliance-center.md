@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям во всех Office 365 &amp; организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: e703a630cd2300bff85d465be89ce865c572d6a4
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: ef62fa8f4e81a3b7a353c13ba69313a13463ff63
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671293"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649176"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -33,7 +33,7 @@ ms.locfileid: "59671293"
 |[Advanced threat management, such as threat explorer for phishing campaigns](/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | Нет | Нет |Нет | Нет | Нет | Да | Да | Нет |
 |[Защищенное хранилище пользователя](/microsoft-365/compliance/customer-lockbox-requests) | Нет | Нет | Нет | Нет | Нет | Да | Да  | Нет  |
 |[Управление мобильными устройствами](/microsoft-365/admin/basic-mobility-security/set-up) | Да | Да | Да | Да | Да | Да | Да | Да |
-|[Предотвращение потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | Нет | Да | Да | Нет | Да | Да | Нет | Нет |
+|[Предотвращение потери данных для Exchange Online, SharePoint Online и OneDrive для бизнеса](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | Нет | Нет | Да | Нет | Да | Да | Нет | Нет |
 |[Предотвращение потери данных связи для Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | Нет | Нет | Нет | Нет | Нет | Да | Нет |  |
 |[Метки конфиденциальности вручную](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Нет | Нет | Да | Да | Да | Да | Да | Нет |
 |Метки автоматической чувствительности | Нет | Нет |Нет | Нет | Нет | Да | Да | Нет |
@@ -63,7 +63,7 @@ ms.locfileid: "59671293"
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Доступность &amp; Центра соответствия требованиям безопасности для автономных планов
 
-| Возможность | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
+| Функция | Exchange Online (план 1) | Exchange Online (план 2) | Базовая подписка на Exchange Online | SharePoint Online (план 1) | SharePoint Online (план 2) | OneDrive для бизнеса (план 1) | OneDrive для бизнеса (план 2) | Skype для бизнеса Online (план 1) | Skype для бизнеса Online (план 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security)  |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Нет   |Да   |

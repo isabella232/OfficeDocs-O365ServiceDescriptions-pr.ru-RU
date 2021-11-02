@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: b0fa4bf9db7a8555cb8cdcc048595d35e3e9b055
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670637"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649186"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -35,9 +35,9 @@ Microsoft 365 и Office 365 доступны в различных планах,
 |:-----|:-----|
 |**Бизнес (не более 300 пользователей)** <br/>     |[Microsoft 365 бизнес базовый](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) (ранее Office 365 бизнес базовый) <br/> [Microsoft 365 бизнес стандарт](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (ранее Office 365 бизнес премиум) <br/> [Microsoft 365 бизнес премиум](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (ранее Microsoft 365 бизнес) <br/> [Приложения Microsoft 365 для бизнеса](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) (ранее Office 365 бизнес) <br/> |
 |**Enterprise (неограниченное число пользователей)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (включает Office 365 F3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (включает Office 365 E3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (включает Office 365 E5)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [Приложения Microsoft 365 для предприятий](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (ранее Office 365 профессиональный плюс) <br/> |
-|**Образование (неограниченное число пользователей)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (включает Office 365 A3)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (включает Office 365 A5)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
+|**Образование (неограниченное число пользователей)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (устаревшая) (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A1 для устройств (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A3 (включает Office 365 A3)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (включает Office 365 A5)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> |
 |**Правительство США (неограниченное число пользователей)** <br/> |[См. все доступные планы](https://products.office.com/government/compare-office-365-government-plans) <br/> |
-|**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные планы](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные планы](https://products.office.com/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[Сведения об Office 365 Germany](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>Доступность службы в каждом Microsoft 365 и Office 365 плана
