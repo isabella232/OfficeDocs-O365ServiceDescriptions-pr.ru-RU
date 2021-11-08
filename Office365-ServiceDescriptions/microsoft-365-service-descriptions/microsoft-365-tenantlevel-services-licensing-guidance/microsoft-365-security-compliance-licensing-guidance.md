@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: fa044dc785b6dcd151f8eafed7e7da12e6ab9050
-ms.sourcegitcommit: 0a1e0ac3a63d0fbd7a6f394352ee9f5b0544f29b
+ms.openlocfilehash: 2898f5b3cd1fe3a828f41497b416a99f8bfcda36
+ms.sourcegitcommit: 447f703707860aaee78535c8d55d0e524bc2b7f1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "60785244"
+ms.lasthandoff: 11/08/2021
+ms.locfileid: "60824386"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -453,8 +453,6 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 и Azure Information Protection Plan
 
 > [!NOTE]
 > Power BI включен в Microsoft 365 E5/A5/G5; во всех остальных планах Power BI лицензироваться отдельно.
-
-Защита информации не включает права на автоматическую классификацию на основе Машинное обучение (обучаемые классификаторы).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
