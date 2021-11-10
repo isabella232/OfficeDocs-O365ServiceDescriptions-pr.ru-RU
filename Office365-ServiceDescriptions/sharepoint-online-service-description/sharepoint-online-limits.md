@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint для Microsoft 365 и отдельных планов.
-ms.openlocfilehash: 87ef3a5a9ddf795ae8143021e054f7dd5c9d1d48
-ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
+ms.openlocfilehash: caa79626decad01f532a0dd72af0f62435b13619
+ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60149381"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887137"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -45,6 +45,8 @@ ms.locfileid: "60149381"
 - **250 ГБ — ограничение на отправку файлов.** Применяется к каждому отдельному файлу, отправленному на вкладку "Файлы Microsoft Teams", в библиотеки документов SharePoint, папки OneDrive и беседы Yammer.
 
 - **250 МБ — файл, вложенный в элемент списка.** Применяется к Microsoft Спискам и спискам SharePoint на основе одной платформы списков.
+
+- Весь путь декодирования файла, включая имя файла, не может содержать более 400 символов для OneDrive, OneDrive для работы или школы и SharePoint в Microsoft 365. Ограничение применяется к комбинации пути папки и имени файла после декодирования. Дополнительные сведения см. в [файле имя и длина пути.](https://support.microsoft.com/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths)
 
 Дополнительные сведения об ограничениях при использовании нового приложения синхронизации OneDrive (OneDrive.exe) см. в статье [Недопустимые имена файлов и типы файлов](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
@@ -89,6 +91,10 @@ SharePoint 2013 г. процессы могут работать по проек
 
 > [!NOTE]
 > В вашей организации может быть не более 2 000 центральных сайтов. Возможно, для каждой функции может не потребоваться веб-узел концентратора, и перед созданием концентраторов необходимо некоторое планирование. Дополнительные сведения см. в [SharePoint веб SharePoint узлов.](/sharepoint/planning-hub-sites)
+
+### <a name="lists-and-libraries"></a>Списки и библиотеки
+
+2000 списков и библиотек, объединенных в коллекцию веб-сайтов (включая основной сайт и все подвиды). Мы рекомендуем организовывать списки и библиотеки в коллекции сайтов, а не создавать слишком много списков или библиотек в одном веб-сайте.
 
 ### <a name="sync"></a>Синхронизация
 

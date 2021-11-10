@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье представлен обзор Microsoft 365 правительства и описаны варианты покупки.
-ms.openlocfilehash: 1091f3b565f1e0d1dfbd2482940f93506f94fccd
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 073487b8f091fb16b34d43e84825d6f620d402bc
+ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670194"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887147"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Правительство — как покупать
 
@@ -89,7 +89,7 @@ Microsoft 365 Правительство доступно для государ�
 Дополнительные данные о службах, доступных в Microsoft 365 правительстве, см. в следующих ресурсах:
 
 - [Office 365 для государственных организаций службы](office-365-us-government.md)
-- [Enterprise Mobility + Security для описания службы правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Описание службы Enterprise Mobility + Security для правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams для правительственных GCC развертывания](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams для правительства — GCC высокой развертывания](/MicrosoftTeams/plan-for-government-gcc-high)
@@ -136,7 +136,7 @@ Microsoft 365 Правительство доступно для государ�
 - 12:34 MicroTechnologies, Inc.
 - Accenture Federal Services, LLC
 - Agile IT, Inc
-- American Technology Services, Inc.
+- American Technology Services LLC
 - Applied Information Sciences, Inc.
 - Arctic Information Technology, Inc.
 - BAH
@@ -186,7 +186,7 @@ Microsoft 365 Правительство доступно для государ�
 
 ## <a name="what-trials-are-available"></a>Какие пробные испытания доступны?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой правой части страницы EMS, чтобы пройти закрытый процесс регистрации на портале Office коммерции, который передает их на портал Azure Active Directory (AAD).
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Клиенты могут выбрать кнопку Try now в правой верхней части страницы EMS, чтобы пройти закрытый процесс регистрации на портале коммерции Office, который передает их на портал Azure Active Directory (AAD).
 - [Office 365.](https://aka.ms/gcctrial) Бесплатная одномесячная пробная версия доступна только для GCC.  
 - Корпорация Майкрософт не предлагает пробные Office 365 GCC коммерческим клиентам, а также не GCC или DoD.
 
@@ -195,7 +195,7 @@ Microsoft 365 Правительство доступно для государ�
 Дополнительные ресурсы см. в следующих ресурсах, Microsoft 365 правительства.
 
 - [Office 365 для государственных организаций службы](office-365-us-government.md)
-- [Enterprise Mobility + Security для описания службы правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Описание службы Enterprise Mobility + Security для правительства США](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [Microsoft Defender для конечной точки для государственных служб США](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams для правительственных GCC развертывания](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams для правительства — GCC высокой развертывания](/MicrosoftTeams/plan-for-government-gcc-high)
