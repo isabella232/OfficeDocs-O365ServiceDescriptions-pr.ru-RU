@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 и Office 365 это облачные службы, предназначенные для удовлетворения потребностей организации в надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669995"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963529"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Описание служб Microsoft 365 и Office 365 
 
@@ -72,9 +72,9 @@ Microsoft 365 и Office 365 это облачные службы, предназ
 
 - [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Описание службы корпоративной голосовой связи Microsoft 365](microsoft-365-business-voice-service-description.md)
+- [Описание службы голосовой связи Microsoft 365 бизнес](microsoft-365-business-voice-service-description.md)
 
-- [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Сравнение всех Microsoft 365 бизнес-продуктов](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 

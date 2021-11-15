@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: c33b78ad00a3f1bbe82ea67f363ad6ee1d663e87
-ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
+ms.openlocfilehash: fb6d71796c8cb54193fb7227c943e28212d444fd
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60536416"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963510"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -31,7 +31,7 @@ ms.locfileid: "60536416"
 [Управление электронной почтой и календарями](/office365/admin/email/email)<br/> 
 [О microsoft помощник по поддержке и восстановлению](https://diagnostics.office.com/)<br/> 
 [Отчеты о невывозе электронной почты в Exchange Online](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
-[Exchange Online Справка](/exchange/exchange-online)
+[Exchange Online справка](/exchange/exchange-online)
 
 Microsoft Exchange Online  это размещенное решение для обмена сообщениями с возможностями Microsoft Exchange Server в виде облачной службы. Оно предоставляет пользователям доступ к электронной почте, календарю, контактам и задачам с ПК, мобильных устройств и через Интернет. Оно полностью интегрируется с Active Directory, позволяя администраторам с помощью групповых политик и других средств администрирования управлять функциями Exchange Online в своей среде.
 
@@ -54,7 +54,7 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. У этих специальных почтовых ящиков нет учетных данных для входа. Вместо этого ими через делегирование управляют лицензированные пользователи с соответствующими разрешениями.
 
-**Microsoft 365 F1 Права использования почтовых ящиков пользователей** <br/>
+**Microsoft 365 F1 права использования почтовых ящиков пользователей** <br/>
 Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, Microsoft 365 F1 лицензии могут Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, Microsoft 365 F1 пользователи не имеют права на использование почтового ящика. Мы рекомендуем отключить Outlook в Интернете с помощью [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) этих действий и попросить пользователей не получать доступ к почтовому ящику Exchange другими методами.
 
 ## <a name="system-requirements-for-exchange-online"></a>Системные требования для Exchange Online
@@ -67,9 +67,9 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 
 ## <a name="feature-availability"></a>Доступность функций
 
-Если в вашей организации в настоящее время есть подписки на Office 365 для малого бизнеса, Office 365 для малого бизнеса расширенный или Office 365 для среднего бизнеса, посетите центр сообщений в Центр администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новый план Приложения Microsoft 365 влияет на вас. Дополнительные информацию о новом семейство Приложения Microsoft 365 плана см. в дополнительных планах для малого и среднего [бизнеса.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+Если в вашей организации в настоящее время есть подписки на Office 365 для малого бизнеса, Office 365 для малого бизнеса расширенный или Office 365 для среднего бизнеса, посетите центр сообщений в центре Центр администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новый Приложения Microsoft 365 влияет на вас. Дополнительные информацию о новом семейство Приложения Microsoft 365 плана см. в дополнительных планах для малого и среднего [бизнеса.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
-О доступности функций в Microsoft 365 бизнес премиум см. [Microsoft 365 бизнес премиум описание службы.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
+О доступности функций в Microsoft 365 бизнес премиум см. в Microsoft 365 Сравните все [продукты бизнеса.](/microsoft-365/business/compare-all-microsoft-365-business-products)<br/><br/>
 
 | Функция | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Office 365 корпоративный E1 | Office 365 корпоративный E3 | Office 365 корпоративный E5 | Office 365 корпоративный F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -207,7 +207,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Доступность возможностей в автономных планах Exchange Online
 
-| Функция | Exchange Server 2013 | Exchange Server 2016 | Exchange Online План &nbsp; 1 | Exchange Online План &nbsp; 2 | Базовая подписка на Exchange Online |
+| Функция | Exchange Server 2013 | Exchange Server 2016 | Exchange Online &nbsp; 1 | Exchange Online &nbsp; 2 | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Планирование и развертывание](planning-and-deployment.md)**||||||
 |Поддерживается гибридное развертывание|Да|Да|Да|Да|Да<sup>23</sup>|
@@ -218,7 +218,7 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Разрешения на основе ролей|Да|Да|Да|Да|Нет|
 |Группы ролей|Да|Да|Да|Да|Нет|
 |Политики назначения ролей|Да|Да|Да|Да|Нет|
-|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Политика обработки сообщений и соответствие требованиям](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Архивация почтовых ящиков на основе Exchange Online|Да|Нет|Да|Да|Нет|
 |Архивация сообщений в облаке для локальных почтовых ящиков|Да <sup>5</sup>|Да <sup>5</sup>|Нет|Да|Нет|
 |Messaging Records Management (MRM) |Да|Да|Да|Да|Да|
@@ -233,20 +233,20 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Правила транспорта|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|Да <sup>1</sup>|
 |Защита от потери данных|Да<sup>10, 14</sup>|Да<sup>10, 14</sup>|Нет|Да|Нет|
 |Ведение журнала|Да|Да|Да|Да|Да|
-|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Защита от нежелательной почты и вредоносных программ](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Встроенная защита от нежелательной почты|Да <sup>2</sup>|Да <sup>2</sup>|Да|Да|Да|
 |Customize anti-spam policies|Да, но только через PowerShell|Да, но только через PowerShell|Да|Да|Да <sup>8</sup>|
 |Встроенная защита от вредоносных программ|Да <sup>7</sup>|Да <sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|Да<sup>7</sup>|
 |Customize anti-malware policies|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  управление администраторами|Да|Да|Да|Да|Да <sup>8</sup>|
 |Карантин  самостоятельное управление пользователями|Нет|Нет|Да|Да|Да|
-|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Поток обработки почты](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Настраиваемая маршрутная маршрутия исходящие сообщения|Да|Да|Да|Да|Да|
 |Secure messaging with a trusted partner|Да|Да|Да|Да|Да|
 |Conditional mail routing|Нет|Нет|Да|Да|Да|
 |Добавление партнера в входящий безопасный список|Нет|Нет|Да|Да|Да|
 |Маршрутизация почты в гибридной конфигурации|Да|Да|Да|Да|Да|
-|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Получатели](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Оповещения о доступном объеме|Да|Да|Да|Да|Да|
 |Папка "Несрочные"|Нет|Нет|Да|Да|Да|
 |Подсказки|Да|Да|Да|Да|Да|
@@ -267,18 +267,18 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Управление конференц-залами|Да|Да|Да|Да|Да|
 |Ответы об отсутствии на работе|Да|Да|Да|Да|Да|
 |Общий доступ к календарю|Да|Да|Да|Да|Да <sup>18</sup>|
-|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Функции создания отчетов и средства устранения неполадок](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Отчеты в Центре администрирования Microsoft 365|Нет|Нет|Да|Да|Да|
 |Excel отчетов|Нет|Нет|Да|Да|Да|
 |Отчеты веб-служб|Нет|Нет|Да|Да|Да|
 |Message trace|Нет|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты аудита|Да|Да|Да|Да|Да <sup>8</sup>|
 |Отчеты единой системы обмена сообщениями|Да|Да|Нет|Да|Нет|
-|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Общий доступ и совместная работа](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Федеративный доступ|Да|Да|Да|Да|Да|
 |Почтовые ящики сайта|Да <sup>3</sup>|Да <sup>3</sup>|Да <sup>4</sup>|Да <sup>4</sup>|Да <sup>4</sup>|
 |Общедоступные папки|Да|Да|Да|Да|Нет|
-|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Клиенты и мобильные устройства](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Microsoft Outlook|Да|Да|Да|Да|Нет|
 |Outlook в Интернете|Да|Да|Да|Да|Да|
 |Exchange ActiveSync|Да|Да|Да|Да|Да|
@@ -287,28 +287,28 @@ Microsoft 365 F1 не включает права на Exchange почтовый
 |Поддержка приложений EWS|Да|Да|Да|Да|Нет|
 |Outlook для Mac|Да|Да|Да|Да|Нет|
 |Outlook для iOS и Android<sup>21</sup>|Да<sup>25</sup>|Да<sup>25</sup>|Да|Да|Да|
-|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Службы голосовых сообщений](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Голосовая почта|Да|Да|Нет|Да|Нет|
 |Интероперабельность голосовой почты сторонних сторон|Да|Да|Да|Да|Да|
 |Skype для бизнеса интеграции|Да|Да|Да|Да|Да|
-|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Высокая доступность и непрерывность бизнес-процессов](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Репликация почтовых ящиков в центрах обработки данных|Нет|Нет|Да|Да|Да|
 |Восстановление удаленного почтового ящика|Да|Да|Да|Да|Да|
 |Восстановление удаленных элементов|Да|Да|Да|Да|Да|
 |Восстановление отдельных элементов|Да|Да|Да|Да|Нет|
-|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Взаимодействие, связь и совместимость](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Skype для бизнеса oWA и Outlook|Да|Да|Да|Да|Да|
 |SharePoint совме-|Да|Да|Да|Да|Да|
 |Поддержка подключения EWS<sup>26</sup>|Да|Да|Да|Да|Да|
 |Поддержка ретрансляции SMTP|Да|Да|Да|Да|Да|
-|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**[Установка и администрирование Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Доступ к порталу Microsoft Office 365|Нет|Нет|Да|Да|Да|
 |Центр администрирования Microsoft 365 доступа|Нет|Нет|Да|Да|Да|
 |Доступ к Центру администрирования Exchange|Да|Да|Да|Да|Да <sup>8</sup>|
 |Удаленный доступ к Windows PowerShell|Да|Да|Да|Да|Да|
 |Политики ActiveSync для мобильных устройств|Да|Да|Да|Да|Да|
 |Отчеты об использовании|Да|Да|Да|Да|Да|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online План &nbsp; 1**|**Exchange Online План &nbsp; 2**|**Базовая подписка на Exchange Online**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 1**|**Exchange Online &nbsp; 2**|**Базовая подписка на Exchange Online**|
 |Outlook в Интернете веб-части|Да|Да|Да|Да|Да|
 |Outlook надстройки и Outlook MAPI|Да|Да|Да<sup>21</sup>|Да<sup>21</sup>|Нет|
 

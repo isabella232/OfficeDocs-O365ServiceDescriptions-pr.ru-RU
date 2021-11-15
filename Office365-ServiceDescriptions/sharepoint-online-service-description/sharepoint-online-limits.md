@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint для Microsoft 365 и отдельных планов.
-ms.openlocfilehash: caa79626decad01f532a0dd72af0f62435b13619
-ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
+ms.openlocfilehash: 34d9dfa84991fb5842a3778f52c26c9c3f2a7ecf
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887137"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963517"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -94,7 +94,7 @@ SharePoint 2013 г. процессы могут работать по проек
 
 ### <a name="lists-and-libraries"></a>Списки и библиотеки
 
-2000 списков и библиотек, объединенных в коллекцию веб-сайтов (включая основной сайт и все подвиды). Мы рекомендуем организовывать списки и библиотеки в коллекции сайтов, а не создавать слишком много списков или библиотек в одном веб-сайте.
+2000 списков и библиотек, объединенных в коллекцию веб-сайтов (включая основной сайт и все подвиды).
 
 ### <a name="sync"></a>Синхронизация
 

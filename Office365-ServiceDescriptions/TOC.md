@@ -21,12 +21,12 @@
 ### [Работоспособность и непрерывная работа служб](office-365-platform-service-description/service-health-and-continuity.md)
 ### [Отчеты](office-365-platform-service-description/reports.md)
 ### [Мобильные устройства](office-365-platform-service-description/mobile-devices-sd.md)
+#### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [Поддержка](office-365-platform-service-description/support.md)
 ### [Обновления службы](office-365-platform-service-description/service-updates.md)
 ### [Справка и обучение](office-365-platform-service-description/help-and-training.md)
 ### [Сеть](office-365-platform-service-description/networking.md)
 ### [Конфиденциальность, безопасность и прозрачность](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [Партнеры](office-365-platform-service-description/partners.md)
 ### [Соглашение об уровне обслуживания](office-365-platform-service-description/service-level-agreement.md)
 ### [Права на использование продуктов](office-365-platform-service-description/product-use-rights.md)
@@ -103,8 +103,6 @@
 ## [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
 ### [Ограничения в Yammer](yammer-service-description/yammer-limits.md)
 ## Описание служб Microsoft 365
-### [Описание службы Microsoft 365 бизнес премиум](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-
 ### [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Руководство Microsoft 365 по обеспечению безопасности и соответствия требованиям](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Планирование соответствия требованиям Microsoft 365 — развертывания DoD](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
