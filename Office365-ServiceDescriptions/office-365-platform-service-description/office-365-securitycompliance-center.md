@@ -15,7 +15,7 @@ ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 11/16/2021
-ms.locfileid: "61042145"
+ms.locfileid: "61036067"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
