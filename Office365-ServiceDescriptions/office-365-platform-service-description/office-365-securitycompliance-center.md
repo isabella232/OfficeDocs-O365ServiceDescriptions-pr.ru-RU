@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям во всех Office 365 &amp; организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: ef62fa8f4e81a3b7a353c13ba69313a13463ff63
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: bf79bfef4a948e9427e0b7071fca9d6c5410c2ae
+ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649176"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61042145"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "60649176"
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Доступность &amp; Центра обеспечения соответствия требованиям безопасности для бизнес-планов и корпоративных планов
 
-| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 F3 правительства США|
+| Функция | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1, Office 365 G1 | Office 365 E3, Office 365 G3 правительства США | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 F3 правительства США|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Да   |Да   |Да   |Да   |Да   |Да   |Да   |Да   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | Нет | Нет |Нет | Нет | Нет | Да | Да  |   |
@@ -89,7 +89,7 @@ ms.locfileid: "60649176"
 |[Расширенное шифрование сообщений Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 |[Управление привилегированным доступом](/microsoft-365/compliance/privileged-access-management-overview)  |Нет   |Нет   |Нет   |Нет   |Да   |Нет   |Нет|Нет|Нет|
 
-<sup>1</sup> Управление информацией позволяет пользователям создавать, публиковать и вручную применять метки к документам; импорт данных с помощью доставки диска или по сети. Эти функции доступны в E3 и E5, а в E1 их доступность ограничена. Полный список функций, доступных в E1, E3 и E5, см. в подробном Microsoft 365 сравнение лицензирования соответствия требованиям. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> Управление информацией позволяет пользователям создавать, публиковать и вручную применять метки к документам; импорт данных с помощью доставки диска или по сети. Эти функции доступны в E3 и E5, а в E1 их доступность ограничена. Полный список функций, доступных в E1, E3 и E5, см. в подробном Microsoft 365 сравнение [лицензирования соответствия](https://aka.ms/M365EnterprisePlans)требованиям.
 
 <sup>2</sup> Требует приобретения надстройки Exchange Online Archiving.
 
