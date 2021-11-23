@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 и Office 365 это облачные службы, предназначенные для удовлетворения потребностей организации в надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
+ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963529"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61142416"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Описание служб Microsoft 365 и Office 365 
 
@@ -76,7 +76,7 @@ Microsoft 365 и Office 365 это облачные службы, предназ
 
 - [Сравнение всех Microsoft 365 бизнес-продуктов](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
-- [Лицензии Microsoft 365 для малого и среднего бизнеса](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+- [Microsoft 365 для малого и среднего бизнеса](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [Руководство по лицензированию Microsoft 365 для обеспечения безопасности и соответствия требованиям](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
