@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 97d4c499cdb114fd41df6b550627ea3083ad4e7d
-ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
+ms.openlocfilehash: 2e144129a33f9e1cab04b09f86200924b8af7fe5
+ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61142406"
+ms.lasthandoff: 11/24/2021
+ms.locfileid: "61153248"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -27,7 +27,7 @@ Microsoft Teams является центром командной работы 
 
 В следующей таблице перечислены основные Microsoft Teams, доступные в планах. Применяются определенные ограничения. Дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления. Обратитесь к Microsoft 365 центра сообщений для обмена сообщениями об изменении основных служб и справочной документации по условиям лицензирования [Майкрософт.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
-| Возможность | Малый бизнес | Enterprise планы | GCC | GCC - High | DOD | Образование |
+| Функция | Малый бизнес | Enterprise планы | GCC | GCC - High | DOD | Образование |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 | Приложения, боты, & соединители | Да | Да | Да | Да<sup>1</sup> | Да<sup>1</sup> | Да |
 | Аудиоконференции | Да | Да | Да | Да<sup>2</sup> | Да<sup>2</sup> | Да |
@@ -47,6 +47,8 @@ Microsoft Teams является центром командной работы 
 <sup>4</sup> Microsoft Teams в GCC-High и doD поддерживают 2500 членов в отдельной команде.
 
 ## <a name="additional-services"></a>Дополнительные службы
+
+### <a name="career-coach"></a>Профконсультант
 
 Профконсультант — это Microsoft Teams для образования с помощью LinkedIn, которое предоставляет персонализированные рекомендации для учащихся высших учебных ок. Профконсультант образовательных учреждений предоставляет студентам единое решение для карьеры, чтобы открыть для себя путь к карьере, развивать навыки в реальном мире и создавать свою сеть в одном месте. Дополнительные дополнительные Профконсультант см. в Профконсультант [Purchase, configure and enable Microsoft Teams](/microsoftteams/career-coach) и [Профконсультант Microsoft Education.](https://www.microsoft.com/education/products/career-coach)
 
