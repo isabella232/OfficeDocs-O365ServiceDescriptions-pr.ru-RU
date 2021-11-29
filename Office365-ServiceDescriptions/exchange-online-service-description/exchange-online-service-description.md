@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: fb6d71796c8cb54193fb7227c943e28212d444fd
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: b5e4b83822646cd5e24886805d1bf175ab662e09
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963510"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216861"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -37,10 +37,10 @@ Microsoft Exchange Online  это размещенное решение для
 
 Организации, подписанные на Exchange Online, сохраняют контроль над службами обмена сообщениями, которые предлагаются пользователям, но избавляются от операционных затрат на локальное серверное программное обеспечение. При использовании размещенных планов Exchange Online, описанных в этом документе, электронная почта размещается на серверах, которые одновременно поддерживают несколько клиентов. Эти серверы находятся в центрах обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет.
 
-Чтобы сравнить функции в планах, см. [в нем Мощные средства поддержки предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans) Чтобы сравнить планы Office 365 Германии, [см. Office 365 планы подписки в Германии.](https://go.microsoft.com/fwlink/?linkid=839016)
+Чтобы сравнить функции в планах, см. [в нем Мощные средства поддержки предприятия.](https://products.office.com/business/compare-more-office-365-for-business-plans)
 
 > [!TIP]
-> В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [экспортировать результаты поиска контента.](/office365/securitycompliance/export-search-results) 
+> В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [экспортировать результаты поиска контента.](/office365/securitycompliance/export-search-results)
 
 ## <a name="whats-new-in-exchange-admin-center"></a>Новые возможности Центра администрирования Exchange
 

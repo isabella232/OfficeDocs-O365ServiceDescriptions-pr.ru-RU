@@ -8,19 +8,16 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте, как Microsoft Sway помогает вам и вашим сотрудникам выражать идеи с помощью интерактивного веб-холста.
-ms.openlocfilehash: 28969b36aaad9e3dc67497a13661ba78367c23bb
-ms.sourcegitcommit: 6ff9fc56c48694dbd4fcb88325cf93472d242124
+ms.openlocfilehash: 18591bca14963d914901da9500c370bd435e9992
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2021
-ms.locfileid: "61126962"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216891"
 ---
 # <a name="microsoft-sway-service-description"></a>Описание службы Microsoft Sway
 
 Sway — это Microsoft 365, которое помогает вам и вашим сотрудникам выражать идеи с помощью интерактивного веб-холста. Конструктор Sway позволяет быстро и легко создавать профессиональные, интерактивные и визуально привлекательные проекты из изображений, текста, документов, видео, карт и других. Вы также можете изменить результаты, чтобы получить уникальный внешний вид и почувствовать, что вы хотите. Sway делает ваше создание отличным в любом браузере, на любом экране, и вы можете поделиться им со своими клиентами и коллегами, отправив ссылку. Подробнее см. в [этой ленте "Добро пожаловать в Sway".](https://sway.com)
-
-> [!NOTE]
-> Microsoft Sway еще не доступна в Office 365 [Германии](/office365/servicedescriptions/office-365-platform-service-description/office-365-germany).
 
 ## <a name="available-plans"></a>Доступные планы
 
@@ -30,7 +27,7 @@ Sway является бесплатным для всех, у кого есть
 
 В следующей таблице перечислены основные функции Microsoft Sway, доступные в планах (Применяются определенные оговорки; дополнительные сведения см. в сносках. Эта таблица может измениться без уведомления.). Самые последние сведения о особенностях Microsoft Sway см. в сайте [Getting Started with Sway (microsoft.com).](https://support.microsoft.com/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
 
-| Возможность | Потребительский (бесплатный) | Личный M365 | Бизнес M365 | M365 Enterprise | M365 Education |
+| Функция | Потребительский (бесплатный) | Личный M365 | Бизнес M365 | M365 Enterprise | M365 Education |
 | --- | --- | --- | --- | --- | --- |
 | Отзывчивый пользовательский интерфейс — Sways отлично смотрятся на любом устройстве | Да | Да | Да | Да | Да |
 | Добавление мультимедийного и встроенного контента | Да | Да | Да | Да | Да |
