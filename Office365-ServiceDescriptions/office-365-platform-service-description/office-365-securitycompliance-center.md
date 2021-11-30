@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Центр соответствия требованиям безопасности предназначен для управления функциями соответствия требованиям во всех Office 365 &amp; организации. Ссылки на существующие функции соответствия требованиям SharePoint и Exchange объединяют возможности соответствия требованиям в Office 365.
-ms.openlocfilehash: bf79bfef4a948e9427e0b7071fca9d6c5410c2ae
-ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
+ms.openlocfilehash: 4bc51a522e561084152fa98554567c8195900a21
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61036067"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234840"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -115,6 +115,6 @@ ms.locfileid: "61036067"
 
 Центр соответствия требованиям доступен в плане E3 для Office 365 [21Vianet.](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
+## <a name="security-amp-compliance-center-office-365-germany"></a>Центр &amp; соответствия требованиям безопасности: Office 365 Германии
 
-Центр & безопасности доступен для Office 365 Германии. Сведения о Office 365 Германии см. [в Office 365 Германии.](office-365-germany.md)
+Office 365 Германия была отправлена в отставку. Дополнительные сведения перейдите к [переходу Microsoft Cloud Deutschland.](https://aka.ms/germanymigrateassist)

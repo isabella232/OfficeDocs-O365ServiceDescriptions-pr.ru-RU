@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: b0fa4bf9db7a8555cb8cdcc048595d35e3e9b055
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: cb8c80e286f21370882dfa6c6b78bec9869720c8
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649186"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234850"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -38,7 +38,6 @@ Microsoft 365 и Office 365 доступны в различных планах,
 |**Образование (неограниченное число пользователей)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (устаревшая) (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A1 для устройств (разовая лицензия на одно устройство в паре с бесплатными Office 365 A1 для каждого пользователя)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A3 (включает Office 365 A3)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (включает Office 365 A5)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> |
 |**Правительство США (неограниченное число пользователей)** <br/> |[См. все доступные планы](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Служба Office 365, которой управляет компания 21Vianet в Китае** <br/> |[См. все доступные планы](https://products.office.com/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Сведения об Office 365 Germany](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>Доступность службы в каждом Microsoft 365 и Office 365 плана
 
@@ -76,7 +75,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>12</sup> Включает Skype для бизнеса Online Plan 2 с голосовой поддержкой и без ограничений клиента.  <br/>
 <sup>13</sup> Включает Skype для бизнеса План 1.<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. По данным на 1 октября 2018 г., новые клиенты с 500 или менее посадочных мест находятся на Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, которые уже используют Skype для бизнеса Online, могут продолжать это делать (включая подготовка новых пользователей) до завершения перехода на Microsoft Teams.<br>
-<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced message encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery возможности; и Безопасность Microsoft 365 E5, которая включает в себя Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф Documents.<br>
+<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced message encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery  возможности; и Безопасность Microsoft 365 E5, включающего Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф  Документы.<br>
 <sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем вашим клиентам отключить Outlook в Интернете [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) с помощью этих действий и попросить пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
 <sup>17</sup> Включает базовая подписка на SharePoint Online. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
 <sup>18 Microsoft 365 F1</sup> пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав create/edit/save. 

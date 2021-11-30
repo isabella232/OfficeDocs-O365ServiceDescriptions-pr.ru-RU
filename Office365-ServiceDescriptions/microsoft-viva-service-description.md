@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Viva на основе возможностей Teams и Microsoft 365 для унифицировать опыт сотрудников в четырех ключевых областях— вовлечение, благополучие, Обучение и знание — в интегрированном опыте, который позволяет людям быть лучшими.
-ms.openlocfilehash: 142c5b7a85627e933fcadea74c5738272a22068f
-ms.sourcegitcommit: 5a5fccf8b7cbe901bbbfed7cbc6e4f5e1c7fab73
+ms.openlocfilehash: d7e65ecdab1a71655afe4c8bb5dd844743cb2289
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793253"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234870"
 ---
 # <a name="microsoft-viva-service-description"></a>Описание службы Microsoft Viva
 
@@ -51,8 +51,8 @@ Microsoft Viva на основе возможностей Teams и Microsoft 365
 <sup>2</sup> Graph соединители, которые даются только в M365/O365 E5. Не входит в состав M365/O365 A5. <br/>
 <sup>3</sup> 500 индексных элементов на одного пользователя, с пулом на уровне клиента. <br/>
 <sup>4</sup> Темы Viva теперь, как правило, доступны в качестве надстройки для Microsoft 365 коммерческих и образовательных планов. Пользователи должны иметь лицензии на M365 F1/F3/E3/A3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 F3/E1/A1/E3/E3/E5/A5 или автономный план SharePoint (правительство США GCC, GCC-High и DoD в настоящее время не в области). <br/>
-<sup>5</sup> Viva Аналитика личные сведения, как правило, доступны бесплатно для Microsoft 365 коммерческих, образовательных и GCC планов. Пользователи должны иметь лицензии на M365 E3/A3/E5/A5/Business Basic/Business Standard/Business standard/Business Premium, Office 365 E1/E3/A3/A5/G3/G5/G5 или GCC (в настоящее время в области не находятся GCC-High или DoD и Office 365 Germany или operated by 21Vianet). <br/>
-<sup>6</sup> Viva Аналитика для руководителей, руководителей и аналитиков (в Teams и в Workplace Analytics) доступна за плату в качестве надстройки к продукту Microsoft 365 или Office 365, который содержит Exchange Online план 1 или Exchange Online План 2 для компании, которые являются поставщик облачных решений (CSP), веб-прямым абонентом или имеют Соглашение Enterprise [(EA)](/viva/insights/Setup/Environment-Requirements#enterprise-agreements) с Корпорацией Майкрософт. Эта надстройка поддерживается только для анализа факультета в настоящее время, а не для студентов. <br/>
+<sup>5</sup> Viva Аналитика личные сведения, как правило, доступны бесплатно для Microsoft 365 коммерческих, образовательных и GCC планов. Пользователи должны иметь лицензии на M365 E3/A3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 E1/E3/A3/A5/G3/G5 или GCC (в настоящее время не в области GCC-High или DoD или Office 365, управляемых 21Vianet). <br/>
+<sup>6</sup> Viva Аналитика для руководителей, руководителей и аналитиков (в Teams и в Workplace Analytics) доступна за плату в качестве надстройки к продукту Microsoft 365 или Office 365, который содержит Exchange Online План 1 или Exchange Online  План 2 для компаний, которые являются поставщик облачных решений (CSP), веб-прямым абонентом или имеют Соглашение Enterprise [(EA)](/viva/insights/Setup/Environment-Requirements#enterprise-agreements) с Корпорацией Майкрософт. Эта надстройка поддерживается только для анализа факультета в настоящее время, а не для студентов. <br/>
 
 ## <a name="learn-more"></a>Подробнее
 

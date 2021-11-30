@@ -12,17 +12,17 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье Центр управления безопасностью (Майкрософт).
-ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3c0d7a1ee00bcae4c57a7cbdc924d5bba1906248
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672987"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234880"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> Сведения, приведенные в этой статье, применимы к международным версиям Office 365. Если вы используете облачный экземпляр для определенной страны или региона Office 365, в частности Office 365 для государственных организаций США, Office 365 Germany и службу Office 365, предоставляемую 21Vianet, см. статью о [национальных облачных службах Майкрософт](https://go.microsoft.com/fwlink/?linkid=841582). 
+> Сведения, приведенные в этой статье, применимы к международным версиям Office 365. Если используется национальный облачный экземпляр Office 365, в том числе Office 365 правительства США и Office 365 21Vianet, см. в примере [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
 В корпорации Майкрософт ценят партнерские отношения с клиентами и уделяют большое внимание обеспечению конфиденциальности и безопасности данных клиентов. Подробную информацию см. в статье [Центр управления безопасностью (Майкрософт)](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   

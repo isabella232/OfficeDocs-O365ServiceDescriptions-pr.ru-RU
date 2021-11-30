@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Корпорация Майкрософт поддерживает следующие сетевые функции.
-ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: dfb53ec42745b57dfa88a86833d20b232d01e85a
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673083"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234890"
 ---
 # <a name="networking"></a>Сеть
 
@@ -27,7 +27,7 @@ ms.locfileid: "59673083"
 
 Корпорация Майкрософт использует адреса IPv4 и IPv6. Использование адресов IPv6 является необязательным и не требуется для подключения к Office 365. Не все Microsoft 365 полностью включены с помощью IPv6. Дополнительные сведения о поддержке Ipv6 см. в [службы Майкрософт.](/office365/enterprise/ipv6-support)
   
-Корпорация Майкрософт поддерживает список разрешенных IP-адресов в справке Майкрософт. Дополнительные сведения см. в [различных диапазонах URL-адресов и IP-адресов.](/office365/enterprise/urls-and-ip-address-ranges) Для Office 365 21Vianet см. URL-адреса и IP-адреса для Office 365 [21Vianet.](/office365/enterprise/managing-office-365-endpoints) Для Office 365 Германии [см. Office 365 конечные точки Германии.](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)
+Корпорация Майкрософт поддерживает список разрешенных IP-адресов в справке Майкрософт. Дополнительные сведения см. в [различных диапазонах URL-адресов и IP-адресов.](/office365/enterprise/urls-and-ip-address-ranges) Для Office 365 21Vianet см. URL-адреса и IP-адреса для Office 365 [21Vianet.](/office365/enterprise/managing-office-365-endpoints)
   
 > [!IMPORTANT]
 > Мы настоятельно рекомендуем обеспечить маршрутизацию в корневые домены, указанные в вышеупомянутых статьях (например, \*.Outlook.com, \*.MicrosoftOnline.com и \*.SharePoint.com), вместо маршрутизации в специальные подсети IP-адресов. Во втором случае при внесении изменений увеличивается риск перерывов в работе для пользователей. 
