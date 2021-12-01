@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 2e144129a33f9e1cab04b09f86200924b8af7fe5
-ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
+ms.openlocfilehash: 8c78b7178adf42be4c3b645bed2cc779a65c8ab2
+ms.sourcegitcommit: 39dd311ed12fc93062a953681c41c5896e0bd059
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/24/2021
-ms.locfileid: "61153248"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61254514"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -48,46 +48,35 @@ Microsoft Teams является центром командной работы 
 
 ## <a name="additional-services"></a>Дополнительные службы
 
-### <a name="career-coach"></a>Профконсультант
+### <a name="career-coach-for-microsoft-teams"></a>Профконсультант для Microsoft Teams
 
 Профконсультант — это Microsoft Teams для образования с помощью LinkedIn, которое предоставляет персонализированные рекомендации для учащихся высших учебных ок. Профконсультант образовательных учреждений предоставляет студентам единое решение для карьеры, чтобы открыть для себя путь к карьере, развивать навыки в реальном мире и создавать свою сеть в одном месте. Дополнительные дополнительные Профконсультант см. в Профконсультант [Purchase, configure and enable Microsoft Teams](/microsoftteams/career-coach) и [Профконсультант Microsoft Education.](https://www.microsoft.com/education/products/career-coach)
 
 ## <a name="learn-more"></a>Подробнее
 
-Skype для бизнеса служба Online ушла в отставку. Обновления с помощью Майкрософт до Teams 31 июля 2021 г. Организации, которые планируют вспомогательные обновления после 31 июля 2021 г., смогут использовать Skype для бизнеса Online до завершения обновления. Дополнительные сведения см. в [Skype для бизнеса online-службе.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
-
-Microsoft Teams это совершенно новая служба, созданная для облака с нуля, используя Azure и другие инновации службы от Корпорации Майкрософт.
-
-Microsoft Teams построена на Microsoft 365, microsoft Graph и с той же безопасностью, соответствием требованиям и управляемостью, что и Office 365. Teams использует удостоверения, хранимые в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет. Дополнительные сведения см. в [Microsoft Teams ИТ-архитектуры](/microsoftteams/teams-architecture-solutions-posters)и плакатов решений для телефонии.
-
-Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
-
-Подробные сведения о планах подписки, которые позволяют пользователям Microsoft Teams, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Дополнительные Office 365 в планах правительства см. в [Office 365 для государственных организаций планах.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1 через G5 включает доступ к Teams функциям.
-
-Подробные рекомендации по реализации функций продукта см. в Microsoft Teams [документации администратора.](/MicrosoftTeams) В этом описании службы описаны основные различия между службами, предоставляемыми в различных облачных установках. Microsoft Teams основные функции не отличаются между подписками. Доступность возможностей соответствия требованиям зависит от уровня подписки. Дополнительные дополнительные информации см. в [Microsoft Teams.](/microsoftteams/security-compliance-overview) Подробный список функций, доступных в каждой подписке, см. в Microsoft 365 [и Office 365 платформы.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
-
-**Функции облачного голосового голоса:** Для аудиоконференций организации необходимо приобрести и назначить лицензию на аудиоконференцию каждому пользователю, который будет настраивать собрания с диалогом. Для Teams, для которых требуются планы звонков, каждому пользователю требуется телефонная система и внутренний или внутренний и международный план звонков. Дополнительные дополнительные [Microsoft Teams надстройки.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
-
 **События в прямом эфире:** Это предложение в Office 365 заменяет ушедшего в отставку Skype трансляцию собраний. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Сведения о [лицензировании Microsoft Stream здесь](/stream/license-overview). К службе Live Events можно получить доступ через stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях событий в прямом эфире см. в Microsoft 365 в [Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365)
 
-Все поддерживаемые планы подписки имеют право на доступ к веб Microsoft Teams клиенту, настольным клиентам и мобильным приложениям.
+**Microsoft Teams Essentials**: Microsoft Teams Essentials — это автономный Teams подписка, которая предоставляет одно решение с собраниями, чатами и совместной работой для малого бизнеса. Узнайте больше о Teams Essentials и о том, как начать [работу здесь.](/microsoftteams/teams-overview)
 
-Microsoft Teams недоступна в качестве автономных служб.
+**Microsoft Teams** подписки. Все поддерживаемые планы подписки имеют право на доступ к веб Microsoft Teams клиенту, настольным клиентам и мобильным приложениям. Microsoft Teams недоступна в качестве автономных служб.
 
-Технические сведения о Microsoft Teams, ознакомьтесь со следующими ресурсами:
+- Подробные сведения о планах подписки, которые позволяют пользователям Microsoft Teams, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Дополнительные Office 365 в планах правительства см. в [Office 365 для государственных организаций планах.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1 через G5 включает доступ к Teams функциям.
+- **Функции облачного голосового голоса:** Для аудиоконференций организации необходимо приобрести и назначить лицензию на аудиоконференцию каждому пользователю, который будет настраивать собрания с диалогом. Для Teams, для которых требуются планы звонков, каждому пользователю требуется телефонная система и внутренний или внутренний и международный план звонков. Дополнительные дополнительные [Microsoft Teams надстройки.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
+- Подробные рекомендации по реализации функций продукта см. в Microsoft Teams [документации администратора.](/MicrosoftTeams) В этом описании службы описаны основные различия между службами, предоставляемыми в различных облачных установках.
+- Microsoft Teams основные функции не отличаются между подписками. Доступность возможностей соответствия требованиям зависит от уровня подписки. Дополнительные дополнительные информации см. в [Microsoft Teams.](/microsoftteams/security-compliance-overview) Подробный список функций, доступных в каждой подписке, см. в Microsoft 365 [и Office 365 платформы.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
-- Начните планирование Microsoft Teams развертывания, посетив Microsoft Teams [документацию](https://aka.ms/SuccessWithTeams)
-- Чтобы получить дополнительные Teams с помощью платформы операционной системы, просмотрите Teams [функции в статье поддержки платформы.](https://aka.ms/teamsfeaturesbyplatform)
-- Будьте в курсе Teams и возможностей, присоединившись к нашему сообществу и посетив наш [Microsoft Teams блог](https://aka.ms/TeamsBlog)
+**Microsoft Teams технической информации.** Для получения технических сведений о Microsoft Teams обратитесь к следующим ресурсам:
 
-### <a name="licensing-terms"></a>Условия лицензирования
+- Microsoft Teams это совершенно новая служба, созданная для облака с нуля, используя Azure и другие инновации службы от Корпорации Майкрософт.
+- Microsoft Teams построена на Microsoft 365, microsoft Graph и с той же безопасностью, соответствием требованиям и управляемостью, что и Office 365. Teams использует удостоверения, хранимые в Azure Active Directory (Azure AD). Эти службы доставляются из центров обработки данных Майкрософт и доступны пользователям на широком диапазоне устройств внутри корпоративной сети или через Интернет. Дополнительные сведения см. в [Microsoft Teams ИТ-архитектуры](/microsoftteams/teams-architecture-solutions-posters)и плакатов решений для телефонии.
+- Начните планирование Microsoft Teams развертывания с помощью Microsoft Teams [технической документации.](https://aka.ms/SuccessWithTeams)
+- Чтобы получить дополнительные Teams с помощью платформы операционной системы, просмотрите Teams функции в статье [поддержки платформы.](https://aka.ms/teamsfeaturesbyplatform)
+- Будьте в курсе Teams и возможностей, присоединившись к нашему сообществу и посетив наш [Microsoft Teams блог](https://aka.ms/TeamsBlog).
 
-Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
+**Skype для бизнеса** Teams 31 июля 2021 г. Организации, которые планируют вспомогательные обновления после 31 июля 2021 г., смогут использовать Skype для бизнеса Online до завершения обновления. Дополнительные сведения см. в [Skype для бизнеса online-службе.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
 
-### <a name="messaging"></a>Сообщения
+**Доступность:** Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Чтобы отслеживать предстоящие изменения, в том числе новые и измененные компоненты, запланированное обслуживание или другие важные объявления, посетите Центр сообщений. Дополнительные сведения см. в статье [Центр сообщений](/microsoft-365/admin/manage/message-center).
+**Условия лицензирования:** Условия лицензирования продуктов и служб, приобретенных через Программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на [сайте Условия продукта.](https://www.microsoft.com/licensing/terms/)
 
-### <a name="accessibility"></a>Специальные возможности
-
-Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+**Обмен сообщениями:** Чтобы отслеживать предстоящие изменения, в том числе новые и измененные функции, запланированное обслуживание или другие важные объявления, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
