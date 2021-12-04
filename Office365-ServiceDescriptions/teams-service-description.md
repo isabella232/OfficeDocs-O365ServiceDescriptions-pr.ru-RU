@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте о доступности Microsoft Teams и функций в Microsoft 365 и Office 365 планах.
-ms.openlocfilehash: 8c78b7178adf42be4c3b645bed2cc779a65c8ab2
-ms.sourcegitcommit: 39dd311ed12fc93062a953681c41c5896e0bd059
+ms.openlocfilehash: 2948b92567d32e0dc3fa76b524e81157f2e61c05
+ms.sourcegitcommit: 820d6c715f08d1c815ed39eef0b198765edfacca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61254514"
+ms.lasthandoff: 12/04/2021
+ms.locfileid: "61305815"
 ---
 # <a name="microsoft-teams-service-description"></a>Описание службы Microsoft Teams
 
@@ -54,12 +54,11 @@ Microsoft Teams является центром командной работы 
 
 ## <a name="learn-more"></a>Подробнее
 
-**События в прямом эфире:** Это предложение в Office 365 заменяет ушедшего в отставку Skype трансляцию собраний. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Сведения о [лицензировании Microsoft Stream здесь](/stream/license-overview). К службе Live Events можно получить доступ через stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях событий в прямом эфире см. в Microsoft 365 в [Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365)
-
 **Microsoft Teams Essentials**: Microsoft Teams Essentials — это автономный Teams подписка, которая предоставляет одно решение с собраниями, чатами и совместной работой для малого бизнеса. Узнайте больше о Teams Essentials и о том, как начать [работу здесь.](/microsoftteams/teams-overview)
 
 **Microsoft Teams** подписки. Все поддерживаемые планы подписки имеют право на доступ к веб Microsoft Teams клиенту, настольным клиентам и мобильным приложениям. Microsoft Teams недоступна в качестве автономных служб.
 
+- **События в прямом эфире:** Это предложение в Office 365 заменяет ушедшего в отставку Skype трансляцию собраний. Возможности живых событий доступны для планов лицензирования, как описано в службе Stream. Сведения о [лицензировании Microsoft Stream здесь](/stream/license-overview). К службе Live Events можно получить доступ через stream, Yammer или Microsoft Teams. Дополнительные информацию о возможностях событий в прямом эфире см. в Microsoft 365 в [Yammer, Microsoft Teams и Microsoft Stream.](/stream/live-event-m365)
 - Подробные сведения о планах подписки, которые позволяют пользователям Microsoft Teams, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Дополнительные Office 365 в планах правительства см. в [Office 365 для государственных организаций планах.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1 через G5 включает доступ к Teams функциям.
 - **Функции облачного голосового голоса:** Для аудиоконференций организации необходимо приобрести и назначить лицензию на аудиоконференцию каждому пользователю, который будет настраивать собрания с диалогом. Для Teams, для которых требуются планы звонков, каждому пользователю требуется телефонная система и внутренний или внутренний и международный план звонков. Дополнительные дополнительные [Microsoft Teams надстройки.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
 - Подробные рекомендации по реализации функций продукта см. в Microsoft Teams [документации администратора.](/MicrosoftTeams) В этом описании службы описаны основные различия между службами, предоставляемыми в различных облачных установках.
