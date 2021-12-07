@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 1ec9a2c8b0b0acce87494e2b528da3e58e20876f
-ms.sourcegitcommit: ad4c082362428dbd29a0347058abed9e51685916
+ms.openlocfilehash: 2001bfa58628d98ac15d8ed0331c63ce4e637dea
+ms.sourcegitcommit: 63bcf11731c9eb94a77188db85d38da87422fea2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61070133"
+ms.lasthandoff: 12/07/2021
+ms.locfileid: "61327895"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -421,7 +421,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 и Azure Information Protection Plan
 
 Для **ручной маркировки чувствительности** следующие лицензии предоставляют права пользователей:
 
-- Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium
+- Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium (Защита информации для Office 365 . Стандарт должен быть включен, если только лицензия E5 назначена)
 - Enterprise Mobility + Security E3/E5
 - Office 365 E5/A5/E3/A3/F3
 - AIP Plan 1
@@ -704,11 +704,11 @@ Microsoft Defender для endpoint Server — это надстройка для
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
-**Microsoft Defender для плана 1 конечной точки**
+**Microsoft Defender для конечной точки (план 1)**
 
 Microsoft Defender для конечной точки P1 предоставляет основные возможности защиты конечной точки, такие как защита от вредоносных программ следующего поколения, правила уменьшения поверхности атаки, управление устройствами, брандмауэр конечной точки, защита сети и другие. Подробные сведения см. [в программах Microsoft Defender for Endpoint Plan 1 и Plan 2.](/microsoft-365/security/defender-endpoint/defender-endpoint-plan-1-2)
 
-**Microsoft Defender для конечной точки Plan 2**
+**Microsoft Defender для конечной точки (план 2)**
 
 Microsoft Defender для конечной точки P2 предоставляет все возможности защиты конечной точки, включая все возможности Microsoft Defender для конечной точки P1 с дополнительными возможностями, такими как обнаружение и нейтрализация атак на конечные точки, автоматическое расследование и исправление, контроль угроз и уязвимостей , аналитика угроз, песочница и эксперты по угрозам Майкрософт. Подробные сведения см. [в документации Microsoft Defender for Endpoint.](/microsoft-365/security/defender-endpoint)
 
