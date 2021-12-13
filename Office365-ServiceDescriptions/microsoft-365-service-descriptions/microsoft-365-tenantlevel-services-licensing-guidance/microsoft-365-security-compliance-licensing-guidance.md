@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 2001bfa58628d98ac15d8ed0331c63ce4e637dea
-ms.sourcegitcommit: 63bcf11731c9eb94a77188db85d38da87422fea2
+ms.openlocfilehash: 6450196f39b168298d88787df0079b99e3e727c5
+ms.sourcegitcommit: 4c7fa0c73f52bc88e121710b118accff6a2673a2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/07/2021
-ms.locfileid: "61327895"
+ms.lasthandoff: 12/13/2021
+ms.locfileid: "61426070"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -430,7 +430,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 и Azure Information Protection Plan
 Для **автоматической метки** конфиденциальности клиента и службы следующие лицензии предоставляют права пользователей:
 
 - Microsoft 365 E5/A5/G5
-- Соответствие требованиям F5
+- Соответствие требованиям F5 и E5
 - Соответствие требованиям & безопасности F5
 - Microsoft 365 E5/A5/G5 Защита и управление информацией
 - Office 365 E5
