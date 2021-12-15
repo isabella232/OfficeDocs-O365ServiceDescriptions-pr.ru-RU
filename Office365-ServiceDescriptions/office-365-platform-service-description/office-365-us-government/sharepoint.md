@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
-ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
+ms.openlocfilehash: 82c9b5ec60647bdd582da5051094cd10bfbcb9ea
+ms.sourcegitcommit: c55d64d09e48f4d74a4e0f92ecf32cacf70798dc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "60088512"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61530008"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для правительственных сред США
 
@@ -47,12 +47,14 @@ ms.locfileid: "60088512"
 
 Ниже представлены различия между функциями ИТ-администратора для коммерческих клиентов и функциями ИТ-администратора для государственных облачных клиентов.
 
-- Изменение адреса сайта не доступно для GCC клиентов с высоким уровнем
-- Средство SharePoint и диспетчер миграции требуют изменения конфигурации. Сведения см. в [правительственной облачной поддержке SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
-- Mover.io еще не поддерживается
-- Multi-geo не доступен для всех клиентов правительственных облаков
+- Изменение адреса сайта не доступно для клиентов GCC high.
+- Средство SharePoint и диспетчер миграции требуют изменения конфигурации. Дополнительные сведения см. в [правительственной облачной поддержке SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
+- Mover.io еще не поддерживается.
+- Multi-geo не доступен для всех клиентов правительственных облаков.
+- На домашней странице центра администрирования SharePoint для клиентов GCC High и DoD недоступны следующие карточки: SharePoint, использование SharePoint сайта, использование OneDrive, SharePoint активности файлов и OneDrive файлов.
+- [Отслеживаемая карта просмотра](/sharepoint/manage-sites-in-new-admin-center#track-a-view) недоступна в центре администрирования SharePoint для всех клиентов правительственных облаков.
 
-Сведения о миграции FastTrack см. в [описании Office 365 службы правительства США.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
+Дополнительные сведения о миграции FastTrack см. в [описании Office 365 службы правительства США.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Функции безопасности и соответствия требованиям
 

@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 6450196f39b168298d88787df0079b99e3e727c5
-ms.sourcegitcommit: 4c7fa0c73f52bc88e121710b118accff6a2673a2
+ms.openlocfilehash: dd505ef644558b8ad1064320b82ea35600464a5a
+ms.sourcegitcommit: c55d64d09e48f4d74a4e0f92ecf32cacf70798dc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "61426070"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61529962"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -585,6 +585,16 @@ Microsoft Defender для Office 365 защищает пользователей
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы? 
 
 Microsoft Defender для Office 365 планов 1 и 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Security, Microsoft 365 F5 Security & compliance, and Microsoft 365 бизнес премиум  предоставить пользователю права на выгоду от Microsoft Defender для Office 365.
+
+Эта быстрая ссылка поможет вам понять, какие возможности есть у каждого защитника Microsoft для Office 365 подписки. В сочетании с вашими знаниями о функциях EOP это может помочь людям, принимающим бизнес-решения, определить, какой Microsoft Defender для Office 365 лучше всего подходит для их нужд.
+
+#### <a name="microsoft-defender-for-office-365-plan-1-vs-plan-2-cheat-sheet"></a>Microsoft Defender для Office 365 план 1 против плана 2 Лист обмана
+
+| Defender для Office 365 (план 1) | Defender для Office 365 (план 2) |
+|---------|---------|
+| Конфигурация, защита и возможности обнаружения: <ul><li> Безопасные вложения </li><li> Безопасные ссылки </li><li> Безопасные вложения для SharePoint, OneDrive и Microsoft Teams </li><li> Защита от фишинга в Defender для Office 365 </li><li> Обнаружение в режиме реального времени </li></ul> | Возможности Defender для Office 365 (план 1) </br> --- плюс --- </br> Автоматизация, исследование, исправления и возможности образования. <ul><li> Журналы учета угроз </li><li> Обозреватель угроз </li><li> Автоматическое исследование и реагирование </li><li> Обучение симуляции атаки </li></ul> |
+
+Дополнительные сведения можно найти в Office 365, включая Microsoft Defender для Office 365 [и Exchange Online Protection - Office 365 | Microsoft Docs](/microsoft-365/security/office-365-security/overview).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
