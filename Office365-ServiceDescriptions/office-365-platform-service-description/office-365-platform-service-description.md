@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 и Office 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Если вы ищете различия между планами, включая Exchange Online, в этой статье покажут, какие функции включены в каждый из них.
-ms.openlocfilehash: eacff992dcd69b9a7dad0bae0c2de0e8578f4350
-ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
+ms.openlocfilehash: 88139b44e84f1663b0496037f3b9d7d6a53765dd
+ms.sourcegitcommit: ffbdf0f567d309d8432ccf98c8d4471ddf2bf534
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61216871"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "61643505"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Описание служб платформы Microsoft 365 и Office 365
 
@@ -94,7 +94,7 @@ Multi-Geo позволяет одной организации охватыва�
 |Администрирование Office 365 с помощью Центр администрирования Microsoft 365 или Windows PowerShell  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Защита содержимого с помощью Azure Information Protection  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Да  <br/> |Да  <br/> |No<sup>2</sup> <br/> |
 |**[Компоненты набора Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 бизнес базовый** <br/> |**Приложения Microsoft 365 для бизнеса** <br/> |**Microsoft 365 бизнес стандарт** <br/> |**Office 365 корпоративный E1** <br/> |**Office 365 корпоративный E3** <br/> |**Office 365 корпоративный E5** <br/> |**Office 365 корпоративный F3** <br/> |
-|Microsoft Bookings  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |
+|Microsoft Bookings  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |Microsoft Briefing email<sup>19</sup>  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
 |[Microsoft Power Automate](/power-automate/us-govt)  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |

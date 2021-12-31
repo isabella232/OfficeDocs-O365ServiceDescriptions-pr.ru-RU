@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 и Office 365 это облачные службы, предназначенные для удовлетворения потребностей организации в надежной безопасности, надежности и производительности пользователей.
-ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
-ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
+ms.openlocfilehash: 09f59d44bd19abf2df0305d517c2d3c9f579949d
+ms.sourcegitcommit: ffbdf0f567d309d8432ccf98c8d4471ddf2bf534
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61142416"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "61643495"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Описание служб Microsoft 365 и Office 365 
 
@@ -38,48 +38,71 @@ Microsoft 365 и Office 365 это облачные службы, предназ
   
 Сначала следует ознакомиться с описанием следующих служб.
   
-- [Microsoft 365 и Office 365 1](office-365-platform-service-description/office-365-platform-service-description.md)<sup></sup>
+- [Microsoft 365 и Office 365 1](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)<sup></sup>
 
-- [Описание службы приложений Office](office-applications-service-description/office-applications-service-description.md)
+- [Описание службы Azure Active Directory](/office365/servicedescriptions/azure-active-directory)
 
-- [Описание служб Office в Интернете](office-online-service-description/office-online-service-description.md)
+- [Описание службы Exchange Online](/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
 
-- [Описание службы Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
+- [Описание службы Exchange Online Protection](/office365/servicedescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description)
 
-- [Описание службы Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+- [Описание службы архивации на базе Exchange Online](/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)
 
-- [Описание службы архивации на базе Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Microsoft 365 бизнес премиум](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [Описание службы Microsoft Defender для Office 365](office-365-advanced-threat-protection-service-description.md)
+- [Руководство Microsoft 365 по обеспечению безопасности и соответствия требованиям](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-- [Описание службы Microsoft Teams](teams-service-description.md)
+- [Microsoft 365 для малого и среднего бизнеса](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [Описание службы OneDrive](onedrive-for-business-service-description.md)
+- [Описание службы Microsoft Bookings](/office365/servicedescriptions/microsoft-bookings-service-description)
 
-- [Описание службы SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Описание службы Microsoft Defender для Office 365](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-- [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Описание службы Microsoft Forms](/office365/servicedescriptions/microsoft-forms-service-description)
 
-- [Описание службы Workplace Analytics](workplace-analytics-service-description.md)
+- [Описание службы "Планировщик (Майкрософт)"](/office365/servicedescriptions/project-online-service-description/microsoft-planner-service-description)
 
-- [Описание службы MyAnalytics](mya-service-description.md)
+- [Описание службы Microsoft Project](/office365/servicedescriptions/project-online-service-description/project-online-service-description)
 
-- [Описание службы Power BI](power-bi-service-description.md)
+- [Описание службы Microsoft Project в Интернете](/office365/servicedescriptions/project-online-service-description/project-web-service-description)
 
-- [Описание службы Microsoft Project](project-online-service-description/project-online-service-description.md)
+- [Описание службы классического клиента Microsoft Project Online](/office365/servicedescriptions/project-online-service-description/project-online-desktop-client-service-description)
 
-- [Описание службы Visio в Интернете](visio-online-service-description/visio-online-service-description.md)
+- [Описание службы Microsoft Project Online](/office365/servicedescriptions/project-online-service-description/microsoft-project-online-service-description)
 
-- [Описание службы Yammer](yammer-service-description/yammer-service-description.md)
+- [Описание службы Microsoft Sway](/office365/servicedescriptions/microsoft-sway-service-description)
 
-- [Описание службы голосовой связи Microsoft 365 бизнес](microsoft-365-business-voice-service-description.md)
+- [Описание службы Microsoft Teams](/office365/servicedescriptions/teams-service-description)
 
-- [Сравнение всех Microsoft 365 бизнес-продуктов](/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [Описание службы Microsoft Viva](/office365/servicedescriptions/microsoft-viva-service-description)
 
-- [Microsoft 365 для малого и среднего бизнеса](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [Описание службы MyAnalytics](/office365/servicedescriptions/mya-service-description)
 
-- [Руководство по лицензированию Microsoft 365 для обеспечения безопасности и соответствия требованиям](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Описание службы приложений Office](/office365/servicedescriptions/office-applications-service-description/office-applications-service-description)
 
+- [Описание служб Office в Интернете](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+
+- [Office 365 описания государственных служб США](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
+
+- [Описание службы OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description)
+
+- [Описание службы Power BI](/office365/servicedescriptions/power-bi-service-description)
+
+- [Описание службы SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)
+
+- [Описание службы SharePoint Syntex](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-service-description)
+
+- [Описание службы Skype для бизнеса Online](/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description)
+
+- [Описание службы Visio в Интернете](/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)
+
+- [Описание службы универсальной печати](/office365/servicedescriptions/universal-print-service-description/universal-print-service-description)
+
+- [Описание служб Windows 365](/office365/servicedescriptions/windows-365-service-description/windows-365-service-description)
+
+- [Описание службы Workplace Analytics](/office365/servicedescriptions/workplace-analytics-service-description)
+
+- [Описание службы Yammer](/office365/servicedescriptions/yammer-service-description/yammer-service-description)
 
 > [!NOTE]
 > <sup>1</sup> Включает сведения о доступности [функций набора](./office-365-platform-service-description/office-365-suite-features.md), таких как Office Delve, Microsoft MyAnalytics, Microsoft Sway и Microsoft Teams.
