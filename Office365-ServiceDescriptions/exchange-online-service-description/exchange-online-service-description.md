@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 3b683c01f5348a4a50b15fe11df3828bbfaa3f0b
-ms.sourcegitcommit: 486c7c8d1a6f8992ef174dfd0ef6137a93046b83
+ms.openlocfilehash: 0a327b40a15f548065d6888b052c9a9e6fc93e5c
+ms.sourcegitcommit: a222d8bf05266d1121faca9def6096f173652294
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61574996"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61992993"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -59,7 +59,7 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 | Возможность | Описание | Microsoft 365 бизнес базовый, standard и Premium | Office 365 корпоративный E1 | Office 365 корпоративный E3/E5 | Office 365 корпоративный F3 | Exchange Online План 1/2 | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**|Outlook в Интернете<sup>1</sup>, Outlook для iOS и Android<sup>1</sup>, Exchange ActiveSync и SMTP|Да|Да|Да|Да|Да|Да|
+|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook в Интернете<sup>1</sup>, Outlook для iOS и Android<sup>1</sup>, Exchange ActiveSync и SMTP<img width=140/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да|Да|
 ||POP и IMAP|Да|Да|Да|Да<sup>2</sup>|Да|Да<sup>3</sup>|
 ||Поддержка приложений EWS, Outlook для Windows<sup>1</sup>, Outlook для Mac<sup>1</sup>|Да|Да|Да|Нет|Да|Нет|
 ||Базовая мобильность и безопасность для Microsoft 365|Да|Да|Да|Да|||

@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Узнайте, какие функции доступны в различных Yammer планах.
-ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e4dcad0fec103fded44b2820d82428c005c8201b
+ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986145"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860653"
 ---
 # <a name="yammer-service-description"></a>Описание службы Yammer
 
@@ -55,7 +55,7 @@ ms.locfileid: "59986145"
 Каналы, используемые для связи, будут зависеть от воздействия.
 
 
-| Тип изменения | Office 365 Центр [сообщений](/microsoft-365/admin/manage/message-center) | Дорожная карта Microsoft 365 | Yammer Блог Community, например, ежемесячные обгоны | Внешнее сообщество, Twitter |
+| Тип изменения | Office 365 Центр [сообщений](/microsoft-365/admin/manage/message-center) | Дорожная карта Microsoft 365 | Yammer tech Community блог, например, ежемесячные обгоны | Внешнее сообщество, Twitter |
 |---------|---------|---------|---------|---------|
 |**Изменения, требующие действий (план изменений)** — изменения, требующие действий администратора для поддержания работы службы, обновления, которые могут повлиять на соответствие требованиям организации. | Да | Да | Да | Да |
 | **Изменения, требующие осведомленности (оставайтесь в курсе)** — изменения, не требующие действий администратора, изменения визуального дизайна | Да | Да | Да | Да |
@@ -66,7 +66,7 @@ ms.locfileid: "59986145"
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer корпоративных служб связи
 
-Yammer придерживается политики [управления Microsoft 365](https://aka.ms/ManageChange)изменений, но использует целевой выпуск для Microsoft 365 обновлений. Yammer могут подвергаться тестированию или полету функций A/B. Это позволяет Корпорации Майкрософт протестировать функции для обеспечения стабильности, производительности и улучшения работы во многих средах и устройствах. В связи с тестированием пользователи одной сети могут иметь доступ к разным возможностям. Пользователи не могут отказаться от A/B-тестирования.
+Yammer придерживается политики [Microsoft 365](https://aka.ms/ManageChange)управления изменениями, но не использует целевой выпуск для Microsoft 365 обновлений. Yammer могут подвергаться тестированию или полету функций A/B. Это позволяет Корпорации Майкрософт протестировать функции для обеспечения стабильности, производительности и улучшения работы во многих средах и устройствах. В связи с тестированием пользователи одной сети могут иметь доступ к разным возможностям. Пользователи не могут отказаться от A/B-тестирования.
 
 ## <a name="licensing-terms"></a>Условия лицензирования
 
@@ -81,10 +81,10 @@ Yammer придерживается политики [управления Micro
 Дополнительные сведения о Yammer, ознакомьтесь со следующими ресурсами:
 
 - [Ограничения в Yammer](/office365/servicedescriptions/yammer-service-description/yammer-limits)
-- [Yammer Принятие](https://adoption.microsoft.com/yammer/)
+- [Yammer принятие](https://adoption.microsoft.com/yammer/)
 - [Yammer помогают & - Поддержка Майкрософт](https://support.microsoft.com/yammer)
 - [Yammer видео - Office поддержка (microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
-- [Yammer Блог (microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
+- [Yammer блог (microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
 ## <a name="system-requirements"></a>Требования к системе
 
@@ -99,7 +99,7 @@ Yammer придерживается политики [управления Micro
 - [Приложение Communities для](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) Microsoft Teams
 - Новое Yammer [настольное приложение](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
 - [SharePoint Основные моменты и веб-части Беседы](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer Встраить (новые и классические Yammer)](https://developer.yammer.com/docs/new-embed-feed)
+- [Yammer (Новые и классические Yammer)](https://developer.yammer.com/docs/new-embed-feed)
 - [Интерактивные электронные сообщения в Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
 - [Yammer приложения на iPhone, iPad и Android](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
 
