@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 6def34aa04c254aec1939dd5eb8bc0b60d72b7ca
-ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
+ms.openlocfilehash: fe924b12ee013ce42d2772a20bfcb7411bb0d548
+ms.sourcegitcommit: 7b178adab989723e535f18fb8509e2c9eb9ea607
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860699"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62028068"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия &amp; требованиям безопасности
 
@@ -810,7 +810,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Complianc
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
-Управление конфиденциальностью доступно в качестве дополнения к организациям с подписками Office 365 A1/E1/A3/E3/A5/E5 и Microsoft 365 A3/E3/A5/E5.
+Управление конфиденциальностью доступно в качестве дополнения к организациям с подписками Office 365 A1/E1/G1/A3/E3/G3/A5/E5/G5 и Microsoft 365 A3/E3/G3/A5/E5/G5.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают выгоду от службы?
 
@@ -818,7 +818,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Complianc
 
 ### <a name="how-can-customers-access-the-service"></a>Как клиенты могут получить доступ к службе?
 
-Управление конфиденциальностью встроено в [Центр соответствия требованиям Microsoft 365](https://compliance.microsoft.com/homepage) и включено на уровне клиента для всех пользователей в клиенте. Мы рекомендуем приобретать лицензии любому пользователю, который будет получать выгоду от службы и защищать ее.
+Запросы на управление конфиденциальностью и права на управление конфиденциальностью можно приобрести [](https://compliance.microsoft.com/homepage) независимо друг от друга и встроены в Центр соответствия требованиям Microsoft 365 и включены на уровне клиента для всех пользователей в клиенте. Мы рекомендуем приобретать лицензии любому пользователю, который будет получать выгоду от службы и защищать ее.
 
 Клиенты могут приобрести следующие лицензии в зависимости от организационных необходимости:
 
@@ -837,11 +837,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Complianc
 - Безопасно сотрудничать с другими заинтересованными сторонами Microsoft Teams интеграции (потребуется соответствующая лицензия для Microsoft Teams).</br>
     Клиенты смогут приобретать запросы на права субъекта в блоках 110 или 100.
 
-Запросы на управление конфиденциальностью и права на управление конфиденциальностью можно приобрести независимо друг от друга и доступны в [Центр администрирования Microsoft 365](https://admin.microsoft.com/).
-
 См. условия продукта [для](https://www.microsoft.com/licensing/terms/productoffering/Microsoft365/EAEAS) необходимых условий лицензирования, необходимых для получения запроса на управление конфиденциальностью ( управление рисками и конфиденциальностью).
-
-Дополнительные данные о бесплатной пробной [версия](https://aka.ms/privacymgmt/TrialDocs)для управления конфиденциальностью
 
 ## <a name="privileged-access-management-in-office-365"></a>Управление привилегированным доступом в Office 365
 
