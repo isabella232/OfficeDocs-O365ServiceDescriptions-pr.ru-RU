@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Многие мобильные телефоны, планшеты и другие мобильные устройства можно использовать с помощью Microsoft Office 365.
-ms.openlocfilehash: fe574b3004aa72854ce77062018b3395f6803f7d
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a2494ca5d240ae30b9cd24ca92b9826017145f15
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671432"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083359"
 ---
 # <a name="mobile-devices-service-description"></a>Описание службы мобильных устройств
 
@@ -25,7 +25,7 @@ ms.locfileid: "59671432"
   
 - Сведения касательно конкретных мобильных устройств см. в статье [Сравнение работы Office 365 на различных мобильных устройствах](https://go.microsoft.com/fwlink/p/?LinkId=282337).
     
-- Сведения об использовании электронной почты на мобильных устройствах см. в описании [службы клиенты и мобильные](../exchange-online-service-description/clients-and-mobile-devices.md) устройства. 
+- Сведения об использовании электронной почты на мобильных устройствах см. в описании [службы клиенты и мобильные](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online) устройства. 
     
 - Сведения о базовой мобильности и безопасности для Microsoft 365 см. в обзоре базовой мобильности и [безопасности для Microsoft 365.](/microsoft-365/admin/basic-mobility-security/overview)
     
