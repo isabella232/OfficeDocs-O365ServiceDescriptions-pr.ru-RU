@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Майкрософт могут просмотреть состояние служб и узнать, когда планируется обслуживание. Сведения о состоянии здоровья службы доступны в любое время при входе.
-ms.openlocfilehash: e517897cf6bb1453b5e419267814021740a05cf3
-ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
+ms.openlocfilehash: 194736d066e7302170c82f2384dd51cd24090a69
+ms.sourcegitcommit: 6cb17d1ad98a6f9103001a4958eb091371685c39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60536370"
+ms.lasthandoff: 01/21/2022
+ms.locfileid: "62159758"
 ---
 # <a name="service-health-and-continuity"></a>Работоспособность и непрерывная работа служб
 
@@ -48,7 +48,7 @@ ms.locfileid: "60536370"
 
 | Q1 | Q2 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|
-| 99.97%  | 99.98% | 99.985% | |
+| 99.97%  | 99.98% | 99.985% | 99.976%|
 
 <br>
 
@@ -92,11 +92,11 @@ ms.locfileid: "60536370"
 
 Приложение администрирования для администраторов организации позволяет подключаться к статусу службы Майкрософт организации в перейти. Администраторы Майкрософт смогут просматривать сведения о состоянии службы и обновления состояния обслуживания с мобильных устройств. Дополнительные сведения см. в статье [Вопросы и ответы о приложении администрирования](/office365/admin/admin-overview/admin-mobile-app).
   
-### <a name="microsoft-365-management-pack-for-microsoft-system-center-operations-manager"></a>Microsoft 365 Пакет управления для диспетчера System Center Майкрософт
+### <a name="microsoft-365-management-pack-for-microsoft-system-center-operations-manager"></a>Microsoft 365 пакет управления для Microsoft System Center Operations Manager
 
 Microsoft System Center Operations Manager (SCOM) — это интегрированная платформа управления, которая помогает управлять центрами обработки данных, клиентских устройств и гибридными облачными ИТ-средами. Администраторы Корпорации Майкрософт, которые используют SCOM, могут импортировать пакет управления Microsoft 365, который позволяет просматривать все сообщения службы в диспетчере операций в System Center. С помощью этого средства вы можете получить доступ к статусу подписаных служб, активным и разрешенным инцидентам службы и средствам связи центра сообщений. Дополнительные сведения можно получить в [пакете управления microsoft System Center для Microsoft 365](https://www.microsoft.com/download/details.aspx?id=103379) в Центре загрузки Майкрософт.
   
-### <a name="microsoft-365-service-communications-api-in-graph"></a>Microsoft 365 API service Communications in Graph
+### <a name="microsoft-365-service-communications-api-in-graph"></a>Microsoft 365 API службы связи в Graph
 
 API Microsoft 365 service Communications позволяет получать доступ к службам связи так, как вам нужно. С помощью этого API вы можете создавать или подключать инструменты к обслуживанию коммуникаций, что может упростить мониторинг среды. API service Communications позволяет отслеживать следующие элементы среды:
 
