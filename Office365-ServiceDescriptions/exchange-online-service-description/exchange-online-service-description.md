@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 0a327b40a15f548065d6888b052c9a9e6fc93e5c
-ms.sourcegitcommit: a222d8bf05266d1121faca9def6096f173652294
+ms.openlocfilehash: 221989f56a2779dc5f8da3beefff85af8d1ce5cd
+ms.sourcegitcommit: 4e715887072acabf402e811298171d619a7c83fe
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61992993"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62271091"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -29,29 +29,29 @@ Microsoft Exchange Online — это решение для обмена сооб
 
 ## <a name="available-plans-for-exchange-online"></a>Доступные планы для Exchange Online
 
-Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям Exchange Online, см. в полной [таблице сравнения подписки](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 > [!NOTE]
-> Каждый пользователь, который Exchange Online службу, должен быть назначен в план подписки, и у каждого пользователя есть свой почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центр обработки данных Майкрософт. Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. Эти специальные типы почтовых ящиков не имеют учетных данных входа, вместо этого лицензированные пользователи с соответствующими разрешениями управляют ими и имеют доступ к ним через делегирования. Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, Microsoft 365 F1 лицензии могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, Microsoft 365 F1 пользователи не имеют права на использование почтового ящика. Мы рекомендуем отключить Outlook в Интернете с помощью [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) этих действий и попросить пользователей не получать доступ к почтовому ящику Exchange другими методами.
+> Каждый пользователь, который Exchange Online службу, должен быть назначен в план подписки, и у каждого пользователя есть свой почтовый ящик. Папки и сообщения в этих почтовых ящиках находятся в центр обработки данных Майкрософт. Для конференц-залов и общих почтовых ящиков подписки пользователей не требуются. Эти специальные типы почтовых ящиков не имеют учетных данных входа, вместо этого лицензированные пользователи с соответствующими разрешениями управляют ими и имеют доступ к ним через делегирования. Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, Microsoft 365 F1 лицензии могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, Microsoft 365 F1 пользователи не имеют права на использование почтового ящика. Мы рекомендуем отключить Outlook в Интернете с помощью этих действий и попросить [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) пользователей не получать доступ к Exchange почтовому ящику с помощью любых других методов.
 
 ## <a name="feature-availability-including-standalone-plans"></a>Доступность функций (включая автономные планы)
 
-В следующей таблице перечислены основные Exchange Online, доступные в планах (применяются определенные оговорки , см. сноски для получения дополнительных сведений . Эта таблица может измениться без уведомления). Полный список функций в планах см. в списке "Мощные средства поддержки [предприятия".](https://products.office.com/business/compare-more-office-365-for-business-plans) Сведения о доступности функций в Microsoft 365 бизнес-планах (базовых, стандартных и премиум-классах) см. в Microsoft 365 бизнес-планах [или](https://aka.ms/M365BusinessPlans)в центре сообщений в Центр администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новые Приложения Microsoft 365 влияет на вас.
+В следующей таблице перечислены основные Exchange Online, доступные в планах (применяются определенные оговорки , см. сноски для получения дополнительных сведений . Эта таблица может измениться без уведомления). Полный список функций в планах см. в списке "Мощные средства поддержки [предприятия"](https://products.office.com/business/compare-more-office-365-for-business-plans). Сведения о доступности функций в Microsoft 365 бизнес-планах (базовых, стандартных и премиум-классах) см. в Microsoft 365 бизнес-планах [или в](https://aka.ms/M365BusinessPlans) центре сообщений в Центр администрирования Microsoft 365 или поговорите с поставщиком дополнительных сведений о том, как новые Приложения Microsoft 365 влияет на вас.
 
 ### <a name="features-available-to-all-plans"></a>Функции, доступные всем планам
 
 Эти функции доступны для всех бизнес (базовый, стандартный и премиум), Enterprise (E1, E3, E5 и F3) и Exchange Online планов (1, 2 и Киоск) — к оговоркам применяются см. сноски для получения дополнительных сведений.
 
-- Защита от нежелательной почты и защиты от вредоносных программ [**(с**](/exchange/antispam-and-antimalware/antispam-and-antimalware) помощью прямого доступа к интерфейсу управления центром администрирования Exchange)**:** встроенная защита от нежелательной почты и защиты от вредоносных программ (использует несколько систем защиты от вредоносных программ для сканирования входящие, исходящие и внутренние сообщения для вредоносных программ), настроенные политики защиты от нежелательной почты и вредоносных программ, карантин — управление администратором и карантин — самообуправление конечных пользователей.
-- [**Exchange Online**](/exchange/architecture/client-access/exchange-admin-center)установки и **администрирования:** Microsoft 365 портал и доступ к центрам администрирования, доступ Exchange центра администрирования, удаленный доступ Windows PowerShell, политики ActiveSync для мобильных [устройств,](/exchange/monitoring/monitoring)отчеты об использовании .
-- [**Высокая доступность**](/exchange/high-availability/high-availability)и непрерывность **бизнеса:** репликация почтовых ящиков в центрах обработки данных, восстановление одного элемента (недоступны для планов F3 и Kiosk) удаленный почтовый ящик и восстановление удаленных [элементов.](/exchange/recipients/disconnected-mailboxes/restore-deleted-mailboxes)
-- [**Совместимость,**](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)подключение и **совместимость:** Skype для бизнеса присутствия в OWA и Outlook, SharePoint совместимости, поддержка подключения EWS (поддержка приложений EWS, применяемая для обезличения), поддержка ретрансляции SMTP.
-- [](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)Поток **почты:** настраиваемая маршрутивка исходяшей почты, безопасные сообщения с доверенным партнером, добавление партнера в входящий безопасный список, а также условная маршрутивка почты и гибридная электронная почта (caLs или обновление до Enterprise SKU предоставляют права доступа).
-- [**Планирование и**](/exchange/plan-and-deploy/plan-and-deploy)развертывание: поддерживаемая гибридная развертывание (CLS или обновление до Enterprise SKU предоставляют права доступа [](/exchange/mailbox-migration/what-to-know-about-a-staged-migration) для бизнеса и планы F3), [](/exchange/hybrid-deployment/hybrid-deployment) [IMAP,](/exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)переключению и поэтапной миграции, поддерживаемой.
-- [**Функции**](/office365/servicedescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools) отчетности и средства устранения неполадок: Центр администрирования Microsoft 365 отчеты, Excel отчеты, отчеты веб-служб, отчеты о единой системы обмена сообщениями (только E3/E5 и план 2). Отчеты о [трассировке](/exchange/exchange-auditing-reports-exchange-2013-help) сообщений и аудите доступны с помощью прямого доступа к интерфейсу управления Exchange центра администрирования (EAC).
-- [](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**Получатели:** оповещения о емкости, помехи, почтовые ящики, правила почтовых ящиков, офлайн-адресная книга, политики адресной книги, группы рассылки, внешние контакты (глобальный), универсальная контактная карточка, связь с социальными сетями, почтовые ящики ресурса, управление конференц-залами, ответы из офиса, общий доступ к календарям (календари киосков можно получить только через OWA).
-- [](/exchange/sharing/sharing)Совместное использование и совместное **использование:** федератный общий доступ (включая публикацию календаря), почтовые ящики сайтов (SharePoint Online должны быть включены и развернуты) и общедоступные папки (недоступны для планов F3 и Kiosk).
-- [**Службы голосовых сообщений:**](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)**Skype для бизнеса** интеграции. Интероперабельность голосовой почты сторонних сторон. Только E3/E5 и Plan 2 предоставляют голосовую почту и сторонную интеграцию голосовой почты и факса. Для сторонних систем PBX с помощью прямых подключений см. прекращение поддержки контроллеров пограничной связи сеанса [в Exchange Online единой системы обмена сообщениями.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)
+- Защита от нежелательной почты и защиты от вредоносных [**программ (с**](/exchange/antispam-and-antimalware/antispam-and-antimalware) помощью прямого доступа к интерфейсу управления центром администрирования Exchange)**:** встроенная защита от нежелательной почты и вредоносных программ (использует несколько систем защиты от вредоносных программ для сканирования входящие, исходящие и внутренние сообщения для вредоносных программ), настроенные политики защиты от нежелательной почты и вредоносных программ, карантин — управление администратором и карантин — самообуправление конечных пользователей.
+- [**Exchange Online**](/exchange/architecture/client-access/exchange-admin-center) и администрирование **:** доступ Microsoft 365 портала и центра администрирования, доступ Exchange центра администрирования, удаленный доступ Windows PowerShell, политики ActiveSync для мобильных [устройств,](/exchange/monitoring/monitoring) отчеты об использовании.
+- [**Высокая доступность**](/exchange/high-availability/high-availability) и непрерывность бизнеса **:** репликация почтовых ящиков в центрах обработки данных, восстановление одного элемента (недоступны для планов F3 и Kiosk) удаленный почтовый ящик и восстановление удаленных [элементов](/exchange/recipients/disconnected-mailboxes/restore-deleted-mailboxes).
+- Совместимость [**,**](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity) подключение и совместимость **:** Skype для бизнеса в OWA и Outlook, SharePoint совместимости, поддержка подключения к EWS (поддержка приложений EWS, применяемая для обезличения), поддержка ретрансляции SMTP.
+- [](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) Поток **почты:** настраиваемая маршрутивка исходяшей почты, защита обмена сообщениями с доверенным партнером, добавление партнера в входящий безопасный список, а также условная и гибридная маршрутивка электронной почты (caLs или обновление до Enterprise SKU предоставляют права доступа).
+- [**Планирование и**](/exchange/plan-and-deploy/plan-and-deploy) развертывание **:** [](/exchange/hybrid-deployment/hybrid-deployment) поддерживаемая гибридная развертывание (CLS или обновление до Enterprise SKU предоставляют права доступа для бизнеса и планы F3), [IMAP](/exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes), переключению [](/exchange/mailbox-migration/what-to-know-about-a-staged-migration) и поэтапной миграции, поддерживаемой.
+- [**Функции**](/office365/servicedescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools) отчетности и средства устранения неполадок **:** Центр администрирования Microsoft 365 отчеты, Excel отчеты, отчеты веб-служб, отчеты о единой системы обмена сообщениями (только E3/E5 и план 2). Отчеты о [трассировке](/exchange/exchange-auditing-reports-exchange-2013-help) сообщений и аудите доступны с помощью прямого доступа к интерфейсу управления Exchange центра администрирования (EAC).
+- [](/exchange/recipients-in-exchange-online/recipients-in-exchange-online) Получатели **:** оповещения о емкости, помехи, почтовые ящики, правила почтовых ящиков, офлайн-адресная книга, политики адресной книги, группы рассылки, внешние контакты (глобальный), универсальная контактная карточка, связь с социальными сетями, почтовые ящики ресурсов, управление конференц-залами, ответы вне офиса, общий доступ к календарям (календари киосков можно получить только через OWA).
+- [**Совместное**](/exchange/sharing/sharing) использование и совместное использование **:** федератный общий доступ (включая публикацию календаря), почтовые ящики сайтов (SharePoint Online должны быть включены и развернуты) и общедоступные папки (недоступны для планов F3 и Kiosk).
+- [**Службы голосовых сообщений**](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)**:** Skype для бизнеса интеграции. Интероперабельность голосовой почты сторонних сторон. Только E3/E5 и Plan 2 предоставляют голосовую почту и сторонную интеграцию голосовой почты и факса. Для сторонних систем PBX с помощью прямых подключений см. прекращение поддержки контроллеров пограничной связи сеанса [в Exchange Online единой системы обмена сообщениями](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853).
 
 ## <a name="features-available-to-some-plans"></a>Функции, доступные для некоторых планов
 
@@ -59,21 +59,20 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 | Возможность | Описание | Microsoft 365 бизнес базовый, standard и Premium | Office 365 корпоративный E1 | Office 365 корпоративный E3/E5 | Office 365 корпоративный F3 | Exchange Online План 1/2 | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook в Интернете<sup>1</sup>, Outlook для iOS и Android<sup>1</sup>, Exchange ActiveSync и SMTP<img width=140/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да|Да|
-||POP и IMAP|Да|Да|Да|Да<sup>2</sup>|Да|Да<sup>3</sup>|
-||Поддержка приложений EWS, Outlook для Windows<sup>1</sup>, Outlook для Mac<sup>1</sup>|Да|Да|Да|Нет|Да|Нет|
+|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook в Интернете <sup>1</sup>, Outlook для iOS и <sup>Android1</sup>, Exchange ActiveSync и SMTP<img width=140/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да|Да|
+||POP и IMAP|Да|Да|Да|Да<sup>2</sup>|Да|<sup>Yes3</sup>|
+||Поддержка приложений EWS, Outlook для Windows <sup>1</sup>, Outlook для Mac <sup>1</sup>|Да|Да|Да|Нет|Да|Нет|
 ||Базовая мобильность и безопасность для Microsoft 365|Да|Да|Да|Да|||
-|**[Политика обработки сообщений и соответствие требованиям](/exchange/policy-and-compliance/policy-and-compliance)**|[Архивация почтовых ящиков на основе Exchange Online](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|Да<sup>4</sup>|Да<sup>4</sup>|Да<sup>4</sup>|Нет|Да|Да|
-||Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Да|Да|Нет|Да<sup>5</sup>|Да|
+|**[Политика обработки сообщений и соответствие требованиям](/exchange/policy-and-compliance/policy-and-compliance)**|[Архивация почтовых ящиков на основе Exchange Online](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|<sup>Yes4</sup>|<sup>Yes4</sup>|<sup>Yes4</sup>|Нет|Да|Да|
+||Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Да|Да|Нет|<sup>Yes5</sup>|Да|
 ||[Политики хранения вручную, метки и теги](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|Нет|Да|Да|Да|Да|Да|
-||[IRM с помощью Azure Information Protection<sup>6</sup>](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving), шифрование сообщений Office 365<sup>7</sup>и Ключ клиента<sup>8</sup>|Нет|Нет|Да|Нет|Нет|Нет|
-||In-Place хранения, судебного удержания и предотвращения потери данных|Нет|Нет|Да|Нет|Да<sup>5</sup>|Да|
-||Шифрование данных в покое (BitLocker), управление записями сообщений (MRM), S/MIME, журналы, In-Place eDiscovery<sup>9</sup>, правила транспорта<sup>10</sup>, IRM с Windows Server AD RMS<sup>11</sup>|Да|Да|Да|Да|Да|Да|
+||[IRM с помощью Azure Information <sup>Protection6</sup>](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving), шифрование сообщений Office 365 <sup>7</sup> и Customer <sup>Key8</sup>|Нет|Нет|Да|Нет|Нет|Нет|
+||In-Place хранения, судебного удержания и предотвращения потери данных|Нет|Нет|Да|Нет|<sup>Yes5</sup>|Да|
+||Шифрование данных в покое (BitLocker), управление записями сообщений (MRM), S/MIME, журналы, In-Place eDiscovery9,<sup></sup> правила <sup>транспорта10</sup>, IRM с Windows Server AD <sup>RMS11</sup>|Да|Да|Да|Да|Да|Да|
 |**[Разрешения](/exchange/permissions-exo/permissions-exo)**|Разрешения на основе ролей, группы ролей и политики назначения ролей|Да|Да|Да|Нет|Да|Нет|
 |**[Получатели](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|Делегирование доступа и иерархическая адресная книга|Да|Да|Да|Нет|Да|Нет|
-||Подключенные учетные<sup>записи 12,</sup>списки адресов и глобальный список<sup>адресов 13</sup>|Да|Да|Да|Да|Да|Да|
-||Неактивные почтовые ящики|Нет|Нет|Да|Нет|Да<sup>5</sup>|Нет|
-||Группы Microsoft 365|Да|Да|Да|Да|Да<sup>14</sup>|Нет|
+||Неактивные почтовые ящики|Нет|Нет|Да|Нет|<sup>Yes5</sup>|Нет|
+||Группы Microsoft 365|Да|Да|Да|Да|<sup>Yes12</sup>|Нет|
 
 <sup>1</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/>
 <sup>2</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
@@ -86,31 +85,29 @@ Microsoft 365 доступны в различных планах, чтобы н
 <sup>9</sup> Для eDiscovery требуется отдельный запрос для локального или облачного.<br/>
 <sup>10</sup> Правил транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/>
 <sup>11</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
-<sup>12</sup> подключенных учетных записей поддерживаются для учетных записей & IMAP, но отключены для Outlook.com (Hotmail). <br/>
-<sup>13</sup> Использование cmdlets в Exchange Online PowerShell для настройки списков адресов по умолчанию и глобального списка адресов по умолчанию (GAL) не поддерживается. <br/>
-<sup>14</sup> Microsoft 365 доступны с уменьшенными функциональными возможностями. <br/>
+<sup>12</sup> Microsoft 365 доступны с уменьшенными функциональными возможностями. <br/>
 
 ## <a name="additional-services"></a>Дополнительные службы
 
 ### <a name="scheduler-for-microsoft-365"></a>Планировщик для Microsoft 365
 
-Планировщик Microsoft 365 это надстройка для Exchange Online, которая позволяет пользователям делегировать свои потребности в планировании цифровому персональному помощнику. Помощник может планировать и перепланировать встречи и встречи с людьми внутри организации и за ее пределами. Помощник почтового ящика настроен и управляется клиентом. Чтобы включить scheduler, администраторам необходимо настроить почтовый ящик помощника с помощью cmdlet PowerShell и приобрести лицензии для организаторов собраний. Дополнительные информацию о scheduler и том, как он работает, см. в нем [Welcome to Scheduler for Microsoft 365.](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work) Для ценообразования и лицензирования scheduler см. в Microsoft 365 scheduler for [licensing.](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing)
+Планировщик Microsoft 365 это надстройка для Exchange Online, которая позволяет пользователям делегировать свои потребности в планировании цифровому персональному помощнику. Помощник может планировать и перепланировать встречи и встречи с людьми внутри организации и за ее пределами. Помощник почтового ящика настроен и управляется клиентом. Чтобы включить scheduler, администраторам необходимо настроить почтовый ящик помощника с помощью cmdlet PowerShell и приобрести лицензии для организаторов собраний. Дополнительные дополнительные информацию о scheduler и его работе см. в дополнительных подробной информации [о welcome to Scheduler for Microsoft 365](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work). Для ценообразования и лицензирования scheduler см. в [Microsoft 365 scheduler for licensing](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing).
 
 ## <a name="learn-more"></a>Подробнее
 
 Дополнительные сведения о Exchange Online, ознакомьтесь со следующими ресурсами:
 
-- **Exchange Server:** Дополнительные сведения о Exchange Server, перейдите в таблицу доступности [Exchange Server функций.](/Exchange/new-features/feature-availability)
+- **Exchange Server.** Дополнительные сведения о Exchange Server, перейдите в таблицу доступности [Exchange Server функций](/Exchange/new-features/feature-availability).
 - [**Электронная**](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) почта для создания и отправки электронной почты.
 - [**Управление электронной почтой и календарями**](/office365/admin/email/email)
 - [**О microsoft помощник по поддержке и восстановлению**](https://diagnostics.office.com/)
 - [**Отчеты о недоставке электронных сообщений в Exchange Online**](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
 - [**Справка Exchange Online**](/exchange/exchange-online)
-- Дополнительные сведения о функциях в планах см. в см. в нем [Powerful tools to support your enterprise.](https://products.office.com/business/compare-more-office-365-for-business-plans)
-- В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [**экспортировать результаты поиска контента.**](/office365/securitycompliance/export-search-results)
-- **Новые возможности центра администрирования Exchange:** Сведения о новых Exchange центре администрирования см. в Exchange [центре администрирования.](/exchange/whats-new)
-- Требования к системе **для Exchange Online:** для системных требований ежемесячная служба на основе подписки, доступная для бизнеса, образования и государственных организаций, см. в Microsoft 365 и [Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
-- служба хранилища и ограничения получателей для Exchange Online: Сведения о ограничениях хранения и получателей, доступных в планах подписки Exchange Online, см. Exchange Online [ограничения.](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)
+- Дополнительные сведения об особенностях в планах см. в дополнительных сведениях [о мощных средствах поддержки предприятия](https://products.office.com/business/compare-more-office-365-for-business-plans).
+- В описаниях служб Майкрософт можно экспортировать, сохранять и печатать страницы. Узнайте, как [**экспортировать результаты поиска контента**](/office365/securitycompliance/export-search-results).
+- **Новые возможности центра администрирования Exchange:** Сведения о новых Exchange центре администрирования см. в Exchange [центре администрирования](/exchange/whats-new).
+- **Требования к системе для Exchange Online.** Для системных требований ежемесячная служба на основе подписки, доступная для бизнеса, образования и государственных организаций, см. в Microsoft 365 [и Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
+- служба хранилища и ограничения получателей для Exchange Online: Сведения о ограничениях хранения и получателей, доступных в Exchange Online подписки, см. Exchange Online [ограничения](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 - **Обмен сообщениями:** Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
-- Условия лицензирования. Условия лицензирования продуктов и служб, приобретенных через программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на сайте [Условия продукта.](https://www.microsoft.com/licensing/terms/)
+- Условия лицензирования. Условия лицензирования продуктов и служб, приобретенных через программы лицензирования коммерческих объемов Корпорации Майкрософт, см. на сайте [Условия продукта](https://www.microsoft.com/licensing/terms/).
 - **Доступность:** Корпорация Майкрософт по-прежнему привержена безопасности ваших данных и [доступности](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
