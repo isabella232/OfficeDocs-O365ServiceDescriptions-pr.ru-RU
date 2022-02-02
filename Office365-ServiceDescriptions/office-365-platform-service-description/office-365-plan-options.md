@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: cb8c80e286f21370882dfa6c6b78bec9869720c8
-ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
+ms.openlocfilehash: f99755c0c10f8cb1b3707d5959b681e20c186b4d
+ms.sourcegitcommit: 5d2a4b3d29640952bc2e0d707a1cc027646aa29c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "61234850"
+ms.lasthandoff: 02/02/2022
+ms.locfileid: "62308062"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -44,25 +44,25 @@ Microsoft 365 и Office 365 доступны в различных планах,
 Каждый Microsoft 365 или Office 365 включает ряд отдельных служб, таких как Exchange Online и SharePoint Online. В следующей таблице показаны службы, доступные в каждом плане.
   
 > [!IMPORTANT]
->  Хотя служба может быть доступна в Microsoft 365 и Office 365 планах, возможности, доступные в каждом плане, могут отличаться. Подробные сведения о функциях, доступных в каждом плане, см. в описании отдельных служб либо свяжитесь с торговым представителем или торговым представителем Майкрософт. <br/>  Некоторые из Microsoft 365 и Office 365 имеют надстройки, которые можно купить для подписки. Они позволяют расширить возможности подписки. Дополнительные сведения см. в статью Купить или изменить надстройку [для Office 365 для бизнеса.](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6) 
+>  Хотя служба может быть доступна в Microsoft 365 и Office 365 планах, возможности, доступные в каждом плане, могут отличаться. Подробные сведения о функциях, доступных в каждом плане, см. в описании отдельных служб либо свяжитесь с торговым представителем или торговым представителем Майкрософт. <br/>  Некоторые из Microsoft 365 и Office 365 имеют надстройки, которые можно купить для подписки. Они позволяют расширить возможности подписки. Дополнительные сведения см. в [статью Купить или изменить надстройку для Office 365 для бизнеса](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
-| Служба | Приложения Microsoft 365 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
+| Служба | Приложения Microsoft 365 | Microsoft 365 бизнес базовый | Microsoft 365 бизнес стандарт | Microsoft 365 бизнес премиум | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5 <sup>3,15</sup><sup></sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 платформа  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Exchange Online  <br/> |Нет  <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>5</sup> <br/> |Да<sup>6</sup> <br/> |Да<sup>6</sup> <br/> |Да<sup>8</sup> <br/> |No<sup>16</sup> <br/> |
-|SharePoint Online  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>17</sup> <br/> |
-|OneDrive  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да<sup>4</sup> <br/> |Да<sup>4</sup> <br/> |
-|Skype для бизнеса Online <sup>14</sup> <br/> |Нет  <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>9</sup> <br/> |Да<sup>10</sup> <br/> |Да<sup>12</sup> <br/> |Да<sup>13</sup> <br/> |Да<sup>13</sup> <br/> |
-|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |No<sup>18</sup> <br/> |
+|Exchange Online  <br/> |Нет  <br/> |<sup>Yes5</sup> <br/> |<sup>Yes5</sup> <br/> |<sup>Yes5</sup> <br/> |<sup>Yes5</sup> <br/> |<sup>Yes6</sup> <br/> |<sup>Yes6</sup> <br/> |<sup>Yes8</sup> <br/> |<sup>No16</sup> <br/> |
+|SharePoint Online  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да <br/> |
+|OneDrive  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |<sup>Yes4</sup> <br/> |<sup>Yes4</sup> <br/> |
+|Skype для бизнеса Online <sup>14</sup> <br/> |Нет  <br/> |<sup>Yes9</sup> <br/> |<sup>Yes9</sup> <br/> |<sup>Yes9</sup> <br/> |<sup>Yes9</sup> <br/> |<sup>Yes10</sup> <br/> |<sup>Yes12</sup> <br/> |<sup>Yes13</sup> <br/> |<sup>Yes13</sup> <br/> |
+|Office в Интернете  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |<sup>No17</sup> <br/> |
 |Приложения Office  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |Project  <br/> |Нет  <br/> |Нет <br/> |Нет <br/> |Нет <br/> |Нет <br/> |Нет <br/> |Нет <br/> |Нет <br/> |Нет  <br/> |
 |Power BI  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Нет  <br/> |Да  <br/> |Нет  <br/> |Нет  <br/> |
 |Yammer корпоративный  <br/> |Нет  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |Да  <br/> |
-|Azure Information Protection<sup>2</sup> <br/> |Нет  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |Да  <br/> |No<sup>1</sup> <br/> |Да  <br/> |Да  <br/> |No<sup>1</sup> <br/> |Нет  <br/> |
+|Azure Information <sup>Protection2</sup> <br/> |Нет  <br/> |<sup>No1</sup> <br/> |<sup>No1</sup> <br/> |Да  <br/> |<sup>No1</sup> <br/> |Да  <br/> |Да  <br/> |<sup>No1</sup> <br/> |Нет  <br/> |
 |Microsoft Kaizala <br/> |Нет <br/> |Да  <br/> |Да <br/> |Да <br/> |Да  <br/> |Да  <br/> |Да <br/> |Да  <br/> |Нет  <br/> |
    
 <sup>1</sup> Защита информации Azure не включена, но может быть приобретена в качестве отдельной надстройки и будет включать поддерживаемые функции управления правами на информацию (IRM). Некоторые функции azure Information Protection требуют подписки на Приложения Microsoft 365 для предприятий, которая не включена в Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт, Microsoft 365 F1, Microsoft 365 F3, Office 365 E1, Office 365 A1 или Office 365 F3.<br/>
-<sup>2</sup> Дополнительные сведения о том, какие функции Azure Information Protection включены в Microsoft 365 и Office 365, см. в [этой ссылке.](https://azure.microsoft.com/services/information-protection/)<br/>
+<sup>2</sup> Дополнительные сведения о том, какие функции azure Information Protection включены в Microsoft 365 и Office 365, см. в [этой ссылке.](https://azure.microsoft.com/services/information-protection/)<br/>
 <sup>3</sup> Office 365 E5 и Microsoft 365 E5 содержат телефонная система и аудиоконференцию. Для использования Плана звонков необходимо приобрести дополнительный план (для внутренних или международных звонков).<br/>
 <sup>4</sup> Включает в себя 2 ГБ хранилища. <br/>
 <sup>5</sup> Включает Exchange Online план 1. <br/>
@@ -70,15 +70,14 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>7</sup> Включает Exchange Online 1 плюс дополнительные функции. <br/>
 <sup>8</sup> Включает базовая подписка на Exchange Online. <br/>
 <sup>9</sup> Включает Skype для бизнеса Online Plan 2 с основными ограничениями клиента. <br/>
-<sup>10</sup> Включает Skype для бизнеса Online Plan 2 без ограничений клиента. <br/>
+<sup>10</sup> Включает Skype для бизнеса Online Plan 2 без каких-либо ограничений клиента. <br/>
 <sup>11</sup> Включает Skype для бизнеса Online Plan 1 плюс дополнительные функции. <br/>
 <sup>12</sup> Включает Skype для бизнеса Online Plan 2 с голосовой поддержкой и без ограничений клиента.  <br/>
 <sup>13</sup> Включает Skype для бизнеса План 1.<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. По данным на 1 октября 2018 г., новые клиенты с 500 или менее посадочных мест находятся на Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, которые уже используют Skype для бизнеса Online, могут продолжать это делать (включая подготовка новых пользователей) до завершения перехода на Microsoft Teams.<br>
-<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced message encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery  возможности; и Безопасность Microsoft 365 E5, включающего Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф  Документы.<br>
-<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем вашим клиентам отключить Outlook в Интернете [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) с помощью этих действий и попросить пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
-<sup>17</sup> Включает базовая подписка на SharePoint Online. Не может быть администратором. Нет почтового ящика сайта. Нет личного сайта.<br>
-<sup>18 Microsoft 365 F1</sup> пользователи могут читать файлы с помощью Office для Интернета, но не имеют прав create/edit/save. 
+<sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая предоставляет автоматическую классификацию и хранение, ключ клиента, advanced Message Encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery  возможности; и Безопасность Microsoft 365 E5, включающего Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security и Сейф  Документы.<br>
+<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем пользователям отключить Outlook в Интернете с помощью этих действий и попросить [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) пользователей не получать доступ к Exchange почтовому ящику с помощью любых других методов.<br>
+<sup>17 Microsoft 365 F1</sup> могут читать файлы с помощью Office для Интернета, но не имеют прав create/edit/save. 
   
 #### <a name="basic-client-limitations"></a>Ограничения базового клиента
 
@@ -100,7 +99,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 - **В том же семейство служб:** Например, вы можете перейти от Microsoft 365 бизнес базовый до Microsoft 365 бизнес стандарт или от Office 365 E1 до Office 365 E3.
 - **Из автономных планов:** Например, можно перейти от Exchange Online плана 1 к Office 365 E1.     
 - **Для другого семейства служб:** Например, можно перейти с Microsoft 365 бизнес базовый на Office 365 E3.     
-Сведения об изменении подписки, в том числе о переходе из пробной в платную, см. в журнале [Switch to a different Microsoft 365 или подписку.](https://support.office.com/article/HA104031833)
+Сведения об изменении подписки, в том числе о переходе из пробной в платную, см. в журнале [Switch to a different Microsoft 365 или подписку](https://support.office.com/article/HA104031833).
   
 Одну учетную запись можно сопоставить с такими планами: корпоративным, для бизнеса, а также отдельным (например, Exchange Online (план 1)). Но при этом не изменятся ограничения на количество лицензий для одного плана. Например, вы можете иметь до 300 мест в планах как Microsoft 365 бизнес базовый, так и Microsoft 365 бизнес стандарт, но неограниченное число пользователей в Exchange Online плане 1.
   
@@ -123,4 +122,4 @@ Microsoft 365 и Office 365 доступны в различных планах,
    
 ## <a name="feature-availability"></a>Доступность функций
 
-Чтобы просмотреть доступность функций в Microsoft 365 и Office 365 планах, см. Microsoft 365 [описание Office 365 платформы.](office-365-platform-service-description.md)
+Чтобы просмотреть доступность функций Microsoft 365 и Office 365 планах, Microsoft 365 [и Office 365 платформы](office-365-platform-service-description.md).
