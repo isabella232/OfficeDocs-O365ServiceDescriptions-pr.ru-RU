@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Узнайте, какие SharePoint доступны в каких планах.
-ms.openlocfilehash: c4e8d140dff2cdaa5ed65c459e99a593d6b51dbe
-ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
+ms.openlocfilehash: d9a460719ea612ea410c77282cfd878bf8d96c5a
+ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60462140"
+ms.lasthandoff: 02/03/2022
+ms.locfileid: "62332404"
 ---
 # <a name="sharepoint-service-description"></a>Описание службы SharePoint
 
@@ -31,9 +31,9 @@ SharePoint в Microsoft 365 помогает организациям обмен
 
 Краткий обзор см. [в SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145) Для Microsoft 365 системных требований см. Microsoft 365 [и Office Resources.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной [таблице сравнения подписки](https://go.microsoft.com/fwlink/?linkid=2139145). Для Microsoft 365 системных требований см. Microsoft 365 [и Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
-Подробнее о различиях SharePoint для государственных облачных клиентов США см. в SharePoint для среды правительства [США.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
+Подробнее о различиях SharePoint для государственных облачных клиентов США см. в SharePoint [для среды правительства США](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
 ## <a name="whats-new"></a>Новые возможности
 
@@ -41,9 +41,9 @@ SharePoint в Microsoft 365 помогает организациям обмен
   
 ## <a name="subscription-options"></a>Варианты подписки
 
-Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной таблице [сравнения подписки.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Microsoft 365 доступны в различных планах, чтобы наилучшим образом соответствовать потребностям вашей организации. Подробные сведения о планах подписки, которые позволяют пользователям SharePoint, см. в полной [таблице сравнения подписки](https://go.microsoft.com/fwlink/?linkid=2139145).
   
-Чтобы получить SharePoint, пользователям в организации необходимо получить лицензию, которая включает SharePoint. План Firstline не продается в качестве автономных предложений, только в [](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) рамках [Office 365 F3,](https://www.microsoft.com/microsoft-365/business/office-365-f1)Microsoft 365 F1 [или Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
+Чтобы получить SharePoint, пользователям в организации необходимо получить лицензию, которая включает SharePoint. План Firstline не продается в качестве автономных предложений, только в Office 365 [F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)[, Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) [или Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Права гостей
 
@@ -51,13 +51,13 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 ## <a name="onedrive"></a>OneDrive
 
-OneDrive в Microsoft 365 это хранилище для отдельных пользователей в организации. Это место, где люди могут хранить, синхронизировать и делиться своими файлами работы на нескольких устройствах с легкостью и безопасностью. OneDrive включена в SharePoint и также может быть приобретена как автономный план. Чтобы узнать, сколько OneDrive с каждым планом, см. в [OneDrive службы.](../onedrive-for-business-service-description.md)
+OneDrive в Microsoft 365 это хранилище для отдельных пользователей в организации. Это место, где люди могут хранить, синхронизировать и делиться своими файлами работы на нескольких устройствах с легкостью и безопасностью. OneDrive включена в SharePoint и также может быть приобретена как автономный план. Чтобы узнать, сколько OneDrive с каждым планом, см. в [OneDrive службы](../onedrive-for-business-service-description.md).
 
 ## <a name="apps"></a>Приложения
 
-Чтобы синхронизировать SharePoint на компьютере, пользователи могут использовать приложение синхронизации OneDrive [для](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) Windows или Mac. Сведения о доступности функций в приложении синхронизации см. в OneDrive [службы.](../onedrive-for-business-service-description.md) 
+Чтобы синхронизировать SharePoint на компьютере, пользователи могут использовать приложение синхронизации OneDrive [для](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) Windows или Mac. Сведения о доступности функций в приложении синхронизации см. в OneDrive [службы](../onedrive-for-business-service-description.md). 
 
-Чтобы работать с SharePoint сайтов на мобильном устройстве, они могут установить SharePoint мобильное приложение для [iOS, Android](https://products.office.com/sharepoint/mobile-app)или Windows . 
+Чтобы работать с SharePoint сайтов на мобильном устройстве, они могут установить SharePoint мобильное приложение для [iOS, Android или Windows](https://products.office.com/sharepoint/mobile-app). 
   
   
 ## <a name="developer-features"></a>Возможности для разработчиков
@@ -73,16 +73,16 @@ OneDrive в Microsoft 365 это хранилище для отдельных п
 - [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Требуется SharePoint 2, Office 365 корпоративный E3 или Office 365 корпоративный E5
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). Некоторые поставщики могут быть заблокированы в вашей стране или регионе.
 - [Запросы службы REST и OData](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
-- [SharePoint Designer 2013 (для классических сайтов).](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1) Недоступна для сотрудников firstline.
+- [SharePoint Designer 2013 (для классических сайтов)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1). Недоступна для сотрудников firstline.
 - [SharePoint Framework (SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [Проекты сайтов и сценарии сайтов](/sharepoint/dev/declarative-customization/site-design-overview)
 - [Настройка темы сайта](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
 Обзор параметров настройки см. в [SharePoint.](/sharepoint/extend-and-develop)
 
-Дополнительные информацию о доступности microsoft Power Apps и Power Automate см. в Power Apps и [Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
+Дополнительные новости о доступности microsoft Power Apps и Power Automate см. в Power Apps и [Power Automate вопросами лицензирования](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Дополнительные информацию о доступности microsoft Graph см. в Microsoft 365 [и Office 365 службы платформы.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
+Дополнительные информацию о доступности microsoft Graph см. в Microsoft 365 [Office 365 службы платформы](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans).
 
 
 ## <a name="it-admin-features"></a>Функции ИТ-администрирования
@@ -100,7 +100,7 @@ OneDrive в Microsoft 365 это хранилище для отдельных п
 - [Миграция: диспетчер миграции](/sharepointmigration/mm-get-started)
 - [Миграция: SharePoint средства оценки миграции](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [Миграция: Mover.io](https://mover.io/). Теперь доступно во всем мире.
-- [Multi-geo (резидентство данных).](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365) С надстройка, которая требует не менее 500 лицензий Майкрософт. Обратитесь к представителю Майкрософт.
+- [Multi-geo (резиденция данных)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). С надстройка, которая требует не менее 500 лицензий Майкрософт. Обратитесь к представителю Майкрософт.
 - [Подготовка программных сайтов](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Замена корневого сайта](/sharepoint/modern-root-site)
 - [Восстановление удаленных сайтов](/sharepoint/restore-deleted-site-collection)
@@ -110,28 +110,28 @@ OneDrive в Microsoft 365 это хранилище для отдельных п
 - [Управление сайтом](/sharepoint/governance-overview) 
 - [Хранилище терминов — управляемые метаданные](/sharepoint/managed-metadata)
 
-Сведения о доступности служб FastTrack миграции можно найти в соответствующих службах [и планах.](/fasttrack/m365-eligible-services-and-plans) 
+Сведения о доступности служб FastTrack миграции можно найти в соответствующих [службах и планах](/fasttrack/m365-eligible-services-and-plans). 
 
-Сведения об особенностях, связанных с совместной работой, [см. в OneDrive службы.](../onedrive-for-business-service-description.md)
+Сведения об особенностях, связанных с обменом, см. в [OneDrive службы](../onedrive-for-business-service-description.md).
 
-Справки администратора для SharePoint см. [в SharePoint Online admin.](/sharepoint/sharepoint-online)
+Справка администратора для SharePoint см. [в SharePoint Online admin](/sharepoint/sharepoint-online).
 
 ## <a name="security-and-compliance-features"></a>Функции безопасности и соответствия требованиям
 
 Если в противном случае не указано, следующие функции доступны во всех планах, которые включают SharePoint, и все SharePoint автономные планы:
 
 - [Управление доступом: расположение сети](/sharepoint/control-access-based-on-network-location)
-- [Управление доступом: неугодные устройства.](/sharepoint/control-access-from-unmanaged-devices) Требуется Azure AD Premium P1.
+- [Управление доступом: неугодные устройства](/sharepoint/control-access-from-unmanaged-devices). Требуется Azure AD Premium P1.
 - [Шифрование при транзите и в покое](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [Выход из простоя сеанса](/sharepoint/sign-out-inactive-users)
 - [Политики управления информацией](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Управление правами на информацию (IRM).](/office365/securitycompliance/set-up-irm-in-sp-admin-center) Требуется защита информации Azure в качестве автономных или в составе пакета. Некоторые функции защиты информации Azure требуют подписки на Приложения Microsoft 365 для предприятий.
+- [Управление правами на информацию (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Требуется защита информации Azure в качестве автономных или в составе пакета. Некоторые функции защиты информации Azure требуют подписки на Приложения Microsoft 365 для предприятий.
 - [Восстановление библиотеки документов до предыдущей точки времени](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Сканирование вирусов](/office365/securitycompliance/virus-detection-in-spo)
 
-Сведения об особенностях, связанных с совместной работой, [см. в OneDrive службы.](../onedrive-for-business-service-description.md)
+Сведения об особенностях, связанных с обменом, см. в [OneDrive службы](../onedrive-for-business-service-description.md).
 
-SharePoint интегрируется с расширенными возможностями безопасности и соответствия требованиям Microsoft 365. Сведения о доступности следующих функций см. в описании [службы & безопасности:](../office-365-platform-service-description/office-365-securitycompliance-center.md)
+SharePoint интегрируется с расширенными возможностями безопасности и соответствия требованиям Microsoft 365. Сведения о доступности следующих функций см. в Microsoft 365 [инструкции по обеспечению соответствия требованиям &amp; безопасности](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance).
 
 - [Защищенное хранилище пользователя](/microsoft-365/compliance/customer-lockbox-requests)
 - [Защита от потери данных (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -142,9 +142,9 @@ SharePoint интегрируется с расширенными возможн
 - [Метки конфиденциальности](/microsoft-365/compliance/sensitivity-labels)
 - [Унифицированный аудит](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (аудит SharePoint действий пользователя и администратора)
 
-Сведения о [защите информации Azure](/microsoft-365/solutions/configure-teams-three-tiers-protection)см. в сведениях о [требованиях к защите информации Azure.](/azure/information-protection/requirements)
+Сведения о [защите информации Azure](/microsoft-365/solutions/configure-teams-three-tiers-protection) см. в сведениях [о требованиях к защите информации Azure](/azure/information-protection/requirements)
 
-Сведения о доступности ключа клиента см. в сообщении [Service encryption with Customer Key.](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed) 
+Сведения о доступности ключа клиента см. в сообщении [Service encryption with Customer Key](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
 
 
 
@@ -153,9 +153,9 @@ SharePoint интегрируется с расширенными возможн
 Если в противном случае не указано, следующие функции доступны во всех планах, которые включают SharePoint, и все SharePoint автономные планы:
 
 - [Специальные возможности](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Добавление Microsoft Teams сайтов](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
+- [Добавление Microsoft Teams на сайты](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
 - [Выбор целевой аудитории](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
-- [Подключение классические сайты групп в новые Microsoft 365 группы](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Требуется подписка, которая включает Office 365.
+- [Подключение классические сайты групп в новые Microsoft 365 Группы](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Требуется подписка, которая включает Office 365.
 - [Создание плана (интеграция планировщика)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Требуется подписка, которая включает Office 365, и требуется, чтобы пользователь был лицензирован для Планировщика.
 - [Библиотеки документов](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Наборы документов](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
@@ -182,16 +182,16 @@ SharePoint интегрируется с расширенными возможн
 - [Сайты: Домашний сайт](/sharepoint/home-site)
 - [Сайты: сайты-концентраторы](/sharepoint/planning-hub-sites)
 - Сайты: современные сайты групп (Microsoft 365 группы)
-- [Сайты: Microsoft 365, подключенные к группе.](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e) Требуется подписка, которая включает Office 365.
+- [Сайты: Microsoft 365 сайты групп, подключенных к группе](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Требуется подписка, которая включает Office 365.
 - [Сайты: Корневой сайт](/sharepoint/modern-root-site)
 - [Ноутбук OneNote team](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Темы (Изменение внешний вид)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Веб-части](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
 - [Работа с SharePoint контентом в Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Требуется подписка, включающая Office 365, и требует, чтобы пользователь имел лицензию на Teams.
 
-Дополнительные информацию о доступности microsoft Power Apps и Power Automate см. в Power Apps и [Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
+Дополнительные новости о доступности microsoft Power Apps и Power Automate см. в Power Apps и [Power Automate вопросами лицензирования](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Сведения об особенностях, связанных с совместной работой, [см. в OneDrive службы.](../onedrive-for-business-service-description.md)
+Сведения об особенностях, связанных с обменом, см. в [OneDrive службы](../onedrive-for-business-service-description.md).
 
 ## <a name="search-features"></a>Функции поиска
 
@@ -205,4 +205,4 @@ SharePoint интегрируется с расширенными возможн
 - [Центр поиска (классический поиск)](/sharepoint/manage-search-center)
 - [Схема поиска (классический и современный поиск)](/sharepoint/manage-search-schema)
 
-Сведения о Delve см. [в Microsoft 365 и Office 365 платформы.](../office-365-platform-service-description/office-365-platform-service-description.md)
+Сведения о Delve см. в [Microsoft 365 и Office 365 платформы](../office-365-platform-service-description/office-365-platform-service-description.md).

@@ -8,7 +8,6 @@
 ## [Описание служб платформы Microsoft 365 и Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Планы Microsoft 365 и Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Требования к системе для Office 365](office-365-platform-service-description/office-365-system-requirements.md)
-### [Центр безопасности и соответствия требованиям](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Компоненты набора Microsoft 365](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 для государственных организаций США](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
