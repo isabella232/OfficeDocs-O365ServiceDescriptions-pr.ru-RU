@@ -6,21 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
-- exchange-online-service-description
+  - exchange-online-service-description
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom:
-- Adm_ServiceDesc_top
-- Adm_ServiceDesc
+  - Adm_ServiceDesc_top
+  - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: 221989f56a2779dc5f8da3beefff85af8d1ce5cd
-ms.sourcegitcommit: 4e715887072acabf402e811298171d619a7c83fe
-ms.translationtype: MT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62271091"
 ---
+
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
 Microsoft Exchange Online — это решение для обмена сообщениями, которое обеспечивает доставку электронной почты, календаря, контактов и задач с компьютеров, веб-устройств и мобильных устройств. Он полностью интегрируется с Azure Active Directory, что позволяет администраторам использовать групповые политики, а также другие средства администрирования для управления Exchange Online функциями в своей среде.
@@ -75,7 +70,7 @@ Microsoft 365 доступны в различных планах, чтобы н
 ||Группы Microsoft 365|Да|Да|Да|Да|<sup>Yes12</sup>|Нет|
 
 <sup>1</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/>
-<sup>2</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
+<sup>2</sup> POP поддерживается, но IMAP — нет. <br/>
 <sup>3</sup> IMAP не поддерживается. <br/>
 <sup>4</sup> Подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которых требуется либо неактивный почтовый ящик, либо функция архива. <br/>
 <sup>Только план 5</sup> 2. <br/>
