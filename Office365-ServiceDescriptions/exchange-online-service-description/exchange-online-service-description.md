@@ -6,16 +6,21 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
-  - exchange-online-service-description
+- exchange-online-service-description
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom:
-  - Adm_ServiceDesc_top
-  - Adm_ServiceDesc
+- Adm_ServiceDesc_top
+- Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
+ms.openlocfilehash: ec9f521195c915a4641df08e4cda8a0f65769517
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523174"
 ---
-
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
 Microsoft Exchange Online — это решение для обмена сообщениями, которое обеспечивает доставку электронной почты, календаря, контактов и задач с компьютеров, веб-устройств и мобильных устройств. Он полностью интегрируется с Azure Active Directory, что позволяет администраторам использовать групповые политики, а также другие средства администрирования для управления Exchange Online функциями в своей среде.
@@ -52,7 +57,7 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 Эти функции доступны для некоторых планов — применив оговорки, см. сноски для получения дополнительных сведений (эта таблица может измениться без уведомления).
 
-| Возможность | Описание | Microsoft 365 бизнес базовый, standard и Premium | Office 365 корпоративный E1 | Office 365 корпоративный E3/E5 | Office 365 корпоративный F3 | Exchange Online План 1/2 | Базовая подписка на Exchange Online |
+| Возможность | Описание | Microsoft 365 бизнес базовый, standard и Premium | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online План 1/2 | Базовая подписка на Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook в Интернете <sup>1</sup>, Outlook для iOS и <sup>Android1</sup>, Exchange ActiveSync и SMTP<img width=140/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да|Да|
 ||POP и IMAP|Да|Да|Да|Да<sup>2</sup>|Да|<sup>Yes3</sup>|
@@ -88,7 +93,7 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 Планировщик Microsoft 365 это надстройка для Exchange Online, которая позволяет пользователям делегировать свои потребности в планировании цифровому персональному помощнику. Помощник может планировать и перепланировать встречи и встречи с людьми внутри организации и за ее пределами. Помощник почтового ящика настроен и управляется клиентом. Чтобы включить scheduler, администраторам необходимо настроить почтовый ящик помощника с помощью cmdlet PowerShell и приобрести лицензии для организаторов собраний. Дополнительные дополнительные информацию о scheduler и его работе см. в дополнительных подробной информации [о welcome to Scheduler for Microsoft 365](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work). Для ценообразования и лицензирования scheduler см. в [Microsoft 365 scheduler for licensing](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing).
 
-## <a name="learn-more"></a>Подробнее
+## <a name="learn-more"></a>Дополнительные сведения
 
 Дополнительные сведения о Exchange Online, ознакомьтесь со следующими ресурсами:
 

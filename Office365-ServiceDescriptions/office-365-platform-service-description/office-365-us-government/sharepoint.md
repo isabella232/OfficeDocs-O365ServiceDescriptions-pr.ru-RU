@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Узнайте о доступности SharePoint для государственных облачных клиентов США.
-ms.openlocfilehash: e36cd90748732166c9b3ddfe7ba3362a268c5e1d
-ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
+ms.openlocfilehash: 762c6a097a8a150d80ce224b27da75146c8862f9
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62332374"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523154"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint для правительственных сред США
 
@@ -81,9 +81,7 @@ ms.locfileid: "62332374"
 
 ## <a name="search-features"></a>Функции поиска
 
-Ниже представлены различия между функциями поиска для коммерческих клиентов и функциями поиска для государственных облачных клиентов:
-
-- Поиск (Майкрософт) в GCC.
+Сведения о доступности определенных компонентов Поиск (Майкрософт) в GCC, GCC high и DoD можно найти в [следующей таблице](/MicrosoftSearch/microsoft-search-us-government-environments#microsoft-search-features).
 
 ## <a name="sharing-and-sync"></a>Совместное использование и синхронизация
 
