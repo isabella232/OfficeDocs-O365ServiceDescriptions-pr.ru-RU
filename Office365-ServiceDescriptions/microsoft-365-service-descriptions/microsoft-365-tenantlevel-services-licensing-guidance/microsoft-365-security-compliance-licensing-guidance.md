@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 2eadbb9481dc803863c5053a26cd42c7afab6976
-ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.openlocfilehash: 47801b97f41317c24f6be121ca5144dea142bf1c
+ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523164"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62824382"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия требованиям &amp; безопасности
 
@@ -564,11 +564,13 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
-По умолчанию функции Microsoft Defender для удостоверений включены на уровне клиента для всех пользователей в клиенте. Сведения о настройке Azure ATP см. в примере [Create your Microsoft Defender for Identity](/defender-for-identity/install-step1).
+По умолчанию функции Microsoft Defender для удостоверений включены на уровне клиента для всех пользователей в клиенте.  Сведения о настройке Microsoft Defender для удостоверений см. в [примере Create your Microsoft Defender for Identity](/defender-for-identity/install-step1).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как можно применять службу только к пользователям в клиенте, которые имеют лицензию на службу?
 
-Microsoft Defender для служб удостоверений в настоящее время не способен ограничить возможности для определенных пользователей. Необходимо лицензировать каждого пользователя, который будет получать выгоду.
+Microsoft Defender для служб удостоверений в настоящее время не способен ограничить возможности для определенных пользователей. Необходимо лицензировать каждого пользователя, который будет получать выгоду. Обратите внимание, что в сценариях, в которых у одного пользователя может быть несколько учетных записей в Active Directory, например, для различных административных учетных записей для различных доменов и лесов, необходимо иметь только одну лицензию для этого пользователя.
+
+Кроме того, не существует требования к лицензии учетных записей служб или учетной записи, облегчаемой автоматизации. Лицензия требуется только для пользователей.
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender для Office 365
 
