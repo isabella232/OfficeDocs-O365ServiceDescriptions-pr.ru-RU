@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: 47801b97f41317c24f6be121ca5144dea142bf1c
-ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
+ms.openlocfilehash: f0cd1a14cc033af5186fbfb96c4f6042da21c584
+ms.sourcegitcommit: ed725df6c4434cc1fb09f892b92727858d383665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62824382"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62900048"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия требованиям &amp; безопасности
 
@@ -500,9 +500,9 @@ Microsoft 365 F3/Бизнес Premium, Office 365 E5/A5/G5/E3/A3/G3/E1/A1/G1/F3,
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E5/A5/G5/E3/G3/F3/E1/A1/G1/G1, а также автономные планы SharePoint предоставляют пользователю права на ручное применение меток хранения записей к файлам в SharePoint или OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchange Plan 2 и Exchange Online Archiving предоставляют пользователю права на выгоду от базовой политики хранения почтовых ящиков на всей организации или в разных местах.
+Microsoft 365 E5/A5/G5/E3/A3/G3/Business Premium, Office 365 E5/A5/G5/E3/G3, Exchange Plan 2 и Exchange Online Archiving предоставляют пользователю права на преимущества базовой политики хранения почтовых ящиков на всей организации или в разных местах.
 
-Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 и SharePoint Plan 2 предоставляют пользователю права на получение преимуществ от базовой политики хранения SharePoint или OneDrive и/или вручную применять метку хранения без записи к файлам в SharePoint или OneDrive.
+Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/G3 и SharePoint Plan 2 предоставляют пользователю права на получение преимуществ от базовой политики хранения SharePoint или OneDrive и/или вручную применять метку хранения без записи к файлам в SharePoint или OneDrive.
 
 Организации могут использовать политики хранения для хранения или Teams сообщений в соответствии со своими политиками. Это включает управление сообщениями в Teams чатах и беседах.
 
