@@ -88,6 +88,7 @@
 ## [Описание службы Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Функции Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Ограничения Skype для бизнеса Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [Описание службы Microsoft Stream](microsoft-stream.md#microsoft-stream-service-description)
 ## [Описание службы Microsoft Sway](microsoft-sway-service-description.md)
 ## [Описание службы Microsoft Teams](teams-service-description.md)
 ### [Описание службы голосовой связи Microsoft 365 бизнес](microsoft-365-business-voice-service-description.md)
