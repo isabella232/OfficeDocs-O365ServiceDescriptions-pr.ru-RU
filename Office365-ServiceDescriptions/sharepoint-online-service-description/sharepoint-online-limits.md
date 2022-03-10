@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Узнайте об ограничениях SharePoint для Microsoft 365 и отдельных планов.
-ms.openlocfilehash: 6bb37e4291f3826e09ccde354013cdc3117102ac
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 5da27b4b889be7890946787d56618fcc007fd10b
+ms.sourcegitcommit: 172963e811598f2b94d3b65150cec1d0487af197
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382740"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63419457"
 ---
 # <a name="sharepoint-limits"></a>Ограничения SharePoint
 
@@ -23,7 +23,7 @@ ms.locfileid: "63382740"
   
 ## <a name="limits-by-plan"></a>Ограничения плана 
 
-| Функция | Microsoft 365 бизнес базовый, бизнес стандарт или бизнес премиум | Microsoft 365 E3 или E5, Office 365 E1, E3 или E5, либо SharePoint (план 1 или 2) | Microsoft 365 F1 или F3, Office 365 F3 |
+| Функция | Microsoft 365 бизнес базовый, бизнес стандарт или бизнес премиум | Microsoft 365 A3, E3, G3 & A5, E5, G5</br>Office 365 A3, E3, G3 & A5, E5, G5</br>Office 365 A1, E1, G1</br>SharePoint 1 или 2 | Microsoft 365 F1 или F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |Общее хранилище для <sup>организации1, 2, 5</sup> <br/> |1 ТБ плюс 10 ГБ на приобретенную лицензию<sup>3</sup>  <br/> |1 ТБ плюс 10 ГБ на приобретенную лицензию<sup>3</sup> <br/> |1 ТБ<sup>3</sup> <br/> |
 |Максимальный объем хранилища для каждого сайта (семейства веб-сайтов)<sup>4</sup><br/> |25 ТБ <br/> |25 ТБ <br/> |25 ТБ <br/> |
@@ -102,9 +102,9 @@ SharePoint 2013 г. процессы могут работать по проек
 
 1 000 ГБ на сайт (метаданные редко достигают этого размера).
 
-### <a name="hold-limits"></a>Ограничения на удержание
+### <a name="hold-limits"></a>Ограничения удержания
 
-Удержания включают в себя удержание случае eDiscovery и Microsoft 365 политики хранения для SharePoint и OneDrive. Они учитывают максимальное значение в 10 000 на клиента для политик совместимости, которые также включают политики DLP, информационные барьеры и метки конфиденциальности.
+Удержания включают в себя удержание случае eDiscovery и Microsoft 365 политики хранения для SharePoint и OneDrive. Они учитываются в максимальном значении 10 000 на клиента для политик совместимости, которые также включают политики DLP, информационные барьеры и метки конфиденциальности.
 
 Максимальное число поддерживаемых удерживает:
 
