@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Пакет Microsoft Office 365 доступен в различных планах для максимального соответствия потребностям вашей организации.
-ms.openlocfilehash: f982be4a0d3b964315bf7659c80f27c2a49342b3
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 1c1f98d1bb959cc56bf8a95d24ffacc1f6bbabb1
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382810"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658900"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Планы Microsoft 365 и Office 365
 
@@ -76,7 +76,7 @@ Microsoft 365 и Office 365 доступны в различных планах,
 <sup>13</sup> Включает Skype для бизнеса План 1.<br>
 <sup>14</sup> Microsoft Teams теперь является основным клиентом для обмена сообщениями, собраний и звонков в Microsoft 365. По данным на 1 октября 2018 г., новые клиенты с 500 или менее посадочных мест находятся на Microsoft Teams и не имеют доступа к Skype для бизнеса Online. Клиенты, которые уже используют Skype для бизнеса Online, могут продолжать это делать (включая подготовка новых пользователей) до завершения перехода на Microsoft Teams.<br>
 <sup>15</sup> Включает Соответствие требованиям Microsoft 365 E5, которая обеспечивает автоматическую классификацию и хранение, ключ клиента, advanced Message Encryption, Insider Risk Management, Communication Compliance, Information Barriers, Customer Lockbox, Privileged Access Management, Advanced Audit, Records Management, and Advanced eDiscovery  возможности; и Безопасность Microsoft 365 E5, которая включает в себя Microsoft Defender для Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Defender for Cloud Apps и Сейф documents.<br>
-<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, лицензии M365 F1 могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, пользователи M365 F1 не имеют права использовать почтовый ящик. Мы рекомендуем пользователям отключить Outlook в Интернете с помощью этих действий и попросить [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
+<sup>16</sup> Microsoft 365 F1 не включает права на Exchange почтовый ящик. Чтобы включить полный Teams, Microsoft 365 F1 лицензии могут приходить с включенной Exchange Online К1. Хотя в Exchange Online К1 будет предусмотрен почтовый ящик для пользователя, Microsoft 365 F1 пользователи не имеют права использовать почтовый ящик. Мы рекомендуем пользователям отключить Outlook в Интернете с помощью этих действий и попросить [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) пользователей не получать доступ к Exchange почтовому ящику с помощью других методов.<br>
 <sup>17 Microsoft 365 F1</sup> пользователи могут читать файлы с Office для Интернета, но не имеют прав create/edit/save. 
   
 #### <a name="basic-client-limitations"></a>Ограничения базового клиента

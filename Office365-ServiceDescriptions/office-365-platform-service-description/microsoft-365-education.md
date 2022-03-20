@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Узнайте о различиях между Microsoft 365 и Office 365 для образования планами.
-ms.openlocfilehash: 11b071668d476a954d4b968889a5eff1a4b70922
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 2b9e3137d93939f5c5f079a1a178a5a3633fb086
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382860"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658930"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 для образования
 
@@ -122,5 +122,5 @@ Microsoft 365 представляет собой полноценную сис�
 > <sup>12</sup> Ранее microsoft Defender Advanced Threat Protection. <br/>
 > <sup>13</sup> Универсальный шрифт, включенный в Windows A3 и A5. <br/>
 > <sup>14</sup> 0 (ноль) Принт-задание включено. <br/>
-> <sup>15</sup> Viva Обучение в качестве платной надстройки для O365 и M365 A1, A3 и A5 для факультета. <br/>
+> <sup>15</sup> Viva Обучение в качестве платной надстройки для Office 365 и Microsoft 365 A1, A3 и A5 для факультета. <br/>
 > <sup>16</sup> Оно не доступно для студентов или в преимуществах использования студента. <br/>

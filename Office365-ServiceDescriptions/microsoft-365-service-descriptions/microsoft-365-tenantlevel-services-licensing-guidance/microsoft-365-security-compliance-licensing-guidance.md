@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье содержится руководство по Microsoft 365 соответствия требованиям, чтобы избежать возможных сбоев в работе служб из-за нелицензивного доступа.
-ms.openlocfilehash: d3abf40b8cba64cf25148820918d9be03339631a
-ms.sourcegitcommit: baf5696d90d2e9493efc40c48186f7ad8f667995
+ms.openlocfilehash: 360f2dfb0c17a769af03f275f7634c7f0d9d507f
+ms.sourcegitcommit: 3b0b5b5430e2d321c1b2c81ff23fdc91cf406afc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "63509316"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63558884"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 инструкции по обеспечению соответствия требованиям &amp; безопасности
 
@@ -766,9 +766,9 @@ Microsoft Defender для Office 365 планов 1 и 2, Office 365 E5/A5/G5, M
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на выгоду от службы?
 
 - Microsoft 365 E5/A5
-- Соответствие требованиям Microsoft 365 E5 или A5
-- Безопасность Microsoft 365 E5/A5
+- Microsoft 365 E5/A5/F5 Compliance
 - Защита информации и управление данными в Microsoft 365 E5/A5
+- Microsoft 365 безопасности F5 & соответствие требованиям
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготовка или развертывание службы?
 
