@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Узнайте, как Microsoft Forms позволяет быстро и легко создавать настраиваемые проверки знаний, опросы, опросы, анкеты, регистрации и другие сведения.
-ms.openlocfilehash: c00b82308e811b40b4328fe5ffdcfab642bac1a0
-ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
+ms.openlocfilehash: 654d8c29bfd430538f928a1e386f99a557ab14b8
+ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2022
-ms.locfileid: "63658910"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63761261"
 ---
 # <a name="microsoft-forms-service-description"></a>Описание службы Microsoft Forms
 
@@ -23,7 +23,7 @@ Microsoft Forms позволяет быстро и легко создавать
 
 ## <a name="available-plans"></a>Доступные планы
 
-[Microsoft Forms](https://forms.microsoft.com/) доступен в следующих планах: Microsoft 365, стандартных и премиум-классах; Microsoft 365 A3/A5 и E3/E5; Office 365 A1/A3/A5 и E1/E3/E5; и Microsoft 365/Office 365 F3. Дополнительные сведения можно получить в сопоставлении бизнес-плана [M365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF), сравнения Enterprise [M365](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0) и [таблицы сравнения плана M365](https://aka.ms/M365EduPlans).
+[Microsoft Forms](https://forms.microsoft.com/) доступен в следующих планах: Microsoft 365, стандартных и премиум-классах; Microsoft 365 A3/A5 и E3/E5; Office 365 A1/A3/A5 и E1/E3/E5; и Microsoft 365/Office 365 F3. Дополнительные сведения можно получить в [Microsoft 365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF) сравнения бизнес-плана[, Microsoft 365 корпоративный](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0) сравнения Microsoft 365 для образования планирования.[](https://aka.ms/M365EduPlans)
 
 Microsoft Forms также обычно доступна для Office 365 для образования, [](https://www.microsoft.com/education/products/office/default.aspx) Приложения Microsoft 365 для бизнеса клиентов и пользователей с учетной записью Майкрософт (Hotmail, Live или Outlook.com).Чтобы узнать больше, перейдите к [часто задамые вопросы о Формах Майкрософт](https://support.microsoft.com/office/frequently-asked-questions-about-microsoft-forms-495c4242-6102-40a0-add8-df05ed6af61c). Подробные сведения о планах подписки, которые позволяют пользователям для Microsoft Forms, см. в таблице [сравнения решений Майкрософт](https://go.microsoft.com/fwlink/?linkid=2139145).
 
