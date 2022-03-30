@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Посмотрите, какие функции OneDrive доступны в каких планах.
-ms.openlocfilehash: 1b0755376827dca701d647de026d1b4b37d21d1c
-ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
+ms.openlocfilehash: 0cc204e310ca83adc869c0b35b684d45a3f86368
+ms.sourcegitcommit: aa6f9785881e60517888ff74e982e38261e6ebde
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "63435395"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63937308"
 ---
 # <a name="onedrive-service-description"></a>Описание услуги OneDrive
 
@@ -44,7 +44,7 @@ OneDrive включен в планы Microsoft 365 и Office 365, в планы
 | Функции для мобильных устройств | Да | Да | Да | Да | Да | Да |
 | Функции ИТ-администратора, безопасности и соответствия | Да | Да | Да | Да | Да | Да |
 
-<sup>1</sup> Для получения сведений о хранилище OneDrive для каждого пользователя см. в разделе "OneDrive" в статье [Сравнение современных планов работы](https://go.microsoft.com/fwlink/?linkid=2139145) или в статье [Наборы пользовательских подписок M365 для малого и среднего бизнеса](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM).
+<sup>1</sup> Для получения сведений о хранилище OneDrive для каждого пользователя см. раздел "OneDrive" в статье [Сравнение современных планов работы](https://go.microsoft.com/fwlink/?linkid=2139145) или в статье [Наборы пользовательских подписок Microsoft 365 для малого и среднего бизнеса](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM).
 
 ## <a name="learn-more"></a>Подробнее
 

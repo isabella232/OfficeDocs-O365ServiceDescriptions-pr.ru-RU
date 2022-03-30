@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: "Вы ищете сравнение функций подписки, которые включают Exchange Online? Тогда статья с описанием службы Exchange Online \x97 это то, что вам нужно. Здесь вы также прочтете о системных требованиях, а также требованиях касательно хранилища и получателей."
-ms.openlocfilehash: ad488c76494b9e8eb5fd6b77c2c984534c22afdc
-ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
+ms.openlocfilehash: 153361e0c30c26c1778e968736119a37742cde5b
+ms.sourcegitcommit: a006a39de571e191c89bae4c051f33633cd9d920
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63761271"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64464937"
 ---
 # <a name="exchange-online-service-description"></a>Описание службы Exchange Online
 
@@ -57,35 +57,34 @@ Microsoft 365 доступны в различных планах, чтобы н
 
 Эти функции доступны для некоторых планов — применив оговорки, см. сноски для получения дополнительных сведений (эта таблица может измениться без уведомления).
 
-| Возможность | Описание | Microsoft 365 бизнес базовый, standard и Premium | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online План 1/2 | Базовая подписка на Exchange Online |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook в Интернете <sup>1</sup>, Outlook для iOS и <sup>Android1</sup>, Exchange ActiveSync и SMTP<img width=140/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да<img width=60/>|Да|Да|
-||POP и IMAP|Да|Да|Да|Да<sup>2</sup>|Да|<sup>Yes3</sup>|
-||Поддержка приложений EWS, Outlook для Windows <sup>1</sup>, Outlook для Mac <sup>1</sup>|Да|Да|Да|Нет|Да|Нет|
-||Базовая мобильность и безопасность для Microsoft 365|Да|Да|Да|Да|||
-|**[Политика обработки сообщений и соответствие требованиям](/exchange/policy-and-compliance/policy-and-compliance)**|[Архивация почтовых ящиков на основе Exchange Online](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|<sup>Yes4</sup>|<sup>Yes4</sup>|<sup>Yes4</sup>|Нет|Да|Да|
-||Архивация сообщений в облаке для локальных почтовых ящиков|Нет|Да|Да|Нет|<sup>Yes5</sup>|Да|
-||[Политики хранения вручную, метки и теги](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|Нет|Да|Да|Да|Да|Да|
-||[IRM с помощью Azure Information <sup>Protection6</sup>](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving), шифрование сообщений Office 365 <sup>7</sup> и Customer <sup>Key8</sup>|Нет|Нет|Да|Нет|Нет|Нет|
-||In-Place хранения, судебного удержания и предотвращения потери данных|Нет|Нет|Да|Нет|<sup>Yes5</sup>|Да|
-||Шифрование данных в покое (BitLocker), управление записями обмена сообщениями (MRM), S/MIME, журналы, In-Place eDiscovery9, правила<sup></sup> <sup>транспорта10</sup>, IRM с Windows Server AD <sup>RMS11</sup>|Да|Да|Да|Да|Да|Да|
-|**[Разрешения](/exchange/permissions-exo/permissions-exo)**|Разрешения на основе ролей, группы ролей и политики назначения ролей|Да|Да|Да|Нет|Да|Нет|
-|**[Получатели](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|Делегирование доступа и иерархическая адресная книга|Да|Да|Да|Нет|Да|Нет|
-||Неактивные почтовые ящики|Нет|Нет|Да|Нет|<sup>Yes5</sup>|Нет|
-||Группы Microsoft 365|Да|Да|Да|Да|<sup>Yes12</sup>|Нет|
+| Возможность | Описание | Microsoft 365 бизнес базовый, бизнес-стандарт | Microsoft 365 бизнес премиум | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online (план 2) | Exchange Online (план 1) | Базовая подписка на Exchange Online |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|**[Клиенты и мобильные устройства](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**|Outlook в Интернете <sup>1</sup>, Outlook для iOS и <sup>Android1</sup>, Exchange ActiveSync и SMTP|Да|Да|Да|Да|Да|Да|Да|Да|
+||POP и IMAP|Да|Да|Да|Да|Да<sup>2</sup>|Да|Да|Да<sup>2</sup>|
+||Поддержка приложений EWS, Outlook для Windows <sup>1</sup>, Outlook для Mac <sup>1</sup>|Да|Да|Да|Да|Нет|Да|Да|Нет|
+||Базовая мобильность и безопасность для Microsoft 365|Да|Да|Да|Да|Да||||
+|**[Политика обработки сообщений и соответствие требованиям](/exchange/policy-and-compliance/policy-and-compliance)**|[Exchange Online Archiving для Exchange Online](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|Нет|Нет|Нет|Да|Нет|Да|Нет|Нет|
+||[Архивация на базе Exchange Online для Exchange Server](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|Нет|Нет|Нет|Да|Нет|Да|Нет|Нет|
+||[Политики хранения вручную, метки и теги](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|Нет|Да|Да|Да|Да|Да|Да|Да|
+||[IRM с использованием Azure Information Protection](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|Нет|Нет|Нет|Да|Нет|Нет|Нет|Нет|
+||Основное шифрование сообщений|Да|Да|Да|Да|Да|Да|Да|Да|
+||Расширенный шифрование сообщений|Нет|Нет|Нет|Да|Нет|Нет|Нет|Нет|
+||Ключ клиента|Нет|Нет|Нет|Да|Нет|Нет|Нет|Нет|
+||In-Place удержание, судебное удержание|Нет|Да|Нет|Да|Нет|Да|Нет|Да|
+||Защита от потери данных|Нет|Да|Нет|Да|Нет|Нет|Нет|Нет|
+||Шифрование данных в покое (BitLocker), управление записями сообщений (MRM), S/MIME, журналы, поиск контента для электронных <sup>данных3</sup>, правила <sup>транспорта4</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+||Поддержка IRM с Windows Server AD <sup>RMS5</sup>|Да|Да|Да|Да|Да|Да|Да|Да|
+|**[Разрешения](/exchange/permissions-exo/permissions-exo)**|Разрешения на основе ролей, группы ролей и политики назначения ролей|Да|Да|Да|Да|Нет|Да|Да|Нет|
+|**[Получатели](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|Делегирование доступа и иерархическая адресная книга|Да|Да|Да|Да|Нет|Да|Да|Нет|
+||Неактивные почтовые ящики|Нет|Нет|Нет|Да|Нет|Да|Нет|Нет|
+||Группы Microsoft 365|Да|Да|Да|Да|Да|<sup>Yes6</sup>|<sup>Yes6</sup>|Нет|
 
-<sup>1</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны. <br/>
-<sup>2</sup> POP поддерживается, но IMAP — нет. <br/>
-<sup>3</sup> IMAP не поддерживается. <br/>
-<sup>4</sup> Подписку на EOA можно приобрести отдельно для каждого почтового ящика, для которых требуется либо неактивный почтовый ящик, либо функция архива. <br/>
-<sup>Только план 5</sup> 2. <br/>
-<sup>6</sup> AIP приобрели отдельно, чтобы включить функции IRM. Некоторые функции AIP также требуют Приложения Microsoft 365 для предприятий (не включены в E1/F3 или бизнес-планы. <br/>
-<sup>7</sup> шифрование сообщений Office 365 зависит от AIP. <br/>
-<sup>8</sup> Ключ клиента только для E5. <br/>
-<sup>9</sup> Для eDiscovery требуется отдельный запрос для локального или облачного.<br/>
-<sup>10</sup> Правил транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/>
-<sup>11</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM. <br/>
-<sup>12</sup> Microsoft 365 доступны с уменьшенными функциональными возможностями. <br/>
+<sup>1</sup> Некоторые сторонние веб-части и надстройки могут быть недоступны.<br/>
+<sup>2</sup> POP поддерживается, но IMAP — нет.<br/>
+<sup>3</sup> Для eDiscovery требуется отдельный запрос для локального или облачного.<br/>
+<sup>4</sup> Правила транспорта составляются из гибких критериев, которые позволяют определять условия и исключения, а также действия, которые необходимо принимать на основе этих критериев. Список доступных условий и действий см. в соответствующих разделах для каждого продукта. <br/>
+<sup>5</sup> Windows Server AD RMS — это локальное сервер, которое необходимо приобрести и управлять отдельно, чтобы включить поддерживаемые функции IRM.<br/>
+<sup>6</sup> Microsoft 365 групп доступны с уменьшенными функциональными возможностями.<br/>
 
 ## <a name="additional-services"></a>Дополнительные службы
 
