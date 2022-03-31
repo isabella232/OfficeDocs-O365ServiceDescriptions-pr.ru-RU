@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Project является последним предложением Microsoft для облачной работы и управления проектами. Project веб-сайта предоставляет простые и мощные возможности управления работой для удовлетворения большинства потребностей и ролей.
-ms.openlocfilehash: 817656fb2e9a24fa8392959f6f22dfdbd9e67eec
-ms.sourcegitcommit: ad4c082362428dbd29a0347058abed9e51685916
+ms.openlocfilehash: fbf45ffd3c2f109596efa6bd9dedb9db1d33547f
+ms.sourcegitcommit: fe9c60c39606a067a8bc88cc6a7bb8d474f2f0e3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61070143"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64563397"
 ---
 # <a name="microsoft-project-for-the-web-service-description"></a>Описание службы Microsoft Project в Интернете
 
@@ -29,7 +29,7 @@ Project веб-сайт построен на платформе Microsoft Power
 
 ## <a name="available-plans"></a>Доступные планы
 
-Project веб-сайт доступен через три подписки: Project, план 1, Project, план 3 и Project, план 5. Функции, [Project для веб-функций,](/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-for-the-web-features) взаимодействуют только с данными в Project для веб-магазина данных. Дополнительные сведения о подписках, которые позволяют пользователям Microsoft Project веб-сайте, см. в журнале [Compare project management solutions and costs.](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)
+Project веб-сайт доступен через три подписки: Project, план 1, Project, план 3 и Project, план 5. Функции[, Project для веб-функций](/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-for-the-web-features), взаимодействуют только с данными в Project для веб-магазина данных. Дополнительные сведения о подписках, которые позволяют пользователям Microsoft Project веб-сайте, см. в журнале [Compare project management solutions and costs](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 ## <a name="feature-availability"></a>Доступность функций
 
@@ -43,103 +43,87 @@ Project веб-сайт доступен через три подписки: Pro
 | | Вехи | Только просмотр | Да | Да | Да |
 | | Project Главная | Да | Да | Да | Да |
 | | Планирование задач | Только просмотр | Да | Да | Да |
-| | Представление Временной шкалы (диаграмма Gantt) | Только просмотр | Да | Да | Да |
+| | Представление Временной шкалы (диаграмма Gantt) | Нет | Да | Да | Да |
 | | Критический путь | Нет | Нет | Да | Да |
 | | Суммарные задачи. | Только просмотр | Да | Да | Да |
+| | Обновление задач | Да<sup>*</sup> | Да | Да | Да |
 | | Создание и использование настраиваемые поля задач | Только просмотр | Да | Да | Да |
 | **Совместная работа** | Microsoft Teams интеграции | Да | Да | Да | Да |
 | | Беседы задач | Да<sup>1</sup> | Да<sup>1</sup> | Да<sup>1</sup> | Да<sup>1</sup> |
-| **Управление ресурсами и программами** | Project группы | Нет | Да | Да | Да |
-| | Создание запросов на ресурсы<sup>2</sup> | Только просмотр | Только просмотр | Да | Да |
-| | Принять предложение о бронировании<sup>2</sup> | Только просмотр | Только просмотр | Да | Да |
-| | Создание и обновление резервирования для выполнения запросов ресурса<sup>2</sup> | Только просмотр | Только просмотр | Только просмотр | Да |
+| **Управление ресурсами и программами** | Project настройки группы | Нет | Да | Да | Да |
+| | Создание запросов <sup>ресурсов2</sup> | Только просмотр | Только просмотр | Да | Да |
+| | Принять предложение о <sup>бронировании2</sup> | Только просмотр | Только просмотр | Да | Да |
+| | Создание и обновление резервирования для выполнения запросов <sup>ресурсов2</sup> | Только просмотр | Только просмотр | Только просмотр | Да |
 | | Управление навыками и профессиональными навыками на ресурсах | Только просмотр | Только просмотр | Только просмотр | Да |
 | | Схемы | Только просмотр | Только просмотр | Да | Да |
-| **Отчет**<sup>3</sup> | Чтение отчетов Project веб-данных | Да | Да | Да | Да |
+| **Reporting3**<sup></sup> | Чтение отчетов Project веб-данных | Да | Да | Да | Да |
 | | Создание отчетов с Project для веб-данных | Нет | Да | Да | Да |
 | **Удобство использования** | Совместное редактирование | Только просмотр | Да | Да | Да |
 | | Графические индикаторы | Только просмотр | Да | Да | Да |
 | **Настройка и интеграция** | Использование неявного приложения Project | Только просмотр | Да | Да | Да |
-| | Настройка представлений и форм<sup>4</sup> | Только просмотр | Да | Да | Да |
+| | Настройка представлений и <sup>форм4</sup> | Только просмотр | Да | Да | Да |
 | | Использование пользовательских столбцов | Только просмотр | Да | Да | Да |
-| | Использование настраиваемой<sup>таблицы 5</sup> | Только просмотр | Да | Да | Да |
-| **Power Automate рабочий процесс и потоки бизнес-процессов**<sup>6</sup> | Определение и использование Power Automate облачных потоков, Project данных, включая настраиваемые таблицы и столбцы | Нет | Да | Да | Да |
-| | Определение Power Automate бизнес-процессов, Project данных, включая настраиваемые таблицы и столбцы. | Нет | Нет | Да | Да |
+| | Использование настраиваемой <sup>таблицы5</sup> | Только просмотр | Да | Да | Да |
+| **Power Automate рабочего процесса и бизнес-процессов Flows6**<sup></sup> | Определение и использование Power Automate облачных потоков, Project данных, включая настраиваемые таблицы и столбцы | Нет | Да | Да | Да |
+| | Определите Power Automate бизнес-процессов, Project данных, включая настраиваемые таблицы и столбцы. | Нет | Нет | Да | Да |
 | | Использование Power Automate бизнес-процессов, которые используют Project данных | Нет | Да | Да | Да |
 | **Безопасность и управление пользователями** | Office современные группы | Да | Да | Да | Да |
 | | Сторонние приложения | Нет | Да | Да | Да |
-| | Подключение Project *для веб-сайтов* с сторонними <sup>приложениями 4</sup> | Просмотр только<sup>7</sup> | Да | Да | Да |
+| | Подключение Project *веб-сайт с* сторонними <sup>приложениями4</sup> | Просмотр <sup>Only7</sup> | Да | Да | Да |
 
 <sup>1</sup> Требуется Microsoft Teams лицензии. <br/>
-<sup>2</sup>   Клиенты с Microsoft Project 3/5 лицензии (s) могут использовать универсальное планирование ресурсов только для планирования Project и таблиц задач в контексте проекта. <br/>
-<sup>3</sup>   Для Project веб-Power BI требуется лицензия Power BI. <br/>
-<sup>4</sup>   Для создания и Power Apps отдельного приложения Project, доступного Project для веб-данных или Project Online, требуется отдельная Power Apps подписка. <br/>
-<sup>5</sup>   Ограничено 5 настраиваемой таблицой. <br/>
-<sup>6</sup>   Power Automate в Project ограничивается контекстом приложения Project. Это означает, что для триггеров и действий права потока, включенные в Project, могут:
-   - Подключение к любому источнику данных в правах использования Project приложения:
+<sup>2</sup>  Клиенты с Microsoft Project 3/5(ы) могут использовать универсальные таблицы планирования ресурсов только для планирования Project и задач в контексте проекта. <br/>
+<sup>3</sup>  Для Project веб-Power BI требуется лицензия Power BI. <br/>
+<sup>4</sup>  Для создания и Power Apps отдельного приложения Project, которое имеет доступ Project для веб-Project Online данных клиентов, требуется отдельная Power Apps подписка. <br/>
+<sup>5</sup>  Ограничено 5 настраиваемой таблицой. <br/>
+<sup>6</sup>  Power Automate в Project ограничивается контекстом приложения Project. Это означает, что для триггеров и действий права потока, включенные в Project, могут:
+   - Подключение к любому источнику данных в правах использования приложения Project:
        - Источники данных, доступные через стандартные соединители.
        - Project с помощью соединиттеля Microsoft Dataverse.
    - Запуск непосредственно из приложения Project (с помощью встроенного триггера или действия).
 
-<sup>7</sup> Просмотр предоставляется только из приложения Power.
+<sup>7</sup> Просмотр предоставляется только из приложения Power.<br/>
+<sup>*</sup>Office 365 пользователи могут обновлять ограниченный набор полей (Mark as complete, Progress) для задач, поставленных перед ними.
 
-## <a name="messaging"></a>Сообщения
+## <a name="learn-more"></a>Подробнее
 
-Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/message-center).
+### <a name="microsoft-project-resources"></a>Microsoft Project ресурсы
 
-## <a name="licensing-terms"></a>Условия лицензирования
-
-Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
-
-### <a name="licensing-considerations"></a>Принципы лицензирования
-
-По истечении срока действия Project, план 1, Project, план 3 или Project, план 5 истекает срок действия Project веб-экземпляров, пока не будут удалены активные подписки, зависят от Microsoft Dataverse. Для Project веб-пробных подписок пробные экземпляры не будут удалены до тех пор, пока у вас не будет активных подписок, которые зависят от Microsoft Dataverse.
-
-## <a name="accessibility"></a>Специальные возможности
-
-Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
-
-## <a name="learn-more"></a>Дополнительные сведения
-
-### <a name="architecture"></a>Архитектура
+#### <a name="architecture"></a>Архитектура
 
 [Project схема](/project-for-the-web/project-architecture-overview) архитектуры показывает, Project веб-службы работают с платформой power, Power BI и сторонними службами. Несмотря на то, что дорожная карта (служба портфеля) установлена только в среде по умолчанию, дорожная карта может отображать проекты из любой среды, Project поддерживается приложение. Решение Project может быть установлено в средах Dataverse по умолчанию, производстве и песочнице.
 
-### <a name="service-considerations"></a>Соображения службы
+#### <a name="project-roadmap-and-power-automate"></a>Project и Power Automate
 
-Project веб-страницы в настоящее время недоступны для GCC, GCC High и DoD. Мы работаем над доставкой Project веб-сайта, но в настоящее время мы не можем поделиться с вами твердыми временными рамками.
+Project roadmap требует использования Power Automate, которая предусмотрена в Project подписки. Power Automate, которая поставляется Project веб-сайта, отображается в Flow **для Project** службы в разделе Приложения Центр администрирования Microsoft 365.
 
-### <a name="project-roadmap-and-power-automate"></a>Project и Power Automate
+#### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project веб-страницы и Microsoft Dataverse
 
-Project roadmap требует использования Power Automate, которая предусмотрена в Project подписки. Power Automate, Project для веб-сайта, отображается в Flow **для Project** службы в разделе   Приложения ****   Центр администрирования Microsoft 365.
+Project для веб-страницы требуется использование обратной microsoft Dataverse для хранения данных. База данных Microsoft Dataverse является частью вашей Project подписки. Права на функции Microsoft Dataverse ограничены хранением и доступом к данным для поддержки Project веб-сайтов. Функциональность Microsoft Dataverse, требуемая Project, отображается в качестве общей службы данных для **Project** службы в разделе Приложения Центр администрирования Microsoft 365.
 
-### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project веб-страницы и Microsoft Dataverse
-
-Project для веб-страницы требуется использование microsoft Dataverse для хранения данных. База данных Microsoft Dataverse является частью вашей Project подписки. Права на функции Microsoft Dataverse ограничены хранением и доступом к данным для поддержки Project веб-сайтов. Функциональность Microsoft Dataverse, Project, отображается **** в качестве общей службы данных для Project службы в разделе Приложения    ****   Центр администрирования Microsoft 365.
-
-Для Project клиентов с пятью (5) или более Project веб-лицензий можно развернуть Project веб-страницы в средах Power Platform Production и Sandbox. Подробнее [здесь](/project-for-the-web/deploying-project).
+Для Project клиентов с пятью (5) или более Project для веб-лицензий можно развернуть Project веб-страницу в средах Power Platform Production и Sandbox. Подробнее см. [здесь](/project-for-the-web/deploying-project).
 
 | Включаемая/начисленная емкость | Project P1 | Project P3 | Project P5 |
 |---------------------------|------------|------------|------------|
 | База данных Dataverse (ранее общая служба данных) База данных: включена/клиент | 3 ГБ | 5 ГБ | 5 ГБ |
 | Dataverse Database: Accrued/User Subscription License (USL) | 50 МБ | 250 МБ | 250 МБ |
-| Dataverse Log: Included/tenant | 2 ГБ | 2 ГБ | 2 ГБ |
+| Dataverse Log: Included/tenant | 2 ГБ | 2 ГБ | 2 ГБ |
 | Dataverse File: Included/tenant | 20 ГБ | 20 ГБ | 20 ГБ |
-| Файл dataverse: Accrued/USL | 400 МБ | 2 ГБ | 2 ГБ |
+| Файл dataverse: Accrued/USL | 400 МБ | 2 ГБ | 2 ГБ |
 
-Существуют дополнительные подписки Майкрософт за Project, которые имеют право на емкость хранилища Dataverse. Другие права на хранение данных см. в руководстве по лицензированию [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)и руководстве по лицензированию Power Apps, Power Automate и    [Power Virtual Agents.](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409)
+Существуют дополнительные подписки Майкрософт за Project, которые имеют право на емкость хранилища Dataverse. Другие права на хранение данных см. в руководстве по  [лицензированиюdynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)  и руководстве по лицензированию Power Apps [, Power Automate и Power Virtual Agents лицензирования](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409).
 
-### <a name="data-backup-and-retention"></a>Резервное копирование и хранение данных
+#### <a name="data-backup-and-retention"></a>Резервное копирование и хранение данных
 
-Project веб-сайта имеет ту же политику резервного копирования и хранения данных, что и Office 365. Подробные сведения см. [в материале Хранение, удаление и уничтожение данных в Microsoft 365.](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview) Дополнительные сведения об управлении резервной копией и восстановлением см. в дополнительных сведениях о резервном [копировании и восстановлении сред.](/power-platform/admin/backup-restore-environments) Среда по умолчанию не может быть удалена и не поддерживает резервное копирование и восстановление. Дополнительные сведения об средах см. в ["Среде по умолчанию".](/power-platform/admin/environments-overview#the-default-environment)
+Project веб-сайта имеет ту же политику резервного копирования и хранения данных, что и Office 365. Подробные сведения см. в материале [Хранение, удаление и уничтожение данных в Microsoft 365](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview). Дополнительные сведения об управлении резервной копией и восстановлением см. в дополнительных сведениях о резервном [копировании и восстановлении сред](/power-platform/admin/backup-restore-environments). Среда по умолчанию не может быть удалена и не поддерживает резервное копирование и восстановление. Дополнительные сведения об средах см. в " [Среде по умолчанию"](/power-platform/admin/environments-overview#the-default-environment).
 
-### <a name="data-encryption"></a>Шифрование данных
+#### <a name="data-encryption"></a>Шифрование данных
 
-Дополнительные сведения о шифровании данных в Project веб-сайте см. в странице [Шифрование в Microsoft Dynamics 365.](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
+Дополнительные сведения о шифровании данных Project веб-сайте см. в  [страницеEncryption в Microsoft Dynamics 365](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365).
 
-### <a name="project-for-the-web-boundaries-and-limitations"></a>Project для веб-границ и ограничений
+#### <a name="project-for-the-web-boundaries-and-limitations"></a>Project для веб-границ и ограничений
 
-В следующей таблице описываются ограничения Project веб-сайтов.
+В следующей таблице описываются ограничения, Project для веб-сайтов.
 
 | Объект/поле | Ограничение |
 |--------------|-------|
@@ -150,13 +134,35 @@ Project веб-сайта имеет ту же политику резервно
 | Максимальная продолжительность задачи сводки | 3650 дней (10 лет) |
 | Максимальная ресурсы, которые могут быть назначены для задачи | 20 ресурсов |
 | Поддерживаемый диапазон дат для задачи | 1/1/2000 – 12/31/2149 |
-| **Project** | |
+| **Проект** | |
 | Максимальная общие задачи для проекта | 500 |
 | Максимальная общая продолжительность проекта | 3650 дней (10 лет) |
 | Максимальная общие ресурсы для проекта | 150 |
 | Максимальная общие ссылки (только для преемника) для проекта | 600 |
 
-## <a name="additional-resources"></a>Дополнительные ресурсы
+#### <a name="additional-resources"></a>Дополнительные ресурсы
 
-- [Project для веб-руководства по началу работы для администраторов — Project веб-| Документы Майкрософт](/project-for-the-web/project-for-the-web-get-started-guide-for-admins)
+- [Project для веб-руководства по началу работы для администраторов — Project веб-| Документация Майкрософт](/project-for-the-web/project-for-the-web-get-started-guide-for-admins)
 - Чтобы найти лучшие практики, новости и тенденции, перейдите в Project [блоге](https://techcommunity.microsoft.com/t5/project-blog/bg-p/ProjectBlog)
+ 
+### <a name="general-resources"></a>Общие ресурсы
+
+#### <a name="accessibility"></a>Специальные возможности
+
+Корпорация Майкрософт по-прежнему стремится к безопасности ваших данных и обеспечению [специальных возможностей](https://www.microsoft.com/trust-center/compliance/accessibility) наших служб. Дополнительные сведения см. в [Центр управления безопасностью Майкрософт](https://www.microsoft.com/trust-center) и в [Центре специальных возможностей Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+
+#### <a name="messaging"></a>Сообщения
+
+Чтобы быть в курсе предстоящих изменений, в том числе новых и измененных функций, планового обслуживания или других важных объявлений, посетите Центр сообщений. Подробнее см. в [Центре сообщений](/microsoft-365/admin/manage/).
+
+#### <a name="licensing-terms"></a>Условия лицензирования
+
+Условия лицензирования продуктов и служб, приобретенных в рамках программ корпоративного лицензирования Майкрософт, см. на сайте [Условия использования продуктов Майкрософт](https://www.microsoft.com/licensing/terms/).
+
+#### <a name="licensing-considerations"></a>Принципы лицензирования
+
+По истечении Project, план 1, Project, план 3 или Project, план 5 истекает срок действия вашей Project веб-экземпляров, пока у вас не будет активных подписок, зависят от Microsoft Dataverse. Для Project веб-пробных подписок пробные экземпляры не будут удалены до тех пор, пока у вас не будет активных подписок, которые зависят от Microsoft Dataverse.
+
+#### <a name="service-considerations"></a>Соображения службы
+
+Project веб-страницы в настоящее время недоступны для GCC, GCC High и DoD. Мы работаем над доставкой веб-Project для вас, но в настоящее время не удается поделиться с вами твердыми временными рамками.
