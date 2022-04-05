@@ -71,6 +71,7 @@
 ### [Описание службы Microsoft Project в Интернете](project-online-service-description/project-web-service-description.md)
 ### [Описание службы классического клиента Microsoft Project Online](project-online-service-description/project-online-desktop-client-service-description.md)
 ### [Описание службы Microsoft Project Online](project-online-service-description/microsoft-project-online-service-description.md)
+### [Сведения о функциях Microsoft Project Online](project-online-service-description/microsoft-project-features-descriptions.md)
 ### [Базовые функции](project-online-service-description/core-functionality.md)
 ### [Планирование проекта](project-online-service-description/project-planning.md)
 ### [Управление задачами](project-online-service-description/task-management.md)
