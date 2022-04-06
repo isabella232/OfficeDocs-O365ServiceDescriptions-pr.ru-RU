@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по Microsoft 365, чтобы избежать потенциальных сбоев в работе службы из-за нелицензированного доступа.
-ms.openlocfilehash: 8672693b0d8e7696e8b2f702ff22fdd4359499ec
-ms.sourcegitcommit: 52f0d53a031aa6f8827f30fe9d4784d15cc8ac19
+ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
+ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 04/06/2022
-ms.locfileid: "64662807"
+ms.locfileid: "64690747"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 по обеспечению соответствия требованиям безопасности &amp;
 
@@ -359,7 +359,7 @@ Microsoft 365 E3/A3/G3 и Office 365 E3/A3/G3 позволяют пользов�
 
 - **Обозреватель содержимого**: [начало работы с обозревателем содержимого](/microsoft-365/compliance/data-classification-content-explorer).
 - **Обозреватель действий**: [начало работы с обозревателем действий](/microsoft-365/compliance/data-classification-activity-explorer).
-- **Заметки о выпуске классификации** данных: [заметки о выпуске классификации данных](/microsoft-365/compliance/data-classification-pub-preview-relnotes).
+- **Заметки о выпуске классификации** данных: [заметки о выпуске классификации данных](/microsoft-365/compliance/data-classification-overview#public-preview-release-notes).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Как служба может применяться только к пользователям в клиенте, у которых есть лицензия на службу?
 
