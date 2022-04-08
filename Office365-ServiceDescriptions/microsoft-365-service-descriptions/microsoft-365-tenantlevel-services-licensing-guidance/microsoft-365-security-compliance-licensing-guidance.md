@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по Microsoft 365, чтобы избежать потенциальных сбоев в работе службы из-за нелицензированного доступа.
-ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
-ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
+ms.openlocfilehash: a10cb7a2bbe34f9ec82f1ce17e0c925f3d38c4d2
+ms.sourcegitcommit: 7caadc973ca06d19fa8c196a74061eea09568958
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64690747"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64710044"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 по обеспечению соответствия требованиям безопасности &amp;
 
@@ -460,7 +460,9 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Complianc
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Какие лицензии предоставляют пользователю права на использование службы?
 
-Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 и Azure Information Protection (план 1) предоставляют пользователю права на использование шифрования Office 365 сообщений.
+- Microsoft 365 F3/E3/A3/G3/E5/A5/G5 и Microsoft Business Premium
+- Office 365 A1/E3/A3/G3/E5/A5/G5
+- Azure Information Protection (план 1) также предоставляет организации права на использование шифрования сообщений Office 365 при добавлении в следующие планы: базовая подписка на Exchange Online, Exchange Online план 1, Exchange Online плана 2, Office 365 F3, Microsoft 365 бизнес базовый, Microsoft 365 бизнес стандарт или Office 365 корпоративный E1
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготавливается или развертывается служба?
 
