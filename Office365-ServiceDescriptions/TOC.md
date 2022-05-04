@@ -68,7 +68,7 @@
 ## [Описание службы "Планировщик (Майкрософт)"](project-online-service-description/microsoft-planner-service-description.md)
 ## [Описание службы Power BI](power-bi-service-description.md)
 ## [Описание службы Microsoft Project](project-online-service-description/project-online-service-description.md)
-### [Описание службы Microsoft Project в Интернете](/project-online-service-description/microsoft-project-features-descriptions)
+### [Описание службы Microsoft Project в Интернете](project-online-service-description/project-web-service-description.md)
 ### [Описание службы классического клиента Microsoft Project Online](project-online-service-description/project-online-desktop-client-service-description.md)
 ### [Описание службы Microsoft Project Online](project-online-service-description/microsoft-project-online-service-description.md)
 ### [Сведения о функциях Microsoft Project Online](project-online-service-description/microsoft-project-features-descriptions.md)

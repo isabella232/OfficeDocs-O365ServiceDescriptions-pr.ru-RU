@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: В этой статье приводятся рекомендации по Microsoft 365, чтобы избежать потенциальных сбоев в работе службы из-за нелицензированного доступа.
-ms.openlocfilehash: e7bc9f7525a004b6bfbc5d72fe855d4aec81df9b
-ms.sourcegitcommit: 7c0a991e031b84f83bce1b30edeabacf3902349e
+ms.openlocfilehash: ce6e4ee2176d31034111f53b3d4046d8995cc0c1
+ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65126316"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "65187480"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 по обеспечению соответствия требованиям безопасности &amp;
 
@@ -557,7 +557,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance и F5 Security & Co
 
 ## <a name="microsoft-defender-for-business"></a>Microsoft Defender для бизнеса
 
-Microsoft Defender для бизнеса — это новое решение для обеспечения безопасности конечных точек, предназначенное для малого и среднего бизнеса (до 300 сотрудников). Благодаря этому решению для обеспечения безопасности конечных точек устройства малого и среднего бизнеса (SMB) лучше защищены от программ-шантажистов, вредоносных программ, фишинга и других угроз.
+Microsoft Defender для бизнеса — это новое решение для обеспечения безопасности конечных точек, предназначенное для малого и среднего бизнеса (до 300 сотрудников). Defender для бизнеса доступен как автономное решение и также входит в состав Microsoft 365 бизнес премиум. Благодаря этому решению для обеспечения безопасности конечных точек устройства малого и среднего бизнеса (SMB) лучше защищены от программ-шантажистов, вредоносных программ, фишинга и других угроз.
 
 Дополнительные сведения см[. в Microsoft Defender для бизнеса](/microsoft-365/security/defender-business).
 
@@ -565,15 +565,19 @@ Microsoft Defender для бизнеса — это новое решение д
 
 Microsoft Defender для бизнеса входит в состав Microsoft 365 бизнес премиум лицензий.  
 
-Автономная версия Defender для бизнеса находится на этапе предварительной версии и станет общедоступной позже в этом году. Дополнительные сведения см. в разделе  ["Как получить Microsoft Defender для бизнеса](/microsoft-365/security/defender-business/get-defender-business)".
+Автономная версия Defender для бизнеса также доступна в качестве варианта для малого и среднего бизнеса (SMB) с до 300 сотрудниками. Дополнительные сведения см. в разделе  ["Как получить Microsoft Defender для бизнеса](/microsoft-365/security/defender-business/get-defender-business)".
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Как пользователи получают преимущества от этой службы?
 
 Добавление Microsoft Defender для бизнеса в [](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/new-security-solutions-to-help-secure-small-and-medium/ba-p/3207043) Microsoft 365 бизнес премиум повышает эффективность Premium бизнес-приложений за счет добавления кроссплатформенной защиты конечных точек и сложных программ-шантажистов с такими технологиями, как обнаружение и нейтрализация атак на конечные точки и автоматическое исследование и исправление.
 
+Автономная версия Defender для бизнеса предоставляет возможность для малого и среднего бизнеса с до 300 сотрудниками получить технологию безопасности конечных точек корпоративного уровня по доступной цене. 
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>Как подготавливается или развертывается служба? 
 
-По умолчанию Microsoft Defender для бизнеса компоненты включены на уровне клиента для всех пользователей в клиенте. Если у вас Microsoft 365 бизнес премиум, вы можете получить доступ к Defender для бизнеса через Microsoft 365 Defender [портале](https://sip.security.microsoft.com/homepage). 
+Если у вас Microsoft 365 бизнес премиум, вы можете получить доступ к Defender для бизнеса через Microsoft 365 Defender [портале](https://sip.security.microsoft.com/homepage). 
+
+По умолчанию Microsoft Defender для бизнеса компоненты включены на уровне клиента для всех пользователей в клиенте. Сведения о том, как настроить Defender для бизнеса, см. в Microsoft Defender для бизнеса [документации | Документация Майкрософт](/microsoft-365/security/defender-business).
 
 Дополнительные сведения [и ссылки на дополнительные ресурсы см](/microsoft-365/security/defender-business/get-defender-business). в Microsoft Defender для бизнеса часто задаваемых вопросов.
 
