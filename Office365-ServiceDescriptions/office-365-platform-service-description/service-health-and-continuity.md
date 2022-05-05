@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Администраторы Майкрософт могут просмотреть состояние служб и узнать, когда запланировано обслуживание. Работоспособность служб сведения доступны в любое время при входе в систему.
-ms.openlocfilehash: 9a00f72b4cede8b9ac2b0690f194d36d32dd1906
-ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
+ms.openlocfilehash: 6b572af48f64e99cf4fc8cedb04a42476ec9e10a
+ms.sourcegitcommit: e4bf187c926340f4afb68bfe51d38b303664ae00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "65187500"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65218165"
 ---
 # <a name="service-health-and-continuity"></a>Работоспособность и непрерывная работа служб
 
@@ -48,7 +48,7 @@ ms.locfileid: "65187500"
 
 | Q1 | Q2 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|
-| 99.97%  | - | - | -|
+| 99.98%  | - | - | -|
 
 <br>
 
